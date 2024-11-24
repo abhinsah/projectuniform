@@ -1,0 +1,2480 @@
+[
+    {
+        "question": "What is a chemical reaction?",
+        "options": {
+            "a": "Physical mixing of substances",
+            "b": "A change in state of matter",
+            "c": "A process in which substances undergo changes to form new substances",
+            "d": "A process of filtering substances"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What indicates a chemical reaction has taken place?",
+        "options": {
+            "a": "Change in state",
+            "b": "Change in color",
+            "c": "Evolution of a gas",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is a word equation?",
+        "options": {
+            "a": "An equation representing chemical reactions with symbols",
+            "b": "A chemical reaction described in words",
+            "c": "A numerical representation of a chemical reaction",
+            "d": "A diagrammatic representation of a reaction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are reactants?",
+        "options": {
+            "a": "Substances formed after the reaction",
+            "b": "Substances that undergo chemical changes in a reaction",
+            "c": "Substances that act as catalysts",
+            "d": "Substances that remain unchanged in a reaction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a balanced chemical equation?",
+        "options": {
+            "a": "A reaction equation with unequal masses on both sides",
+            "b": "An equation where the number of atoms of each element is equal on both sides",
+            "c": "An equation using only words",
+            "d": "A complex equation without symbols"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the balanced equation for the burning of magnesium in air?",
+        "options": {
+            "a": "Mg + O \u2192 MgO",
+            "b": "2Mg + O\u2082 \u2192 2MgO",
+            "c": "MgO \u2192 Mg + O",
+            "d": "Mg + O\u2082 \u2192 MgO\u2082"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which law is followed during balancing chemical equations?",
+        "options": {
+            "a": "Law of conservation of energy",
+            "b": "Law of conservation of mass",
+            "c": "Law of constant proportions",
+            "d": "Law of inertia"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are exothermic reactions?",
+        "options": {
+            "a": "Reactions that absorb heat",
+            "b": "Reactions that release heat",
+            "c": "Reactions that occur only in the presence of electricity",
+            "d": "Reactions that produce gases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an example of an exothermic reaction?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Respiration",
+            "c": "Electrolysis of water",
+            "d": "Melting of ice"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the reaction called when two or more substances combine to form a single product?",
+        "options": {
+            "a": "Combination reaction",
+            "b": "Decomposition reaction",
+            "c": "Displacement reaction",
+            "d": "Redox reaction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the chemical equation for the reaction between calcium oxide and water?",
+        "options": {
+            "a": "CaO + H2O \u2192 Ca(OH)2",
+            "b": "Ca + H2O \u2192 Ca(OH)2",
+            "c": "CaO + H2 \u2192 Ca(OH)2",
+            "d": "CaO \u2192 Ca + O2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is decomposition reaction?",
+        "options": {
+            "a": "When one reactant breaks down to form two or more products",
+            "b": "When two reactants form a single product",
+            "c": "When one substance displaces another in a compound",
+            "d": "When heat is absorbed in a reaction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is a decomposition reaction?",
+        "options": {
+            "a": "CaCO3 \u2192 CaO + CO2",
+            "b": "Na + Cl2 \u2192 NaCl",
+            "c": "2H2 + O2 \u2192 2H2O",
+            "d": "Zn + H2SO4 \u2192 ZnSO4 + H2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is thermal decomposition?",
+        "options": {
+            "a": "Decomposition caused by electricity",
+            "b": "Decomposition caused by light",
+            "c": "Decomposition caused by heating",
+            "d": "Decomposition caused by sound"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is displacement reaction?",
+        "options": {
+            "a": "When one element replaces another in a compound",
+            "b": "When two compounds exchange their ions",
+            "c": "When two reactants form one product",
+            "d": "When a reaction absorbs heat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when zinc reacts with hydrochloric acid?",
+        "options": {
+            "a": "Zinc chloride and hydrogen are produced",
+            "b": "Zinc hydroxide and oxygen are produced",
+            "c": "Zinc oxide and water are produced",
+            "d": "Zinc chloride and chlorine gas are produced"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a double displacement reaction?",
+        "options": {
+            "a": "Exchange of elements between two reactants",
+            "b": "Formation of a single product from two reactants",
+            "c": "Breaking down of a compound into two products",
+            "d": "Release of energy in a reaction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which reaction produces a precipitate?",
+        "options": {
+            "a": "Double displacement reaction",
+            "b": "Combination reaction",
+            "c": "Displacement reaction",
+            "d": "Exothermic reaction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a redox reaction?",
+        "options": {
+            "a": "ZnO + C \u2192 Zn + CO",
+            "b": "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "c": "H\u2082 + Cl\u2082 \u2192 2HCl",
+            "d": "H\u2082O \u2192 H\u2082 + O\u2082"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens in oxidation?",
+        "options": {
+            "a": "Loss of oxygen",
+            "b": "Gain of oxygen",
+            "c": "Loss of hydrogen",
+            "d": "Gain of hydrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens in reduction?",
+        "options": {
+            "a": "Gain of oxygen",
+            "b": "Loss of oxygen",
+            "c": "Loss of hydrogen",
+            "d": "Both b and c"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What type of reaction is rusting of iron?",
+        "options": {
+            "a": "Combination reaction",
+            "b": "Oxidation reaction",
+            "c": "Redox reaction",
+            "d": "Displacement reaction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the chemical formula for rust?",
+        "options": {
+            "a": "FeO",
+            "b": "Fe\u2082O\u2083\u00b7xH\u2082O",
+            "c": "Fe\u2083O\u2084",
+            "d": "FeCl\u2083"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is corrosion?",
+        "options": {
+            "a": "Slow eating away of metals by chemical reactions",
+            "b": "Formation of precipitates in reactions",
+            "c": "Decomposition of metals by heat",
+            "d": "Displacement of one element by another"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is rancidity?",
+        "options": {
+            "a": "Oxidation of fats and oils causing foul smell",
+            "b": "Precipitation of fats in cold weather",
+            "c": "Hydrolysis of proteins in food",
+            "d": "Formation of crystals in frozen food"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas is produced when calcium carbonate reacts with hydrochloric acid?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Carbon dioxide",
+            "d": "Chlorine"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the balanced equation for the reaction of zinc with hydrochloric acid?",
+        "options": {
+            "a": "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+            "b": "Zn + 2HCl \u2192 ZnCl\u2082 + H\u2082",
+            "c": "Zn + HCl \u2192 Zn + H\u2082",
+            "d": "Zn + 2HCl \u2192 ZnCl + H\u2082O"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which chemical reaction is used in black and white photography?",
+        "options": {
+            "a": "Decomposition of silver bromide",
+            "b": "Reaction of zinc with sulfur",
+            "c": "Combustion of magnesium",
+            "d": "Reaction of sodium with water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which reaction is considered a neutralization reaction?",
+        "options": {
+            "a": "Reaction between acid and base to form salt and water",
+            "b": "Reaction between two metals to form an alloy",
+            "c": "Reaction between two non-metals",
+            "d": "Reaction involving heat absorption"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does a catalyst do in a chemical reaction?",
+        "options": {
+            "a": "Reduces the number of products",
+            "b": "Speeds up the reaction without being consumed",
+            "c": "Increases the energy required for the reaction",
+            "d": "Produces unwanted by-products"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for a chemical equation that shows only the substances involved in a reaction?",
+        "options": {
+            "a": "Net ionic equation",
+            "b": "Word equation",
+            "c": "Balanced equation",
+            "d": "Molecular equation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a precipitation reaction?",
+        "options": {
+            "a": "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083",
+            "b": "H\u2082 + O\u2082 \u2192 H\u2082O",
+            "c": "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "d": "CaCO\u2083 \u2192 CaO + CO\u2082"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the name of the reaction where heat is absorbed?",
+        "options": {
+            "a": "6CO\u2082 + 6H\u2082O \u2192 (Light) C\u2086H\u2081\u2082O\u2086 + 6O\u2082",
+            "b": "CO\u2082 + H\u2082O \u2192 H\u2082CO\u2083",
+            "c": "C + O\u2082 \u2192 CO\u2082",
+            "d": "CH\u2084 + O\u2082 \u2192 CO\u2082 + H\u2082O"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to a chemical reaction when a limiting reagent is consumed?",
+        "options": {
+            "a": "Reaction continues",
+            "b": "Reaction slows down",
+            "c": "Reaction stops",
+            "d": "Reaction produces multiple by-products"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the effect of temperature on the rate of a chemical reaction?",
+        "options": {
+            "a": "It always slows down the reaction",
+            "b": "It increases the reaction rate as temperature increases",
+            "c": "It has no effect",
+            "d": "It stops the reaction completely"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which metal corrodes when exposed to moisture and air?",
+        "options": {
+            "a": "Gold",
+            "b": "Silver",
+            "c": "Iron",
+            "d": "Platinum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is an example of a displacement reaction?",
+        "options": {
+            "a": "Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+            "b": "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "c": "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "d": "2H\u2082 + O\u2082 \u2192 2H\u2082O"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is oxidation?",
+        "options": {
+            "a": "Gain of electrons",
+            "b": "Loss of electrons",
+            "c": "Gain of hydrogen",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is balancing chemical equations important?",
+        "options": {
+            "a": "To conserve the number of molecules",
+            "b": "To conserve mass according to the law of conservation of mass",
+            "c": "To simplify the reaction process",
+            "d": "To produce energy efficiently"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does an increase in concentration of reactants do to a reaction?",
+        "options": {
+            "a": "Slows it down",
+            "b": "Stops it",
+            "c": "Speeds it up",
+            "d": "Changes the reaction products"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does a chemical reaction that gives off light signify?",
+        "options": {
+            "a": "It is an exothermic reaction",
+            "b": "It is an endothermic reaction",
+            "c": "It is a neutralization reaction",
+            "d": "It is an oxidation reaction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the product of the reaction 2H\u2082 + O\u2082?",
+        "options": {
+            "a": "H\u2082O\u2082",
+            "b": "2H\u2082O",
+            "c": "O\u2083",
+            "d": "H\u2082 + O\u2083"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of reaction is CH\u2084 + 2O\u2082 \u2192 CO\u2082 + 2H\u2082O?",
+        "options": {
+            "a": "Combination",
+            "b": "Combustion",
+            "c": "Decomposition",
+            "d": "Displacement"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the mass of products in a chemical reaction?",
+        "options": {
+            "a": "It is greater than the reactants",
+            "b": "It is less than the reactants",
+            "c": "It is equal to the mass of the reactants",
+            "d": "It varies depending on temperature"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of reaction is digestion of food in the stomach?",
+        "options": {
+            "a": "Exothermic",
+            "b": "Endothermic",
+            "c": "Neutralization",
+            "d": "Combination"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why are antioxidants added to food?",
+        "options": {
+            "a": "To speed up spoilage",
+            "b": "To prevent oxidation of food",
+            "c": "To neutralize acids in food",
+            "d": "To add flavor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main product when methane burns in air?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Carbon monoxide",
+            "c": "Carbon dioxide",
+            "d": "Methanol"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of enzymes in biochemical reactions?",
+        "options": {
+            "a": "They slow down the reactions",
+            "b": "They act as catalysts",
+            "c": "They alter reaction products",
+            "d": "They absorb the reactants"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which compound undergoes photodecomposition in the presence of sunlight?",
+        "options": {
+            "a": "2AgCl",
+            "b": "H\u2082O",
+            "c": "CO\u2082",
+            "d": "NaCl"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What taste is associated with acids?",
+        "options": {
+            "a": "Bitter",
+            "b": "Sour",
+            "c": "Salty",
+            "d": "Sweet"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which substance turns blue litmus red?",
+        "options": {
+            "a": "Acid",
+            "b": "Base",
+            "c": "Salt",
+            "d": "Neutral solution"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a base?",
+        "options": {
+            "a": "A substance that turns red litmus blue",
+            "b": "A substance that reacts with acids to form salts",
+            "c": "A bitter and slippery substance",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which of these is a natural acid-base indicator?",
+        "options": {
+            "a": "Turmeric",
+            "b": "Phenolphthalein",
+            "c": "Methyl orange",
+            "d": "Litmus"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the pH range of a neutral solution?",
+        "options": {
+            "a": "0-7",
+            "b": "7-14",
+            "c": "Exactly 7",
+            "d": "6-8"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which gas is evolved when acids react with metals?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Carbon dioxide",
+            "c": "Hydrogen",
+            "d": "Chlorine"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the general reaction between a metal and an acid?",
+        "options": {
+            "a": "Metal + Acid \u2192 Salt + Water",
+            "b": "Metal + Acid \u2192 Salt + Hydrogen",
+            "c": "Metal + Acid \u2192 Base + Hydrogen",
+            "d": "Metal + Acid \u2192 Base + Water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the reaction called when an acid reacts with a base to form a salt and water?",
+        "options": {
+            "a": "Displacement reaction",
+            "b": "Combination reaction",
+            "c": "Neutralization reaction",
+            "d": "Decomposition reaction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which acid is found in vinegar?",
+        "options": {
+            "a": "Acetic acid",
+            "b": "Lactic acid",
+            "c": "Citric acid",
+            "d": "Tartaric acid"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the pH of pure water?",
+        "options": {
+            "a": "0",
+            "b": "7",
+            "c": "14",
+            "d": "10"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a pH less than 7 indicate?",
+        "options": {
+            "a": "Neutral solution",
+            "b": "Acidic solution",
+            "c": "Basic solution",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a weak acid?",
+        "options": {
+            "a": "Hydrochloric acid",
+            "b": "Sulfuric acid",
+            "c": "Acetic acid",
+            "d": "Nitric acid"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the chemical formula for washing soda?",
+        "options": {
+            "a": "NaHCO\u2083",
+            "b": "Na\u2082CO\u2083\u00b710H\u2082O",
+            "c": "NaCl",
+            "d": "NaOH"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to blue litmus paper in a basic solution?",
+        "options": {
+            "a": "It turns red",
+            "b": "It remains blue",
+            "c": "It turns white",
+            "d": "It turns green"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the salt formed by the reaction of hydrochloric acid and sodium hydroxide?",
+        "options": {
+            "a": "Sodium sulfate",
+            "b": "Sodium chloride",
+            "c": "Sodium carbonate",
+            "d": "Sodium acetate"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chemical formula of baking soda?",
+        "options": {
+            "a": "NaHCO\u2083",
+            "b": "Na\u2082CO\u2083",
+            "c": "KCl",
+            "d": "NaCl"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas is produced when baking soda reacts with an acid?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Carbon dioxide",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the pH range of a strong acid?",
+        "options": {
+            "a": "0-3",
+            "b": "4-7",
+            "c": "7-10",
+            "d": "11-14"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to phenolphthalein in a basic solution?",
+        "options": {
+            "a": "Turns pink",
+            "b": "Turns yellow",
+            "c": "Remains colorless",
+            "d": "Turns red"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the reaction between a metal carbonate and an acid?",
+        "options": {
+            "a": "Metal carbonate + Acid \u2192 Salt + Water + Carbon dioxide",
+            "b": "Metal carbonate + Acid \u2192 Salt + Hydrogen",
+            "c": "Metal carbonate + Acid \u2192 Salt + Oxygen",
+            "d": "Metal carbonate + Acid \u2192 Salt + Carbon monoxide"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the nature of lime water?",
+        "options": {
+            "a": "Acidic",
+            "b": "Basic",
+            "c": "Neutral",
+            "d": "Amphoteric"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which ion is responsible for the acidic properties of acids?",
+        "options": {
+            "a": "OH\u207b",
+            "b": "H\u207a",
+            "c": "Cl\u207b",
+            "d": "Na\u207a"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the nature of a solution with a pH of 12?",
+        "options": {
+            "a": "Acidic",
+            "b": "Strongly basic",
+            "c": "Neutral",
+            "d": "Weakly basic"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chemical formula of lime water?",
+        "options": {
+            "a": "CaCO\u2083",
+            "b": "Ca(OH)\u2082",
+            "c": "CaO",
+            "d": "CaCl\u2082"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of a neutral salt?",
+        "options": {
+            "a": "Sodium chloride",
+            "b": "Ammonium chloride",
+            "c": "Sodium carbonate",
+            "d": "Potassium hydroxide"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of reaction is represented by NaHCO\u2083 + HCl \u2192 NaCl + H\u2082O + CO\u2082",
+        "options": {
+            "a": "Combination reaction",
+            "b": "Neutralization reaction",
+            "c": "Double displacement reaction",
+            "d": "Decomposition reaction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when calcium oxide reacts with water?",
+        "options": {
+            "a": "It forms an acidic solution",
+            "b": "It forms a basic solution",
+            "c": "It forms a neutral solution",
+            "d": "It releases hydrogen gas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which salt is used to remove the hardness of water?",
+        "options": {
+            "a": "Baking soda",
+            "b": "Washing soda",
+            "c": "Sodium chloride",
+            "d": "Lime water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is formed when hydrochloric acid reacts with magnesium ribbon?",
+        "options": {
+            "a": "Magnesium oxide",
+            "b": "Magnesium chloride and hydrogen gas",
+            "c": "Magnesium carbonate",
+            "d": "Magnesium hydroxide"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the pH of a solution of baking soda?",
+        "options": {
+            "a": "Less than 7",
+            "b": "Exactly 7",
+            "c": "Slightly above 7",
+            "d": "Strongly alkaline"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is an amphoteric substance?",
+        "options": {
+            "a": "A substance that reacts only with acids",
+            "b": "A substance that reacts only with bases",
+            "c": "A substance that reacts with both acids and bases",
+            "d": "A substance that is neutral"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is an example of an amphoteric oxide?",
+        "options": {
+            "a": "Na\u2082O",
+            "b": "Al\u2082O\u2083",
+            "c": "CO\u2082",
+            "d": "SiO\u2082"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to a red litmus paper in an acidic solution?",
+        "options": {
+            "a": "Turns blue",
+            "b": "Remains red",
+            "c": "Turns green",
+            "d": "Turns colorless"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the use of bleaching powder?",
+        "options": {
+            "a": "To remove stains",
+            "b": "To purify drinking water",
+            "c": "As a disinfectant",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the chemical formula of bleaching powder?",
+        "options": {
+            "a": "CaCl\u2082",
+            "b": "Ca(OCl)\u2082",
+            "c": "CaCO\u2083",
+            "d": "CaSO\u2084"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of pH in the survival of aquatic life?",
+        "options": {
+            "a": "It controls oxygen levels in water",
+            "b": "It maintains a stable environment for organisms",
+            "c": "It determines the temperature of water",
+            "d": "It reduces pollution in water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the by-product of the preparation of sodium hydroxide using brine?",
+        "options": {
+            "a": "Hydrogen gas",
+            "b": "Chlorine gas",
+            "c": "Both a and b",
+            "d": "Carbon dioxide"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does a strong acid do in water?",
+        "options": {
+            "a": "Partially ionizes",
+            "b": "Completely ionizes",
+            "c": "Does not ionize",
+            "d": "Neutralizes the water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chemical formula of gypsum?",
+        "options": {
+            "a": "CaSO\u2084\u00b72H\u2082O",
+            "b": "CaSO\u2084",
+            "c": "Ca(OH)\u2082",
+            "d": "CaCO\u2083"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is formed when plaster of Paris reacts with water?",
+        "options": {
+            "a": "Gypsum",
+            "b": "Calcium oxide",
+            "c": "Calcium carbonate",
+            "d": "Slaked lime"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which acid is found in ant stings?",
+        "options": {
+            "a": "Acetic acid",
+            "b": "Formic acid",
+            "c": "Lactic acid",
+            "d": "Citric acid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the nature of ammonium hydroxide?",
+        "options": {
+            "a": "Acidic",
+            "b": "Basic",
+            "c": "Neutral",
+            "d": "Amphoteric"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is formed when sulfuric acid reacts with zinc?",
+        "options": {
+            "a": "Zinc oxide and water",
+            "b": "Zinc sulfate and hydrogen gas",
+            "c": "Zinc hydroxide and oxygen",
+            "d": "Zinc chloride and hydrogen gas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of antacids?",
+        "options": {
+            "a": "To neutralize excess stomach acid",
+            "b": "To increase acidity in the stomach",
+            "c": "To improve digestion",
+            "d": "To dissolve food more quickly"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas is used in fire extinguishers?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Carbon dioxide",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when a concentrated acid is mixed with water?",
+        "options": {
+            "a": "The solution becomes less acidic",
+            "b": "Heat is released",
+            "c": "The acid completely reacts with water",
+            "d": "The pH increases to 14"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a universal indicator do?",
+        "options": {
+            "a": "Measures temperature",
+            "b": "Measures acidity and basicity",
+            "c": "Indicates only acidic substances",
+            "d": "Reacts with metals to form salts"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which acid is used in car batteries?",
+        "options": {
+            "a": "Hydrochloric acid",
+            "b": "Nitric acid",
+            "c": "Sulfuric acid",
+            "d": "Acetic acid"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the pH of a strong base?",
+        "options": {
+            "a": "Close to 0",
+            "b": "Close to 7",
+            "c": "Close to 14",
+            "d": "Between 6 and 8"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the common name of NaHCO\u2083",
+        "options": {
+            "a": "Baking soda",
+            "b": "Washing soda",
+            "c": "Quick lime",
+            "d": "Slaked lime"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What property distinguishes metals from non-metals?",
+        "options": {
+            "a": "Metals are poor conductors of electricity",
+            "b": "Metals are malleable and ductile",
+            "c": "Metals have low melting points",
+            "d": "Metals do not react with acids"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a physical property of metals?",
+        "options": {
+            "a": "Poor conductivity",
+            "b": "Brittle nature",
+            "c": "Metallic lustre",
+            "d": "Low melting points"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": {
+            "a": "Lead",
+            "b": "Gallium",
+            "c": "Mercury",
+            "d": "Sodium"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What property allows metals to be drawn into wires?",
+        "options": {
+            "a": "Malleability",
+            "b": "Ductility",
+            "c": "Sonority",
+            "d": "Conductivity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which non-metal is a good conductor of electricity?",
+        "options": {
+            "a": "Sulphur",
+            "b": "Phosphorus",
+            "c": "Graphite",
+            "d": "Iodine"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the reaction of metals with oxygen?",
+        "options": {
+            "a": "Forms acidic oxides",
+            "b": "Forms basic oxides",
+            "c": "Forms neutral oxides",
+            "d": "Does not react"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the reaction of non-metals with oxygen?",
+        "options": {
+            "a": "Forms acidic oxides",
+            "b": "Forms basic oxides",
+            "c": "Forms amphoteric oxides",
+            "d": "Forms neutral oxides only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of oxide is formed by zinc?",
+        "options": {
+            "a": "Acidic oxide",
+            "b": "Basic oxide",
+            "c": "Amphoteric oxide",
+            "d": "Neutral oxide"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which metals react vigorously with water?",
+        "options": {
+            "a": "Iron and zinc",
+            "b": "Sodium and potassium",
+            "c": "Copper and silver",
+            "d": "Gold and platinum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What gas is evolved when metals react with water?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Carbon dioxide",
+            "c": "Hydrogen",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following metals does not react with water?",
+        "options": {
+            "a": "Magnesium",
+            "b": "Sodium",
+            "c": "Aluminium",
+            "d": "Lead"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the reaction of metals with acids?",
+        "options": {
+            "a": "Metals form basic salts",
+            "b": "Metals form hydrogen gas and salts",
+            "c": "Metals form water and salts",
+            "d": "Metals form oxides and water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which metal does not displace hydrogen from dilute acids?",
+        "options": {
+            "a": "Zinc",
+            "b": "Iron",
+            "c": "Copper",
+            "d": "Aluminium"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when copper is exposed to moist air?",
+        "options": {
+            "a": "Forms copper oxide",
+            "b": "Forms basic copper carbonate",
+            "c": "Forms copper hydroxide",
+            "d": "Does not react"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which process is used to extract metals from low reactivity ores?",
+        "options": {
+            "a": "Electrolysis",
+            "b": "Roasting",
+            "c": "Reduction by heating alone",
+            "d": "Displacement reaction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the reaction of metals with salt solutions?",
+        "options": {
+            "a": "Metals displace less reactive metals from their salts",
+            "b": "Metals displace more reactive metals from their salts",
+            "c": "No reaction occurs",
+            "d": "Only amphoteric metals react"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the activity series?",
+        "options": {
+            "a": "Order of increasing density of metals",
+            "b": "Order of reactivity of metals",
+            "c": "Order of melting points of metals",
+            "d": "Order of atomic sizes of metals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main ore of aluminium?",
+        "options": {
+            "a": "Hematite",
+            "b": "Bauxite",
+            "c": "Chalcopyrite",
+            "d": "Magnetite"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is roasting?",
+        "options": {
+            "a": "Heating sulphide ores in excess air",
+            "b": "Heating carbonate ores in limited air",
+            "c": "Reducing oxides to metals",
+            "d": "Heating metals in molten state"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is calcination?",
+        "options": {
+            "a": "Heating sulphide ores in excess air",
+            "b": "Heating carbonate ores in limited air",
+            "c": "Electrolysis of ores",
+            "d": "Reducing oxides to metals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the product of roasting zinc sulphide?",
+        "options": {
+            "a": "Zinc carbonate",
+            "b": "Zinc oxide",
+            "c": "Zinc chloride",
+            "d": "Zinc hydroxide"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the thermit reaction used for?",
+        "options": {
+            "a": "Extracting metals",
+            "b": "Joining railway tracks",
+            "c": "Producing hydrogen gas",
+            "d": "Refining metals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which method is used for refining impure metals?",
+        "options": {
+            "a": "Electrolysis",
+            "b": "Distillation",
+            "c": "Reduction",
+            "d": "Calcination"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to a metal during corrosion?",
+        "options": {
+            "a": "Metal gains oxygen or moisture",
+            "b": "Metal loses electrons",
+            "c": "Metal reacts with carbon dioxide",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Why are sodium and potassium stored under oil?",
+        "options": {
+            "a": "To prevent oxidation",
+            "b": "To prevent reaction with water",
+            "c": "Both a and b",
+            "d": "To keep them shiny"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main constituent of stainless steel?",
+        "options": {
+            "a": "Iron and carbon",
+            "b": "Iron, chromium, and nickel",
+            "c": "Iron and zinc",
+            "d": "Iron and aluminum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of cryolite in the extraction of aluminium?",
+        "options": {
+            "a": "Acts as a reducing agent",
+            "b": "Lowers the melting point of aluminium oxide",
+            "c": "Increases the boiling point of aluminium",
+            "d": "Protects aluminium from corrosion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the composition of bronze?",
+        "options": {
+            "a": "Copper and zinc",
+            "b": "Copper and tin",
+            "c": "Copper and nickel",
+            "d": "Copper and iron"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of oxide is formed by non-metals?",
+        "options": {
+            "a": "Acidic oxides",
+            "b": "Basic oxides",
+            "c": "Amphoteric oxides",
+            "d": "Neutral oxides"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is galvanization?",
+        "options": {
+            "a": "Coating a metal with zinc",
+            "b": "Coating a metal with tin",
+            "c": "Coating a metal with silver",
+            "d": "Coating a metal with aluminum"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas is evolved when iron reacts with dilute sulfuric acid?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Carbon dioxide",
+            "d": "Nitrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which element is most reactive in the activity series?",
+        "options": {
+            "a": "Zinc",
+            "b": "Sodium",
+            "c": "Calcium",
+            "d": "Potassium"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the main advantage of alloys?",
+        "options": {
+            "a": "Higher density than metals",
+            "b": "Improved properties like corrosion resistance and strength",
+            "c": "Lower melting points than metals",
+            "d": "They do not conduct electricity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the cathode in the electrolytic refining of copper?",
+        "options": {
+            "a": "A pure copper rod",
+            "b": "An impure copper rod",
+            "c": "A platinum rod",
+            "d": "A zinc rod"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which metal is most commonly used for electrical wiring?",
+        "options": {
+            "a": "Aluminum",
+            "b": "Silver",
+            "c": "Copper",
+            "d": "Iron"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when aluminium reacts with dilute hydrochloric acid?",
+        "options": {
+            "a": "Aluminium chloride and hydrogen gas are formed",
+            "b": "Aluminium hydroxide is formed",
+            "c": "Aluminium sulphate is formed",
+            "d": "Aluminium oxide is formed"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which non-metal is essential for the respiration of living organisms?",
+        "options": {
+            "a": "Carbon",
+            "b": "Sulfur",
+            "c": "Oxygen",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the common use of silicon as a non-metal?",
+        "options": {
+            "a": "Insulator",
+            "b": "Semiconductor in electronics",
+            "c": "Conducting electricity",
+            "d": "Rust prevention"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is brass made of?",
+        "options": {
+            "a": "Copper and zinc",
+            "b": "Copper and tin",
+            "c": "Copper and silver",
+            "d": "Copper and aluminum"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why does aluminium resist corrosion?",
+        "options": {
+            "a": "It reacts with oxygen to form an impermeable layer of aluminium oxide",
+            "b": "It does not react with oxygen",
+            "c": "It reacts with water instead of air",
+            "d": "It is a very dense metal"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main reason for coating metals with paint?",
+        "options": {
+            "a": "To improve appearance",
+            "b": "To prevent corrosion",
+            "c": "To make the metal less dense",
+            "d": "To conduct electricity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which metal is used in making thermometers?",
+        "options": {
+            "a": "Mercury",
+            "b": "Lead",
+            "c": "Zinc",
+            "d": "Copper"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of bond is formed between a metal and a non-metal?",
+        "options": {
+            "a": "Covalent bond",
+            "b": "Ionic bond",
+            "c": "Metallic bond",
+            "d": "Hydrogen bond"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an ore?",
+        "options": {
+            "a": "A pure form of a metal",
+            "b": "A naturally occurring substance from which a metal can be extracted",
+            "c": "A combination of two or more metals",
+            "d": "An alloy of a metal and non-metal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which method is used to prevent rusting?",
+        "options": {
+            "a": "Heating the metal",
+            "b": "Painting or oiling the metal",
+            "c": "Exposing the metal to air",
+            "d": "Submerging the metal in water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the color of copper sulphate solution?",
+        "options": {
+            "a": "Green",
+            "b": "Blue",
+            "c": "Yellow",
+            "d": "Red"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the major component of solder alloy?",
+        "options": {
+            "a": "Lead and tin",
+            "b": "Copper and zinc",
+            "c": "Aluminium and magnesium",
+            "d": "Iron and carbon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why is gold used for making ornaments?",
+        "options": {
+            "a": "It is highly reactive",
+            "b": "It is ductile and resistant to corrosion",
+            "c": "It is abundant and inexpensive",
+            "d": "It reacts with air to form gold oxide"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the use of zinc in batteries?",
+        "options": {
+            "a": "It acts as a cathode",
+            "b": "It acts as an electrolyte",
+            "c": "It acts as an anode",
+            "d": "It prevents corrosion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which property makes metals good conductors of electricity?",
+        "options": {
+            "a": "Malleability",
+            "b": "Free electrons",
+            "c": "Lustrous nature",
+            "d": "High melting points"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the unique property of carbon that allows it to form a large number of compounds?",
+        "options": {
+            "a": "High reactivity with oxygen",
+            "b": "Tetravalency and catenation",
+            "c": "Formation of ionic bonds",
+            "d": "Large atomic size"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of bond is formed in carbon compounds?",
+        "options": {
+            "a": "Ionic bond",
+            "b": "Covalent bond",
+            "c": "Metallic bond",
+            "d": "Hydrogen bond"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property is exhibited by carbon compounds due to weak intermolecular forces?",
+        "options": {
+            "a": "High melting points",
+            "b": "Low boiling points",
+            "c": "High electrical conductivity",
+            "d": "Metallic luster"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula of methane?",
+        "options": {
+            "a": "CH\u2083",
+            "b": "CH\u2084",
+            "c": "C\u2082H\u2086",
+            "d": "CH\u2083OH"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How many covalent bonds does carbon form in methane?",
+        "options": {
+            "a": "Two",
+            "b": "Three",
+            "c": "Four",
+            "d": "Five"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the bond between two oxygen atoms in O\u2082?",
+        "options": {
+            "a": "Single bond",
+            "b": "Double bond",
+            "c": "Triple bond",
+            "d": "Ionic bond"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the bond between two nitrogen atoms in N\u2082?",
+        "options": {
+            "a": "Single bond",
+            "b": "Double bond",
+            "c": "Triple bond",
+            "d": "No bond"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the name of the allotrope of carbon that is the hardest natural substance?",
+        "options": {
+            "a": "Graphite",
+            "b": "Diamond",
+            "c": "Fullerene",
+            "d": "Charcoal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which allotrope of carbon conducts electricity?",
+        "options": {
+            "a": "Diamond",
+            "b": "Graphite",
+            "c": "Fullerene",
+            "d": "Coal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the molecular formula of ethene?",
+        "options": {
+            "a": "C\u2082H\u2084",
+            "b": "C\u2082H\u2086",
+            "c": "CH\u2084",
+            "d": "C\u2083H\u2086"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a hydrocarbon with a triple bond called?",
+        "options": {
+            "a": "Alkane",
+            "b": "Alkene",
+            "c": "Alkyne",
+            "d": "Alcohol"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the general formula for alkanes?",
+        "options": {
+            "a": "C\u2099H\u2082\u2099",
+            "b": "C\u2099H\u2082\u2099\u208a\u2082",
+            "c": "C\u2099H\u2082\u2099\u208b\u2082",
+            "d": "C\u2099H\u2099"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for hydrocarbons with the same molecular formula but different structures?",
+        "options": {
+            "a": "Homologous series",
+            "b": "Functional isomers",
+            "c": "Structural isomers",
+            "d": "Organic compounds"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the functional group in alcohols?",
+        "options": {
+            "a": "\u2212COOH",
+            "b": "\u2212CHO",
+            "c": "\u2212OH",
+            "d": "\u2212COO"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the common name for ethanol?",
+        "options": {
+            "a": "Vinegar",
+            "b": "Alcohol",
+            "c": "Acetic acid",
+            "d": "Formaldehyde"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is formed when ethanol reacts with sodium?",
+        "options": {
+            "a": "Hydrogen gas",
+            "b": "Sodium ethoxide",
+            "c": "Both a and b",
+            "d": "Sodium hydroxide"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "WWhat is the formula of ethanoic acid?",
+        "options": {
+            "a": "CH\u2083COOH",
+            "b": "CH\u2083CHO",
+            "c": "CH\u2083CH\u2082OH",
+            "d": "CH\u2083COOCH\u2083"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main product of the reaction between acetic acid and sodium carbonate?",
+        "options": {
+            "a": "Sodium acetate",
+            "b": "Carbon dioxide",
+            "c": "Water",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is saponification?",
+        "options": {
+            "a": "Formation of soap from esters and alkali",
+            "b": "Formation of alcohol from acids",
+            "c": "Reaction of esters with acids",
+            "d": "Formation of esters from acids and alcohols"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process of forming esters from alcohols and acids called?",
+        "options": {
+            "a": "Neutralization",
+            "b": "Saponification",
+            "c": "Esterification",
+            "d": "Oxidation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the common name for ethanoic acid?",
+        "options": {
+            "a": "Formaldehyde",
+            "b": "Acetic acid",
+            "c": "Methanol",
+            "d": "Vinegar"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the molecular formula of propane?",
+        "options": {
+            "a": "CH\u2084",
+            "b": "C\u2083H\u2088",
+            "c": "C\u2082H\u2084",
+            "d": "C\u2084H\u2081\u2080"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an unsaturated hydrocarbon?",
+        "options": {
+            "a": "Methane",
+            "b": "Ethene",
+            "c": "Propane",
+            "d": "Butane"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the functional group in aldehydes?",
+        "options": {
+            "a": "\u2212COOH",
+            "b": "\u2212CHO",
+            "c": "\u2212OH",
+            "d": "\u2212C=O"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid?",
+        "options": {
+            "a": "Ester is formed",
+            "b": "Hydrogen gas is released",
+            "c": "Sodium acetate is formed",
+            "d": "Acetaldehyde is produced"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the general formula of alkynes?",
+        "options": {
+            "a": "CnH2n+2",
+            "b": "CnH2n",
+            "c": "CnH2n-2"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main component of biogas?",
+        "options": {
+            "a": "Carbon dioxide",
+            "b": "Hydrogen",
+            "c": "Methane",
+            "d": "Oxygen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following compounds is used as a fuel?",
+        "options": {
+            "a": "Methanol",
+            "b": "Ethanol",
+            "c": "Butane",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the process of breaking down hydrocarbons into smaller molecules called?",
+        "options": {
+            "a": "Combustion",
+            "b": "Cracking",
+            "c": "Polymerization",
+            "d": "Hydrogenation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of reaction is combustion?",
+        "options": {
+            "a": "Endothermic",
+            "b": "Exothermic",
+            "c": "Displacement",
+            "d": "Neutralization"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gas is a product of complete combustion of hydrocarbons?",
+        "options": {
+            "a": "Carbon monoxide",
+            "b": "Carbon dioxide",
+            "c": "Hydrogen",
+            "d": "Oxygen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which form of carbon is used in pencils?",
+        "options": {
+            "a": "Diamond",
+            "b": "Graphite",
+            "c": "Charcoal",
+            "d": "Fullerene"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are polymers?",
+        "options": {
+            "a": "Small molecules with a single unit",
+            "b": "Large molecules made by repeated linking of small units",
+            "c": "Compounds with a single bond",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an example of a natural polymer?",
+        "options": {
+            "a": "Polyethylene",
+            "b": "Starch",
+            "c": "PVC",
+            "d": "Nylon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula of butyne?",
+        "options": {
+            "a": "C4H8",
+            "b": "C4H6",
+            "d": "C4H4"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gas is used in the hydrogenation of oils?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Nitrogen",
+            "d": "Carbon dioxide"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property allows diamond to be used in cutting tools?",
+        "options": {
+            "a": "High conductivity",
+            "b": "Hardness",
+            "c": "Solubility in water",
+            "d": "High melting point"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the characteristic of organic compounds?",
+        "options": {
+            "a": "They contain carbon and hydrogen",
+            "b": "They have high melting points",
+            "c": "They are soluble in water",
+            "d": "They are ionic in nature"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when sodium reacts with ethanol?",
+        "options": {
+            "a": "Sodium hydroxide is formed",
+            "b": "Sodium ethoxide and hydrogen are formed",
+            "c": "Water is formed",
+            "d": "Sodium reacts with oxygen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the simplest hydrocarbon?",
+        "options": {
+            "a": "Ethane",
+            "b": "Methane",
+            "c": "Propane",
+            "d": "Butane"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the use of detergents?",
+        "options": {
+            "a": "Lubrication",
+            "b": "Cleaning greasy substances",
+            "c": "Oxidation reactions",
+            "d": "Fuel production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main product of incomplete combustion of hydrocarbons?",
+        "options": {
+            "a": "Carbon monoxide",
+            "b": "Carbon dioxide",
+            "c": "Water",
+            "d": "Hydrogen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the functional group in ketones?",
+        "options": {
+            "a": "\u2212CHO",
+            "b": "\u2212CO\u2212",
+            "c": "\u2212OH",
+            "d": "\u2212COOH"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main component of LPG (liquefied petroleum gas)?",
+        "options": {
+            "a": "Methane",
+            "b": "Propane and butane",
+            "c": "Ethane",
+            "d": "Carbon dioxide"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of reaction occurs when esters are hydrolyzed?",
+        "options": {
+            "a": "Neutralization",
+            "b": "Esterification",
+            "c": "Saponification",
+            "d": "Reduction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which alcohol is used in alcoholic beverages?",
+        "options": {
+            "a": "Methanol",
+            "b": "Ethanol",
+            "c": "Butanol",
+            "d": "Propanol"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of sulfuric acid in esterification?",
+        "options": {
+            "a": "Oxidizing agent",
+            "b": "Reducing agent",
+            "c": "Catalyst",
+            "d": "Product of the reaction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which hydrocarbon is used as a refrigerant?",
+        "options": {
+            "a": "Methane",
+            "b": "Propane",
+            "c": "Ethene",
+            "d": "Fluorocarbons"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the chemical test for unsaturation in hydrocarbons?",
+        "options": {
+            "a": "Reaction with bromine water",
+            "b": "Reaction with lime water",
+            "c": "Reaction with blue litmus",
+            "d": "Reaction with iodine solution"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the total number of elements known to date?",
+        "options": {
+            "a": "98",
+            "b": "100",
+            "c": "118",
+            "d": "120"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How many naturally occurring elements are there?",
+        "options": {
+            "a": "98",
+            "b": "118",
+            "c": "100",
+            "d": "110"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who proposed the concept of triads in classifying elements?",
+        "options": {
+            "a": "Dmitri Mendeleev",
+            "b": "Johann D\u00f6bereiner",
+            "c": "John Newlands",
+            "d": "Henry Moseley"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the basis of D\u00f6bereiner\u2019s triads?",
+        "options": {
+            "a": "Increasing atomic number",
+            "b": "Similar properties and atomic masses",
+            "c": "Chemical formulae of compounds",
+            "d": "Isotopic variation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following groups forms a D\u00f6bereiner triad?",
+        "options": {
+            "a": "Li, Na, K",
+            "b": "C, N, O",
+            "c": "Ca, Sr, Ba",
+            "d": "Both a and c"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who proposed the Law of Octaves?",
+        "options": {
+            "a": "Johann D\u00f6bereiner",
+            "b": "Dmitri Mendeleev",
+            "c": "John Newlands",
+            "d": "Henry Moseley"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the Law of Octaves?",
+        "options": {
+            "a": "Every seventh element has properties similar to the first",
+            "b": "Every eighth element has properties similar to the first",
+            "c": "Elements are arranged by increasing atomic number",
+            "d": "Elements are grouped in multiples of three"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why was Newlands\u2019 Law of Octaves rejected?",
+        "options": {
+            "a": "It was only applicable up to calcium",
+            "b": "It grouped dissimilar elements together",
+            "c": "New elements did not fit the pattern",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who is credited with creating the first widely accepted Periodic Table?",
+        "options": {
+            "a": "Johann D\u00f6bereiner",
+            "b": "Dmitri Mendeleev",
+            "c": "John Newlands",
+            "d": "Henry Moseley"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What property was used by Mendeleev to arrange elements in his Periodic Table?",
+        "options": {
+            "a": "Increasing atomic number",
+            "b": "Increasing atomic mass",
+            "c": "Physical state",
+            "d": "Electronegativity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What term is used for Mendeleev\u2019s vertical columns in the Periodic Table?",
+        "options": {
+            "a": "Groups",
+            "b": "Periods",
+            "c": "Rows",
+            "d": "Triads"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What term is used for Mendeleev\u2019s horizontal rows in the Periodic Table?",
+        "options": {
+            "a": "Groups",
+            "b": "Periods",
+            "c": "Octaves",
+            "d": "Series"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What did Mendeleev predict in his Periodic Table?",
+        "options": {
+            "a": "The existence of unknown elements",
+            "b": "The structure of atoms",
+            "c": "The law of isotopes",
+            "d": "Atomic number of elements"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an example of an element Mendeleev predicted?",
+        "options": {
+            "a": "Gallium",
+            "b": "Fluorine",
+            "c": "Neon",
+            "d": "Potassium"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What discovery led to the Modern Periodic Law?",
+        "options": {
+            "a": "Isotopes",
+            "b": "Atomic number",
+            "c": "Atomic mass",
+            "d": "Electron configuration"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who demonstrated the importance of atomic number in periodic classification?",
+        "options": {
+            "a": "John Newlands",
+            "b": "Henry Moseley",
+            "c": "Dmitri Mendeleev",
+            "d": "Johann D\u00f6bereiner"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the Modern Periodic Law state?",
+        "options": {
+            "a": "Properties of elements are a function of their atomic masses",
+            "b": "Properties of elements are a function of their atomic numbers",
+            "c": "Properties of elements depend on their isotopic masses",
+            "d": "Properties of elements are determined by their electronic configuration"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How many groups are there in the Modern Periodic Table?",
+        "options": {
+            "a": "8",
+            "b": "16",
+            "c": "18",
+            "d": "20"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How many periods are there in the Modern Periodic Table?",
+        "options": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the group name for elements in Group 1?",
+        "options": {
+            "a": "Halogens",
+            "b": "Noble gases",
+            "c": "Alkali metals",
+            "d": "Alkaline earth metals"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the group name for elements in Group 17?",
+        "options": {
+            "a": "Halogens",
+            "b": "Noble gases",
+            "c": "Alkali metals",
+            "d": "Alkaline earth metals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the group name for elements in Group 18?",
+        "options": {
+            "a": "Halogens",
+            "b": "Noble gases",
+            "c": "Alkali metals",
+            "d": "Transition metals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does atomic size change across a period?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First increases, then decreases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does atomic size change down a group?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First decreases, then increases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the trend of metallic character across a period?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First increases, then decreases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the trend of metallic character down a group?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First decreases, then increases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the general trend of valency across a period?",
+        "options": {
+            "a": "Increases and then decreases",
+            "b": "Decreases and then increases",
+            "c": "Remains constant",
+            "d": "Doubles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What determines the chemical properties of an element?",
+        "options": {
+            "a": "Atomic mass",
+            "b": "Number of neutrons",
+            "c": "Number of valence electrons",
+            "d": "Number of protons"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following elements is a metalloid?",
+        "options": {
+            "a": "Sodium",
+            "b": "Silicon",
+            "c": "Argon",
+            "d": "Magnesium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the electronic configuration of sodium?",
+        "options": {
+            "a": "2,8,1",
+            "b": "2,8,2",
+            "c": "2,7,1",
+            "d": "2,8,3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the electronic configuration of chlorine?",
+        "options": {
+            "a": "2,8,5",
+            "b": "2,8,7",
+            "c": "2,8,8",
+            "d": "2,8,6"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the valency of elements in Group 1?",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "3"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the valency of elements in Group 18?",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "8"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which element has the smallest atomic radius?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Helium",
+            "c": "Lithium",
+            "d": "Fluorine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which element has the highest electronegativity?",
+        "options": {
+            "a": "Sodium",
+            "b": "Oxygen",
+            "c": "Fluorine",
+            "d": "Neon"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which element has the largest atomic radius in the Modern Periodic Table?",
+        "options": {
+            "a": "Cesium",
+            "b": "Francium",
+            "c": "Helium",
+            "d": "Fluorine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which group contains the most reactive metals?",
+        "options": {
+            "a": "Group 1",
+            "b": "Group 2",
+            "c": "Group 16",
+            "d": "Group 18"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which group contains the most reactive non-metals?",
+        "options": {
+            "a": "Group 1",
+            "b": "Group 17",
+            "c": "Group 16",
+            "d": "Group 18"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of elements are found in the middle of the Periodic Table?",
+        "options": {
+            "a": "Noble gases",
+            "b": "Transition metals",
+            "c": "Halogens",
+            "d": "Alkali metals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the position of hydrogen in the Modern Periodic Table?",
+        "options": {
+            "a": "Group 1 and Period 1",
+            "b": "Group 1 and Period 2",
+            "c": "Group 18 and Period 1",
+            "d": "Group 17 and Period 2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which period contains only two elements?",
+        "options": {
+            "a": "Period 1",
+            "b": "Period 2",
+            "c": "Period 3",
+            "d": "Period 4"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which element is the first in the lanthanide series?",
+        "options": {
+            "a": "Cerium",
+            "b": "Lanthanum",
+            "c": "Actinium",
+            "d": "Thorium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which element is in Group 14 and Period 2?",
+        "options": {
+            "a": "Carbon",
+            "b": "Silicon",
+            "c": "Lead",
+            "d": "Tin"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which element is in Group 15 and Period 3?",
+        "options": {
+            "a": "Phosphorus",
+            "b": "Nitrogen",
+            "c": "Arsenic",
+            "d": "Antimony"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the general trend of ionization energy across a period?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First decreases, then increases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the general trend of ionization energy down a group?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "First increases, then decreases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which group of elements has a complete outermost shell?",
+        "options": {
+            "a": "Group 1",
+            "b": "Group 17",
+            "c": "Group 18",
+            "d": "Group 2"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which property increases both across a period and down a group?",
+        "options": {
+            "a": "Atomic size",
+            "b": "Metallic character",
+            "c": "Valency",
+            "d": "Nuclear charge"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the general trend of electron affinity across a period?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which property decreases from left to right in a period?",
+        "options": {
+            "a": "Electronegativity",
+            "b": "Metallic character",
+            "c": "Ionization energy",
+            "d": "Non-metallic character"
+        },
+        "answer": "b"
+    }
+]

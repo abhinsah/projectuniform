@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "Who was Al-Biruni?",
+        "options": {
+            "a": "A French philosopher",
+            "b": "A diplomat from Herat",
+            "c": "A scholar from Uzbekistan",
+            "d": "A Portuguese missionary"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What was Al-Biruni's most famous work?",
+        "options": {
+            "a": "Rihla",
+            "b": "Kitab-ul-Hind",
+            "c": "Travels in the Mogul Empire",
+            "d": "Manusmriti"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In which language did Al-Biruni write the Kitab-ul-Hind?",
+        "options": {
+            "a": "Sanskrit",
+            "b": "Arabic",
+            "c": "Persian",
+            "d": "Urdu"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What prompted Al-Biruni\u2019s travel to India?",
+        "options": {
+            "a": "Sultan Mahmud\u2019s invasion of Khwarizm",
+            "b": "A trade mission",
+            "c": "His love for Indian culture",
+            "d": "An expedition to study astronomy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What methodology did Al-Biruni use in his writings?",
+        "options": {
+            "a": "Relying on oral traditions",
+            "b": "Comparing Indian traditions with those of other cultures",
+            "c": "Studying only Sanskrit texts",
+            "d": "Emphasizing religious differences"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who was Ibn Battuta?",
+        "options": {
+            "a": "A Portuguese merchant",
+            "b": "A Moroccan traveler and scholar",
+            "c": "A Mughal emperor\u2019s chronicler",
+            "d": "A Buddhist monk"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the title of Ibn Battuta\u2019s travelogue?",
+        "options": {
+            "a": "Kitab-ul-Hind",
+            "b": "Rihla",
+            "c": "Tarikh-e-Firoz",
+            "d": "Roznamcha"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What profession did Ibn Battuta practice during his travels in India?",
+        "options": {
+            "a": "Merchant",
+            "b": "Qazi (Judge)",
+            "c": "Astrologer",
+            "d": "Diplomat"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why did Fran\u00e7ois Bernier visit India?",
+        "options": {
+            "a": "To study Indian culture",
+            "b": "To serve as a physician at the Mughal court",
+            "c": "To translate Indian texts into French",
+            "d": "To establish trade relations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What unique perspective did Bernier bring to his writings about India?",
+        "options": {
+            "a": "He compared India with Europe",
+            "b": "He studied Indian religious texts extensively",
+            "c": "He romanticized Indian culture",
+            "d": "He avoided controversial topics"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was Ibn Battuta's primary motivation for traveling?",
+        "options": {
+            "a": "Religious pilgrimage",
+            "b": "Educational opportunities",
+            "c": "A desire for adventure and knowledge",
+            "d": "Political missions"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which Indian city did Ibn Battuta describe as the largest he had seen?",
+        "options": {
+            "a": "Delhi",
+            "b": "Daulatabad",
+            "c": "Agra",
+            "d": "Multan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What fascinated Ibn Battuta about Indian agriculture?",
+        "options": {
+            "a": "The use of advanced machinery",
+            "b": "The fertility of the soil and double-cropping system",
+            "c": "The dominance of plantation agriculture",
+            "d": "The reliance on imported seeds"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What system of communication amazed Ibn Battuta in India?",
+        "options": {
+            "a": "The postal system",
+            "b": "Maritime trade networks",
+            "c": "The use of signal towers",
+            "d": "A network of messengers on horseback"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal prince did Fran\u00e7ois Bernier serve as a physician?",
+        "options": {
+            "a": "Akbar",
+            "b": "Aurangzeb",
+            "c": "Dara Shukoh",
+            "d": "Shah Jahan"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What did Bernier criticize about landownership in Mughal India?",
+        "options": {
+            "a": "The high taxes on landowners",
+            "b": "The absence of private property in land",
+            "c": "Excessive reliance on foreign investments",
+            "d": "The lack of urban development"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "According to Bernier, what was a major weakness of Mughal cities?",
+        "options": {
+            "a": "Poor infrastructure",
+            "b": "Their dependence on imperial patronage",
+            "c": "Overcrowding",
+            "d": "Lack of trade networks"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the title of Al-Biruni\u2019s work on Indian society?",
+        "options": {
+            "a": "Rihla",
+            "b": "Kitab-ul-Hind",
+            "c": "Ain-i-Akbari",
+            "d": "Akbarnama"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What did Al-Biruni identify as a major barrier to understanding Indian culture?",
+        "options": {
+            "a": "Language differences",
+            "b": "Lack of historical records",
+            "c": "Hostility of local rulers",
+            "d": "Geographic distance"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did Ibn Battuta travel to India?",
+        "options": {
+            "a": "By sea via the Arabian Sea",
+            "b": "Overland through Central Asia",
+            "c": "Via the Silk Road",
+            "d": "Through the Mediterranean and Red Sea"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What notable institution did Ibn Battuta serve in during his time in India?",
+        "options": {
+            "a": "Mughal royal court",
+            "b": "Delhi Sultanate's judiciary",
+            "c": "A Hindu monastery",
+            "d": "The trade guilds of Gujarat"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Mughal emperor\u2019s reign did Bernier document extensively?",
+        "options": {
+            "a": "Akbar",
+            "b": "Shah Jahan",
+            "c": "Aurangzeb",
+            "d": "Jahangir"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What was the unique feature of Daulatabad\u2019s bazaars as noted by Ibn Battuta?",
+        "options": {
+            "a": "A market for singers and dancers",
+            "b": "A vast variety of imported goods",
+            "c": "A religious temple at its center",
+            "d": "A fortified trading post"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did Ibn Juzayy play in documenting Ibn Battuta's travels?",
+        "options": {
+            "a": "Co-traveler",
+            "b": "Translator",
+            "c": "Scribe and editor",
+            "d": "Sponsor of his travels"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How did Bernier describe the Mughal society?",
+        "options": {
+            "a": "As egalitarian",
+            "b": "As divided into extreme poverty and wealth",
+            "c": "As progressive and merit-based",
+            "d": "As stagnant and unchanging"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What term did Bernier use to describe Mughal cities?",
+        "options": {
+            "a": "\"Imperial capitals\"",
+            "b": "\"Camp towns\"",
+            "c": "\"Trade hubs\"",
+            "d": "\"Cultural centers\""
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What specific practice of Hindu society did Bernier critique heavily?",
+        "options": {
+            "a": "The caste system",
+            "b": "Idol worship",
+            "c": "Sati (widow burning)",
+            "d": "Agricultural practices"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What kind of texts did Al-Biruni translate into Arabic?",
+        "options": {
+            "a": "Vedic hymns",
+            "b": "Sanskrit works on astronomy and mathematics",
+            "c": "Puranic stories",
+            "d": "Epics like the Ramayana"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How did Bernier's works influence European thought?",
+        "options": {
+            "a": "They promoted the concept of oriental despotism",
+            "b": "They encouraged trade with India",
+            "c": "They romanticized Mughal culture",
+            "d": "They dismissed Indian society as irrelevant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of Al-Biruni's work, Kitab-ul-Hind?",
+        "options": {
+            "a": "It was the first European account of India",
+            "b": "It provided a comprehensive study of Indian society, religion, and science",
+            "c": "It was a guide for merchants visiting India",
+            "d": "It advocated for the conquest of India"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these travelers emphasized the novelty of Indian goods like coconuts and paan?",
+        "options": {
+            "a": "Ibn Battuta",
+            "b": "Fran\u00e7ois Bernier",
+            "c": "Al-Biruni",
+            "d": "Marco Polo"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did Al-Biruni acquire knowledge about Indian culture?",
+        "options": {
+            "a": "Extensive interaction with Brahmanas and scholars",
+            "b": "Travel throughout the subcontinent",
+            "c": "Observing temple rituals",
+            "d": "Engaging with merchants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which empire did Ibn Battuta document in great detail during his Indian travels?",
+        "options": {
+            "a": "Vijayanagara Empire",
+            "b": "Delhi Sultanate",
+            "c": "Mughal Empire",
+            "d": "Chola Dynasty"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What aspect of Indian cities impressed Ibn Battuta?",
+        "options": {
+            "a": "Their fortifications and organized markets",
+            "b": "Their reliance on foreign goods",
+            "c": "Their minimal reliance on agriculture",
+            "d": "Their cultural homogeneity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is metrology, a subject discussed in Kitab-ul-Hind?",
+        "options": {
+            "a": "Study of weather",
+            "b": "Study of measurement systems",
+            "c": "Study of mythology",
+            "d": "Study of maps"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was a recurring hazard faced by Ibn Battuta during his travels?",
+        "options": {
+            "a": "Natural disasters",
+            "b": "Robber attacks",
+            "c": "Language barriers",
+            "d": "Political conflicts"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Indian ruler appointed Ibn Battuta as a qazi?",
+        "options": {
+            "a": "Akbar",
+            "b": "Muhammad bin Tughlaq",
+            "c": "Sher Shah Suri",
+            "d": "Alauddin Khilji"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What unique communication system amazed Ibn Battuta in India?",
+        "options": {
+            "a": "Foot and horse post systems",
+            "b": "Signal towers",
+            "c": "Waterway messengers",
+            "d": "Underground courier networks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did Fran\u00e7ois Bernier describe Indian artisans?",
+        "options": {
+            "a": "Lazy and unskilled",
+            "b": "Talented but lacking innovation due to state oppression",
+            "c": "Independent and entrepreneurial",
+            "d": "Focused solely on domestic markets"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What kind of trade network did Ibn Battuta observe in India?",
+        "options": {
+            "a": "Focused entirely on agriculture",
+            "b": "Integrated with inter-Asian trade routes",
+            "c": "Isolated from global trade",
+            "d": "Dominated by European traders"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Mughal court figure collaborated with Bernier?",
+        "options": {
+            "a": "Dara Shukoh",
+            "b": "Danishmand Khan",
+            "c": "Aurangzeb",
+            "d": "Abdul Rahim Khan"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What form of writing did Al-Biruni criticize for its lack of clarity?",
+        "options": {
+            "a": "Arabic fables",
+            "b": "Translations of Sanskrit texts",
+            "c": "Indian legal documents",
+            "d": "Persian poetry"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Indian city was described by Ibn Battuta as vibrant and bustling?",
+        "options": {
+            "a": "Delhi",
+            "b": "Calicut",
+            "c": "Lahore",
+            "d": "Madurai"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What comparison did Ibn Battuta use to describe coconuts to his readers?",
+        "options": {
+            "a": "Human heads",
+            "b": "Palm fruits",
+            "c": "Large dates",
+            "d": "Jugs of milk"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did Bernier emphasize as a fundamental flaw in Mughal governance?",
+        "options": {
+            "a": "Religious intolerance",
+            "b": "Lack of private land ownership",
+            "c": "Over-reliance on agriculture",
+            "d": "Weak military infrastructure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which term did Al-Biruni use to describe the Indian caste system?",
+        "options": {
+            "a": "A rigid social hierarchy",
+            "b": "A unique social harmony",
+            "c": "A system of inequality",
+            "d": "A parallel to Persian social divisions"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "How did European readers perceive Bernier\u2019s accounts?",
+        "options": {
+            "a": "As romanticized depictions of Indian life",
+            "b": "As critical assessments highlighting European superiority",
+            "c": "As inaccurate fabrications",
+            "d": "As neutral, factual records"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was a major theme of Ibn Battuta\u2019s travelogue?",
+        "options": {
+            "a": "Cultural similarities between regions",
+            "b": "The novelty and diversity of unfamiliar societies",
+            "c": "The economic failures of the regions he visited",
+            "d": "A strict focus on political systems"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the primary focus of Bernier's Travels in the Mughal Empire?",
+        "options": {
+            "a": "Agricultural practices",
+            "b": "Court rituals and land systems",
+            "c": "Trade relations",
+            "d": "Architectural innovations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What economic role did bazaars play, according to Ibn Battuta?",
+        "options": {
+            "a": "They were purely markets for goods",
+            "b": "They served as cultural and social hubs",
+            "c": "They were isolated from village economies",
+            "d": "They functioned as administrative centers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What specific feature of Delhi's fortifications impressed Ibn Battuta?",
+        "options": {
+            "a": "Its height and strength",
+            "b": "The food storage capabilities within its walls",
+            "c": "The intricate carvings on its gates",
+            "d": "The unique materials used for construction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What did Al-Biruni believe was crucial for understanding Indian culture?",
+        "options": {
+            "a": "Knowledge of Sanskrit",
+            "b": "Interaction with local rulers",
+            "c": "Visits to Hindu temples",
+            "d": "Study of Buddhist texts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What mode of transport did Ibn Battuta often prefer for safety?",
+        "options": {
+            "a": "Large caravans",
+            "b": "Private escorts",
+            "c": "Riverboats",
+            "d": "Camel rides"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal economic system was misunderstood by Bernier?",
+        "options": {
+            "a": "Land revenue system",
+            "b": "Trade monopolies",
+            "c": "Village barter systems",
+            "d": "Taxation on artisans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why did Bernier\u2019s works influence later European theorists?",
+        "options": {
+            "a": "They romanticized India as a utopia",
+            "b": "They reinforced notions of European superiority",
+            "c": "They highlighted India\u2019s resistance to colonization",
+            "d": "They were purely scientific in tone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was a key observation of Ibn Battuta about Indian textiles?",
+        "options": {
+            "a": "They were affordable for all classes",
+            "b": "They were highly sought after internationally",
+            "c": "They were primarily used for rituals",
+            "d": "They were inferior to Middle Eastern textiles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What practice of Indian rulers impressed Ibn Battuta?",
+        "options": {
+            "a": "Their support for scholars and poets",
+            "b": "Their fair taxation policies",
+            "c": "Their religious tolerance",
+            "d": "Their military discipline"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did Bernier claim was the reason for Mughal cities\u2019 decline?",
+        "options": {
+            "a": "Lack of trade networks",
+            "b": "Dependency on imperial patronage",
+            "c": "Frequent invasions",
+            "d": "Unfavorable climate conditions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which historical source does Bernier often reference in his writings?",
+        "options": {
+            "a": "Persian manuscripts",
+            "b": "French diplomatic records",
+            "c": "Mughal chronicles",
+            "d": "Contemporary European philosophical debates"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What was a key difference in the accounts of Al-Biruni and Ibn Battuta?",
+        "options": {
+            "a": "Al-Biruni focused on religious analysis, while Ibn Battuta emphasized daily life",
+            "b": "Ibn Battuta criticized Indian society, while Al-Biruni idealized it",
+            "c": "Al-Biruni avoided personal narratives, while Ibn Battuta emphasized them",
+            "d": "Ibn Battuta focused on economic policies, while Al-Biruni ignored them"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is Bhakti?",
+        "options": {
+            "a": "Devotion towards a personal deity",
+            "b": "A form of trade in medieval India",
+            "c": "A system of taxation",
+            "d": "Ritual sacrifices performed in temples"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The Bhakti movement emphasized:",
+        "options": {
+            "a": "Ritualistic worship",
+            "b": "Individual devotion and surrender to God",
+            "c": "Strict adherence to caste rules",
+            "d": "Material prosperity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the Sufi tradition associated with?",
+        "options": {
+            "a": "Devotional love for God and mysticism",
+            "b": "Worship of idols in mosques",
+            "c": "Promotion of agricultural practices",
+            "d": "Political administration"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Kabir?",
+        "options": {
+            "a": "A Mughal emperor",
+            "b": "A Bhakti saint who challenged caste and religious orthodoxy",
+            "c": "A Rajput warrior",
+            "d": "A Sufi scholar"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What language did Kabir primarily use for his compositions?",
+        "options": {
+            "a": "Sanskrit",
+            "b": "Hindi dialects",
+            "c": "Persian",
+            "d": "Tamil"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \"guru-shishya parampara\" refer to?",
+        "options": {
+            "a": "Teacher-disciple relationship in spiritual traditions",
+            "b": "Economic ties between landlords and peasants",
+            "c": "The hereditary rule of kings",
+            "d": "The relationship between merchants and artisans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Bhakti saint is known for advocating devotion to Lord Krishna?",
+        "options": {
+            "a": "Mirabai",
+            "b": "Guru Nanak",
+            "c": "Basavanna",
+            "d": "Kabir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary focus of the Sufi philosophy?",
+        "options": {
+            "a": "Wealth accumulation",
+            "b": "Spiritual closeness to God through love and devotion",
+            "c": "Expansion of political empires",
+            "d": "Building of mosques and monuments"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The Bhakti movement emerged primarily as a response to:",
+        "options": {
+            "a": "Islamic invasions",
+            "b": "Rigid caste and ritualistic practices in Hinduism",
+            "c": "European colonization",
+            "d": "Decline in agricultural production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the collections of Kabir\u2019s teachings called?",
+        "options": {
+            "a": "Bijak",
+            "b": "Ramcharitmanas",
+            "c": "Quran",
+            "d": "Vedas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Guru Nanak?",
+        "options": {
+            "a": "The founder of Sikhism",
+            "b": "A Mughal emperor",
+            "c": "A famous Bhakti poet",
+            "d": "A prominent Sufi scholar"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for Sufi mystic congregations?",
+        "options": {
+            "a": "Matha",
+            "b": "Khanqah",
+            "c": "Sabha",
+            "d": "Gurudwara"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a dargah?",
+        "options": {
+            "a": "A mosque for Friday prayers",
+            "b": "The tomb of a Sufi saint",
+            "c": "A temple for Hindu worship",
+            "d": "A royal court for legal proceedings"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Sufi order was prominent in medieval India?",
+        "options": {
+            "a": "Chishti",
+            "b": "Jesuit",
+            "c": "Franciscan",
+            "d": "Theravada"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Mirabai devoted to?",
+        "options": {
+            "a": "Lord Shiva",
+            "b": "Lord Krishna",
+            "c": "Guru Nanak",
+            "d": "Prophet Muhammad"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following Bhakti poets rejected idol worship?",
+        "options": {
+            "a": "Kabir",
+            "b": "Tulsidas",
+            "c": "Surdas",
+            "d": "Mirabai"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"samadhi\" signify in Bhakti traditions?",
+        "options": {
+            "a": "Meditative absorption or union with the divine",
+            "b": "Ritual offerings to deities",
+            "c": "A collection of hymns",
+            "d": "The construction of temples"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the khanqah in Sufi tradition?",
+        "options": {
+            "a": "It was a trading hub",
+            "b": "It served as a center for religious learning and community life",
+            "c": "It was a fort used during wars",
+            "d": "It was a storehouse for agricultural produce"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Sufi saint was famous for his belief in the oneness of God?",
+        "options": {
+            "a": "Nizamuddin Auliya",
+            "b": "Khwaja Muinuddin Chishti",
+            "c": "Bulleh Shah",
+            "d": "Rabia Basri"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who compiled the Guru Granth Sahib?",
+        "options": {
+            "a": "Guru Nanak",
+            "b": "Guru Arjan Dev",
+            "c": "Guru Gobind Singh",
+            "d": "Guru Hargobind"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a key feature of Bhakti poetry?",
+        "options": {
+            "a": "Use of complex Sanskrit language",
+            "b": "Use of regional languages to appeal to the masses",
+            "c": "Focus on warfare and heroism",
+            "d": "Praise of rulers and kings"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which famous Sufi saint\u2019s dargah is in Ajmer?",
+        "options": {
+            "a": "Khwaja Muinuddin Chishti",
+            "b": "Baba Farid",
+            "c": "Nizamuddin Auliya",
+            "d": "Shah Waliullah"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main principle of Advaita Vedanta philosophy, which influenced some Bhakti saints?",
+        "options": {
+            "a": "The world is an illusion, and the soul is identical with the divine",
+            "b": "Duality of God and human beings",
+            "c": "Strict adherence to rituals",
+            "d": "Promotion of temple construction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text is associated with Basavanna\u2019s Virashaiva tradition?",
+        "options": {
+            "a": "Vachanas",
+            "b": "Gita Govinda",
+            "c": "Guru Granth Sahib",
+            "d": "Bijak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the focus of the Nathpanthi tradition?",
+        "options": {
+            "a": "Devotion to Vishnu",
+            "b": "Yogic practices and detachment from the world",
+            "c": "Sufi mysticism",
+            "d": "Vedic sacrifices"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"sama\" refer to in Sufi traditions?",
+        "options": {
+            "a": "The study of texts",
+            "b": "Devotional music and poetry",
+            "c": "Political alliances",
+            "d": "Building of mosques"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the main goal of the Bhakti and Sufi movements?",
+        "options": {
+            "a": "To promote material wealth",
+            "b": "To bridge religious divides and promote universal love",
+            "c": "To establish political dominance",
+            "d": "To revive Vedic traditions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who was Nizamuddin Auliya?",
+        "options": {
+            "a": "A Sufi saint of the Chishti order",
+            "b": "A Bhakti poet from Gujarat",
+            "c": "A Mughal emperor",
+            "d": "A prominent scholar of the Vedas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did Bhakti and Sufi traditions challenge in medieval Indian society?",
+        "options": {
+            "a": "Centralized rule",
+            "b": "Rigid social hierarchies and ritualism",
+            "c": "Expansion of trade networks",
+            "d": "Agricultural innovations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of the Langar in Sikhism?",
+        "options": {
+            "a": "A community kitchen promoting equality",
+            "b": "A place for military training",
+            "c": "A storehouse for holy books",
+            "d": "A temple dedicated to Guru Nanak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Bhakti saint composed the Ramcharitmanas?",
+        "options": {
+            "a": "Tulsidas",
+            "b": "Kabir",
+            "c": "Surdas",
+            "d": "Mirabai"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"pir\" refer to in Sufi tradition?",
+        "options": {
+            "a": "A spiritual guide or teacher",
+            "b": "A place of worship",
+            "c": "A sacred text",
+            "d": "A form of charity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main teaching of Kabir?",
+        "options": {
+            "a": "Unity of all religions and rejection of rituals",
+            "b": "Strict adherence to caste norms",
+            "c": "Idol worship as a means to salvation",
+            "d": "Focus on Vedic rituals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the hallmark of Mirabai's poetry?",
+        "options": {
+            "a": "Her deep devotion to Lord Krishna",
+            "b": "Her praise of Mughal emperors",
+            "c": "Her critiques of the Bhakti movement",
+            "d": "Her advocacy for Sufi traditions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the purpose of sama in Sufi practices?",
+        "options": {
+            "a": "To inspire spiritual ecstasy through music and dance",
+            "b": "To promote religious orthodoxy",
+            "c": "To document historical events",
+            "d": "To spread trade networks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Bhakti saint hailed from Tamil Nadu?",
+        "options": {
+            "a": "Appar",
+            "b": "Kabir",
+            "c": "Basavanna",
+            "d": "Guru Nanak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Sufi saint was known for his generosity and langar system?",
+        "options": {
+            "a": "Khwaja Muinuddin Chishti",
+            "b": "Baba Farid",
+            "c": "Nizamuddin Auliya",
+            "d": "Shah Waliullah"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which language did Guru Nanak primarily use for his hymns?",
+        "options": {
+            "a": "Persian",
+            "b": "Punjabi",
+            "c": "Sanskrit",
+            "d": "Hindi"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main idea in the poetry of Surdas?",
+        "options": {
+            "a": "The childhood and love of Lord Krishna",
+            "b": "The philosophy of Advaita Vedanta",
+            "c": "The critique of societal norms",
+            "d": "The unity of Hindu and Muslim traditions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Sufi practice involved meditative recollection of God\u2019s name?",
+        "options": {
+            "a": "Zikr",
+            "b": "Sama",
+            "c": "Hajj",
+            "d": "Ibadat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Bhakti saint is known for the vachanas?",
+        "options": {
+            "a": "Basavanna",
+            "b": "Tulsidas",
+            "c": "Mirabai",
+            "d": "Kabir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the focus of the Chishti order in India?",
+        "options": {
+            "a": "Political dominance",
+            "b": "Mystical devotion and service to the community",
+            "c": "Expansion of trade networks",
+            "d": "Promotion of military campaigns"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Bhakti saint challenged both Hindu and Islamic orthodoxy?",
+        "options": {
+            "a": "Kabir",
+            "b": "Surdas",
+            "c": "Mirabai",
+            "d": "Tulsidas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which tradition influenced the Alvars and Nayanars?",
+        "options": {
+            "a": "Devotional worship of Vishnu and Shiva",
+            "b": "Sufi mysticism",
+            "c": "Vedic ritualism",
+            "d": "Advaita philosophy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text reflects the teachings of Kabir?",
+        "options": {
+            "a": "Bijak",
+            "b": "Vachanas",
+            "c": "Guru Granth Sahib",
+            "d": "Bhagavad Gita"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Rabia Basri in Sufi tradition?",
+        "options": {
+            "a": "A prominent female mystic known for her devotion and humility",
+            "b": "A founder of the Chishti order",
+            "c": "A political leader in medieval India",
+            "d": "A translator of Islamic texts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main focus of Bhakti saints' teachings?",
+        "options": {
+            "a": "A personal relationship with God over ritualistic practices",
+            "b": "Expanding temple construction",
+            "c": "Strengthening caste hierarchies",
+            "d": "Developing Vedic education systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did Nizamuddin Auliya emphasize in his teachings?",
+        "options": {
+            "a": "Universal love and charity",
+            "b": "Strict adherence to Islamic law",
+            "c": "Promotion of military conquests",
+            "d": "Importance of pilgrimage"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What form of devotion did Andal, a Tamil saint, advocate?",
+        "options": {
+            "a": "Love and surrender to Lord Vishnu",
+            "b": "Ritual sacrifices to Shiva",
+            "c": "Mystic union with the divine",
+            "d": "Meditation on Advaita philosophy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did Bhakti saints oppose in medieval society?",
+        "options": {
+            "a": "Social discrimination and caste-based divisions",
+            "b": "Use of regional languages",
+            "c": "Construction of religious monuments",
+            "d": "Agricultural reforms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"tasawwuf\" in Sufism?",
+        "options": {
+            "a": "The mystic path to divine love",
+            "b": "A form of political governance",
+            "c": "The study of Islamic law",
+            "d": "Ritual worship in mosques"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of songs are associated with Mirabai?",
+        "options": {
+            "a": "Bhajans",
+            "b": "Ghazals",
+            "c": "Vachanas",
+            "d": "Sama"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"murid\" mean in Sufi tradition?",
+        "options": {
+            "a": "A disciple seeking guidance from a pir",
+            "b": "A ruler of a Sufi kingdom",
+            "c": "A religious teacher",
+            "d": "A poet writing in Persian"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Bhakti saint was associated with the Krishna bhakti tradition in North India?",
+        "options": {
+            "a": "Surdas",
+            "b": "Tulsidas",
+            "c": "Kabir",
+            "d": "Guru Nanak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the aim of the Bhakti movement?",
+        "options": {
+            "a": "Bridging the gap between different religious communities through devotion",
+            "b": "Strengthening caste-based traditions",
+            "c": "Establishing political unity in India",
+            "d": "Promoting material wealth"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"fana\" in Sufi practice?",
+        "options": {
+            "a": "Complete annihilation of the self in divine love",
+            "b": "Religious pilgrimage to holy sites",
+            "c": "Recitation of holy texts",
+            "d": "Construction of mosques"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who is regarded as the \"father of Sufism\"?",
+        "options": {
+            "a": "Rabia Basri",
+            "b": "Jalaluddin Rumi",
+            "c": "Al-Ghazali",
+            "d": "Khwaja Muinuddin Chishti"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What did Tulsidas emphasize in his writings?",
+        "options": {
+            "a": "Bhakti towards Lord Rama",
+            "b": "Political unity among Indian rulers",
+            "c": "Ritual sacrifices",
+            "d": "Devotion to Lord Shiva"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What term describes Sufi rituals and music?",
+        "options": {
+            "a": "Sama",
+            "b": "Vachana",
+            "c": "Bhajan",
+            "d": "Hajj"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Alvars and Nayanars in Bhakti traditions?",
+        "options": {
+            "a": "They were early Bhakti saints devoted to Vishnu and Shiva",
+            "b": "They founded the Sufi khanqahs in India",
+            "c": "They promoted Advaita Vedanta",
+            "d": "They were associated with Jain philosophy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the name Vijayanagara mean?",
+        "options": {
+            "a": "City of Victory",
+            "b": "Land of the Gods",
+            "c": "Center of Learning",
+            "d": "City of Gold"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were the founders of the Vijayanagara Empire?",
+        "options": {
+            "a": "Harihara and Bukka",
+            "b": "Krishnadevaraya and Achyutadevaraya",
+            "c": "Narasimha and Sadasiva Raya",
+            "d": "Balaji Vishwanath and Shivaji"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which dynasty first ruled Vijayanagara?",
+        "options": {
+            "a": "Sangama dynasty",
+            "b": "Saluva dynasty",
+            "c": "Tuluva dynasty",
+            "d": "Aravidu dynasty"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river was central to the Vijayanagara Empire?",
+        "options": {
+            "a": "Krishna",
+            "b": "Tungabhadra",
+            "c": "Godavari",
+            "d": "Kaveri"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the main purpose of the massive walls of Vijayanagara?",
+        "options": {
+            "a": "To prevent enemy attacks",
+            "b": "To divide agricultural zones from urban zones",
+            "c": "To create a sacred boundary",
+            "d": "To collect tolls from merchants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What architectural feature is the Vijayanagara Empire famous for?",
+        "options": {
+            "a": "Dravidian-style temples with large gopurams",
+            "b": "Indo-Islamic tombs",
+            "c": "Buddhist stupas",
+            "d": "Mughal-style forts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which traveler provided significant accounts of the Vijayanagara Empire?",
+        "options": {
+            "a": "Ibn Battuta",
+            "b": "Domingo Paes",
+            "c": "Al-Biruni",
+            "d": "Fran\u00e7ois Bernier"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the capital city of the Vijayanagara Empire?",
+        "options": {
+            "a": "Hampi",
+            "b": "Mysore",
+            "c": "Hyderabad",
+            "d": "Madurai"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which festival was celebrated grandly in Vijayanagara?",
+        "options": {
+            "a": "Diwali",
+            "b": "Navaratri",
+            "c": "Holi",
+            "d": "Pongal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the primary source of wealth for the Vijayanagara Empire?",
+        "options": {
+            "a": "Trade in spices, textiles, and precious stones",
+            "b": "Agriculture and irrigation",
+            "c": "Tribute from neighboring kingdoms",
+            "d": "Foreign aid from European traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which king is considered the greatest ruler of the Vijayanagara Empire?",
+        "options": {
+            "a": "Krishnadevaraya",
+            "b": "Bukka Raya I",
+            "c": "Harihara II",
+            "d": "Rama Raya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Tungabhadra River for Vijayanagara?",
+        "options": {
+            "a": "It provided irrigation for agriculture",
+            "b": "It acted as a natural defense",
+            "c": "It served as a trade route",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which kingdom defeated the Vijayanagara Empire in the Battle of Talikota?",
+        "options": {
+            "a": "Bahmani Sultanate",
+            "b": "Deccan Sultanates",
+            "c": "Chola Empire",
+            "d": "Maratha Confederacy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the main characteristic of Vijayanagara\u2019s temple complexes?",
+        "options": {
+            "a": "Large courtyards and tall gopurams",
+            "b": "Underground chambers",
+            "c": "Simple, minimalistic designs",
+            "d": "Use of marble and gold plating"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Portuguese traveler documented the grandeur of Vijayanagara?",
+        "options": {
+            "a": "Duarte Barbosa",
+            "b": "Vasco da Gama",
+            "c": "Domingo Paes",
+            "d": "Fern\u00e3o Nunes"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What were the \u201cmandapas\u201d in Vijayanagara architecture?",
+        "options": {
+            "a": "Pillared halls for religious and social activities",
+            "b": "Fortified gates",
+            "c": "Tanks for irrigation",
+            "d": "Underground granaries"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What material was commonly used in Vijayanagara architecture?",
+        "options": {
+            "a": "Granite",
+            "b": "Marble",
+            "c": "Sandstone",
+            "d": "Limestone"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary deity worshiped in Vijayanagara temples?",
+        "options": {
+            "a": "Vishnu",
+            "b": "Shiva",
+            "c": "Brahma",
+            "d": "Indra"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which literary work is attributed to Krishnadevaraya?",
+        "options": {
+            "a": "Amuktamalyada",
+            "b": "Ramcharitmanas",
+            "c": "Arthashastra",
+            "d": "Bhagavata Purana"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the Virupaksha temple serve in Hampi?",
+        "options": {
+            "a": "A center of worship for Shiva devotees",
+            "b": "A royal administrative building",
+            "c": "A marketplace for traders",
+            "d": "A fort for military defense"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was unique about the Mahanavami Dibba in Vijayanagara?",
+        "options": {
+            "a": "It was a platform for royal ceremonies",
+            "b": "It was a temple dedicated to Durga",
+            "c": "It was a granary for storing food",
+            "d": "It served as a military headquarters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the bazaars of Vijayanagara specialize in?",
+        "options": {
+            "a": "Local and international goods like spices and textiles",
+            "b": "Ritual offerings for temples",
+            "c": "Weapons and armor for the army",
+            "d": "Horses and livestock"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which architectural structure symbolized the prosperity of Vijayanagara?",
+        "options": {
+            "a": "Temples and large irrigation tanks",
+            "b": "Fortresses along the Tungabhadra",
+            "c": "Underground chambers for storage",
+            "d": "Palaces adorned with ivory"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the purpose of Vijayanagara\u2019s irrigation systems?",
+        "options": {
+            "a": "To support agriculture and maintain food surplus",
+            "b": "To improve navigation along rivers",
+            "c": "To expand trade routes",
+            "d": "To beautify temple complexes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which community played a significant role in Vijayanagara\u2019s trade?",
+        "options": {
+            "a": "Arab merchants",
+            "b": "Portuguese traders",
+            "c": "Chettis and other local trading communities",
+            "d": "Dutch East India Company"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What was the significance of Hampi in Vijayanagara?",
+        "options": {
+            "a": "It was the capital city and a cultural hub",
+            "b": "It was the empire\u2019s primary trade route",
+            "c": "It served as a military garrison",
+            "d": "It was an agricultural settlement"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What marked the decline of Vijayanagara?",
+        "options": {
+            "a": "Battle of Talikota in 1565",
+            "b": "Drought and famine",
+            "c": "Invasion by the Cholas",
+            "d": "Loss of European trade connections"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which structure in Vijayanagara was known for its intricate carvings?",
+        "options": {
+            "a": "Lotus Mahal",
+            "b": "Elephant Stables",
+            "c": "Hazara Rama Temple",
+            "d": "Mahanavami Dibba"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who were the Nayakas in the Vijayanagara Empire?",
+        "options": {
+            "a": "Military chiefs governing regions",
+            "b": "Temple priests",
+            "c": "Merchants controlling trade",
+            "d": "Foreign envoys"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the foreign travelers highlight about Vijayanagara society?",
+        "options": {
+            "a": "Its wealth, vibrant markets, and strong military",
+            "b": "Its lack of cultural diversity",
+            "c": "Its poor infrastructure",
+            "d": "Its reliance on European trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the Lotus Mahal in Vijayanagara known for?",
+        "options": {
+            "a": "Its unique blend of Hindu and Islamic architectural styles",
+            "b": "Serving as a granary",
+            "c": "Being the largest temple in Hampi",
+            "d": "Housing royal stables"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main function of the Elephant Stables in Hampi?",
+        "options": {
+            "a": "Housing royal elephants",
+            "b": "Storage for grains",
+            "c": "Conducting religious ceremonies",
+            "d": "Training soldiers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which material was predominantly used in Vijayanagara temples for intricate carvings?",
+        "options": {
+            "a": "Granite",
+            "b": "Sandstone",
+            "c": "Marble",
+            "d": "Wood"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the Nayaka system play in Vijayanagara administration?",
+        "options": {
+            "a": "Decentralized governance by military chiefs",
+            "b": "Centralized control by the king",
+            "c": "Direct taxation of villages by the emperor",
+            "d": "Representation of local communities in court"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary focus of Vijayanagara art and architecture?",
+        "options": {
+            "a": "Devotion to deities and grandeur of temples",
+            "b": "Emphasis on secular buildings",
+            "c": "Minimalist styles for cost efficiency",
+            "d": "European influences in design"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which dynasty succeeded the Tuluva dynasty in Vijayanagara?",
+        "options": {
+            "a": "Aravidu dynasty",
+            "b": "Sangama dynasty",
+            "c": "Chola dynasty",
+            "d": "Saluva dynasty"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the function of the bazaars surrounding Vijayanagara temples?",
+        "options": {
+            "a": "They served as trade hubs for pilgrims and merchants",
+            "b": "They were used as tax collection centers",
+            "c": "They housed administrative offices",
+            "d": "They stored temple artifacts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which temple complex is known for its musical pillars in Vijayanagara?",
+        "options": {
+            "a": "Vittala Temple",
+            "b": "Virupaksha Temple",
+            "c": "Hazara Rama Temple",
+            "d": "Kamalapur Temple"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Amuktamalyada written by Krishnadevaraya?",
+        "options": {
+            "a": "It provided insights into good governance and administration",
+            "b": "It was a religious text about temple rituals",
+            "c": "It described the art of war",
+            "d": "It chronicled the empire\u2019s trade networks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did foreign travelers note about Vijayanagara\u2019s irrigation systems?",
+        "options": {
+            "a": "Advanced and extensive water management",
+            "b": "Reliance solely on the monsoon",
+            "c": "Poorly maintained tanks and reservoirs",
+            "d": "Absence of agricultural support systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which dynasty is considered to have established Vijayanagara\u2019s cultural foundation?",
+        "options": {
+            "a": "Sangama dynasty",
+            "b": "Tuluva dynasty",
+            "c": "Chola dynasty",
+            "d": "Saluva dynasty"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did the Vijayanagara rulers encourage trade?",
+        "options": {
+            "a": "By building extensive marketplaces near temples",
+            "b": "By providing tax exemptions to merchants",
+            "c": "By establishing naval fleets for overseas trade",
+            "d": "By standardizing currency"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the architectural significance of the Vittala Temple?",
+        "options": {
+            "a": "Its massive chariot sculpture and musical pillars",
+            "b": "Its focus on minimalism",
+            "c": "Its fusion of Persian and Dravidian styles",
+            "d": "Its use of gold plating"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary focus of Vijayanagara festivals?",
+        "options": {
+            "a": "Religious devotion and royal celebrations",
+            "b": "Military parades",
+            "c": "Trade and market fairs",
+            "d": "Diplomatic summits"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a characteristic feature of Vijayanagara fortifications?",
+        "options": {
+            "a": "Seven concentric walls",
+            "b": "Underground escape routes",
+            "c": "Use of bronze for gates",
+            "d": "Circular design for all forts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which deity was most prominently worshiped in the Virupaksha Temple?",
+        "options": {
+            "a": "Shiva",
+            "b": "Vishnu",
+            "c": "Brahma",
+            "d": "Durga"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a key reason for Vijayanagara\u2019s wealth and prosperity?",
+        "options": {
+            "a": "Its dominance in Indian Ocean trade",
+            "b": "Rich mineral resources in the region",
+            "c": "Tribute from European powers",
+            "d": "Strong alliances with Deccan Sultanates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What impact did the Battle of Talikota have on Vijayanagara?",
+        "options": {
+            "a": "It marked the beginning of its decline",
+            "b": "It expanded the empire's territory",
+            "c": "It resulted in Vijayanagara\u2019s dominance over South India",
+            "d": "It strengthened alliances with European traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were the main opponents of Vijayanagara in the Battle of Talikota?",
+        "options": {
+            "a": "Deccan Sultanates",
+            "b": "Marathas",
+            "c": "Cholas and Pandyas",
+            "d": "Portuguese traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the Hazara Rama Temple?",
+        "options": {
+            "a": "A royal family temple dedicated to Rama",
+            "b": "A trade center for pilgrims",
+            "c": "A granary for temple offerings",
+            "d": "A fortress for military use"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What feature of Vijayanagara architecture symbolized its economic prosperity?",
+        "options": {
+            "a": "Large gopurams and intricate carvings",
+            "b": "Underground storage facilities",
+            "c": "Basic designs for practicality",
+            "d": "Use of imported materials"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the Mahanavami Dibba symbolize?",
+        "options": {
+            "a": "Royal power and celebration",
+            "b": "Military might of Vijayanagara",
+            "c": "Religious rituals for Shiva",
+            "d": "Agricultural prosperity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which traveler highlighted Vijayanagara\u2019s extensive use of horses in warfare?",
+        "options": {
+            "a": "Domingo Paes",
+            "b": "Al-Biruni",
+            "c": "Ibn Battuta",
+            "d": "Marco Polo"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How were women viewed in Vijayanagara society, according to foreign accounts?",
+        "options": {
+            "a": "They participated in cultural and economic activities",
+            "b": "They were confined to domestic roles",
+            "c": "They were completely excluded from public life",
+            "d": "They were prominent in politics"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the relationship between Vijayanagara and the Deccan Sultanates before the Battle of Talikota?",
+        "options": {
+            "a": "A mix of trade relations and conflicts",
+            "b": "Complete hostility",
+            "c": "Military alliances against the Mughals",
+            "d": "Religious collaboration"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a significant innovation in Vijayanagara\u2019s urban planning?",
+        "options": {
+            "a": "Integration of agricultural zones within city walls",
+            "b": "Centralized water distribution systems",
+            "c": "Segregated residential areas for merchants",
+            "d": "Use of canals for city navigation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did temples contribute to Vijayanagara\u2019s economy?",
+        "options": {
+            "a": "They served as centers for trade and storage",
+            "b": "They housed administrative offices",
+            "c": "They were used for military training",
+            "d": "They generated revenue through pilgrim donations"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What was the significance of the marketplaces in Hampi?",
+        "options": {
+            "a": "They facilitated local and international trade",
+            "b": "They were solely for religious offerings",
+            "c": "They were controlled by the royal family",
+            "d": "They were closed during festivals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which kingdom\u2019s alliances ultimately weakened Vijayanagara?",
+        "options": {
+            "a": "Deccan Sultanates",
+            "b": "Mughal Empire",
+            "c": "Chola Empire",
+            "d": "Portuguese traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What legacy did Vijayanagara leave behind?",
+        "options": {
+            "a": "Its contribution to South Indian art, architecture, and culture",
+            "b": "Its political alliances with Europe",
+            "c": "Its military dominance over the Deccan",
+            "d": "Its conversion to a Portuguese trading post"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were the zamindars in Mughal India?",
+        "options": {
+            "a": "Landlords who collected revenue from peasants",
+            "b": "Military officials",
+            "c": "Religious leaders",
+            "d": "Merchants involved in overseas trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary duty of the peasants in Mughal India?",
+        "options": {
+            "a": "To pay revenue to the zamindars and cultivate land",
+            "b": "To serve in the Mughal army",
+            "c": "To act as scribes in royal administration",
+            "d": "To maintain trade relations with foreign merchants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary form of revenue collection in Mughal India?",
+        "options": {
+            "a": "Cash payments",
+            "b": "Grain or other agricultural produce",
+            "c": "Silver and gold imports",
+            "d": "Barter system"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who were the intermediaries between the state and peasants?",
+        "options": {
+            "a": "Zamindars",
+            "b": "Merchants",
+            "c": "Local artisans",
+            "d": "Temple priests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the jagirdars play in the Mughal Empire?",
+        "options": {
+            "a": "They were assigned land to collect revenue on behalf of the state",
+            "b": "They were military commanders only",
+            "c": "They were traders responsible for exports",
+            "d": "They were advisors in the Mughal court"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the zabt system in Mughal India?",
+        "options": {
+            "a": "A system of revenue assessment and collection",
+            "b": "A method of constructing irrigation systems",
+            "c": "A military strategy used in wars",
+            "d": "A legal code for peasants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who introduced the zabt system in Mughal India?",
+        "options": {
+            "a": "Akbar",
+            "b": "Babur",
+            "c": "Aurangzeb",
+            "d": "Jahangir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were the principal crops cultivated by peasants in Mughal India?",
+        "options": {
+            "a": "Rice, wheat, cotton, and sugarcane",
+            "b": "Tea and coffee",
+            "c": "Spices like cardamom and black pepper",
+            "d": "Maize and tobacco exclusively"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"khudkashta\" peasant?",
+        "options": {
+            "a": "A resident peasant who cultivated their own land",
+            "b": "A tenant farmer",
+            "c": "A landless laborer",
+            "d": "A traveling merchant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"pahikashta\" peasant?",
+        "options": {
+            "a": "A peasant who cultivated land they did not own in another village",
+            "b": "A nomadic farmer",
+            "c": "A member of the Mughal bureaucracy",
+            "d": "A zamindar's assistant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary responsibility of the diwan in the Mughal administration?",
+        "options": {
+            "a": "Supervision of revenue collection",
+            "b": "Commanding the military",
+            "c": "Managing trade relations",
+            "d": "Overseeing temple rituals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were watan jagirs?",
+        "options": {
+            "a": "Inherited lands held by zamindars",
+            "b": "Revenue-free lands given to religious leaders",
+            "c": "Agricultural plots shared among peasants",
+            "d": "Land allotted to traders for economic activities"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the qanungo in Mughal revenue administration?",
+        "options": {
+            "a": "Maintaining revenue records of villages",
+            "b": "Supervising the military campaigns",
+            "c": "Regulating trade routes",
+            "d": "Managing religious endowments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the basis of revenue assessment under the zabt system?",
+        "options": {
+            "a": "Crop production and area cultivated",
+            "b": "Number of cattle owned by a peasant",
+            "c": "Trade revenue generated in the region",
+            "d": "Wealth of zamindars"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a significant feature of Mughal agriculture?",
+        "options": {
+            "a": "Dependence on irrigation systems like wells and tanks",
+            "b": "Use of advanced machinery",
+            "c": "Focus on non-agricultural crops",
+            "d": "Minimal reliance on manual labor"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in Mughal India was known for its cotton production?",
+        "options": {
+            "a": "Gujarat",
+            "b": "Bengal",
+            "c": "Kashmir",
+            "d": "Punjab"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"mahal\" in Mughal administration?",
+        "options": {
+            "a": "A revenue collection unit comprising multiple villages",
+            "b": "A royal palace",
+            "c": "A temple-managed village",
+            "d": "A trading center"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were the main sources of irrigation in Mughal India?",
+        "options": {
+            "a": "Wells, tanks, and canals",
+            "b": "Rainwater exclusively",
+            "c": "Rivers with no artificial systems",
+            "d": "Imported European techniques"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Ain-i-Akbari?",
+        "options": {
+            "a": "It provided detailed records of Mughal administration, including revenue and agriculture",
+            "b": "It was a religious text for the Mughal court",
+            "c": "It described Mughal military strategies",
+            "d": "It served as a travelogue for Akbar\u2019s empire"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the zamindars during the Mughal period?",
+        "options": {
+            "a": "Collecting revenue and maintaining law and order",
+            "b": "Commanding the army",
+            "c": "Building temples and mosques",
+            "d": "Trading agricultural produce internationally"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"polaj\" lands in Mughal India?",
+        "options": {
+            "a": "Lands annually cultivated for crops",
+            "b": "Land left fallow for several years",
+            "c": "Forested lands used for timber",
+            "d": "Urban land used for settlements"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the term \"chachar\" refer to in Mughal agricultural practices?",
+        "options": {
+            "a": "Land left fallow for three to four years",
+            "b": "Land used for grazing",
+            "c": "Irrigated land used for rice cultivation",
+            "d": "Tax-free land given to zamindars"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who documented the agrarian system in Mughal India extensively?",
+        "options": {
+            "a": "Abu\u2019l Fazl",
+            "b": "Ibn Battuta",
+            "c": "Domingo Paes",
+            "d": "Fran\u00e7ois Bernier"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary purpose of the Mughal jagir system?",
+        "options": {
+            "a": "To provide land revenue to nobles and officials",
+            "b": "To promote trade with foreign nations",
+            "c": "To build forts and palaces",
+            "d": "To support Hindu temples"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was \"batai\" or \"ghalla bakhshi\"?",
+        "options": {
+            "a": "A method of revenue collection where produce was divided between the state and the cultivator",
+            "b": "A system of forced labor",
+            "c": "Tax on trade goods",
+            "d": "Measurement of land using a standard unit"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"raiyats\" in Mughal India?",
+        "options": {
+            "a": "Peasants who worked the land",
+            "b": "Military commanders",
+            "c": "Artisans and craftsmen",
+            "d": "Foreign traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the Mughal state provide to peasants in return for revenue?",
+        "options": {
+            "a": "Protection and irrigation facilities",
+            "b": "Religious freedom",
+            "c": "Free seeds and tools",
+            "d": "Permanent ownership of land"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What led to peasant revolts in Mughal India?",
+        "options": {
+            "a": "Excessive taxation and zamindar oppression",
+            "b": "Decline in military strength",
+            "c": "European trade dominance",
+            "d": "Decline in irrigation systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the key feature of Mughal agrarian economy?",
+        "options": {
+            "a": "Dominance of subsistence farming",
+            "b": "Integration with global trade markets",
+            "c": "Use of high-yield seeds",
+            "d": "Focus on non-agricultural exports"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the Mughal emperor in the agrarian system?",
+        "options": {
+            "a": "Overseeing the revenue collection and ensuring fair practices",
+            "b": "Participating directly in farming activities",
+            "c": "Importing agricultural machinery",
+            "d": "Establishing trade relations with Europe"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term referred to land that was left uncultivated for extended periods in Mughal India?",
+        "options": {
+            "a": "Banjar",
+            "b": "Chachar",
+            "c": "Polaj",
+            "d": "Watan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the \"jins-i-kamil\" mentioned in the Ain-i-Akbari?",
+        "options": {
+            "a": "Crops that brought maximum revenue to the state",
+            "b": "Lands given to nobles",
+            "c": "A tax-free village",
+            "d": "A type of irrigation technique"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the function of the Mughal qanungo?",
+        "options": {
+            "a": "Maintaining detailed land revenue records",
+            "b": "Supervising military garrisons",
+            "c": "Overseeing temple construction",
+            "d": "Managing foreign trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by \"muqaddam\" in Mughal India?",
+        "options": {
+            "a": "Village headman responsible for administrative duties",
+            "b": "A high-ranking military officer",
+            "c": "A merchant involved in overseas trade",
+            "d": "A zamindar who owned multiple jagirs"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the zamindars play in the Mughal rural economy?",
+        "options": {
+            "a": "Collecting revenue and maintaining law and order",
+            "b": "Establishing large urban settlements",
+            "c": "Developing new irrigation systems",
+            "d": "Promoting overseas trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"milkiyat\" land?",
+        "options": {
+            "a": "Privately owned land by zamindars",
+            "b": "Land under the direct control of the Mughal emperor",
+            "c": "Land allocated to military officers",
+            "d": "Tax-free land given to religious institutions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the term \"iqta\" mean during the Mughal period?",
+        "options": {
+            "a": "Land assigned to officials for revenue collection",
+            "b": "Agricultural land held by peasants",
+            "c": "Tax-exempt land granted to temples",
+            "d": "A system of trade regulation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which area was famous for its indigo production in Mughal India?",
+        "options": {
+            "a": "Bengal",
+            "b": "Gujarat",
+            "c": "Bihar",
+            "d": "Punjab"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What did the \"patta\" document provide to the peasants?",
+        "options": {
+            "a": "Details of the land area and revenue due",
+            "b": "Ownership rights of the land",
+            "c": "Military exemption",
+            "d": "A guide to cultivating high-yield crops"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of \"karkhanas\" in Mughal India?",
+        "options": {
+            "a": "Production centers for handicrafts and luxury goods",
+            "b": "Institutions for religious learning",
+            "c": "Storehouses for agricultural produce",
+            "d": "Offices for revenue collection"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main challenge faced by the jagirdars?",
+        "options": {
+            "a": "Ensuring efficient revenue collection from peasants",
+            "b": "Resistance from local zamindars",
+            "c": "Maintaining law and order in urban areas",
+            "d": "Competing with foreign merchants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How was the land revenue used in the Mughal Empire?",
+        "options": {
+            "a": "Financing the army and administration",
+            "b": "Building irrigation systems exclusively",
+            "c": "Supporting international trade",
+            "d": "Providing free education to peasants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who maintained records of land ownership and revenue in villages?",
+        "options": {
+            "a": "Qanungo",
+            "b": "Zamindar",
+            "c": "Diwan",
+            "d": "Muqaddam"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which regions of Mughal India were prominent for rice cultivation?",
+        "options": {
+            "a": "Bengal and Orissa",
+            "b": "Gujarat and Maharashtra",
+            "c": "Punjab and Sindh",
+            "d": "Rajasthan and Malwa"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"inam\" lands?",
+        "options": {
+            "a": "Tax-free lands granted to religious institutions",
+            "b": "Lands under the direct control of the emperor",
+            "c": "Military-owned agricultural lands",
+            "d": "Land used exclusively for trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How did peasants in Mughal India respond to oppressive taxation?",
+        "options": {
+            "a": "Revolts and migration to other regions",
+            "b": "Acceptance due to lack of alternatives",
+            "c": "Selling their produce to foreign merchants",
+            "d": "Forming trade guilds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of \"chauth\" in the agrarian economy?",
+        "options": {
+            "a": "An additional tax demanded by Marathas",
+            "b": "A term for revenue-free lands",
+            "c": "A new irrigation system",
+            "d": "A title given to zamindars"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the impact of Mughal revenue policies on agriculture?",
+        "options": {
+            "a": "Improved irrigation techniques and expanded cultivation",
+            "b": "Decline in rural productivity",
+            "c": "Replacement of traditional crops with cash crops",
+            "d": "Complete eradication of famine"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"hal\" in Mughal agricultural practices?",
+        "options": {
+            "a": "A plow used for cultivation",
+            "b": "A type of irrigation system",
+            "c": "A document specifying land rights",
+            "d": "A tax-free village"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"pargana\" units in Mughal administration?",
+        "options": {
+            "a": "A group of villages for revenue collection",
+            "b": "A storage facility for grains",
+            "c": "A region designated for trade",
+            "d": "A term for military headquarters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What led to the decline of the Mughal agrarian system?",
+        "options": {
+            "a": "Overburdened peasants and rebellion by zamindars",
+            "b": "Introduction of new crops",
+            "c": "Increased trade with Europeans",
+            "d": "Technological advancements in agriculture"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a significant effect of the zamindars' increasing power?",
+        "options": {
+            "a": "Fragmentation of centralized Mughal authority",
+            "b": "Rise in trade productivity",
+            "c": "Decline in temple construction",
+            "d": "Establishment of new trade routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the \"rahdari\" tax?",
+        "options": {
+            "a": "Tax on goods transported across territories",
+            "b": "Tax collected from temples",
+            "c": "A penalty for peasants who failed to pay revenue",
+            "d": "A tax levied on foreign merchants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is credited with consolidating revenue systems?",
+        "options": {
+            "a": "Akbar",
+            "b": "Aurangzeb",
+            "c": "Babur",
+            "d": "Shah Jahan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the \"dagh\" system?",
+        "options": {
+            "a": "Branding of horses for military use",
+            "b": "A method of revenue collection",
+            "c": "A system of crop rotation",
+            "d": "Tax exemption for religious officials"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the panchayat play in Mughal rural society?",
+        "options": {
+            "a": "Settling disputes and maintaining village order",
+            "b": "Collecting taxes for the emperor",
+            "c": "Trading agricultural surplus",
+            "d": "Supervising irrigation systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was a \"tanab\" in Mughal agricultural practices?",
+        "options": {
+            "a": "Measurement of land",
+            "b": "A water reservoir",
+            "c": "A type of crop rotation",
+            "d": "A trade guild for peasants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"kharif\" crops in Mughal India?",
+        "options": {
+            "a": "Crops grown during the monsoon season",
+            "b": "Crops cultivated in winter",
+            "c": "Perennial crops",
+            "d": "Crops grown in barren lands"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal region was noted for its silk production?",
+        "options": {
+            "a": "Bengal",
+            "b": "Gujarat",
+            "c": "Kashmir",
+            "d": "Awadh"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main challenge in sustaining the jagir system?",
+        "options": {
+            "a": "Overassessment of revenue and rebellion by peasants",
+            "b": "Lack of adequate land for allocation",
+            "c": "Excessive foreign interference",
+            "d": "Decline in urban centers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor commissioned the writing of the Akbarnama?",
+        "options": {
+            "a": "Akbar",
+            "b": "Jahangir",
+            "c": "Babur",
+            "d": "Shah Jahan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was the author of the Akbarnama and Ain-i-Akbari?",
+        "options": {
+            "a": "Abul Fazl",
+            "b": "Badauni",
+            "c": "Babur",
+            "d": "Jahangir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Akbarnama primarily about?",
+        "options": {
+            "a": "Akbar\u2019s reign and administrative policies",
+            "b": "Mughal architecture",
+            "c": "Military conquests of Babur",
+            "d": "Religious reforms of Jahangir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Ain-i-Akbari describe in detail?",
+        "options": {
+            "a": "The administrative, economic, and social policies of Akbar\u2019s empire",
+            "b": "The religious life of the Mughal court",
+            "c": "The wars fought by Akbar",
+            "d": "The foreign policies of the Mughals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is credited with establishing the Mughal chronicles as a literary tradition?",
+        "options": {
+            "a": "Babur",
+            "b": "Akbar",
+            "c": "Shah Jahan",
+            "d": "Jahangir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is Baburnama primarily about?",
+        "options": {
+            "a": "Babur\u2019s personal diary describing his life and conquests",
+            "b": "A religious treatise on Islam",
+            "c": "A manual on administration",
+            "d": "A biography of Akbar"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Mughal court chronicles?",
+        "options": {
+            "a": "They documented royal life and political history in great detail.",
+            "b": "They served as religious scriptures.",
+            "c": "They focused exclusively on military conquests.",
+            "d": "They provided guidance for future emperors."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who wrote the Tuzuk-i-Jahangiri?",
+        "options": {
+            "a": "Jahangir",
+            "b": "Akbar",
+            "c": "Abul Fazl",
+            "d": "Shah Jahan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Tuzuk-i-Jahangiri about?",
+        "options": {
+            "a": "Jahangir\u2019s autobiography describing his rule and personal interests",
+            "b": "Military policies of the Mughals",
+            "c": "Akbar\u2019s administrative reforms",
+            "d": "Economic trade policies during the Mughal era"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the Mughal court historians play?",
+        "options": {
+            "a": "Recording the achievements and policies of the emperors",
+            "b": "Creating maps for military campaigns",
+            "c": "Serving as ambassadors to foreign lands",
+            "d": "Organizing religious events"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is associated with the construction of the Peacock Throne?",
+        "options": {
+            "a": "Shah Jahan",
+            "b": "Jahangir",
+            "c": "Akbar",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of Persian in the Mughal court?",
+        "options": {
+            "a": "It was the language of administration and court chronicles.",
+            "b": "It was used for religious rituals.",
+            "c": "It replaced local languages entirely.",
+            "d": "It was only used for military correspondence."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"sulh-i-kul\" mean in Mughal political philosophy?",
+        "options": {
+            "a": "Universal peace and tolerance",
+            "b": "Military conquest",
+            "c": "Religious orthodoxy",
+            "d": "Trade monopoly"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Nizamuddin Bakshi?",
+        "options": {
+            "a": "A chronicler during the Mughal Empire",
+            "b": "A Mughal prince",
+            "c": "A court musician",
+            "d": "An architect of the Red Fort"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor was known for his interest in painting and art?",
+        "options": {
+            "a": "Jahangir",
+            "b": "Akbar",
+            "c": "Babur",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Shah Jahan Nama?",
+        "options": {
+            "a": "A chronicle documenting the reign of Shah Jahan",
+            "b": "A text describing the architecture of the Taj Mahal",
+            "c": "A book of religious philosophy",
+            "d": "A military manual"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is associated with the Taj Mahal?",
+        "options": {
+            "a": "Shah Jahan",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the Diwan-i-Khas in the Mughal court?",
+        "options": {
+            "a": "A hall for private audience with the emperor",
+            "b": "The treasury office",
+            "c": "A religious council",
+            "d": "A place for public debates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main focus of the Mughal court chronicles?",
+        "options": {
+            "a": "Highlighting the emperor\u2019s divine kingship",
+            "b": "Promoting local village life",
+            "c": "Documenting regional architecture",
+            "d": "Describing trade routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was the court historian during Akbar\u2019s reign?",
+        "options": {
+            "a": "Abul Fazl",
+            "b": "Badauni",
+            "c": "Shah Jahan",
+            "d": "Mirza Ghalib"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Red Fort in Delhi?",
+        "options": {
+            "a": "It served as the main residence of the Mughal emperors.",
+            "b": "It was the headquarters of the Mughal navy.",
+            "c": "It was a pilgrimage site for Sufis.",
+            "d": "It marked the end of the Mughal dynasty."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"mansabdari\" refer to in Mughal administration?",
+        "options": {
+            "a": "A system of ranking officials and nobles",
+            "b": "The land revenue system",
+            "c": "The military structure",
+            "d": "The trade guilds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Babur\u2019s court historian?",
+        "options": {
+            "a": "Babur himself (through Baburnama)",
+            "b": "Jahangir",
+            "c": "Abul Fazl",
+            "d": "Mirza Ghalib"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"zabt\" refer to in Mughal administration?",
+        "options": {
+            "a": "A revenue collection system based on land measurement",
+            "b": "A military strategy",
+            "c": "A type of court ceremony",
+            "d": "A religious reform"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor commissioned the Diwan-i-Aam in the Red Fort?",
+        "options": {
+            "a": "Shah Jahan",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Mughal paintings in court chronicles?",
+        "options": {
+            "a": "They depicted the emperor\u2019s grandeur and divine authority.",
+            "b": "They were used for military training.",
+            "c": "They focused on regional crafts.",
+            "d": "They served as maps for traders."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the official biographer of the Mughal emperor?",
+        "options": {
+            "a": "Chronicler",
+            "b": "Poet laureate",
+            "c": "Mansabdar",
+            "d": "Sufi saint"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is known for introducing the concept of divine kingship?",
+        "options": {
+            "a": "Akbar",
+            "b": "Jahangir",
+            "c": "Babur",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the purpose of the Mughal royal hunts?",
+        "options": {
+            "a": "To demonstrate the emperor\u2019s strength and authority",
+            "b": "To improve trade routes",
+            "c": "To establish alliances with nobles",
+            "d": "To train the Mughal military"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the \"jharokha darshan\" in the Mughal court?",
+        "options": {
+            "a": "The emperor appearing to the public from a balcony to be seen as a divine ruler",
+            "b": "The display of military power",
+            "c": "A ceremony for appointing officials",
+            "d": "A private meeting with court nobles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of Mir Bakshi in the Mughal court?",
+        "options": {
+            "a": "Head of the military administration",
+            "b": "Chief chronicler of the court",
+            "c": "Head of the treasury",
+            "d": "Architect of royal structures"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"haram\" refer to in the Mughal context?",
+        "options": {
+            "a": "The royal household, including the emperor\u2019s family",
+            "b": "A forbidden practice",
+            "c": "A trading route",
+            "d": "The emperor\u2019s military advisors"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was responsible for maintaining court etiquette and protocol in the Mughal court?",
+        "options": {
+            "a": "Mir Saman",
+            "b": "Mir Bakshi",
+            "c": "Daroga-i-Khas",
+            "d": "Mansabdar"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is associated with the policy of religious orthodoxy?",
+        "options": {
+            "a": "Aurangzeb",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Shah Jahan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary purpose of Mughal court chronicles?",
+        "options": {
+            "a": "To reinforce the emperor\u2019s legitimacy and divine authority",
+            "b": "To describe military conquests in detail",
+            "c": "To maintain local governance records",
+            "d": "To document the lives of common people"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor wrote verses in Persian and patronized poets?",
+        "options": {
+            "a": "Jahangir",
+            "b": "Babur",
+            "c": "Akbar",
+            "d": "Shah Jahan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"diwan\" refer to in Mughal administration?",
+        "options": {
+            "a": "The finance department",
+            "b": "A military garrison",
+            "c": "A council of religious leaders",
+            "d": "The royal library"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is credited with consolidating the Mughal Empire\u2019s cultural legacy?",
+        "options": {
+            "a": "Akbar",
+            "b": "Shah Jahan",
+            "c": "Jahangir",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the function of the Padshahnama?",
+        "options": {
+            "a": "A chronicle of Shah Jahan\u2019s reign",
+            "b": "A description of Mughal trade policies",
+            "c": "A text on military strategies",
+            "d": "A guide for future emperors"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the language of most Mughal official documents?",
+        "options": {
+            "a": "Persian",
+            "b": "Urdu",
+            "c": "Sanskrit",
+            "d": "Arabic"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Chahar Bagh in Mughal gardens?",
+        "options": {
+            "a": "A symbol of paradise with a four-part layout",
+            "b": "A fortification around the court",
+            "c": "A place for public gatherings",
+            "d": "A reservoir for irrigation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"zat\" represent in the mansabdari system?",
+        "options": {
+            "a": "The rank and salary of an official",
+            "b": "The number of soldiers maintained by an officer",
+            "c": "The emperor\u2019s personal guards",
+            "d": "The tax levied on nobles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is known for establishing the Din-i-Ilahi?",
+        "options": {
+            "a": "Akbar",
+            "b": "Aurangzeb",
+            "c": "Jahangir",
+            "d": "Babur"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was Abdul Hamid Lahori?",
+        "options": {
+            "a": "A historian who wrote the Padshahnama",
+            "b": "A Mughal architect",
+            "c": "A court musician during Akbar\u2019s reign",
+            "d": "A commander in Aurangzeb\u2019s army"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor\u2019s reign is considered the zenith of Mughal architecture?",
+        "options": {
+            "a": "Shah Jahan",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary focus of the Mughal chronicles like the Akbarnama?",
+        "options": {
+            "a": "Legitimizing Mughal rule and portraying the emperor\u2019s grandeur",
+            "b": "Describing local governance in villages",
+            "c": "Documenting the everyday life of peasants",
+            "d": "Highlighting trade routes with Europe"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor is often criticized for his religious intolerance?",
+        "options": {
+            "a": "Aurangzeb",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Babur"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main feature of Mughal miniature paintings?",
+        "options": {
+            "a": "Intricate details and vibrant colors",
+            "b": "Monochrome depictions of royal life",
+            "c": "Abstract designs",
+            "d": "Focus on landscapes only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who translated the Mahabharata into Persian during Akbar\u2019s reign?",
+        "options": {
+            "a": "Abul Fazl",
+            "b": "Badauni",
+            "c": "Jahangir",
+            "d": "Abdul Hamid Lahori"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"zimmi\" refer to in Mughal policy?",
+        "options": {
+            "a": "Non-Muslims protected under Islamic law",
+            "b": "A tax on imported goods",
+            "c": "A title for military commanders",
+            "d": "A member of the Mughal court"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mughal emperor initiated the construction of the Jama Masjid in Delhi?",
+        "options": {
+            "a": "Shah Jahan",
+            "b": "Akbar",
+            "c": "Jahangir",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"mahal\" signify in Mughal court chronicles?",
+        "options": {
+            "a": "A department of the royal household",
+            "b": "A type of tax",
+            "c": "A Mughal war strategy",
+            "d": "A trading route"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of Mir Saman in the Mughal court?",
+        "options": {
+            "a": "Overseeing the royal household and procurement",
+            "b": "Leading military campaigns",
+            "c": "Writing chronicles",
+            "d": "Managing the treasury"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"jagir\" refer to in the Mughal administration?",
+        "options": {
+            "a": "A land grant given to officials in return for service",
+            "b": "A military garrison",
+            "c": "A religious text",
+            "d": "A court title"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Mughal court rituals like prostration (sijda)?",
+        "options": {
+            "a": "To emphasize the emperor\u2019s divine authority",
+            "b": "To maintain discipline among soldiers",
+            "c": "To encourage religious worship",
+            "d": "To promote equality in the court"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was the chief architect of Fatehpur Sikri?",
+        "options": {
+            "a": "Akbar",
+            "b": "Ustad Ahmad Lahori",
+            "c": "Mir Bakshi",
+            "d": "Aurangzeb"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"farman\" refer to in Mughal chronicles?",
+        "options": {
+            "a": "A royal decree issued by the emperor",
+            "b": "A military strategy",
+            "c": "A Mughal festival",
+            "d": "A taxation system"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the wazir play in the Mughal court?",
+        "options": {
+            "a": "Chief minister overseeing administration and finances",
+            "b": "Commander of the emperor\u2019s army",
+            "c": "Ambassador to foreign states",
+            "d": "Guardian of the royal treasury"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text contains Jahangir\u2019s accounts of flora and fauna?",
+        "options": {
+            "a": "Tuzuk-i-Jahangiri",
+            "b": "Akbarnama",
+            "c": "Ain-i-Akbari",
+            "d": "Padshahnama"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main characteristic of Mughal gardens like those in Kashmir?",
+        "options": {
+            "a": "Symmetrical layouts with water channels",
+            "b": "Focus on defensive structures",
+            "c": "Temples built within the gardens",
+            "d": "Use of local wild plants"
+        },
+        "answer": "a"
+    }
+]

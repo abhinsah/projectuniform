@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Uniform - MCQ Exam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Home Page -->
+        <div id="home-page">
+            <h1>Project Uniform By Hizru Academy</h1>
+            <p>Select a subject to attempt the mock test:</p>
+            <div id="subject-container">
+                <!-- Dynamic subject boxes will be injected here -->
+            </div>
+        </div>
+
+        <!-- Time Selection Page -->
+        <div id="time-selection-page" style="display:none;">
+            <h1>Select Time Limit</h1>
+            <p id="question-count"></p>
+            <div id="time-limit-container">
+                <label for="time-limit">Set Time Limit (minutes):</label>
+                <input type="number" id="time-limit" placeholder="Enter time in minutes">
+            </div>
+            <button onclick="startExam()">Start Exam</button>
+            <button onclick="goBack()">Back</button>
+        </div>
+
+        <!-- Exam Page -->
+        <div id="exam-page" style="display:none;">
+            <div id="question-container">
+                <!-- Questions dynamically injected here -->
+            </div>
+            <div class="navigation-buttons">
+                <button id="prev-button" onclick="prevQuestion()" style="display:none;">Previous</button>
+                <button id="next-button" onclick="nextQuestion()">Next</button>
+                <button id="submit-button" onclick="submitExam()" style="display:none;">Submit</button>
+            </div>
+        </div>
+
+        <!-- Result Page -->
+        <div id="result-page" style="display:none;">
+            <h1>Your Score: <span id="score"></span></h1>
+            <div id="detailed-result"></div>
+            <button onclick="restartExam()">Restart</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

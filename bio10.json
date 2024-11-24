@@ -1,0 +1,2502 @@
+[
+    {
+        "question": "What are life processes?",
+        "options": {
+            "a": "The processes involved in reproduction",
+            "b": "The maintenance processes required to prevent damage and breakdown in living organisms",
+            "c": "The biological classification of living organisms",
+            "d": "The chemical composition of non-living matter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary source of energy for life processes?",
+        "options": {
+            "a": "Water",
+            "b": "Oxygen",
+            "c": "Food",
+            "d": "Sunlight"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is an autotrophic mode of nutrition?",
+        "options": {
+            "a": "Animals eating plants",
+            "b": "Fungi decomposing organic matter",
+            "c": "Plants using photosynthesis",
+            "d": "Parasites feeding on a host"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of chlorophyll in photosynthesis?",
+        "options": {
+            "a": "Absorbs water",
+            "b": "Absorbs light energy",
+            "c": "Converts oxygen into carbon dioxide",
+            "d": "Reduces carbohydrates to glucose"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens during respiration?",
+        "options": {
+            "a": "Oxygen is released, and carbon dioxide is absorbed",
+            "b": "Energy is produced from the breakdown of food molecules",
+            "c": "Water is absorbed by the cells",
+            "d": "Molecules are synthesized into larger structures"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organism performs nutrition without specific organs?",
+        "options": {
+            "a": "Multicellular organisms",
+            "b": "Single-celled organisms",
+            "c": "Parasites",
+            "d": "Photosynthetic bacteria"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main function of stomata in plants?",
+        "options": {
+            "a": "Transport nutrients",
+            "b": "Exchange gases like oxygen and carbon dioxide",
+            "c": "Absorb sunlight",
+            "d": "Store energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of guard cells in plants?",
+        "options": {
+            "a": "Store water in the roots",
+            "b": "Control the opening and closing of stomata",
+            "c": "Provide mechanical support",
+            "d": "Absorb minerals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the end products of digestion in humans?",
+        "options": {
+            "a": "Water and salts",
+            "b": "Amino acids, glucose, and fatty acids",
+            "c": "Oxygen and carbon dioxide",
+            "d": "Starch and cellulose"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Where does the digestion of proteins begin in the human digestive system?",
+        "options": {
+            "a": "Mouth",
+            "b": "Stomach",
+            "c": "Small intestine",
+            "d": "Large intestine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of bile in digestion?",
+        "options": {
+            "a": "Neutralizes stomach acid",
+            "b": "Breaks down proteins",
+            "c": "Emulsifies fats",
+            "d": "Absorbs glucose"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What protects the inner lining of the stomach from acid?",
+        "options": {
+            "a": "Bile",
+            "b": "Saliva",
+            "c": "Mucus",
+            "d": "Enzymes"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of the villi in the small intestine?",
+        "options": {
+            "a": "Increase surface area for nutrient absorption",
+            "b": "Store digestive enzymes",
+            "c": "Break down carbohydrates",
+            "d": "Neutralize stomach acid"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens in the large intestine?",
+        "options": {
+            "a": "Absorption of proteins",
+            "b": "Absorption of water",
+            "c": "Secretion of bile",
+            "d": "Digestion of fats"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the anal sphincter?",
+        "options": {
+            "a": "Secretes digestive enzymes",
+            "b": "Regulates the exit of waste material",
+            "c": "Controls bile secretion",
+            "d": "Absorbs vitamins"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does the circulatory system help in respiration?",
+        "options": {
+            "a": "Transports oxygen to cells and removes carbon dioxide",
+            "b": "Absorbs glucose for energy",
+            "c": "Distributes food molecules",
+            "d": "Filters toxins from the blood"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main respiratory organ in humans?",
+        "options": {
+            "a": "Heart",
+            "b": "Lungs",
+            "c": "Liver",
+            "d": "Stomach"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of alveoli in respiration?",
+        "options": {
+            "a": "Break down glucose",
+            "b": "Filter air pollutants",
+            "c": "Exchange oxygen and carbon dioxide",
+            "d": "Store energy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why is diffusion insufficient for respiration in multicellular organisms?",
+        "options": {
+            "a": "They lack a circulatory system",
+            "b": "They have a larger body size",
+            "c": "They use different gases",
+            "d": "Diffusion only works in water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the excretory product in humans?",
+        "options": {
+            "a": "Urea",
+            "b": "Glucose",
+            "c": "Bile",
+            "d": "Starch"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the structural and functional unit of the kidney?",
+        "options": {
+            "a": "Neuron",
+            "b": "Nephron",
+            "c": "Alveolus",
+            "d": "Villus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of the kidney?",
+        "options": {
+            "a": "Absorb nutrients",
+            "b": "Filter blood and produce urine",
+            "c": "Pump oxygen",
+            "d": "Store bile"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of hemoglobin in the blood?",
+        "options": {
+            "a": "Fights infections",
+            "b": "Transports oxygen",
+            "c": "Clots blood",
+            "d": "Filters waste"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main excretory product in plants?",
+        "options": {
+            "a": "Carbon dioxide",
+            "b": "Oxygen",
+            "c": "Water and resins",
+            "d": "Nitrogen gas"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of transpiration in plants?",
+        "options": {
+            "a": "Transport glucose",
+            "b": "Remove excess water",
+            "c": "Absorb nutrients",
+            "d": "Produce oxygen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is double circulation in humans?",
+        "options": {
+            "a": "Circulation of blood in arteries and veins",
+            "b": "Circulation of blood twice through the heart in one cycle",
+            "c": "Circulation of oxygenated and deoxygenated blood in the same vessels",
+            "d": "Circulation of lymph along with blood"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What prevents the backflow of blood in the heart?",
+        "options": {
+            "a": "Blood vessels",
+            "b": "Valves",
+            "c": "Capillaries",
+            "d": "Alveoli"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of platelets in the blood?",
+        "options": {
+            "a": "Transport oxygen",
+            "b": "Fight infections",
+            "c": "Help in blood clotting",
+            "d": "Carry nutrients"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of lymph in the body?",
+        "options": {
+            "a": "Absorb fatty acids and glycerol",
+            "b": "Transport oxygen",
+            "c": "Digest proteins",
+            "d": "Filter blood"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of xylem in plants?",
+        "options": {
+            "a": "Transport water and minerals",
+            "b": "Transport glucose",
+            "c": "Absorb sunlight",
+            "d": "Exchange gases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of phloem in plants?",
+        "options": {
+            "a": "Transport water",
+            "b": "Transport food",
+            "c": "Transport oxygen",
+            "d": "Protect the plant"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the opening in the lower epidermis of a leaf called?",
+        "options": {
+            "a": "Lenticel",
+            "b": "Stoma",
+            "c": "Cuticle",
+            "d": "Node"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How do amoebas excrete waste?",
+        "options": {
+            "a": "Through specialized excretory organs",
+            "b": "Through diffusion",
+            "c": "Using kidneys",
+            "d": "Using nephridia"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main respiratory surface in insects?",
+        "options": {
+            "a": "Lungs",
+            "b": "Trachea",
+            "c": "Skin",
+            "d": "Gills"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the human brain controls involuntary actions?",
+        "options": {
+            "a": "Cerebrum",
+            "b": "Cerebellum",
+            "c": "Medulla oblongata",
+            "d": "Hypothalamus"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the product of anaerobic respiration in muscles?",
+        "options": {
+            "a": "Lactic acid",
+            "b": "Carbon dioxide",
+            "c": "Ethanol",
+            "d": "Water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the liver in excretion?",
+        "options": {
+            "a": "Filter urea from blood",
+            "b": "Produce bile and detoxify harmful substances",
+            "c": "Excrete oxygen",
+            "d": "Absorb proteins"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How is food transported in plants?",
+        "options": {
+            "a": "By xylem",
+            "b": "By phloem",
+            "c": "By guard cells",
+            "d": "By chlorophyll"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens during inhalation in humans?",
+        "options": {
+            "a": "The diaphragm contracts and moves downward",
+            "b": "The diaphragm relaxes and moves upward",
+            "c": "Lungs release oxygen",
+            "d": "Blood pressure decreases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes the lub-dub sound in the heart?",
+        "options": {
+            "a": "Blood flow in the veins",
+            "b": "Opening and closing of valves",
+            "c": "Movement of blood in the lungs",
+            "d": "Contraction of muscles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the small intestine in humans?",
+        "options": {
+            "a": "Absorb water",
+            "b": "Digest food and absorb nutrients",
+            "c": "Produce bile",
+            "d": "Excrete urea"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of organism uses gills for respiration?",
+        "options": {
+            "a": "Insects",
+            "b": "Fish",
+            "c": "Amphibians",
+            "d": "Mammals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of nephridia in earthworms?",
+        "options": {
+            "a": "Reproduction",
+            "b": "Locomotion",
+            "c": "Excretion",
+            "d": "Digestion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does transpiration help plants?",
+        "options": {
+            "a": "Transport food",
+            "b": "Absorb oxygen",
+            "c": "Cool the plant and transport minerals",
+            "d": "Produce glucose"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of haemoglobin?",
+        "options": {
+            "a": "Absorb carbon dioxide",
+            "b": "Transport oxygen",
+            "c": "Absorb water",
+            "d": "Digest proteins"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of respiration occurs in the absence of oxygen?",
+        "options": {
+            "a": "Aerobic",
+            "b": "Anaerobic",
+            "c": "Diffusion",
+            "d": "Cellular respiration"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of red blood cells?",
+        "options": {
+            "a": "Fight infections",
+            "b": "Transport oxygen",
+            "c": "Remove waste",
+            "d": "Clot blood"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the importance of transpiration in plants?",
+        "options": {
+            "a": "Transport oxygen to roots",
+            "b": "Maintain temperature and water movement",
+            "c": "Break down starch",
+            "d": "Protect from predators"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the waste products of photosynthesis?",
+        "options": {
+            "a": "Glucose and oxygen",
+            "b": "Water and carbon dioxide",
+            "c": "Oxygen only",
+            "d": "Glucose and water"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of movement occurs in the alimentary canal during digestion?",
+        "options": {
+            "a": "Peristalsis",
+            "b": "Diffusion",
+            "c": "Osmosis",
+            "d": "Active transport"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main purpose of the nervous system?",
+        "options": {
+            "a": "Transport nutrients",
+            "b": "Control and coordinate body activities",
+            "c": "Absorb oxygen",
+            "d": "Produce energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the functional units of the nervous system?",
+        "options": {
+            "a": "Muscles",
+            "b": "Nerves",
+            "c": "Nephrons",
+            "d": "Neurons"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is a synapse?",
+        "options": {
+            "a": "A junction between two neurons",
+            "b": "The space between muscles",
+            "c": "A nerve ending",
+            "d": "A gap in the spinal cord"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the spinal cord in the nervous system?",
+        "options": {
+            "a": "Regulates hormones",
+            "b": "Coordinates reflex actions",
+            "c": "Filters blood",
+            "d": "Absorbs nutrients"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the brain controls voluntary actions?",
+        "options": {
+            "a": "Medulla oblongata",
+            "b": "Cerebrum",
+            "c": "Cerebellum",
+            "d": "Hypothalamus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the cerebellum?",
+        "options": {
+            "a": "Control involuntary actions",
+            "b": "Maintain posture and balance",
+            "c": "Process emotions",
+            "d": "Regulate body temperature"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the brain regulates involuntary actions?",
+        "options": {
+            "a": "Cerebrum",
+            "b": "Medulla oblongata",
+            "c": "Hypothalamus",
+            "d": "Cerebellum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the two main divisions of the nervous system?",
+        "options": {
+            "a": "Central and Peripheral Nervous Systems",
+            "b": "Sympathetic and Parasympathetic Systems",
+            "c": "Voluntary and Involuntary Systems",
+            "d": "Sensory and Motor Systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is not a part of the central nervous system?",
+        "options": {
+            "a": "Brain",
+            "b": "Spinal cord",
+            "c": "Nerves",
+            "d": "Cerebellum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of sensory neurons?",
+        "options": {
+            "a": "Control voluntary actions",
+            "b": "Transmit information to the central nervous system",
+            "c": "Produce neurotransmitters",
+            "d": "Stimulate muscles directly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of neuron transmits signals from the brain to muscles?",
+        "options": {
+            "a": "Sensory neurons",
+            "b": "Motor neurons",
+            "c": "Interneurons",
+            "d": "Reflex neurons"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are hormones?",
+        "options": {
+            "a": "Electrical signals",
+            "b": "Chemical messengers secreted by glands",
+            "c": "Proteins found in muscles",
+            "d": "Enzymes for digestion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gland is known as the master gland?",
+        "options": {
+            "a": "Thyroid gland",
+            "b": "Pituitary gland",
+            "c": "Adrenal gland",
+            "d": "Pancreas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which hormone regulates the sugar level in blood?",
+        "options": {
+            "a": "Thyroxine",
+            "b": "Insulin",
+            "c": "Adrenaline",
+            "d": "Estrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of adrenaline?",
+        "options": {
+            "a": "Increases blood sugar",
+            "b": "Prepares the body for emergency situations",
+            "c": "Promotes muscle growth",
+            "d": "Regulates digestion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Where is the thyroid gland located?",
+        "options": {
+            "a": "Near the pancreas",
+            "b": "In the neck",
+            "c": "In the brain",
+            "d": "In the abdomen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What hormone is secreted by the thyroid gland?",
+        "options": {
+            "a": "Insulin",
+            "b": "Adrenaline",
+            "c": "Thyroxine",
+            "d": "Progesterone"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which part of the brain controls the pituitary gland?",
+        "options": {
+            "a": "Medulla oblongata",
+            "b": "Hypothalamus",
+            "c": "Cerebrum",
+            "d": "Cerebellum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is phototropism?",
+        "options": {
+            "a": "Movement of plants in response to water",
+            "b": "Movement of plants in response to light",
+            "c": "Movement of plants in response to gravity",
+            "d": "Movement of plants in response to touch"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is geotropism?",
+        "options": {
+            "a": "Movement of plants in response to gravity",
+            "b": "Movement of plants in response to light",
+            "c": "Movement of plants in response to water",
+            "d": "Movement of plants in response to touch"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the function of auxins in plants?",
+        "options": {
+            "a": "Promote cell division",
+            "b": "Promote growth in response to light",
+            "c": "Regulate water absorption",
+            "d": "Stimulate fruit ripening"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a reflex action?",
+        "options": {
+            "a": "A voluntary action",
+            "b": "An automatic and rapid response to a stimulus",
+            "c": "A deliberate movement",
+            "d": "A mental process"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the pathway of a reflex action called?",
+        "options": {
+            "a": "Reflex arc",
+            "b": "Reflex loop",
+            "c": "Sensory path",
+            "d": "Motor loop"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which hormone controls water balance in the body?",
+        "options": {
+            "a": "Adrenaline",
+            "b": "Insulin",
+            "c": "Antidiuretic hormone (ADH)",
+            "d": "Thyroxine"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of gibberellins in plants?",
+        "options": {
+            "a": "Stimulate flowering",
+            "b": "Promote cell elongation and seed germination",
+            "c": "Inhibit growth",
+            "d": "Promote fruit ripening"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gland secretes testosterone?",
+        "options": {
+            "a": "Ovaries",
+            "b": "Testes",
+            "c": "Thyroid gland",
+            "d": "Pituitary gland"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which hormone is responsible for regulating metabolism?",
+        "options": {
+            "a": "Insulin",
+            "b": "Thyroxine",
+            "c": "Adrenaline",
+            "d": "Estrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of cytokinins in plants?",
+        "options": {
+            "a": "Promote seed dormancy",
+            "b": "Promote cell division",
+            "c": "Inhibit growth",
+            "d": "Stimulate phototropism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main role of the pancreas in the endocrine system?",
+        "options": {
+            "a": "Secrete adrenaline",
+            "b": "Secrete insulin and glucagon",
+            "c": "Regulate calcium levels",
+            "d": "Control growth"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the response of plants to touch called?",
+        "options": {
+            "a": "Geotropism",
+            "b": "Phototropism",
+            "c": "Hydrotropism",
+            "d": "Thigmotropism"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which type of neuron connects sensory and motor neurons?",
+        "options": {
+            "a": "Reflex neuron",
+            "b": "Interneuron",
+            "c": "Synaptic neuron",
+            "d": "Axonal neuron"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which hormone is responsible for growth in humans?",
+        "options": {
+            "a": "Thyroxine",
+            "b": "Growth hormone",
+            "c": "Insulin",
+            "d": "Estrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of abscisic acid in plants?",
+        "options": {
+            "a": "Promote growth",
+            "b": "Induce dormancy",
+            "c": "Stimulate flowering",
+            "d": "Enhance photosynthesis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the neuron transmits signals away from the cell body?",
+        "options": {
+            "a": "Dendrite",
+            "b": "Axon",
+            "c": "Synapse",
+            "d": "Myelin sheath"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What controls the movement of involuntary muscles?",
+        "options": {
+            "a": "Cerebrum",
+            "b": "Medulla oblongata",
+            "c": "Cerebellum",
+            "d": "Pituitary gland"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is hydrotropism?",
+        "options": {
+            "a": "Movement of plants towards light",
+            "b": "Movement of plants towards water",
+            "c": "Movement of plants towards gravity",
+            "d": "Movement of plants towards chemicals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of myelin sheath in neurons?",
+        "options": {
+            "a": "Increase the speed of nerve impulses",
+            "b": "Protect the brain from injury",
+            "c": "Provide nutrients to neurons",
+            "d": "Absorb neurotransmitters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the pupils of the eyes in bright light?",
+        "options": {
+            "a": "Dilate",
+            "b": "Contract",
+            "c": "Remain the same",
+            "d": "Stop functioning"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the adrenal gland secrete?",
+        "options": {
+            "a": "Insulin",
+            "b": "Thyroxine",
+            "c": "Adrenaline",
+            "d": "Estrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of glucagon?",
+        "options": {
+            "a": "Increases blood glucose levels",
+            "b": "Decreases blood glucose levels",
+            "c": "Promotes protein synthesis",
+            "d": "Regulates calcium levels"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which hormone stimulates the ripening of fruits?",
+        "options": {
+            "a": "Auxins",
+            "b": "Ethylene",
+            "c": "Gibberellins",
+            "d": "Cytokinins"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main role of sensory receptors?",
+        "options": {
+            "a": "Control reflex actions",
+            "b": "Detect stimuli",
+            "c": "Produce energy",
+            "d": "Absorb nutrients"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the protective covering around the brain called?",
+        "options": {
+            "a": "Skull",
+            "b": "Cerebrospinal fluid",
+            "c": "Meninges",
+            "d": "Cranium"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of stomata in plant coordination?",
+        "options": {
+            "a": "Absorb nutrients",
+            "b": "Regulate transpiration and gas exchange",
+            "c": "Stimulate growth",
+            "d": "Control flowering"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does insulin regulate?",
+        "options": {
+            "a": "Blood pressure",
+            "b": "Blood glucose levels",
+            "c": "Calcium absorption",
+            "d": "Body temperature"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the small gaps between neurons called?",
+        "options": {
+            "a": "Synapse",
+            "b": "Axon",
+            "c": "Dendrite",
+            "d": "Nerve endings"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of muscle action is controlled by the autonomic nervous system?",
+        "options": {
+            "a": "Voluntary",
+            "b": "Involuntary",
+            "c": "Skeletal",
+            "d": "Reflex"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when the thyroid gland is overactive?",
+        "options": {
+            "a": "Hypothyroidism",
+            "b": "Hyperthyroidism",
+            "c": "Diabetes",
+            "d": "Hypertension"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the cerebrum control?",
+        "options": {
+            "a": "Reflex actions",
+            "b": "Voluntary actions and complex thought processes",
+            "c": "Breathing rate",
+            "d": "Blood pressure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main function of the autonomic nervous system?",
+        "options": {
+            "a": "Control voluntary muscles",
+            "b": "Control involuntary functions like heartbeat and digestion",
+            "c": "Transmit sensory signals",
+            "d": "Produce hormones"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is reproduction?",
+        "options": {
+            "a": "Process of obtaining food",
+            "b": "Process of producing offspring",
+            "c": "Process of obtaining oxygen",
+            "d": "Process of excreting waste"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is asexual reproduction?",
+        "options": {
+            "a": "Reproduction involving two parents",
+            "b": "Reproduction involving a single parent without gametes",
+            "c": "Reproduction involving the fusion of gametes",
+            "d": "Reproduction requiring pollination"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following organisms reproduces through binary fission?",
+        "options": {
+            "a": "Yeast",
+            "b": "Amoeba",
+            "c": "Hydra",
+            "d": "Earthworm"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the process of reproduction in yeast?",
+        "options": {
+            "a": "Fragmentation",
+            "b": "Budding",
+            "c": "Binary fission",
+            "d": "Spore formation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is fragmentation in reproduction?",
+        "options": {
+            "a": "Breaking of an organism into pieces, each of which develops into a new organism",
+            "b": "Formation of spores",
+            "c": "Development of an embryo",
+            "d": "Fusion of male and female gametes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the mode of reproduction in fungi like Rhizopus?",
+        "options": {
+            "a": "Budding",
+            "b": "Spore formation",
+            "c": "Binary fission",
+            "d": "Fragmentation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the specialized cells involved in sexual reproduction?",
+        "options": {
+            "a": "Zygotes",
+            "b": "Gametes",
+            "c": "Spores",
+            "d": "Embryos"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of reproduction involves the fusion of male and female gametes?",
+        "options": {
+            "a": "Asexual reproduction",
+            "b": "Vegetative propagation",
+            "c": "Sexual reproduction",
+            "d": "Spore formation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the process of fusion of male and female gametes called?",
+        "options": {
+            "a": "Pollination",
+            "b": "Fertilization",
+            "c": "Fragmentation",
+            "d": "Germination"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which structure produces pollen in flowering plants?",
+        "options": {
+            "a": "Ovary",
+            "b": "Stigma",
+            "c": "Anther",
+            "d": "Style"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the female reproductive organ in flowering plants?",
+        "options": {
+            "a": "Stamen",
+            "b": "Pistil",
+            "c": "Sepal",
+            "d": "Petal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Where does fertilization occur in flowering plants?",
+        "options": {
+            "a": "Stigma",
+            "b": "Style",
+            "c": "Ovule",
+            "d": "Anther"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the ovary develop into after fertilization?",
+        "options": {
+            "a": "Seed",
+            "b": "Fruit",
+            "c": "Flower",
+            "d": "Leaf"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the ovule develop into after fertilization?",
+        "options": {
+            "a": "Flower",
+            "b": "Fruit",
+            "c": "Seed",
+            "d": "Leaf"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is vegetative propagation?",
+        "options": {
+            "a": "Growth of new plants from vegetative parts like roots, stems, or leaves",
+            "b": "Fusion of gametes",
+            "c": "Spore formation",
+            "d": "Binary fission"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an example of vegetative propagation?",
+        "options": {
+            "a": "Potato tuber",
+            "b": "Yeast budding",
+            "c": "Spore formation in fungi",
+            "d": "Amoeba binary fission"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main function of the human male reproductive system?",
+        "options": {
+            "a": "Provide nutrients to offspring",
+            "b": "Produce and deliver sperm",
+            "c": "Carry out mitosis",
+            "d": "Control growth hormones"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organ produces sperm in humans?",
+        "options": {
+            "a": "Prostate gland",
+            "b": "Urethra",
+            "c": "Testes",
+            "d": "Epididymis"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main female reproductive organ in humans?",
+        "options": {
+            "a": "Fallopian tube",
+            "b": "Ovary",
+            "c": "Uterus",
+            "d": "Cervix"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Where does fertilization occur in humans?",
+        "options": {
+            "a": "Uterus",
+            "b": "Fallopian tube",
+            "c": "Ovary",
+            "d": "Cervix"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the zygote?",
+        "options": {
+            "a": "A single-cell formed by the fusion of gametes",
+            "b": "A spore for reproduction",
+            "c": "A mature embryo",
+            "d": "A reproductive organ"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process of the zygote developing into a multicellular organism called?",
+        "options": {
+            "a": "Mitosis",
+            "b": "Germination",
+            "c": "Embryogenesis",
+            "d": "Pollination"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of the placenta in human reproduction?",
+        "options": {
+            "a": "Deliver nutrients and oxygen to the fetus",
+            "b": "Produce gametes",
+            "c": "Provide hormones for fertilization",
+            "d": "Facilitate the fusion of gametes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the gestation period in humans?",
+        "options": {
+            "a": "5 months",
+            "b": "7 months",
+            "c": "9 months",
+            "d": "12 months"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary hormone involved in female reproductive cycles?",
+        "options": {
+            "a": "Testosterone",
+            "b": "Estrogen",
+            "c": "Adrenaline",
+            "d": "Thyroxine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which method of reproduction does Hydra use?",
+        "options": {
+            "a": "Budding",
+            "b": "Fragmentation",
+            "c": "Binary fission",
+            "d": "Spore formation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the transfer of pollen from an anther to a stigma?",
+        "options": {
+            "a": "Fertilization",
+            "b": "Pollination",
+            "c": "Germination",
+            "d": "Vegetative propagation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is self-pollination?",
+        "options": {
+            "a": "Transfer of pollen to another plant",
+            "b": "Transfer of pollen within the same flower or plant",
+            "c": "Development of seeds without fertilization",
+            "d": "Production of spores"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is cross-pollination?",
+        "options": {
+            "a": "Transfer of pollen within the same flower",
+            "b": "Transfer of pollen to a different flower or plant",
+            "c": "Formation of seeds from spores",
+            "d": "Fusion of male and female gametes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a spore?",
+        "options": {
+            "a": "A reproductive structure capable of developing into a new organism",
+            "b": "A type of seed",
+            "c": "A type of gamete",
+            "d": "A root tuber"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the reproductive organs in humans collectively called?",
+        "options": {
+            "a": "Gametes",
+            "b": "Gonads",
+            "c": "Zygotes",
+            "d": "Ova"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of the prostate gland in reproduction?",
+        "options": {
+            "a": "Produce sperm",
+            "b": "Secrete fluid that nourishes and protects sperm",
+            "c": "Store eggs",
+            "d": "Support embryo development"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is menstruation?",
+        "options": {
+            "a": "Production of eggs in ovaries",
+            "b": "Discharge of the uterine lining if fertilization does not occur",
+            "c": "Implantation of an embryo in the uterus",
+            "d": "Development of the placenta"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are unisexual flowers?",
+        "options": {
+            "a": "Flowers that have both male and female reproductive organs",
+            "b": "Flowers that have only male or only female reproductive organs",
+            "c": "Flowers that reproduce asexually",
+            "d": "Flowers that do not have reproductive organs"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is parthenogenesis?",
+        "options": {
+            "a": "Fusion of male and female gametes",
+            "b": "Development of an organism from an unfertilized egg",
+            "c": "Growth of new plants from vegetative parts",
+            "d": "Production of spores"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the fallopian tubes?",
+        "options": {
+            "a": "Produce eggs",
+            "b": "Transport eggs from the ovary to the uterus",
+            "c": "Store nutrients for the embryo",
+            "d": "Protect the fetus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the plant is involved in vegetative propagation by grafting?",
+        "options": {
+            "a": "Stem",
+            "b": "Root",
+            "c": "Leaf",
+            "d": "Flower"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of variation in reproduction?",
+        "options": {
+            "a": "Helps organisms avoid predators",
+            "b": "Helps species adapt to changes in the environment",
+            "c": "Slows down reproduction",
+            "d": "Prevents reproduction altogether"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for reproduction that does not involve meiosis?",
+        "options": {
+            "a": "Asexual reproduction",
+            "b": "Sexual reproduction",
+            "c": "Vegetative reproduction",
+            "d": "Pollination"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What protects the developing embryo in humans?",
+        "options": {
+            "a": "Placenta",
+            "b": "Amniotic fluid",
+            "c": "Ovary",
+            "d": "Uterine lining"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are sepals?",
+        "options": {
+            "a": "Male reproductive organs in flowers",
+            "b": "Leaf-like structures that protect the flower bud",
+            "c": "Female reproductive organs in flowers",
+            "d": "Structures that form pollen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the product of mitotic division in asexual reproduction?",
+        "options": {
+            "a": "Genetically identical offspring",
+            "b": "Genetically diverse offspring",
+            "c": "Offspring with mutations",
+            "d": "Sterile offspring"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the scrotum in humans?",
+        "options": {
+            "a": "Protects the testes and regulates their temperature",
+            "b": "Produces sperm",
+            "c": "Secretes hormones",
+            "d": "Stores sperm"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary advantage of sexual reproduction?",
+        "options": {
+            "a": "Produces identical offspring",
+            "b": "Generates genetic diversity",
+            "c": "Requires only one parent",
+            "d": "Does not involve gametes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is double fertilization in plants?",
+        "options": {
+            "a": "Two sperm cells fertilize two different eggs",
+            "b": "One sperm fertilizes the egg, and another fuses with polar nuclei",
+            "c": "Two eggs are fertilized by one sperm",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the flower becomes the seed?",
+        "options": {
+            "a": "Ovary",
+            "b": "Ovule",
+            "c": "Stigma",
+            "d": "Style"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens during the menstrual cycle if fertilization does not occur?",
+        "options": {
+            "a": "Ovum develops into an embryo",
+            "b": "Uterine lining is shed",
+            "c": "Fertilized egg is implanted",
+            "d": "Placenta forms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is cloning?",
+        "options": {
+            "a": "Production of offspring by sexual reproduction",
+            "b": "Creation of genetically identical organisms",
+            "c": "A type of pollination",
+            "d": "Formation of zygotes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens during germination?",
+        "options": {
+            "a": "Seed absorbs water and begins to grow",
+            "b": "Plant undergoes meiosis",
+            "c": "Flowers are pollinated",
+            "d": "Gametes are produced"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which hormone triggers ovulation in humans?",
+        "options": {
+            "a": "Insulin",
+            "b": "Luteinizing hormone (LH)",
+            "c": "Adrenaline",
+            "d": "Thyroxine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is heredity?",
+        "options": {
+            "a": "The study of human behavior",
+            "b": "The transmission of traits from parents to offspring",
+            "c": "The adaptation of organisms to their environment",
+            "d": "The process of respiration in plants"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the basic unit of heredity?",
+        "options": {
+            "a": "DNA",
+            "b": "RNA",
+            "c": "Chromosomes",
+            "d": "Gene"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is evolution?",
+        "options": {
+            "a": "Gradual changes in an organism over time",
+            "b": "The process of asexual reproduction",
+            "c": "The formation of new ecosystems",
+            "d": "The study of genetic disorders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who is known as the Father of Genetics?",
+        "options": {
+            "a": "Charles Darwin",
+            "b": "Gregor Mendel",
+            "c": "Alfred Wallace",
+            "d": "Jean-Baptiste Lamarck"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of plants did Mendel use in his experiments?",
+        "options": {
+            "a": "Corn",
+            "b": "Rice",
+            "c": "Pea plants",
+            "d": "Wheat"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a dominant trait?",
+        "options": {
+            "a": "A trait that does not appear in offspring",
+            "b": "A trait that is expressed in the presence of another allele",
+            "c": "A trait that is recessive",
+            "d": "A trait that disappears after one generation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a recessive trait?",
+        "options": {
+            "a": "A trait that is always expressed",
+            "b": "A trait that is masked in the presence of a dominant allele",
+            "c": "A trait that occurs only in plants",
+            "d": "A trait inherited from a single parent"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a genotype?",
+        "options": {
+            "a": "The observable characteristics of an organism",
+            "b": "The genetic makeup of an organism",
+            "c": "A type of mutation",
+            "d": "The environment of an organism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a phenotype?",
+        "options": {
+            "a": "The genetic code of an organism",
+            "b": "The observable physical traits of an organism",
+            "c": "A type of chromosome",
+            "d": "The reproductive structure in plants"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are homologous chromosomes?",
+        "options": {
+            "a": "Chromosomes that are inherited only from the father",
+            "b": "Chromosomes with identical genes but different alleles",
+            "c": "Chromosomes that determine sex",
+            "d": "Chromosomes found in a single-celled organism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the ratio of dominant to recessive traits in a monohybrid cross?",
+        "options": {
+            "a": "1:1",
+            "b": "3:1",
+            "c": "9:3:3:1",
+            "d": "2:1"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a dihybrid cross?",
+        "options": {
+            "a": "A cross between two plants",
+            "b": "A cross that studies two pairs of contrasting traits",
+            "c": "A cross that involves one trait",
+            "d": "A cross that always produces recessive traits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the ratio of offspring in a dihybrid cross?",
+        "options": {
+            "a": "3:1",
+            "b": "1:1",
+            "c": "9:3:3:1",
+            "d": "2:2"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the term \"variation\" mean in genetics?",
+        "options": {
+            "a": "Identical genetic traits in offspring",
+            "b": "Differences in traits among individuals of a species",
+            "c": "Genetic mutations that cause diseases",
+            "d": "No change in the genetic code"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the structure of DNA?",
+        "options": {
+            "a": "Triple helix",
+            "b": "Single strand",
+            "c": "Double helix",
+            "d": "Circular strand"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who discovered the structure of DNA?",
+        "options": {
+            "a": "Charles Darwin",
+            "b": "James Watson and Francis Crick",
+            "c": "Gregor Mendel",
+            "d": "Rosalind Franklin"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the basic building block of DNA?",
+        "options": {
+            "a": "Amino acid",
+            "b": "Nucleotide",
+            "c": "Protein",
+            "d": "Fat"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the nitrogenous bases in DNA?",
+        "options": {
+            "a": "Adenine, Thymine, Cytosine, Guanine",
+            "b": "Adenine, Uracil, Cytosine, Guanine",
+            "c": "Adenine, Cytosine, Guanine, Serine",
+            "d": "Thymine, Uracil, Cytosine, Guanine"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the complementary base pair for adenine in DNA?",
+        "options": {
+            "a": "Cytosine",
+            "b": "Guanine",
+            "c": "Thymine",
+            "d": "Uracil"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does RNA replace thymine with?",
+        "options": {
+            "a": "Cytosine",
+            "b": "Uracil",
+            "c": "Guanine",
+            "d": "Adenine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of fossils in evolution?",
+        "options": {
+            "a": "Provide evidence of past life forms",
+            "b": "Predict future species",
+            "c": "Generate new species",
+            "d": "Cause mutations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "options": {
+            "a": "Geology",
+            "b": "Paleontology",
+            "c": "Biology",
+            "d": "Evolutionary biology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is natural selection?",
+        "options": {
+            "a": "Artificial breeding of organisms",
+            "b": "Survival and reproduction of organisms best suited to their environment",
+            "c": "Random changes in genetic traits",
+            "d": "Elimination of dominant traits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who proposed the theory of natural selection?",
+        "options": {
+            "a": "Gregor Mendel",
+            "b": "Charles Darwin",
+            "c": "Alfred Wallace",
+            "d": "Jean-Baptiste Lamarck"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is speciation?",
+        "options": {
+            "a": "Formation of a new species",
+            "b": "Extinction of a species",
+            "c": "Genetic mutation in a species",
+            "d": "Cloning of a species"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What can lead to the formation of a new species?",
+        "options": {
+            "a": "Genetic drift",
+            "b": "Natural selection",
+            "c": "Reproductive isolation",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is artificial selection?",
+        "options": {
+            "a": "Natural reproduction in wild organisms",
+            "b": "Selective breeding by humans for desired traits",
+            "c": "Random changes in genetic material",
+            "d": "Elimination of recessive traits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a homologous structure?",
+        "options": {
+            "a": "Structures with similar functions but different origins",
+            "b": "Structures with similar origins but different functions",
+            "c": "Structures that have the same function and origin",
+            "d": "Structures that are vestigial"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an analogous structure?",
+        "options": {
+            "a": "Structures with the same function but different origins",
+            "b": "Structures with the same origin but different functions",
+            "c": "Structures that are vestigial",
+            "d": "Structures found only in fossils"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are vestigial organs?",
+        "options": {
+            "a": "Organs that are functional and important",
+            "b": "Organs that are non-functional remnants of ancestral structures",
+            "c": "Organs that form during reproduction",
+            "d": "Organs used for respiration"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is genetic drift?",
+        "options": {
+            "a": "A gradual change in traits across generations",
+            "b": "Random changes in allele frequencies in small populations",
+            "c": "The formation of new genetic material",
+            "d": "Artificial selection by humans"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the sex of a human baby?",
+        "options": {
+            "a": "X chromosome from the mother",
+            "b": "X or Y chromosome from the father",
+            "c": "Dominant traits in the mother",
+            "d": "Recessive traits in the father"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chromosomal pattern in human males?",
+        "options": {
+            "a": "XX",
+            "b": "XY",
+            "c": "YY",
+            "d": "YYX"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chromosomal pattern in human females?",
+        "options": {
+            "a": "XX",
+            "b": "XY",
+            "c": "YY",
+            "d": "XZ"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a mutation?",
+        "options": {
+            "a": "A deliberate change in genetic traits",
+            "b": "A sudden change in the DNA sequence",
+            "c": "A gradual change in population traits",
+            "d": "A process of artificial selection"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main cause of genetic variation?",
+        "options": {
+            "a": "Meiosis and mutations",
+            "b": "Random fertilization",
+            "c": "Cloning",
+            "d": "Binary fission"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of evidence supports evolution?",
+        "options": {
+            "a": "Fossil records",
+            "b": "Comparative anatomy",
+            "c": "Molecular biology",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is adaptive radiation?",
+        "options": {
+            "a": "Evolution of different species from a common ancestor in response to environmental changes",
+            "b": "Random mutations in a population",
+            "c": "Gradual extinction of species",
+            "d": "Selective breeding by humans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the importance of DNA in heredity?",
+        "options": {
+            "a": "It provides energy to cells",
+            "b": "It stores and transmits genetic information",
+            "c": "It produces proteins",
+            "d": "It repairs cell walls"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are sex-linked traits?",
+        "options": {
+            "a": "Traits carried on the autosomes",
+            "b": "Traits determined by genes on sex chromosomes",
+            "c": "Traits that develop after birth",
+            "d": "Traits that occur only in males"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a hybrid organism?",
+        "options": {
+            "a": "An organism with identical alleles",
+            "b": "An organism with two different alleles for a trait",
+            "c": "An organism that reproduces asexually",
+            "d": "An organism with no genetic variation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is Lamarckism?",
+        "options": {
+            "a": "Theory of natural selection",
+            "b": "Theory that traits acquired during a lifetime can be inherited",
+            "c": "Study of DNA sequences",
+            "d": "A type of mutation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a pedigree chart used for?",
+        "options": {
+            "a": "Study evolutionary patterns",
+            "b": "Trace the inheritance of traits through generations",
+            "c": "Identify fossils",
+            "d": "Study mutations in DNA"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does Mendel\u2019s law of segregation state?",
+        "options": {
+            "a": "Traits are inherited in pairs",
+            "b": "Two alleles for a trait separate during gamete formation",
+            "c": "Dominant traits always express",
+            "d": "All traits are inherited equally"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a Punnett square used for?",
+        "options": {
+            "a": "Determine the structure of DNA",
+            "b": "Predict the outcome of genetic crosses",
+            "c": "Study fossil records",
+            "d": "Identify dominant traits in populations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is co-dominance?",
+        "options": {
+            "a": "When both alleles express equally in the phenotype",
+            "b": "When one allele masks another",
+            "c": "When alleles segregate during reproduction",
+            "d": "When alleles mutate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main function of chromosomes?",
+        "options": {
+            "a": "Store and transmit genetic information",
+            "b": "Produce proteins",
+            "c": "Regulate metabolism",
+            "d": "Repair damaged tissues"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does a karyotype show?",
+        "options": {
+            "a": "Number and structure of chromosomes in a cell",
+            "b": "Evolutionary patterns of species",
+            "c": "The sequence of DNA",
+            "d": "Genetic disorders in plants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are analogous organs?",
+        "options": {
+            "a": "Same structure, different function",
+            "b": "Same function, different structure",
+            "c": "Identical in origin and function",
+            "d": "Non-functional organs"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the smallest unit of evolution?",
+        "options": {
+            "a": "Individual",
+            "b": "Population",
+            "c": "Species",
+            "d": "Ecosystem"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an ecosystem?",
+        "options": {
+            "a": "Only living organisms in an environment",
+            "b": "Interaction of living and non-living components in an area",
+            "c": "Only non-living components in an area",
+            "d": "A natural disaster zone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are biotic components of an ecosystem?",
+        "options": {
+            "a": "Water, soil, and air",
+            "b": "Temperature and sunlight",
+            "c": "Living organisms like plants, animals, and microorganisms",
+            "d": "Rocks and minerals"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are abiotic components of an ecosystem?",
+        "options": {
+            "a": "Plants and animals",
+            "b": "Microorganisms",
+            "c": "Physical factors like temperature, rainfall, and soil",
+            "d": "Decomposers"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is an example of a natural ecosystem?",
+        "options": {
+            "a": "Aquarium",
+            "b": "Garden",
+            "c": "Forest",
+            "d": "Crop field"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is an artificial ecosystem?",
+        "options": {
+            "a": "Pond",
+            "b": "Ocean",
+            "c": "Garden",
+            "d": "Forest"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are producers in an ecosystem?",
+        "options": {
+            "a": "Organisms that consume food",
+            "b": "Organisms that produce food through photosynthesis",
+            "c": "Decomposers breaking down organic material",
+            "d": "Carnivores feeding on other organisms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are herbivores?",
+        "options": {
+            "a": "Primary producers",
+            "b": "Primary consumers that feed on plants",
+            "c": "Organisms that decompose dead matter",
+            "d": "Secondary consumers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following are decomposers?",
+        "options": {
+            "a": "Plants",
+            "b": "Carnivores",
+            "c": "Fungi and bacteria",
+            "d": "Omnivores"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary source of energy for ecosystems?",
+        "options": {
+            "a": "Fossil fuels",
+            "b": "Chemical reactions",
+            "c": "Sunlight",
+            "d": "Wind energy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a food chain?",
+        "options": {
+            "a": "A linear sequence of organisms where energy flows from producers to consumers",
+            "b": "A cycle of water in the ecosystem",
+            "c": "A set of abiotic factors in the environment",
+            "d": "The decomposition process in soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a trophic level?",
+        "options": {
+            "a": "A level of energy transfer in a food chain",
+            "b": "The size of a population in an ecosystem",
+            "c": "The type of abiotic factors in a region",
+            "d": "A classification of decomposers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What occupies the first trophic level in a food chain?",
+        "options": {
+            "a": "Herbivores",
+            "b": "Producers like green plants",
+            "c": "Carnivores",
+            "d": "Omnivores"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why are food chains typically limited to four or five steps?",
+        "options": {
+            "a": "Shortage of sunlight",
+            "b": "Decrease in energy at each trophic level",
+            "c": "Absence of decomposers",
+            "d": "Lack of producers in the ecosystem"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is biological magnification?",
+        "options": {
+            "a": "Increase in the energy available at each trophic level",
+            "b": "Accumulation of harmful chemicals at higher trophic levels",
+            "c": "Decrease in population at higher trophic levels",
+            "d": "Increase in the size of organisms in a food chain"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which group of organisms occupies the highest trophic level?",
+        "options": {
+            "a": "Producers",
+            "b": "Herbivores",
+            "c": "Carnivores",
+            "d": "Decomposers"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a food web?",
+        "options": {
+            "a": "A linear flow of energy",
+            "b": "A network of interconnected food chains",
+            "c": "The decomposition of organic matter",
+            "d": "The recycling of water in the ecosystem"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What percentage of energy is passed on to the next trophic level?",
+        "options": {
+            "a": "100%",
+            "b": "50%",
+            "c": "10%",
+            "d": "1%"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to energy as it moves through trophic levels?",
+        "options": {
+            "a": "It increases",
+            "b": "It remains constant",
+            "c": "It decreases",
+            "d": "It is recycled completely"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is ozone?",
+        "options": {
+            "a": "A gas made of three oxygen atoms",
+            "b": "A component of the greenhouse effect",
+            "c": "A pollutant in the ecosystem",
+            "d": "A decomposer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the ozone layer?",
+        "options": {
+            "a": "Provide oxygen to organisms",
+            "b": "Absorb ultraviolet (UV) radiation from the Sun",
+            "c": "Act as a greenhouse gas",
+            "d": "Trap heat in the Earth's atmosphere"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the main chemicals responsible for ozone depletion?",
+        "options": {
+            "a": "Nitrogen oxides",
+            "b": "Carbon monoxide",
+            "c": "Chlorofluorocarbons (CFCs)",
+            "d": "Methane"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is waste that can be broken down by biological processes called?",
+        "options": {
+            "a": "Non-biodegradable",
+            "b": "Biodegradable",
+            "c": "Recyclable",
+            "d": "Harmful waste"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of non-biodegradable waste?",
+        "options": {
+            "a": "Vegetable peels",
+            "b": "Plastics",
+            "c": "Paper",
+            "d": "Wood"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is one way to reduce non-biodegradable waste?",
+        "options": {
+            "a": "Composting",
+            "b": "Recycling",
+            "c": "Using chemical fertilizers",
+            "d": "Burning waste"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is biological magnification commonly seen with?",
+        "options": {
+            "a": "Carbohydrates",
+            "b": "Metals",
+            "c": "Pesticides",
+            "d": "Proteins"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following contributes to air pollution?",
+        "options": {
+            "a": "Carbon dioxide from photosynthesis",
+            "b": "Smoke from factories and vehicles",
+            "c": "Oxygen released by plants",
+            "d": "Nitrogen fixation in soil"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an example of a greenhouse gas?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon dioxide",
+            "d": "Argon"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does deforestation primarily result in?",
+        "options": {
+            "a": "Increase in biodiversity",
+            "b": "Soil erosion and loss of habitat",
+            "c": "Higher production of crops",
+            "d": "Increase in rainfall"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of pollution is caused by excessive noise levels?",
+        "options": {
+            "a": "Water pollution",
+            "b": "Air pollution",
+            "c": "Noise pollution",
+            "d": "Soil pollution"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the greenhouse effect?",
+        "options": {
+            "a": "Reduction of ozone levels",
+            "b": "Trapping of heat by greenhouse gases in the Earth\u2019s atmosphere",
+            "c": "Reflection of sunlight back into space",
+            "d": "Absorption of harmful radiation by the atmosphere"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is eutrophication?",
+        "options": {
+            "a": "Accumulation of pesticides in the food chain",
+            "b": "Excessive growth of algae in water bodies due to nutrients",
+            "c": "Conversion of fertile land into desert",
+            "d": "Absorption of UV radiation by the ozone layer"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following can reduce water pollution?",
+        "options": {
+            "a": "Dumping waste into rivers",
+            "b": "Treating sewage before discharge",
+            "c": "Using chemical pesticides",
+            "d": "Burning fossil fuels"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main cause of acid rain?",
+        "options": {
+            "a": "Excessive carbon dioxide",
+            "b": "Sulfur dioxide and nitrogen oxides in the atmosphere",
+            "c": "Depletion of ozone",
+            "d": "Greenhouse gases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is composting?",
+        "options": {
+            "a": "Burning of waste",
+            "b": "Recycling plastics",
+            "c": "Converting organic waste into manure",
+            "d": "Dumping waste in landfills"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the major cause of soil pollution?",
+        "options": {
+            "a": "Use of fertilizers and pesticides",
+            "b": "Rainfall",
+            "c": "Natural disasters",
+            "d": "Deforestation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to plastics when discarded in the environment?",
+        "options": {
+            "a": "They decompose quickly",
+            "b": "They remain in the environment for a long time",
+            "c": "They convert into manure",
+            "d": "They are consumed by animals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the best way to manage biodegradable waste?",
+        "options": {
+            "a": "Incineration",
+            "b": "Composting",
+            "c": "Recycling",
+            "d": "Dumping in landfills"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"reduce\" in the 3Rs of waste management mean?",
+        "options": {
+            "a": "Minimize the use of resources",
+            "b": "Reuse products for different purposes",
+            "c": "Recycle non-biodegradable materials",
+            "d": "Repair broken items"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process of recycling?",
+        "options": {
+            "a": "Reusing materials as they are",
+            "b": "Converting waste materials into reusable products",
+            "c": "Burning waste to generate energy",
+            "d": "Burying waste in the ground"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \"carbon footprint\" refer to?",
+        "options": {
+            "a": "The amount of carbon in fossil fuels",
+            "b": "The total amount of greenhouse gases produced by human activities",
+            "c": "The area covered by carbon deposits",
+            "d": "The percentage of carbon in the air"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of decomposers in an ecosystem?",
+        "options": {
+            "a": "Control the population of herbivores",
+            "b": "Break down dead organisms and recycle nutrients",
+            "c": "Trap sunlight for photosynthesis",
+            "d": "Consume primary producers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a renewable source of energy?",
+        "options": {
+            "a": "Coal",
+            "b": "Natural gas",
+            "c": "Solar energy",
+            "d": "Petroleum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of afforestation in environmental conservation?",
+        "options": {
+            "a": "Promote the use of fossil fuels",
+            "b": "Increase oxygen levels and reduce carbon dioxide",
+            "c": "Encourage industrial growth",
+            "d": "Convert forests into agricultural land"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the consequences of water pollution?",
+        "options": {
+            "a": "Increased agricultural productivity",
+            "b": "Health issues in humans and aquatic life",
+            "c": "Increased levels of oxygen in water",
+            "d": "Enhanced soil fertility"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is waste segregation important?",
+        "options": {
+            "a": "It increases the amount of waste in landfills",
+            "b": "It reduces recycling rates",
+            "c": "It makes waste easier to recycle or compost",
+            "d": "It promotes burning of plastics"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the purpose of the \"reduce, reuse, recycle\" approach?",
+        "options": {
+            "a": "Increase the production of waste",
+            "b": "Decrease waste and conserve resources",
+            "c": "Promote the use of fossil fuels",
+            "d": "Burn more non-biodegradable materials"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a biodegradable material?",
+        "options": {
+            "a": "Glass bottle",
+            "b": "Aluminum can",
+            "c": "Banana peel",
+            "d": "Plastic bag"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does deforestation affect the environment?",
+        "options": {
+            "a": "Reduces soil erosion",
+            "b": "Maintains ecological balance",
+            "c": "Increases carbon dioxide levels",
+            "d": "Enhances biodiversity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the impact of greenhouse gases on the environment?",
+        "options": {
+            "a": "Cool the Earth's surface",
+            "b": "Contribute to global warming",
+            "c": "Decrease air pollution",
+            "d": "Increase oxygen levels in the atmosphere"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of primary consumers in an ecosystem?",
+        "options": {
+            "a": "Produce food through photosynthesis",
+            "b": "Feed on producers",
+            "c": "Break down dead organic matter",
+            "d": "Control the climate"
+        },
+        "answer": "b"
+    }
+]

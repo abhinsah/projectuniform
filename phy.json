@@ -1,0 +1,2502 @@
+[
+    {
+        "question": "What is motion?",
+        "options": {
+            "a": "Change of an object\u2019s position with time",
+            "b": "Random movement of particles",
+            "c": "A stationary object",
+            "d": "Any change in the environment"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a reference point in motion?",
+        "options": {
+            "a": "A random position of an object",
+            "b": "A stationary point to describe the position of a moving object",
+            "c": "A moving object to compare motion",
+            "d": "A universal position"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the shortest distance between the initial and final position of an object?",
+        "options": {
+            "a": "Distance",
+            "b": "Speed",
+            "c": "Displacement",
+            "d": "Velocity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a scalar quantity?",
+        "options": {
+            "a": "Velocity",
+            "b": "Acceleration",
+            "c": "Distance",
+            "d": "Displacement"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "When can displacement be zero?",
+        "options": {
+            "a": "When the object moves in a straight line",
+            "b": "When the object returns to its starting position",
+            "c": "When the object moves in a circular path",
+            "d": "When the object stops moving"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of motion occurs when equal distances are covered in equal intervals of time?",
+        "options": {
+            "a": "Non-uniform motion",
+            "b": "Uniform motion",
+            "c": "Circular motion",
+            "d": "Vibratory motion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of speed?",
+        "options": {
+            "a": "m/s",
+            "b": "km/h",
+            "c": "cm/s",
+            "d": "km/s"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How is average speed calculated?",
+        "options": {
+            "a": "Total time \u00f7 Total distance",
+            "b": "Total distance \u00f7 Total time",
+            "c": "Initial speed \u00f7 Final speed",
+            "d": "Distance \u00d7 Time"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which quantity specifies both magnitude and direction?",
+        "options": {
+            "a": "Speed",
+            "b": "Distance",
+            "c": "Scalar",
+            "d": "Vector"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is velocity?",
+        "options": {
+            "a": "Speed in a specific direction",
+            "b": "Random motion of an object",
+            "c": "Distance covered per unit time",
+            "d": "Speed multiplied by time"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How is acceleration calculated?",
+        "options": {
+            "a": "Change in distance \u00f7 Time taken",
+            "b": "Change in velocity \u00f7 Time taken",
+            "c": "Speed \u00d7 Time",
+            "d": "Force \u00f7 Time"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of acceleration?",
+        "options": {
+            "a": "m/s",
+            "b": "m/s\u00b2",
+            "c": "km/h\u00b2",
+            "d": "m/h"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of graph shows distance against time?",
+        "options": {
+            "a": "Velocity-time graph",
+            "b": "Acceleration-time graph",
+            "c": "Distance-time graph",
+            "d": "Force-time graph"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the slope of a distance-time graph represent?",
+        "options": {
+            "a": "Speed",
+            "b": "Acceleration",
+            "c": "Displacement",
+            "d": "Force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the area under a velocity-time graph represent?",
+        "options": {
+            "a": "Distance traveled",
+            "b": "Acceleration",
+            "c": "Speed",
+            "d": "Force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which equation of motion relates velocity and time?",
+        "options": {
+            "a": "v = u + at",
+            "b": "s = ut + \u00bdat\u00b2",
+            "c": "v\u00b2 = u\u00b2 + 2as",
+            "d": "F = ma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the equation for uniformly accelerated motion?",
+        "options": {
+            "a": "s = ut + \u00bdat\u00b2",
+            "b": "v = u + at",
+            "c": "F = ma",
+            "d": "v\u00b2 = u\u00b2 + 2as"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If an object travels with uniform velocity, what is its acceleration?",
+        "options": {
+            "a": "Zero",
+            "b": "Constant",
+            "c": "Increasing",
+            "d": "Decreasing"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which motion involves constant acceleration?",
+        "options": {
+            "a": "Circular motion",
+            "b": "Uniform motion in a straight line",
+            "c": "Free fall",
+            "d": "Vibratory motion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is uniform circular motion?",
+        "options": {
+            "a": "Movement with constant speed in a straight line",
+            "b": "Movement with constant speed in a circular path",
+            "c": "Increasing speed in a circular path",
+            "d": "Decreasing speed in a straight path"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to velocity during uniform circular motion?",
+        "options": {
+            "a": "Remains constant",
+            "b": "Changes due to change in direction",
+            "c": "Decreases uniformly",
+            "d": "Increases uniformly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of displacement?",
+        "options": {
+            "a": "m\u00b2",
+            "b": "m/s",
+            "c": "m",
+            "d": "km/h"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which motion is shown by a pendulum?",
+        "options": {
+            "a": "Uniform motion",
+            "b": "Circular motion",
+            "c": "Oscillatory motion",
+            "d": "Rectilinear motion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the term \"non-uniform motion\" mean?",
+        "options": {
+            "a": "Equal distances covered in unequal intervals of time",
+            "b": "Equal distances covered in equal intervals of time",
+            "c": "Constant velocity motion",
+            "d": "Constant acceleration motion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the formula for average velocity?",
+        "options": {
+            "a": "(Initial velocity \u00d7 Final velocity) \u00f7 2",
+            "b": "(Initial velocity + Final velocity) \u00f7 2",
+            "c": "Total distance \u00d7 Total time",
+            "d": "Total velocity \u00f7 Time taken"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which graph represents an object at rest?",
+        "options": {
+            "a": "A horizontal line in a velocity-time graph",
+            "b": "A horizontal line in a distance-time graph",
+            "c": "A straight sloping line in a velocity-time graph",
+            "d": "A curved line in a distance-time graph"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to acceleration if an object is moving with constant velocity?",
+        "options": {
+            "a": "It becomes zero",
+            "b": "It increases uniformly",
+            "c": "It decreases uniformly",
+            "d": "It remains constant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If an object starts from rest, which term becomes zero in the equations of motion?",
+        "options": {
+            "a": "Final velocity",
+            "b": "Acceleration",
+            "c": "Initial velocity",
+            "d": "Displacement"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which motion involves varying speed but constant direction?",
+        "options": {
+            "a": "Uniform circular motion",
+            "b": "Uniform rectilinear motion",
+            "c": "Non-uniform rectilinear motion",
+            "d": "Oscillatory motion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If a body is falling freely under gravity, what is the value of acceleration?",
+        "options": {
+            "a": "Zero",
+            "b": "9.8 m/s\u00b2",
+            "c": "5 m/s\u00b2",
+            "d": "15 m/s\u00b2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a steeper slope on a distance-time graph indicate?",
+        "options": {
+            "a": "Greater acceleration",
+            "b": "Higher speed",
+            "c": "Longer time",
+            "d": "Shorter displacement"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which physical quantity is described as the rate of change of velocity?",
+        "options": {
+            "a": "Speed",
+            "b": "Displacement",
+            "c": "Acceleration",
+            "d": "Force"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What kind of motion is exhibited by a car moving at a constant speed in a straight line?",
+        "options": {
+            "a": "Uniform motion",
+            "b": "Non-uniform motion",
+            "c": "Circular motion",
+            "d": "Oscillatory motion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does a flat horizontal line in a velocity-time graph indicate?",
+        "options": {
+            "a": "Constant velocity",
+            "b": "Increasing acceleration",
+            "c": "Decreasing velocity",
+            "d": "Increasing speed"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If an object accelerates uniformly from 10 m/s to 30 m/s in 5 seconds, what is its acceleration?",
+        "options": {
+            "a": "2 m/s\u00b2",
+            "b": "4 m/s\u00b2",
+            "c": "5 m/s\u00b2",
+            "d": "10 m/s\u00b2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the equation v\u00b2 = u\u00b2 + 2as, what does s represent?",
+        "options": {
+            "a": "Speed",
+            "b": "Distance",
+            "c": "Displacement",
+            "d": "Time"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of motion is shown by the second hand of a clock?",
+        "options": {
+            "a": "Uniform motion",
+            "b": "Oscillatory motion",
+            "c": "Circular motion",
+            "d": "Rectilinear motion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to velocity during non-uniform motion?",
+        "options": {
+            "a": "It remains constant",
+            "b": "It changes continuously",
+            "c": "It stops completely",
+            "d": "It decreases uniformly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which motion involves acceleration in a direction opposite to motion?",
+        "options": {
+            "a": "Uniform acceleration",
+            "b": "Deceleration",
+            "c": "Uniform velocity",
+            "d": "Circular motion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the displacement of an object that returns to its starting point?",
+        "options": {
+            "a": "Zero",
+            "b": "Equal to the distance covered",
+            "c": "Greater than the distance covered",
+            "d": "Equal to the final velocity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of quantity is acceleration?",
+        "options": {
+            "a": "Scalar",
+            "b": "Vector",
+            "c": "Neither scalar nor vector",
+            "d": "Magnitude only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which equation of motion is used to calculate final velocity after covering a certain distance?",
+        "options": {
+            "a": "v = u + at",
+            "b": "s = ut + \u00bdat\u00b2",
+            "c": "v\u00b2 = u\u00b2 + 2as",
+            "d": "F = ma"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What kind of path does an object in uniform circular motion follow?",
+        "options": {
+            "a": "Straight line",
+            "b": "Curved line",
+            "c": "Circle",
+            "d": "Zigzag line"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which motion is a combination of uniform circular motion and uniform velocity?",
+        "options": {
+            "a": "Projectile motion",
+            "b": "Oscillatory motion",
+            "c": "Random motion",
+            "d": "Rectilinear motion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is instantaneous speed?",
+        "options": {
+            "a": "Speed at any particular instant",
+            "b": "Average speed over a time period",
+            "c": "Total distance divided by total time",
+            "d": "Speed when acceleration is zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the area under an acceleration-time graph represent?",
+        "options": {
+            "a": "Velocity",
+            "b": "Displacement",
+            "c": "Speed",
+            "d": "Force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does uniform acceleration mean?",
+        "options": {
+            "a": "Equal changes in velocity in equal time intervals",
+            "b": "Equal distances in unequal time intervals",
+            "c": "Unequal changes in velocity in equal time intervals",
+            "d": "Constant speed without direction change"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the acceleration of a body moving with uniform velocity?",
+        "options": {
+            "a": "Zero",
+            "b": "Constant",
+            "c": "Increasing",
+            "d": "Decreasing"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What kind of motion is represented by a straight line through the origin on a velocity-time graph?",
+        "options": {
+            "a": "Uniform motion",
+            "b": "Uniform acceleration",
+            "c": "Deceleration",
+            "d": "Random motion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which graph represents the motion of an object under free fall?",
+        "options": {
+            "a": "Straight line sloping upward in a velocity-time graph",
+            "b": "Horizontal line in a distance-time graph",
+            "c": "Parabolic curve in a distance-time graph",
+            "d": "Circular path in a velocity-time graph"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is force?",
+        "options": {
+            "a": "A push or pull on an object",
+            "b": "The ability of an object to move",
+            "c": "The velocity of a moving object",
+            "d": "The resistance of an object to motion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following effects can a force produce?",
+        "options": {
+            "a": "Change in shape of an object",
+            "b": "Change in motion of an object",
+            "c": "Both a and b",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when balanced forces act on an object?",
+        "options": {
+            "a": "The object changes its motion",
+            "b": "The object moves faster",
+            "c": "The object remains at rest or moves with uniform motion",
+            "d": "The object increases in size"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the condition for an unbalanced force?",
+        "options": {
+            "a": "Forces acting in opposite directions are unequal",
+            "b": "Forces acting in opposite directions are equal",
+            "c": "Forces are perpendicular to each other",
+            "d": "No force acts on the object"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who proposed the three laws of motion?",
+        "options": {
+            "a": "Galileo Galilei",
+            "b": "Albert Einstein",
+            "c": "Isaac Newton",
+            "d": "Aristotle"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does Newton\u2019s First Law of Motion state?",
+        "options": {
+            "a": "Every object continues in its state of rest or uniform motion unless acted upon by an external force",
+            "b": "Force equals mass times acceleration",
+            "c": "For every action, there is an equal and opposite reaction",
+            "d": "Objects are at rest because of friction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What property of an object resists changes in its motion?",
+        "options": {
+            "a": "Force",
+            "b": "Inertia",
+            "c": "Momentum",
+            "d": "Velocity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these objects has the most inertia?",
+        "options": {
+            "a": "A marble",
+            "b": "A football",
+            "c": "A car",
+            "d": "A pencil"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the Second Law of Motion relate?",
+        "options": {
+            "a": "Force, mass, and acceleration",
+            "b": "Force, velocity, and displacement",
+            "c": "Force and momentum",
+            "d": "Force and inertia"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the formula for force according to the Second Law of Motion?",
+        "options": {
+            "a": "F = ma",
+            "b": "F = mv",
+            "c": "F = m + a",
+            "d": "F = ma\u00b2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is momentum?",
+        "options": {
+            "a": "The resistance of an object to change",
+            "b": "The product of an object's mass and velocity",
+            "c": "The force acting on an object",
+            "d": "The distance covered by an object"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of momentum?",
+        "options": {
+            "a": "Newton",
+            "b": "Joule",
+            "c": "Kilogram meter per second",
+            "d": "Meter per second"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does Newton\u2019s Third Law of Motion state?",
+        "options": {
+            "a": "Force equals mass times acceleration",
+            "b": "Every action has an equal and opposite reaction",
+            "c": "Inertia resists changes in motion",
+            "d": "An object at rest stays at rest unless acted upon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which example illustrates the Third Law of Motion?",
+        "options": {
+            "a": "A ball rolling on the ground",
+            "b": "A swimmer pushing water backward to move forward",
+            "c": "A car accelerating",
+            "d": "A stone falling to the ground"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": {
+            "a": "Joule",
+            "b": "Pascal",
+            "c": "Newton",
+            "d": "Kilogram"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "If a force of 10 N is applied to a 2 kg object, what is its acceleration?",
+        "options": {
+            "a": "2 m/s\u00b2",
+            "b": "5 m/s\u00b2",
+            "c": "10 m/s\u00b2",
+            "d": "20 m/s\u00b2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does force affect momentum?",
+        "options": {
+            "a": "Force increases the size of the object",
+            "b": "Force changes the momentum of an object",
+            "c": "Force maintains constant momentum",
+            "d": "Force has no effect on momentum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between mass and inertia?",
+        "options": {
+            "a": "Greater the mass, lesser the inertia",
+            "b": "Greater the mass, greater the inertia",
+            "c": "Mass and inertia are unrelated",
+            "d": "Mass decreases inertia"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when a tablecloth is pulled quickly from a table?",
+        "options": {
+            "a": "The objects on the cloth remain at rest due to inertia",
+            "b": "The objects move along with the cloth",
+            "c": "The objects fall off the table",
+            "d": "The objects accelerate in the direction of the pull"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes a moving bicycle to stop when pedaling ceases?",
+        "options": {
+            "a": "Balanced forces",
+            "b": "Frictional force",
+            "c": "Gravity",
+            "d": "Air resistance only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a rocket's upward motion illustrate?",
+        "options": {
+            "a": "Newton\u2019s First Law",
+            "b": "Newton\u2019s Second Law",
+            "c": "Newton\u2019s Third Law",
+            "d": "Law of inertia"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the net force on an object moving at constant velocity?",
+        "options": {
+            "a": "Equal to the applied force",
+            "b": "Equal to the mass of the object",
+            "c": "Zero",
+            "d": "Equal to the gravitational force"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the momentum of a 10 kg object moving at 2 m/s?",
+        "options": {
+            "a": "5 kg\u00b7m/s",
+            "b": "10 kg\u00b7m/s",
+            "c": "20 kg\u00b7m/s",
+            "d": "50 kg\u00b7m/s"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when two equal forces act in opposite directions on an object?",
+        "options": {
+            "a": "The object accelerates",
+            "b": "The object moves in the direction of the greater force",
+            "c": "The object remains stationary or in uniform motion",
+            "d": "The object doubles its velocity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which force opposes the relative motion of surfaces in contact?",
+        "options": {
+            "a": "Gravitational force",
+            "b": "Frictional force",
+            "c": "Tension force",
+            "d": "Magnetic force"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is required to bring a stationary object into motion?",
+        "options": {
+            "a": "Balanced force",
+            "b": "Gravitational force",
+            "c": "Unbalanced force",
+            "d": "Reaction force"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does a person move backward when stepping off a boat?",
+        "options": {
+            "a": "Due to inertia",
+            "b": "Due to Newton\u2019s Third Law of Motion",
+            "c": "Due to momentum conservation",
+            "d": "Due to balanced forces"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between force and acceleration for a given mass?",
+        "options": {
+            "a": "They are inversely proportional",
+            "b": "They are directly proportional",
+            "c": "They are unrelated",
+            "d": "They decrease uniformly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why do passengers fall forward when a moving bus suddenly stops?",
+        "options": {
+            "a": "Due to the bus\u2019s weight",
+            "b": "Due to their inertia of motion",
+            "c": "Due to balanced forces",
+            "d": "Due to reaction forces"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to momentum when two objects collide in an isolated system?",
+        "options": {
+            "a": "It is lost",
+            "b": "It remains constant",
+            "c": "It decreases",
+            "d": "It increases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is recoil velocity in firearms?",
+        "options": {
+            "a": "Velocity of the bullet",
+            "b": "Velocity of the gun moving backward",
+            "c": "Gravitational velocity",
+            "d": "Acceleration due to firing"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the force acting on an object of mass 10 kg accelerating at 3 m/s\u00b2?",
+        "options": {
+            "a": "10 N",
+            "b": "13 N",
+            "c": "30 N",
+            "d": "40 N"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does a person jump higher on the Moon compared to Earth?",
+        "options": {
+            "a": "Lesser air resistance",
+            "b": "Absence of gravity on the Moon",
+            "c": "Lower gravitational force on the Moon",
+            "d": "Higher mass of the Moon"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which law explains the working of a jet engine?",
+        "options": {
+            "a": "Newton\u2019s First Law",
+            "b": "Newton\u2019s Second Law",
+            "c": "Newton\u2019s Third Law",
+            "d": "Law of momentum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does friction act on a moving object?",
+        "options": {
+            "a": "In the direction of motion",
+            "b": "Opposite to the direction of motion",
+            "c": "Perpendicular to the motion",
+            "d": "In the direction of the force applied"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why do we slip on a wet floor?",
+        "options": {
+            "a": "Due to high friction",
+            "b": "Due to reduced friction",
+            "c": "Due to air resistance",
+            "d": "Due to gravitational force"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the momentum of an object if its velocity doubles?",
+        "options": {
+            "a": "Momentum becomes half",
+            "b": "Momentum remains unchanged",
+            "c": "Momentum doubles",
+            "d": "Momentum quadruples"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What kind of force is exerted by a stretched rubber band?",
+        "options": {
+            "a": "Tension force",
+            "b": "Magnetic force",
+            "c": "Gravitational force",
+            "d": "Reaction force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why does a ball stop rolling on the ground?",
+        "options": {
+            "a": "Due to gravity",
+            "b": "Due to air resistance",
+            "c": "Due to friction",
+            "d": "Due to lack of applied force"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the reaction force when a book is placed on a table?",
+        "options": {
+            "a": "Frictional force",
+            "b": "Normal force exerted by the table",
+            "c": "Gravitational force of the book",
+            "d": "Force of the air"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is it difficult to push a heavy box?",
+        "options": {
+            "a": "Because of gravitational pull",
+            "b": "Because of balanced forces",
+            "c": "Because of high friction",
+            "d": "Because of air resistance"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the First Law of Motion suggest about objects in motion?",
+        "options": {
+            "a": "They will stop immediately",
+            "b": "They will continue moving unless an external force acts on them",
+            "c": "They will lose mass over time",
+            "d": "They will change shape"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which force is responsible for the downward motion of raindrops?",
+        "options": {
+            "a": "Frictional force",
+            "b": "Gravitational force",
+            "c": "Buoyant force",
+            "d": "Normal force"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the net force on an object of mass 5 kg moving with a constant velocity of 10 m/s?",
+        "options": {
+            "a": "50 N",
+            "b": "10 N",
+            "c": "0 N",
+            "d": "5 N"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does lubrication affect friction?",
+        "options": {
+            "a": "Increases friction",
+            "b": "Reduces friction",
+            "c": "Removes friction completely",
+            "d": "Has no effect on friction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why does a leaf fall slower than a stone?",
+        "options": {
+            "a": "Because it has lesser mass",
+            "b": "Due to air resistance acting on the leaf",
+            "c": "Due to higher gravitational force on the leaf",
+            "d": "Due to higher momentum of the stone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does F=ma imply when mass is constant?",
+        "options": {
+            "a": "Force and acceleration are unrelated",
+            "b": "Force and acceleration are inversely proportional",
+            "c": "Force and acceleration are directly proportional",
+            "d": "Force decreases with time"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the action force when a person steps forward in a boat?",
+        "options": {
+            "a": "The person stepping forward",
+            "b": "The boat moving backward",
+            "c": "Gravitational pull of the Earth",
+            "d": "The water resisting the boat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the total momentum of two colliding objects after the collision?",
+        "options": {
+            "a": "Less than their initial momentum",
+            "b": "More than their initial momentum",
+            "c": "Equal to their initial momentum",
+            "d": "Unpredictable"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the acceleration of a 20 kg object acted upon by a force of 100 N?",
+        "options": {
+            "a": "0.2 m/s\u00b2",
+            "b": "5 m/s\u00b2",
+            "c": "20 m/s\u00b2",
+            "d": "100 m/s\u00b2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What force is responsible for the motion of planets around the Sun?",
+        "options": {
+            "a": "Magnetic force",
+            "b": "Centripetal force",
+            "c": "Gravitational force",
+            "d": "Frictional force"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who formulated the universal law of gravitation?",
+        "options": {
+            "a": "Albert Einstein",
+            "b": "Isaac Newton",
+            "c": "Galileo Galilei",
+            "d": "Johannes Kepler"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The universal law of gravitation states that the force between two objects is:",
+        "options": {
+            "a": "Proportional to the product of their masses",
+            "b": "Inversely proportional to the square of the distance between them",
+            "c": "Both a and b",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the formula for the universal law of gravitation?",
+        "options": {
+            "a": "F = ma",
+            "b": "F = G (Mm) / d\u00b2",
+            "c": "F = Gd\u00b2 / Mm",
+            "d": "F = mg"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does G represent in the universal law of gravitation?",
+        "options": {
+            "a": "Gravitational constant",
+            "b": "Gravity on Earth",
+            "c": "Acceleration due to gravity",
+            "d": "Mass of the object"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the SI unit of the gravitational constant G?",
+        "options": {
+            "a": "N\u22c5m\u00b2/kg\u00b2",
+            "b": "N/kg",
+            "c": "m/s\u00b2",
+            "d": "kg"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The value of G is approximately:",
+        "options": {
+            "a": "9.8 m/s\u00b2",
+            "b": "6.67 \u00d7 10\u207b\u00b9\u00b9 N\u22c5m\u00b2/kg\u00b2",
+            "c": "5.98 \u00d7 10\u00b2\u2074 N",
+            "d": "1.6 \u00d7 10\u207b\u00b9\u2079 C"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the force of attraction between two 1 kg masses placed 1 m apart?",
+        "options": {
+            "a": "6.67 \u00d7 10\u207b\u00b9\u00b9 N",
+            "b": "9.8 N",
+            "c": "1 N",
+            "d": "0 N"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is free fall?",
+        "options": {
+            "a": "Motion of an object under the influence of gravity alone",
+            "b": "Motion of an object with constant velocity",
+            "c": "Motion of an object under friction",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the value of acceleration due to gravity g on Earth?",
+        "options": {
+            "a": "6.67 \u00d7 10\u207b\u00b9\u00b9 m/s\u00b2",
+            "b": "9.8 m/s\u00b2",
+            "c": "1 m/s\u00b2",
+            "d": "0 m/s\u00b2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the value of g as we move away from Earth\u2019s surface?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Doubles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the force acting on a 10 kg mass near the Earth\u2019s surface?",
+        "options": {
+            "a": "10 N",
+            "b": "98 N",
+            "c": "6.67 N",
+            "d": "0 N"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What causes the tides on Earth?",
+        "options": {
+            "a": "Gravitational pull of the Moon and Sun",
+            "b": "Wind currents",
+            "c": "Magnetic force of Earth",
+            "d": "Rotational motion of Earth"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the weight of a 10 kg object on the Moon?",
+        "options": {
+            "a": "98 N",
+            "b": "16.3 N",
+            "c": "9.8 N",
+            "d": "6.67 N"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between weight and mass?",
+        "options": {
+            "a": "Weight is mass multiplied by acceleration due to gravity",
+            "b": "Weight is inversely proportional to mass",
+            "c": "Weight is equal to mass",
+            "d": "Weight is independent of mass"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which principle explains why objects float?",
+        "options": {
+            "a": "Universal law of gravitation",
+            "b": "Archimedes\u2019 principle",
+            "c": "Pascal\u2019s law",
+            "d": "Newton\u2019s First Law"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is buoyant force?",
+        "options": {
+            "a": "Upward force experienced by a body in a fluid",
+            "b": "Downward force due to gravity",
+            "c": "Frictional force in a liquid",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What determines whether an object will sink or float?",
+        "options": {
+            "a": "Density of the object compared to the fluid",
+            "b": "Mass of the object",
+            "c": "Temperature of the fluid",
+            "d": "Shape of the object"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the weight of an object of mass 5 kg on the Moon?",
+        "options": {
+            "a": "8.33 N",
+            "b": "49 N",
+            "c": "10 N",
+            "d": "1.67 N"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which law describes the motion of the Moon around the Earth?",
+        "options": {
+            "a": "Universal law of gravitation",
+            "b": "Newton\u2019s First Law",
+            "c": "Pascal\u2019s law",
+            "d": "Kepler\u2019s law"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why do astronauts feel weightless in space?",
+        "options": {
+            "a": "No gravity in space",
+            "b": "No air in space",
+            "c": "Continuous free fall towards Earth",
+            "d": "High velocity of the spacecraft"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the thrust?",
+        "options": {
+            "a": "Force acting perpendicular to a surface",
+            "b": "Force acting parallel to a surface",
+            "c": "Force causing circular motion",
+            "d": "Gravitational force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the SI unit of pressure?",
+        "options": {
+            "a": "Pascal",
+            "b": "Newton",
+            "c": "Meter",
+            "d": "Kilogram"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the pressure if a force of 50 N acts over an area of 10 m\u00b2?",
+        "options": {
+            "a": "5 Pa",
+            "b": "50 Pa",
+            "c": "0.5 Pa",
+            "d": "500 Pa"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes a cork to float on water?",
+        "options": {
+            "a": "High density of water compared to cork",
+            "b": "Low gravitational force on cork",
+            "c": "High weight of cork",
+            "d": "High density of cork compared to water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the buoyant force if the volume of the submerged object increases?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the apparent weight of an object submerged in water?",
+        "options": {
+            "a": "Greater than its actual weight",
+            "b": "Less than its actual weight",
+            "c": "Equal to its actual weight",
+            "d": "Zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the density of water?",
+        "options": {
+            "a": "1000 kg/m\u00b3",
+            "b": "1 kg/m\u00b3",
+            "c": "10 kg/m\u00b3",
+            "d": "0.1 kg/m\u00b3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which object will float on water?",
+        "options": {
+            "a": "An object with density equal to water",
+            "b": "An object with density less than water",
+            "c": "An object with density greater than water",
+            "d": "All of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for pressure?",
+        "options": {
+            "a": "P = F \u22c5 A",
+            "b": "P = F / A",
+            "c": "P = F\u00b2 / A",
+            "d": "P = F + A"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why does a ship float on water?",
+        "options": {
+            "a": "The density of the ship is less than water",
+            "b": "The weight of the ship is equal to the weight of water displaced",
+            "c": "The volume of the ship is greater than its weight",
+            "d": "The gravitational force on the ship is zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is thrust?",
+        "options": {
+            "a": "Total force acting perpendicular to a surface",
+            "b": "Total force acting parallel to a surface",
+            "c": "Force that causes motion in circular paths",
+            "d": "Gravitational force pulling an object"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \u201capparent weight\u201d refer to?",
+        "options": {
+            "a": "The weight of an object in air",
+            "b": "The weight of an object immersed in a fluid",
+            "c": "The weight of a floating object",
+            "d": "The total weight of water displaced"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the pressure when the area over which the force is applied decreases?",
+        "options": {
+            "a": "Pressure increases",
+            "b": "Pressure decreases",
+            "c": "Pressure remains the same",
+            "d": "Pressure becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the pressure exerted by a column of liquid of height h, density \u03c1, and gravitational acceleration g?",
+        "options": {
+            "a": "P = h \u03c1 g",
+            "b": "P = h / (g \u03c1)",
+            "c": "P = (g \u03c1) / h",
+            "d": "P = h \u03c1"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why is it easier to lift an object underwater?",
+        "options": {
+            "a": "The gravitational force is reduced",
+            "b": "Buoyant force acts upward reducing the apparent weight",
+            "c": "The object becomes weightless underwater",
+            "d": "Water density decreases the mass of the object"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the condition for an object to float on a liquid?",
+        "options": {
+            "a": "Weight of the object is greater than buoyant force",
+            "b": "Weight of the object is equal to buoyant force",
+            "c": "Weight of the object is less than buoyant force",
+            "d": "Object has a higher density than liquid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why does an iron nail sink in water but a ship made of iron floats?",
+        "options": {
+            "a": "The density of the nail is higher than water",
+            "b": "The shape of the ship causes it to displace more water",
+            "c": "The ship has more gravitational force acting on it",
+            "d": "The nail does not displace enough water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to pressure as depth in a liquid increases?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the buoyant force experienced by an object fully submerged in a liquid equal to?",
+        "options": {
+            "a": "The volume of the liquid",
+            "b": "The weight of the liquid displaced by the object",
+            "c": "The mass of the object",
+            "d": "The density of the liquid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is the bottom of a dam made thicker?",
+        "options": {
+            "a": "To resist the increased pressure at greater depths",
+            "b": "To store more water",
+            "c": "To reduce friction between water and walls",
+            "d": "To increase water flow"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes atmospheric pressure?",
+        "options": {
+            "a": "Gravitational pull of the Sun",
+            "b": "Weight of the air column above us",
+            "c": "Density of the air",
+            "d": "Motion of the Earth"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the approximate value of atmospheric pressure at sea level?",
+        "options": {
+            "a": "1 atm or 101325 Pa",
+            "b": "10 atm or 1 Pa",
+            "c": "100 atm or 1000 Pa",
+            "d": "10000 atm"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to atmospheric pressure as altitude increases?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Doubles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the principle behind a hydraulic lift?",
+        "options": {
+            "a": "Archimedes\u2019 principle",
+            "b": "Pascal\u2019s law",
+            "c": "Newton\u2019s Second Law",
+            "d": "Universal law of gravitation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the density of an object if its mass is 500 g and its volume is 250 cm\u00b3?",
+        "options": {
+            "a": "2 g/cm\u00b3",
+            "b": "0.5 g/cm\u00b3",
+            "c": "5 g/cm\u00b3",
+            "d": "20 g/cm\u00b3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why does a balloon rise in air?",
+        "options": {
+            "a": "Gravitational force pulls it upward",
+            "b": "The air inside is denser than outside air",
+            "c": "Buoyant force acting on it is greater than its weight",
+            "d": "Atmospheric pressure pushes it downward"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What property of a liquid determines the pressure at a point below its surface?",
+        "options": {
+            "a": "Mass of the liquid",
+            "b": "Density of the liquid",
+            "c": "Volume of the liquid",
+            "d": "Shape of the container"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does Archimedes\u2019 principle state?",
+        "options": {
+            "a": "Buoyant force equals the volume of the displaced liquid",
+            "b": "Buoyant force equals the weight of the displaced liquid",
+            "c": "Buoyant force equals the weight of the object",
+            "d": "Buoyant force equals the density of the liquid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to a floating object when more water is displaced?",
+        "options": {
+            "a": "It sinks",
+            "b": "It rises",
+            "c": "Its weight increases",
+            "d": "It floats at the same level"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is work in scientific terms?",
+        "options": {
+            "a": "Any physical or mental labor",
+            "b": "Force applied on an object without displacement",
+            "c": "Force applied on an object causing displacement in the direction of force",
+            "d": "Energy used in daily activities"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "When is work considered zero?",
+        "options": {
+            "a": "When the object is displaced",
+            "b": "When the force applied is zero",
+            "c": "When there is no displacement in the direction of the force",
+            "d": "When the object moves at a constant velocity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the SI unit of work?",
+        "options": {
+            "a": "Newton (N)",
+            "b": "Joule (J)",
+            "c": "Watt (W)",
+            "d": "Pascal (Pa)"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If a force of 5 N moves an object by 2 m in the direction of the force, what is the work done?",
+        "options": {
+            "a": "5 J",
+            "b": "10 J",
+            "c": "20 J",
+            "d": "2.5 J"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does 1 Joule of work represent?",
+        "options": {
+            "a": "A force of 1 N moves an object by 1 m in the direction of the force",
+            "b": "A force of 1 N moves an object by 1 km in any direction",
+            "c": "A force of 10 N moves an object by 10 m",
+            "d": "A force of 1 N moves an object by 10 m in the opposite direction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the work done if the angle between force and displacement is 90\u00b0?",
+        "options": {
+            "a": "Maximum work is done",
+            "b": "Minimum work is done",
+            "c": "No work is done",
+            "d": "Infinite work is done"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the formula for work done?",
+        "options": {
+            "a": "\ud835\udc4a = \ud835\udc39 \u22c5 \ud835\udc51 \u22c5 cos \u2061 \ud835\udf03 W=F\u22c5d\u22c5cos\u03b8",
+            "b": "\ud835\udc4a = \ud835\udc39 + \ud835\udc51 W=F+d",
+            "c": "\ud835\udc4a = \ud835\udc39 \u22c5 \ud835\udc51 \u22c5 sin \u2061 \ud835\udf03 W=F\u22c5d\u22c5sin\u03b8",
+            "d": "\ud835\udc4a = \ud835\udc39 \ud835\udc51 W= d F \u200b"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is energy?",
+        "options": {
+            "a": "The rate of doing work",
+            "b": "The ability to do work",
+            "c": "The force applied to move an object",
+            "d": "The displacement of an object"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of energy?",
+        "options": {
+            "a": "Watt (W)",
+            "b": "Newton (N)",
+            "c": "Joule (J)",
+            "d": "Kilogram (kg)"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which type of energy is associated with a moving object?",
+        "options": {
+            "a": "Potential energy",
+            "b": "Kinetic energy",
+            "c": "Mechanical energy",
+            "d": "Chemical energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "options": {
+            "a": "\ud835\udc3e \ud835\udc38 = 1 2 \ud835\udc5a \ud835\udc63 2 KE= 2 1 \u200b mv 2",
+            "b": "\ud835\udc3e \ud835\udc38 = \ud835\udc5a \ud835\udc54 \u210e KE=mgh",
+            "c": "\ud835\udc3e \ud835\udc38 = \ud835\udc39 \u22c5 \ud835\udc51 KE=F\u22c5d",
+            "d": "\ud835\udc3e \ud835\udc38 = \ud835\udc5a \ud835\udc4e KE=ma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is potential energy?",
+        "options": {
+            "a": "Energy possessed due to motion",
+            "b": "Energy stored in an object due to its position or configuration",
+            "c": "Energy due to chemical reactions",
+            "d": "Energy transferred between objects"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for potential energy?",
+        "options": {
+            "a": "\ud835\udc43 \ud835\udc38 = 1 2 \ud835\udc5a \ud835\udc63 2 PE= 2 1 \u200b mv 2",
+            "b": "\ud835\udc43 \ud835\udc38 = \ud835\udc5a \ud835\udc54 \u210e PE=mgh",
+            "c": "\ud835\udc43 \ud835\udc38 = \ud835\udc5a \ud835\udc4e PE=ma",
+            "d": "\ud835\udc43 \ud835\udc38 = \ud835\udc39 \u22c5 \ud835\udc51 PE=F\u22c5d"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the kinetic energy when the velocity of an object doubles?",
+        "options": {
+            "a": "Remains constant",
+            "b": "Doubles",
+            "c": "Increases four times",
+            "d": "Reduces to half"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which principle explains energy conservation in an isolated system?",
+        "options": {
+            "a": "Law of inertia",
+            "b": "Law of conservation of energy",
+            "c": "Newton's second law",
+            "d": "Pascal's law"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the law of conservation of energy state?",
+        "options": {
+            "a": "Energy can neither be created nor destroyed; it only changes form",
+            "b": "Energy can be created or destroyed under certain conditions",
+            "c": "Energy is constant in all systems",
+            "d": "Energy is proportional to force"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is mechanical energy?",
+        "options": {
+            "a": "Sum of potential and kinetic energies",
+            "b": "Energy from chemical reactions",
+            "c": "Energy stored in food",
+            "d": "Energy due to heat transfer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to total energy when an object is in free fall?",
+        "options": {
+            "a": "Total energy decreases",
+            "b": "Total energy increases",
+            "c": "Total energy remains constant",
+            "d": "Total energy depends on mass"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the work-energy theorem?",
+        "options": {
+            "a": "Work done is equal to the change in kinetic energy",
+            "b": "Work done is inversely proportional to kinetic energy",
+            "c": "Work done is equal to potential energy",
+            "d": "Work done is proportional to force applied"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is power?",
+        "options": {
+            "a": "Energy stored in an object",
+            "b": "Rate of doing work",
+            "c": "Force applied on an object",
+            "d": "Work done in a vertical direction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of power?",
+        "options": {
+            "a": "Joule (J)",
+            "b": "Newton (N)",
+            "c": "Watt (W)",
+            "d": "Pascal (Pa)"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How is power calculated?",
+        "options": {
+            "a": "\ud835\udc43 = \ud835\udc4a \ud835\udc61 P= t W \u200b",
+            "b": "\ud835\udc43 = \ud835\udc4a \u22c5 \ud835\udc61 P=W\u22c5t",
+            "c": "\ud835\udc43 = \ud835\udc4a + \ud835\udc61 P=W+t",
+            "d": "\ud835\udc43 = \ud835\udc4a 2 \ud835\udc61 P= t W 2 \u200b"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does 1 Watt of power signify?",
+        "options": {
+            "a": "1 Joule of work is done in 1 second",
+            "b": "10 Joules of work is done in 1 second",
+            "c": "1 Newton of force is applied for 1 meter",
+            "d": "1 Joule of energy is stored in an object"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the commercial unit of energy?",
+        "options": {
+            "a": "Watt-hour",
+            "b": "Kilowatt-hour",
+            "c": "Joule-hour",
+            "d": "Newton-hour"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How much energy is consumed when a 100 W bulb is used for 10 hours?",
+        "options": {
+            "a": "1 kWh",
+            "b": "10 kWh",
+            "c": "100 kWh",
+            "d": "0.1 kWh"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to power if the time to do work decreases?",
+        "options": {
+            "a": "Power increases",
+            "b": "Power decreases",
+            "c": "Power remains constant",
+            "d": "Power becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of energy does a wound spring possess?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Potential energy",
+            "c": "Mechanical energy",
+            "d": "Chemical energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between work and energy?",
+        "options": {
+            "a": "Work is the energy required to perform a task",
+            "b": "Work and energy are unrelated",
+            "c": "Energy is equal to work divided by time",
+            "d": "Work increases when energy decreases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the kinetic energy of a 5 kg object moving at 2 m/s?",
+        "options": {
+            "a": "5 J",
+            "b": "10 J",
+            "c": "20 J",
+            "d": "25 J"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If an object\u2019s height is doubled, what happens to its potential energy?",
+        "options": {
+            "a": "Remains constant",
+            "b": "Doubles",
+            "c": "Increases four times",
+            "d": "Reduces to half"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does negative work mean?",
+        "options": {
+            "a": "The force is perpendicular to displacement",
+            "b": "The force and displacement are in opposite directions",
+            "c": "The work is not done by a force",
+            "d": "No work is done at all"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the energy transformation in a hydroelectric power plant?",
+        "options": {
+            "a": "Mechanical energy to potential energy",
+            "b": "Potential energy to electrical energy",
+            "c": "Chemical energy to thermal energy",
+            "d": "Electrical energy to kinetic energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the energy possessed by a compressed spring?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Potential energy",
+            "c": "Thermal energy",
+            "d": "Electrical energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the kinetic energy of an object if its mass is halved but velocity remains constant?",
+        "options": {
+            "a": "Remains constant",
+            "b": "Doubles",
+            "c": "Halves",
+            "d": "Reduces to one-fourth"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of energy is stored in fossil fuels?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Thermal energy",
+            "c": "Chemical energy",
+            "d": "Electrical energy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does 1 kilowatt-hour (kWh) represent?",
+        "options": {
+            "a": "Energy consumed when 1 kW power is used for 1 second",
+            "b": "Energy consumed when 1 kW power is used for 1 hour",
+            "c": "Energy consumed when 1 W power is used for 1 second",
+            "d": "Energy consumed when 1 W power is used for 1 hour"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If a force acts at an angle of 6 0 \u2218 60 \u2218 to displacement, what is the work done?",
+        "options": {
+            "a": "Maximum",
+            "b": "Zero",
+            "c": "Half the work done compared to 0 \u2218 0 \u2218",
+            "d": "Equal to force multiplied by displacement"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which form of energy is used in a solar panel?",
+        "options": {
+            "a": "Electrical energy",
+            "b": "Thermal energy",
+            "c": "Chemical energy",
+            "d": "Solar energy"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which form of energy conversion occurs in a wind turbine?",
+        "options": {
+            "a": "Kinetic energy to electrical energy",
+            "b": "Potential energy to kinetic energy",
+            "c": "Thermal energy to electrical energy",
+            "d": "Chemical energy to electrical energy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which energy source is considered renewable?",
+        "options": {
+            "a": "Fossil fuels",
+            "b": "Wind energy",
+            "c": "Nuclear energy",
+            "d": "Coal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to potential energy when an object falls freely under gravity?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains constant",
+            "d": "It doubles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of energy transformation?",
+        "options": {
+            "a": "Charging a battery",
+            "b": "Stretching a rubber band",
+            "c": "Water falling from a height generating electricity",
+            "d": "Keeping an object stationary"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the power output of a machine that does 200 J of work in 5 seconds?",
+        "options": {
+            "a": "20 W",
+            "b": "40 W",
+            "c": "50 W",
+            "d": "200 W"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If work is done at a faster rate, what happens to the power?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains the same",
+            "d": "Becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the energy possessed by water stored in a dam?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Potential energy",
+            "c": "Thermal energy",
+            "d": "Chemical energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to energy in an ideal machine?",
+        "options": {
+            "a": "Energy is conserved without any loss",
+            "b": "Energy increases",
+            "c": "Energy decreases",
+            "d": "Energy is converted completely into sound"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the energy transformation in a car engine?",
+        "options": {
+            "a": "Thermal energy to electrical energy",
+            "b": "Chemical energy to mechanical energy",
+            "c": "Electrical energy to kinetic energy",
+            "d": "Kinetic energy to potential energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to kinetic energy when an object comes to rest?",
+        "options": {
+            "a": "Becomes zero",
+            "b": "Doubles",
+            "c": "Converts to potential energy",
+            "d": "Remains constant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How much work is done if a 20 N force moves an object by 0 m?",
+        "options": {
+            "a": "0 J",
+            "b": "20 J",
+            "c": "40 J",
+            "d": "Infinite"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to energy when work is done on an object?",
+        "options": {
+            "a": "Energy increases",
+            "b": "Energy decreases",
+            "c": "Energy remains constant",
+            "d": "Energy becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is sound?",
+        "options": {
+            "a": "A form of mechanical energy that produces a sensation of hearing",
+            "b": "A type of electromagnetic wave",
+            "c": "A vibration in a vacuum",
+            "d": "A chemical reaction producing energy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How is sound produced?",
+        "options": {
+            "a": "By chemical reactions",
+            "b": "By vibrations of objects",
+            "c": "By electromagnetic waves",
+            "d": "By refraction of light"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of wave is sound?",
+        "options": {
+            "a": "Longitudinal wave",
+            "b": "Transverse wave",
+            "c": "Electromagnetic wave",
+            "d": "Stationary wave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Through which medium does sound travel fastest?",
+        "options": {
+            "a": "Gas",
+            "b": "Liquid",
+            "c": "Solid",
+            "d": "Vacuum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the SI unit of frequency?",
+        "options": {
+            "a": "Joule",
+            "b": "Watt",
+            "c": "Hertz",
+            "d": "Newton"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is compression in a sound wave?",
+        "options": {
+            "a": "Region of low pressure",
+            "b": "Region of high pressure",
+            "c": "Region with no particles",
+            "d": "Region with uniform density"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is rarefaction in a sound wave?",
+        "options": {
+            "a": "Region of low pressure",
+            "b": "Region of high pressure",
+            "c": "Region with no density changes",
+            "d": "Region where sound stops"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why are sound waves called mechanical waves?",
+        "options": {
+            "a": "They can travel through a vacuum",
+            "b": "They require a medium to propagate",
+            "c": "They are transverse waves",
+            "d": "They are electromagnetic waves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the human body vibrates to produce sound?",
+        "options": {
+            "a": "Larynx",
+            "b": "Tongue",
+            "c": "Nose",
+            "d": "Ear"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the range of human hearing?",
+        "options": {
+            "a": "10 Hz to 10 kHz",
+            "b": "20 Hz to 20 kHz",
+            "c": "50 Hz to 50 kHz",
+            "d": "100 Hz to 10 MHz"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are sound waves with frequencies above 20 kHz called?",
+        "options": {
+            "a": "Audible sound",
+            "b": "Infrasound",
+            "c": "Ultrasound",
+            "d": "Supersonic waves"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What property of sound determines its pitch?",
+        "options": {
+            "a": "Amplitude",
+            "b": "Frequency",
+            "c": "Wavelength",
+            "d": "Speed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the loudness of sound?",
+        "options": {
+            "a": "Amplitude of the sound wave",
+            "b": "Frequency of the sound wave",
+            "c": "Speed of sound",
+            "d": "Wavelength of the sound wave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between frequency (\u03bd) and time period (T)?",
+        "options": {
+            "a": "T = 1/\u03bd",
+            "b": "T = \u03bd",
+            "c": "T = \u03bd\u00b2",
+            "d": "T = \u03bd/2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to sound in a vacuum?",
+        "options": {
+            "a": "It travels faster",
+            "b": "It travels slower",
+            "c": "It does not travel at all",
+            "d": "It changes direction"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which wave property is related to the pitch of a sound?",
+        "options": {
+            "a": "Amplitude",
+            "b": "Frequency",
+            "c": "Wavelength",
+            "d": "Speed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does the speed of sound change with temperature?",
+        "options": {
+            "a": "Increases with increase in temperature",
+            "b": "Decreases with increase in temperature",
+            "c": "Remains constant",
+            "d": "Decreases to zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the speed of sound in air at 25\u00b0C?",
+        "options": {
+            "a": "300 m/s",
+            "b": "331 m/s",
+            "c": "346 m/s",
+            "d": "400 m/s"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What causes an echo?",
+        "options": {
+            "a": "Refraction of sound waves",
+            "b": "Reflection of sound waves",
+            "c": "Diffraction of sound waves",
+            "d": "Absorption of sound waves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the minimum distance for an echo to be heard clearly?",
+        "options": {
+            "a": "17.2 m",
+            "b": "20 m",
+            "c": "10 m",
+            "d": "30 m"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is reverberation?",
+        "options": {
+            "a": "Reflected sound heard after the original sound",
+            "b": "Prolonged persistence of sound in a space",
+            "c": "Absorption of sound in a medium",
+            "d": "Change in sound frequency due to motion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What reduces excessive reverberation in an auditorium?",
+        "options": {
+            "a": "Smooth walls and ceilings",
+            "b": "Carpets and curtains",
+            "c": "Metallic surfaces",
+            "d": "Increasing sound intensity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of wave is created by a vibrating tuning fork in the air?",
+        "options": {
+            "a": "Longitudinal wave",
+            "b": "Transverse wave",
+            "c": "Electromagnetic wave",
+            "d": "Stationary wave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What property of sound does amplitude affect?",
+        "options": {
+            "a": "Pitch",
+            "b": "Loudness",
+            "c": "Frequency",
+            "d": "Speed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the phenomenon where two sound waves combine to form a new wave?",
+        "options": {
+            "a": "Interference",
+            "b": "Refraction",
+            "c": "Diffraction",
+            "d": "Resonance"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when the frequency of a sound wave matches the natural frequency of an object?",
+        "options": {
+            "a": "Resonance",
+            "b": "Interference",
+            "c": "Refraction",
+            "d": "Echo"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which musical instrument uses resonance to produce sound?",
+        "options": {
+            "a": "Flute",
+            "b": "Drums",
+            "c": "Guitar",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the wavelength of a sound wave if its speed is 340 m/s and frequency is 170 Hz?",
+        "options": {
+            "a": "1 m",
+            "b": "2 m",
+            "c": "0.5 m",
+            "d": "0.25 m"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which phenomenon explains why we can hear around corners?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Refraction",
+            "c": "Reflection",
+            "d": "Resonance"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the decibel (dB) used to measure?",
+        "options": {
+            "a": "Frequency of sound",
+            "b": "Loudness of sound",
+            "c": "Speed of sound",
+            "d": "Wavelength of sound"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the approximate threshold of hearing in decibels?",
+        "options": {
+            "a": "1 dB",
+            "b": "10 dB",
+            "c": "0 dB",
+            "d": "100 dB"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What sound level is considered the threshold of pain?",
+        "options": {
+            "a": "80 dB",
+            "b": "100 dB",
+            "c": "120 dB",
+            "d": "150 dB"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of waves are used in SONAR?",
+        "options": {
+            "a": "Electromagnetic waves",
+            "b": "Transverse waves",
+            "c": "Ultrasound waves",
+            "d": "Infrasound waves"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the full form of SONAR?",
+        "options": {
+            "a": "Sound Observation and Navigation Around Rivers",
+            "b": "Sound Navigation and Ranging",
+            "c": "Sonic Navigation and Reflection",
+            "d": "Sound Oscillation and Resonance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the use of SONAR?",
+        "options": {
+            "a": "Measuring water pressure",
+            "b": "Locating underwater objects",
+            "c": "Calculating wave frequency",
+            "d": "Navigating aircraft"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the speed of ultrasound in air compared to water?",
+        "options": {
+            "a": "Faster in air",
+            "b": "Slower in air",
+            "c": "Equal in both",
+            "d": "Independent of medium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to sound when it enters a denser medium?",
+        "options": {
+            "a": "It speeds up",
+            "b": "It slows down",
+            "c": "It stops completely",
+            "d": "It changes direction randomly"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which animals use infrasound for communication?",
+        "options": {
+            "a": "Dogs",
+            "b": "Whales",
+            "c": "Elephants",
+            "d": "Bats"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which device converts sound energy into electrical energy?",
+        "options": {
+            "a": "Loudspeaker",
+            "b": "Microphone",
+            "c": "Amplifier",
+            "d": "Oscillator"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of a stethoscope?",
+        "options": {
+            "a": "To amplify sound waves",
+            "b": "To block unwanted noise",
+            "c": "To measure loudness",
+            "d": "To detect low-frequency sound waves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why can sound not travel in space?",
+        "options": {
+            "a": "Space has too high pressure",
+            "b": "Space has no medium for sound to propagate",
+            "c": "Space is too hot for sound waves",
+            "d": "Space absorbs sound waves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the pitch of a sound depend on?",
+        "options": {
+            "a": "Speed",
+            "b": "Amplitude",
+            "c": "Frequency",
+            "d": "Wavelength"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the typical range of ultrasound frequency?",
+        "options": {
+            "a": "Above 20 kHz",
+            "b": "Below 20 Hz",
+            "c": "20 Hz to 20 kHz",
+            "d": "1 Hz to 10 Hz"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the phenomenon of sound waves bending when entering a different medium?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Refraction",
+            "c": "Interference",
+            "d": "Echo"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between loudness and amplitude?",
+        "options": {
+            "a": "Loudness is proportional to the square of amplitude",
+            "b": "Loudness is inversely proportional to amplitude",
+            "c": "Loudness is proportional to frequency",
+            "d": "Loudness is independent of amplitude"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a sonic boom?",
+        "options": {
+            "a": "A loud noise caused by an object moving faster than sound",
+            "b": "An amplified sound wave",
+            "c": "A high-pitched musical tone",
+            "d": "The sound of thunder"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the frequency of a sound wave if its wavelength is doubled?",
+        "options": {
+            "a": "Doubles",
+            "b": "Halves",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How do bats navigate in the dark?",
+        "options": {
+            "a": "By using infrasound waves",
+            "b": "By using reflected ultrasound waves",
+            "c": "By emitting light waves",
+            "d": "By using their sense of smell"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when two sound waves of the same frequency and amplitude overlap?",
+        "options": {
+            "a": "Resonance",
+            "b": "Interference",
+            "c": "Echo",
+            "d": "Diffraction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property of sound waves changes with amplitude?",
+        "options": {
+            "a": "Pitch",
+            "b": "Speed",
+            "c": "Loudness",
+            "d": "Frequency"
+        },
+        "answer": "c"
+    }
+]

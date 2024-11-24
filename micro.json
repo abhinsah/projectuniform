@@ -1,0 +1,2402 @@
+[
+    {
+        "question": "Which of the following describes a simple economy?",
+        "options": {
+            "a": "Availability of unlimited resources",
+            "b": "Individuals producing all goods they need themselves",
+            "c": "Individuals specialize in producing certain goods and trade for others",
+            "d": "No need for economic activities"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What causes the central problems of an economy?",
+        "options": {
+            "a": "Surplus of resources",
+            "b": "Unlimited resources",
+            "c": "Scarcity of resources",
+            "d": "Absence of wants"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is NOT a central problem of an economy?",
+        "options": {
+            "a": "What to produce?",
+            "b": "How to produce?",
+            "c": "Who will produce?",
+            "d": "For whom to produce?"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In a centrally planned economy, decisions are made by:",
+        "options": {
+            "a": "Market forces",
+            "b": "Central authority",
+            "c": "Individual households",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary role of prices in a market economy?",
+        "options": {
+            "a": "Dictate government policies",
+            "b": "Signal resource allocation",
+            "c": "Provide subsidies",
+            "d": "Reduce competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which curve represents the maximum combinations of goods produced with available resources?",
+        "options": {
+            "a": "Supply curve",
+            "b": "Indifference curve",
+            "c": "Production possibility frontier",
+            "d": "Demand curve"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the slope of the production possibility frontier represent?",
+        "options": {
+            "a": "Demand for goods",
+            "b": "Opportunity cost",
+            "c": "Scarcity",
+            "d": "Elasticity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The opportunity cost of producing one more unit of a good is:",
+        "options": {
+            "a": "Additional resources required",
+            "b": "The value of the next best alternative foregone",
+            "c": "Market value of the good",
+            "d": "Cost of production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of economy combines elements of both market and planned systems?",
+        "options": {
+            "a": "Market economy",
+            "b": "Mixed economy",
+            "c": "Centrally planned economy",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the optimal allocation of resources in a market economy?",
+        "options": {
+            "a": "Central authority",
+            "b": "Price signals",
+            "c": "Government policies",
+            "d": "Technological innovations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In a centrally planned economy, what role does the government play?",
+        "options": {
+            "a": "Acts as a facilitator for private markets",
+            "b": "Decides the allocation of resources and distribution of goods",
+            "c": "Focuses solely on international trade",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What defines a market economy?",
+        "options": {
+            "a": "Government plans and controls all activities",
+            "b": "Allocation of resources is based on market prices",
+            "c": "Prices are fixed by the government",
+            "d": "There is no competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of positive economic analysis?",
+        "options": {
+            "a": "Evaluating the desirability of free trade",
+            "b": "Measuring the effects of a tax increase on production",
+            "c": "Discussing how resources should be distributed",
+            "d": "Recommending a specific economic policy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Normative economics involves:",
+        "options": {
+            "a": "Predicting economic behavior",
+            "b": "Describing what exists",
+            "c": "Making value judgments",
+            "d": "Measuring output levels"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is studied in macroeconomics?",
+        "options": {
+            "a": "Behavior of individual firms",
+            "b": "Price determination in individual markets",
+            "c": "Aggregate employment levels",
+            "d": "Individual consumer choices"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Microeconomics focuses on:",
+        "options": {
+            "a": "National income determination",
+            "b": "The behavior of individual economic agents",
+            "c": "Total employment levels",
+            "d": "Monetary policies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of a centrally planned economy?",
+        "options": {
+            "a": "Decisions are made by a central authority",
+            "b": "Market prices guide production",
+            "c": "Government owns most resources",
+            "d": "Emphasis on equitable distribution"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which term refers to satisfaction derived from consuming goods and services?",
+        "options": {
+            "a": "Opportunity cost",
+            "b": "Utility",
+            "c": "Marginal cost",
+            "d": "Profit"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The production possibility frontier assumes:",
+        "options": {
+            "a": "Resources are unlimited",
+            "b": "Technology changes frequently",
+            "c": "Resources are used efficiently",
+            "d": "All individuals have equal needs"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A point below the production possibility frontier represents:",
+        "options": {
+            "a": "Maximum efficiency",
+            "b": "Underutilization of resources",
+            "c": "An unattainable combination",
+            "d": "Equal allocation of resources"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when an economy moves from one point to another on the production possibility frontier?",
+        "options": {
+            "a": "There is no opportunity cost",
+            "b": "Opportunity cost remains constant",
+            "c": "Opportunity cost is incurred",
+            "d": "Total resources increase"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The shape of the production possibility frontier is typically:",
+        "options": {
+            "a": "A straight line",
+            "b": "Convex to the origin",
+            "c": "Concave to the origin",
+            "d": "Circular"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the slope of the production possibility frontier indicate?",
+        "options": {
+            "a": "Price of a good",
+            "b": "Level of inefficiency",
+            "c": "Opportunity cost of one good in terms of the other",
+            "d": "Resource abundance"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is NOT an example of a central problem of an economy?",
+        "options": {
+            "a": "How to allocate resources",
+            "b": "How to increase scarcity",
+            "c": "How to distribute goods",
+            "d": "What to produce"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When resources are fully and efficiently utilized, production is:",
+        "options": {
+            "a": "At any point on the production possibility frontier",
+            "b": "Inside the production possibility frontier",
+            "c": "Above the production possibility frontier",
+            "d": "Irrelevant to the economy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "An example of normative economics is:",
+        "options": {
+            "a": "Estimating unemployment rates",
+            "b": "Determining the effects of inflation",
+            "c": "Recommending free healthcare for all",
+            "d": "Measuring GDP growth"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Positive economic statements are:",
+        "options": {
+            "a": "Based on subjective opinions",
+            "b": "Verifiable by data and facts",
+            "c": "Prescriptive in nature",
+            "d": "Always theoretical"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a feature of a mixed economy?",
+        "options": {
+            "a": "Complete government control",
+            "b": "Absence of private enterprises",
+            "c": "Coexistence of private and public sectors",
+            "d": "Lack of market prices"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which mechanism coordinates activities in a market economy?",
+        "options": {
+            "a": "Central planning",
+            "b": "Random decision-making",
+            "c": "Price signals",
+            "d": "Equal resource allocation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A centrally planned economy typically focuses on:",
+        "options": {
+            "a": "Individual profits",
+            "b": "Market competition",
+            "c": "Social welfare and equitable distribution",
+            "d": "Minimal government intervention"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does a point on the production possibility frontier indicate?",
+        "options": {
+            "a": "Resources are underutilized",
+            "b": "Resources are being used efficiently",
+            "c": "Technological advancement",
+            "d": "Economic growth"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Microeconomics and macroeconomics differ primarily in their focus on:",
+        "options": {
+            "a": "Price and output",
+            "b": "Individual vs aggregate behavior",
+            "c": "Demand and supply",
+            "d": "Policy implementation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Scarcity leads to:",
+        "options": {
+            "a": "Unlimited choices",
+            "b": "The need for prioritization",
+            "c": "Elimination of trade-offs",
+            "d": "Decreased opportunity cost"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is studied in microeconomics?",
+        "options": {
+            "a": "National inflation rates",
+            "b": "Behavior of individual firms",
+            "c": "Fiscal policies",
+            "d": "Total employment levels"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When MRS diminishes, it reflects:",
+        "options": {
+            "a": "Decreasing utility",
+            "b": "Increasing opportunity cost",
+            "c": "Declining preference consistency",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The main role of government in a market economy is to:",
+        "options": {
+            "a": "Control all production",
+            "b": "Plan economic activity",
+            "c": "Ensure legal frameworks and property rights",
+            "d": "Allocate resources directly"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens at the opportunity cost when producing more of one good?",
+        "options": {
+            "a": "Production remains constant",
+            "b": "Resources for other goods are given up",
+            "c": "Resources are unlimited",
+            "d": "Goods are produced for free"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following would be an example of positive economics?",
+        "options": {
+            "a": "Analyzing unemployment data trends",
+            "b": "Proposing increased subsidies for farmers",
+            "c": "Recommending higher taxation on luxury goods",
+            "d": "Advocating for free education"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary concern of macroeconomics?",
+        "options": {
+            "a": "Behavior of individual households",
+            "b": "Aggregate measures of the economy",
+            "c": "Pricing in individual markets",
+            "d": "Resource allocation in firms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of analysis determines what 'should' be done?",
+        "options": {
+            "a": "Positive economics",
+            "b": "Normative economics",
+            "c": "Descriptive economics",
+            "d": "Empirical economics"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the central focus of the theory of consumer behavior?",
+        "options": {
+            "a": "How firms maximize profits",
+            "b": "How consumers allocate income to maximize satisfaction",
+            "c": "How governments regulate markets",
+            "d": "How resources are distributed globally"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Utility refers to:",
+        "options": {
+            "a": "The cost of a good",
+            "b": "The capacity of a good to satisfy a want",
+            "c": "The price of a commodity",
+            "d": "The supply of a good"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Utility is measured in:",
+        "options": {
+            "a": "Dollars",
+            "b": "Utils",
+            "c": "Units of output",
+            "d": "It cannot be measured in cardinal terms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does marginal utility represent?",
+        "options": {
+            "a": "The total satisfaction from all units consumed",
+            "b": "The satisfaction gained from consuming one additional unit of a good",
+            "c": "The cost of producing one additional unit",
+            "d": "The average satisfaction from all goods consumed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When total utility is at its maximum, marginal utility is:",
+        "options": {
+            "a": "Positive",
+            "b": "Negative",
+            "c": "Zero",
+            "d": "Maximum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which law explains diminishing marginal utility?",
+        "options": {
+            "a": "Law of Supply",
+            "b": "Law of Demand",
+            "c": "Law of Diminishing Marginal Utility",
+            "d": "Law of Increasing Returns"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The Law of Diminishing Marginal Utility applies when:",
+        "options": {
+            "a": "Consumption increases, and additional satisfaction decreases",
+            "b": "Income increases with no change in utility",
+            "c": "Marginal utility becomes negative",
+            "d": "Consumers consume only one good"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between total utility and marginal utility?",
+        "options": {
+            "a": "TU is the sum of all MUs",
+            "b": "MU equals the difference between successive TUs",
+            "c": "TU increases as long as MU is positive",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "An indifference curve shows:",
+        "options": {
+            "a": "Bundles of goods giving the same level of satisfaction",
+            "b": "The demand for goods at various prices",
+            "c": "The supply of goods at various costs",
+            "d": "The income of consumers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the slope of an indifference curve called?",
+        "options": {
+            "a": "Opportunity cost",
+            "b": "Marginal rate of substitution",
+            "c": "Elasticity of demand",
+            "d": "Marginal utility"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The marginal rate of substitution (MRS) reflects:",
+        "options": {
+            "a": "Income changes",
+            "b": "Consumer's willingness to substitute one good for another",
+            "c": "Supply-side behavior",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Indifference curves are convex to the origin because:",
+        "options": {
+            "a": "Of increasing returns to scale",
+            "b": "MRS diminishes as one good is substituted for another",
+            "c": "Utility increases with consumption",
+            "d": "Goods are perfect substitutes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the consumer\u2019s budget line represent?",
+        "options": {
+            "a": "Total utility from all bundles",
+            "b": "All combinations of goods a consumer can afford",
+            "c": "Combinations that maximize profit",
+            "d": "Market demand for goods"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the budget line if the consumer\u2019s income increases?",
+        "options": {
+            "a": "It shifts inward",
+            "b": "It shifts outward",
+            "c": "It becomes steeper",
+            "d": "It remains unchanged"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A shift in the budget line caused by a decrease in the price of one good results in:",
+        "options": {
+            "a": "A parallel outward shift",
+            "b": "A pivoting of the budget line",
+            "c": "A flatter indifference curve",
+            "d": "No change in the budget set"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which condition represents consumer equilibrium?",
+        "options": {
+            "a": "MUx = MUy",
+            "b": "MRS = Price ratio",
+            "c": "TUx = TUy",
+            "d": "MUx/Px = MUy/Py"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Ordinal utility analysis assumes:",
+        "options": {
+            "a": "Utility can be measured numerically",
+            "b": "Consumers rank preferences rather than assigning numbers",
+            "c": "Goods have fixed prices",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to marginal utility as consumption of a good increases?",
+        "options": {
+            "a": "It increases",
+            "b": "It remains constant",
+            "c": "It decreases",
+            "d": "It fluctuates"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Perfect substitutes lead to indifference curves that are:",
+        "options": {
+            "a": "Convex",
+            "b": "Concave",
+            "c": "Straight lines",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The optimum consumption bundle lies at:",
+        "options": {
+            "a": "The highest indifference curve within the budget set",
+            "b": "The lowest indifference curve",
+            "c": "Any point on the budget line",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does a higher indifference curve represent?",
+        "options": {
+            "a": "Lower satisfaction",
+            "b": "Greater satisfaction",
+            "c": "Decreasing marginal utility",
+            "d": "Equal satisfaction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary assumption of monotonic preferences?",
+        "options": {
+            "a": "Consumers prefer less of a good",
+            "b": "More of a good is always preferred",
+            "c": "Consumers are indifferent to all bundles",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When the consumer spends all income, the budget line is:",
+        "options": {
+            "a": "Tangent to an indifference curve",
+            "b": "Inside the budget set",
+            "c": "Above all indifference curves",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Perfect complements have indifference curves that are:",
+        "options": {
+            "a": "L-shaped",
+            "b": "Convex",
+            "c": "Linear",
+            "d": "Concave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The slope of the budget line is equal to:",
+        "options": {
+            "a": "Total income",
+            "b": "Price ratio of the two goods",
+            "c": "Marginal rate of substitution",
+            "d": "Marginal utility"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When a consumer moves along an indifference curve, what remains constant?",
+        "options": {
+            "a": "Total income",
+            "b": "Total satisfaction",
+            "c": "Consumption of one good",
+            "d": "Price of goods"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If both goods\u2019 prices decrease proportionally, the budget line:",
+        "options": {
+            "a": "Rotates inward",
+            "b": "Rotates outward",
+            "c": "Shifts parallel outward",
+            "d": "Shifts parallel inward"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The Law of Diminishing Marginal Rate of Substitution explains:",
+        "options": {
+            "a": "Increasing marginal utility",
+            "b": "Decreasing opportunity cost",
+            "c": "Convex shape of indifference curves",
+            "d": "Linear budget constraints"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "When marginal utility becomes negative, total utility:",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The budget constraint is violated when:",
+        "options": {
+            "a": "Spending exceeds income",
+            "b": "MRS = price ratio",
+            "c": "Indifference curves are convex",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor does NOT affect consumer equilibrium?",
+        "options": {
+            "a": "Income",
+            "b": "Price ratio",
+            "c": "Indifference curve shape",
+            "d": "Market supply"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The consumer is at equilibrium when:",
+        "options": {
+            "a": "MRS > price ratio",
+            "b": "MRS < price ratio",
+            "c": "MRS = price ratio",
+            "d": "Total utility is negative"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What shifts the budget line outward?",
+        "options": {
+            "a": "Increase in prices",
+            "b": "Increase in income",
+            "c": "Decrease in income",
+            "d": "Increase in marginal utility"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \"substitution effect\" mean?",
+        "options": {
+            "a": "Change in consumption due to price change",
+            "b": "Change in income levels",
+            "c": "Changes in total utility",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "An indifference curve does NOT cross because:",
+        "options": {
+            "a": "It violates monotonic preferences",
+            "b": "Total utility increases at intersections",
+            "c": "Bundles on the same curve give different satisfaction",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If income decreases, the budget line:",
+        "options": {
+            "a": "Pivots inward",
+            "b": "Shifts inward",
+            "c": "Rotates outward",
+            "d": "Remains unchanged"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Ordinal utility assumes that:",
+        "options": {
+            "a": "Consumers assign numeric values to satisfaction",
+            "b": "Consumers rank bundles in terms of preferences",
+            "c": "Utility increases linearly",
+            "d": "Goods are perfectly divisible"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The optimum point is located where:",
+        "options": {
+            "a": "Marginal utility is negative",
+            "b": "The budget line is tangent to an indifference curve",
+            "c": "Total utility equals income",
+            "d": "Marginal utility is maximized"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Goods that are perfect substitutes have:",
+        "options": {
+            "a": "Straight indifference curves",
+            "b": "Convex indifference curves",
+            "c": "Concave indifference curves",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What shifts the budget line inward?",
+        "options": {
+            "a": "Decrease in income",
+            "b": "Increase in income",
+            "c": "Decrease in both goods' prices",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a production function?",
+        "options": {
+            "a": "Relationship between income and expenditure",
+            "b": "Relationship between inputs and outputs",
+            "c": "Relationship between price and quantity demanded",
+            "d": "Relationship between cost and revenue"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The production function is expressed as:",
+        "options": {
+            "a": "Q = f(L, K)",
+            "b": "C = f(Q)",
+            "c": "P = f(Q)",
+            "d": "TR = f(P)"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The short run is a period during which:",
+        "options": {
+            "a": "All factors are variable",
+            "b": "Some factors are fixed",
+            "c": "All factors are fixed",
+            "d": "No production takes place"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In the long run, all factors of production are:",
+        "options": {
+            "a": "Fixed",
+            "b": "Variable",
+            "c": "Complementary",
+            "d": "Irrelevant"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a fixed input?",
+        "options": {
+            "a": "Raw materials",
+            "b": "Labor",
+            "c": "Machinery",
+            "d": "Electricity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is marginal product (MP)?",
+        "options": {
+            "a": "Total output divided by total inputs",
+            "b": "The change in total output due to one additional unit of input",
+            "c": "Total output minus total cost",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When total product increases at a decreasing rate, marginal product:",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Becomes zero",
+            "d": "Is constant"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Average product (AP) is calculated as:",
+        "options": {
+            "a": "Total product divided by total input",
+            "b": "Change in total product",
+            "c": "Total input divided by total product",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to marginal product when the law of diminishing returns sets in?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains constant",
+            "d": "It becomes infinite"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The point where total product is at its maximum corresponds to:",
+        "options": {
+            "a": "MP = 0",
+            "b": "AP = 0",
+            "c": "MP > AP",
+            "d": "MP < 0"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the law of diminishing marginal product state?",
+        "options": {
+            "a": "Marginal product increases indefinitely",
+            "b": "Marginal product decreases as more of a variable input is added",
+            "c": "Total product becomes negative",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which curve is U-shaped?",
+        "options": {
+            "a": "Total product curve",
+            "b": "Average product curve",
+            "c": "Marginal product curve",
+            "d": "Total fixed cost curve"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Returns to scale refer to:",
+        "options": {
+            "a": "Changes in output when all inputs are increased proportionately",
+            "b": "Changes in output with one input held constant",
+            "c": "Short-run cost analysis",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Increasing returns to scale occur when:",
+        "options": {
+            "a": "Output increases in the same proportion as inputs",
+            "b": "Output increases by a larger proportion than inputs",
+            "c": "Output decreases as inputs increase",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Total cost (TC) is the sum of:",
+        "options": {
+            "a": "Fixed cost and marginal cost",
+            "b": "Fixed cost and variable cost",
+            "c": "Variable cost and opportunity cost",
+            "d": "Average cost and marginal cost"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What remains constant regardless of the level of output?",
+        "options": {
+            "a": "Total cost",
+            "b": "Total variable cost",
+            "c": "Total fixed cost",
+            "d": "Marginal cost"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The shape of the average cost curve is:",
+        "options": {
+            "a": "U-shaped",
+            "b": "Linear",
+            "c": "Convex",
+            "d": "Concave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which cost increases with every unit of output?",
+        "options": {
+            "a": "Fixed cost",
+            "b": "Variable cost",
+            "c": "Sunk cost",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Marginal cost is calculated as:",
+        "options": {
+            "a": "Total cost divided by total output",
+            "b": "Change in total cost divided by change in output",
+            "c": "Total fixed cost divided by total output",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When average cost is decreasing, marginal cost is:",
+        "options": {
+            "a": "Greater than average cost",
+            "b": "Less than average cost",
+            "c": "Equal to average cost",
+            "d": "Constant"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "At the minimum point of the average cost curve, marginal cost is:",
+        "options": {
+            "a": "Equal to average cost",
+            "b": "Greater than average cost",
+            "c": "Less than average cost",
+            "d": "Zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the short run, a firm can:",
+        "options": {
+            "a": "Vary all factors of production",
+            "b": "Vary only fixed factors",
+            "c": "Vary only variable factors",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What causes economies of scale?",
+        "options": {
+            "a": "Increased costs of raw materials",
+            "b": "Decreased production efficiency",
+            "c": "Specialization and bulk purchasing",
+            "d": "Diminishing marginal returns"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT an example of variable cost?",
+        "options": {
+            "a": "Wages of workers",
+            "b": "Raw material costs",
+            "c": "Rent of factory",
+            "d": "Electricity charges"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Diseconomies of scale occur when:",
+        "options": {
+            "a": "Average cost decreases as output increases",
+            "b": "Average cost increases as output increases",
+            "c": "Marginal cost decreases indefinitely",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to marginal cost when there is diminishing marginal returns?",
+        "options": {
+            "a": "It decreases",
+            "b": "It increases",
+            "c": "It remains constant",
+            "d": "It fluctuates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When total fixed cost is divided by output, the result is:",
+        "options": {
+            "a": "Average fixed cost",
+            "b": "Average variable cost",
+            "c": "Marginal cost",
+            "d": "Total variable cost"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between total cost and total variable cost?",
+        "options": {
+            "a": "TC = TFC + TVC",
+            "b": "TC = TVC \u2013 TFC",
+            "c": "TC = TFC \u00d7 TVC",
+            "d": "TC = TVC \u00f7 TFC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "When output is zero, total cost is equal to:",
+        "options": {
+            "a": "Marginal cost",
+            "b": "Total variable cost",
+            "c": "Total fixed cost",
+            "d": "Opportunity cost"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which curve shows the additional cost of producing one more unit?",
+        "options": {
+            "a": "Average cost curve",
+            "b": "Marginal cost curve",
+            "c": "Total cost curve",
+            "d": "Average fixed cost curve"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The concept of returns to scale is applicable in the:",
+        "options": {
+            "a": "Short run only",
+            "b": "Long run only",
+            "c": "Both short and long run",
+            "d": "Neither short nor long run"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In the long run, economies of scale lead to:",
+        "options": {
+            "a": "Decreasing marginal product",
+            "b": "Decreasing average cost",
+            "c": "Increasing total fixed cost",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The vertical gap between total cost and total variable cost is:",
+        "options": {
+            "a": "Total fixed cost",
+            "b": "Marginal cost",
+            "c": "Average fixed cost",
+            "d": "Average variable cost"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "A firm\u2019s fixed costs are:",
+        "options": {
+            "a": "Zero in the long run",
+            "b": "Constant in the short run",
+            "c": "Variable in the short run",
+            "d": "Equal to marginal cost"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The law of diminishing returns applies in:",
+        "options": {
+            "a": "The short run only",
+            "b": "The long run only",
+            "c": "Both the short and long run",
+            "d": "Neither short nor long run"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Marginal cost intersects average cost at:",
+        "options": {
+            "a": "The minimum point of average cost",
+            "b": "The maximum point of average cost",
+            "c": "The origin",
+            "d": "A point below average cost"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a component of total cost?",
+        "options": {
+            "a": "Fixed cost",
+            "b": "Variable cost",
+            "c": "Sunk cost",
+            "d": "Marginal cost"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "At the point of diminishing returns, marginal cost:",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Is negative"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Average fixed cost decreases as:",
+        "options": {
+            "a": "Output increases",
+            "b": "Output decreases",
+            "c": "Total cost increases",
+            "d": "Marginal cost increases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The shape of the marginal cost curve is due to:",
+        "options": {
+            "a": "Law of diminishing marginal returns",
+            "b": "Constant returns to scale",
+            "c": "Economies of scale",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of perfect competition?",
+        "options": {
+            "a": "Large number of buyers and sellers",
+            "b": "Homogeneous products",
+            "c": "Free entry and exit of firms",
+            "d": "Differentiated products"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "In perfect competition, firms are:",
+        "options": {
+            "a": "Price makers",
+            "b": "Price takers",
+            "c": "Price regulators",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The market demand curve in perfect competition is:",
+        "options": {
+            "a": "Downward-sloping",
+            "b": "Upward-sloping",
+            "c": "Horizontal",
+            "d": "Vertical"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The demand curve faced by an individual firm in perfect competition is:",
+        "options": {
+            "a": "Downward-sloping",
+            "b": "Upward-sloping",
+            "c": "Horizontal",
+            "d": "Vertical"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In perfect competition, the price of a product is determined by:",
+        "options": {
+            "a": "Individual firms",
+            "b": "Market demand and supply",
+            "c": "Government intervention",
+            "d": "Monopolists"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is total revenue (TR)?",
+        "options": {
+            "a": "Price \u00d7 Quantity",
+            "b": "Quantity \u00f7 Price",
+            "c": "Total cost \u00f7 Quantity",
+            "d": "Fixed cost + Variable cost"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In perfect competition, marginal revenue (MR) is equal to:",
+        "options": {
+            "a": "Price",
+            "b": "Total cost",
+            "c": "Average total cost",
+            "d": "Total revenue"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The profit-maximization condition for a firm is:",
+        "options": {
+            "a": "MR = MC",
+            "b": "AR = AC",
+            "c": "MR = TR",
+            "d": "AR = MC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the shape of the marginal revenue curve for a perfectly competitive firm?",
+        "options": {
+            "a": "Downward-sloping",
+            "b": "Upward-sloping",
+            "c": "Vertical",
+            "d": "Horizontal"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The condition for short-run equilibrium of a firm in perfect competition is:",
+        "options": {
+            "a": "P = MR",
+            "b": "MR = MC",
+            "c": "AR = AC",
+            "d": "P = AC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If P > AC in perfect competition, the firm:",
+        "options": {
+            "a": "Earns normal profit",
+            "b": "Earns supernormal profit",
+            "c": "Incurs losses",
+            "d": "Shuts down"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In perfect competition, a firm shuts down in the short run when:",
+        "options": {
+            "a": "P < MC",
+            "b": "P < AVC",
+            "c": "P > ATC",
+            "d": "P > AVC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Normal profit occurs when:",
+        "options": {
+            "a": "TR = TC",
+            "b": "TR > TC",
+            "c": "TR < TC",
+            "d": "AR = AVC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The short-run supply curve of a perfectly competitive firm is the portion of:",
+        "options": {
+            "a": "MC above AVC",
+            "b": "MC below AVC",
+            "c": "MC above ATC",
+            "d": "MC below ATC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The long-run equilibrium of a perfectly competitive firm occurs when:",
+        "options": {
+            "a": "P = MC = MR",
+            "b": "P > MC = MR",
+            "c": "P < MC",
+            "d": "P > MR"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the long run, firms in perfect competition earn:",
+        "options": {
+            "a": "Supernormal profit",
+            "b": "Normal profit",
+            "c": "Subnormal profit",
+            "d": "No profit"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Free entry and exit of firms in a market ensures that:",
+        "options": {
+            "a": "Firms earn supernormal profits in the long run",
+            "b": "Firms earn normal profits in the long run",
+            "c": "Firms make losses in the long run",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The price elasticity of supply in the long run is:",
+        "options": {
+            "a": "Perfectly inelastic",
+            "b": "Less elastic than in the short run",
+            "c": "More elastic than in the short run",
+            "d": "Zero"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The condition for break-even is:",
+        "options": {
+            "a": "P = AVC",
+            "b": "P = ATC",
+            "c": "P > ATC",
+            "d": "P < ATC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A firm produces at minimum cost when:",
+        "options": {
+            "a": "MC > ATC",
+            "b": "MC = ATC",
+            "c": "MC = AVC",
+            "d": "MR > MC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is producer surplus?",
+        "options": {
+            "a": "Total cost \u2013 Total revenue",
+            "b": "Total revenue \u2013 Total variable cost",
+            "c": "Total cost \u2013 Fixed cost",
+            "d": "Fixed cost \u2013 Variable cost"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In the long run, the market supply curve in perfect competition is:",
+        "options": {
+            "a": "Perfectly elastic",
+            "b": "Perfectly inelastic",
+            "c": "Downward-sloping",
+            "d": "Upward-sloping"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "When firms earn supernormal profits in the short run:",
+        "options": {
+            "a": "New firms enter the market",
+            "b": "Existing firms exit the market",
+            "c": "Prices rise permanently",
+            "d": "Firms increase output indefinitely"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Economic profit is:",
+        "options": {
+            "a": "TR \u2013 TC (including opportunity cost)",
+            "b": "TR \u2013 TC (excluding opportunity cost)",
+            "c": "TR \u2013 AVC",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The long-run supply curve of a perfectly competitive firm is:",
+        "options": {
+            "a": "The MC curve above AVC",
+            "b": "The MC curve above ATC",
+            "c": "The AC curve",
+            "d": "The AVC curve"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Firms in perfect competition are considered efficient because:",
+        "options": {
+            "a": "They minimize costs",
+            "b": "They maximize profits",
+            "c": "They produce at the lowest point of the ATC curve",
+            "d": "Both (a) and (c)"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What happens in the short run if P > MC?",
+        "options": {
+            "a": "Firms reduce output",
+            "b": "Firms increase output",
+            "c": "Firms shut down",
+            "d": "Firms exit the market"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When is allocative efficiency achieved in perfect competition?",
+        "options": {
+            "a": "P = MC",
+            "b": "P > MC",
+            "c": "P < MC",
+            "d": "P = ATC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the shape of the firm\u2019s demand curve in perfect competition?",
+        "options": {
+            "a": "Vertical",
+            "b": "Horizontal",
+            "c": "Upward-sloping",
+            "d": "Downward-sloping"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The shutdown point occurs when:",
+        "options": {
+            "a": "P = AVC",
+            "b": "P = ATC",
+            "c": "P = MC",
+            "d": "P = MR"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What ensures no long-term supernormal profits in perfect competition?",
+        "options": {
+            "a": "Government regulation",
+            "b": "Price control",
+            "c": "Free entry and exit of firms",
+            "d": "Monopoly power"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The marginal revenue curve is the same as the demand curve for:",
+        "options": {
+            "a": "A monopolist",
+            "b": "A perfectly competitive firm",
+            "c": "An oligopoly",
+            "d": "A monopolistic competitor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is economic efficiency in perfect competition?",
+        "options": {
+            "a": "Producing at the lowest cost and distributing resources optimally",
+            "b": "Maximizing profit only",
+            "c": "Reducing costs by eliminating competitors",
+            "d": "Increasing consumer surplus only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a major assumption of perfect competition?",
+        "options": {
+            "a": "Limited sellers",
+            "b": "Perfect information",
+            "c": "High barriers to entry",
+            "d": "Heterogeneous products"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is constant for a perfectly competitive firm?",
+        "options": {
+            "a": "TR",
+            "b": "TC",
+            "c": "Price",
+            "d": "AVC"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Profit per unit is calculated as:",
+        "options": {
+            "a": "P \u2013 AC",
+            "b": "TR \u00f7 Q",
+            "c": "P \u2013 AVC",
+            "d": "MR \u2013 MC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "When P = AC in the long run, the firm:",
+        "options": {
+            "a": "Earns supernormal profit",
+            "b": "Breaks even",
+            "c": "Incurs losses",
+            "d": "Shuts down"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The firm achieves productive efficiency when it produces at:",
+        "options": {
+            "a": "MC = AVC",
+            "b": "Minimum ATC",
+            "c": "Maximum TR",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is NOT true for a perfectly competitive market?",
+        "options": {
+            "a": "Barriers to entry exist",
+            "b": "There are many sellers",
+            "c": "Products are homogeneous",
+            "d": "Firms are price takers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The firm\u2019s supply curve is determined by:",
+        "options": {
+            "a": "Its TR curve",
+            "b": "Its AVC curve",
+            "c": "Its MC curve above AVC",
+            "d": "Its ATC curve"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Market equilibrium occurs when:",
+        "options": {
+            "a": "Demand is greater than supply",
+            "b": "Supply is greater than demand",
+            "c": "Quantity demanded equals quantity supplied",
+            "d": "Price is too high"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "At the equilibrium price:",
+        "options": {
+            "a": "There is a surplus in the market",
+            "b": "There is a shortage in the market",
+            "c": "There is neither a surplus nor a shortage",
+            "d": "Quantity supplied is greater than quantity demanded"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Excess demand occurs when:",
+        "options": {
+            "a": "Price is below equilibrium",
+            "b": "Price is above equilibrium",
+            "c": "Demand is less than supply",
+            "d": "Supply equals demand"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Excess supply leads to:",
+        "options": {
+            "a": "A rise in price",
+            "b": "A fall in price",
+            "c": "Stable price",
+            "d": "Increased demand"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What drives the market towards equilibrium?",
+        "options": {
+            "a": "Government regulation",
+            "b": "Price changes due to excess demand or supply",
+            "c": "Fixed prices",
+            "d": "Technological advancements"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In the case of a price ceiling, the price is:",
+        "options": {
+            "a": "Set above the equilibrium price",
+            "b": "Set below the equilibrium price",
+            "c": "Allowed to fluctuate freely",
+            "d": "Equal to the equilibrium price"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a common result of a price ceiling?",
+        "options": {
+            "a": "Surplus",
+            "b": "Shortage",
+            "c": "Market equilibrium",
+            "d": "Increased production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A price floor is typically:",
+        "options": {
+            "a": "Below the equilibrium price",
+            "b": "Above the equilibrium price",
+            "c": "Equal to the equilibrium price",
+            "d": "Determined by demand only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is an example of a price floor?",
+        "options": {
+            "a": "Rent control",
+            "b": "Minimum wage",
+            "c": "Maximum price for essential goods",
+            "d": "Price set by market demand"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The imposition of a price floor can lead to:",
+        "options": {
+            "a": "Shortage",
+            "b": "Surplus",
+            "c": "Market clearing",
+            "d": "Decreased supply"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Equilibrium price ensures that:",
+        "options": {
+            "a": "Total revenue is maximized",
+            "b": "Market clears without surplus or shortage",
+            "c": "Government intervention is necessary",
+            "d": "Demand is zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When market price is higher than equilibrium price:",
+        "options": {
+            "a": "Demand exceeds supply",
+            "b": "Supply exceeds demand",
+            "c": "Market clears",
+            "d": "Prices remain constant"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When demand increases, other things being equal:",
+        "options": {
+            "a": "Equilibrium price and quantity both rise",
+            "b": "Equilibrium price and quantity both fall",
+            "c": "Equilibrium price rises and quantity falls",
+            "d": "Equilibrium price falls and quantity rises"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If supply increases and demand remains constant, equilibrium price:",
+        "options": {
+            "a": "Falls",
+            "b": "Rises",
+            "c": "Remains constant",
+            "d": "Becomes infinite"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following can shift the demand curve?",
+        "options": {
+            "a": "Change in the price of the good",
+            "b": "Change in consumer preferences",
+            "c": "Change in supply",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A simultaneous increase in demand and supply will always:",
+        "options": {
+            "a": "Increase equilibrium price",
+            "b": "Decrease equilibrium price",
+            "c": "Increase equilibrium quantity",
+            "d": "Decrease equilibrium quantity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the effect of a tax on goods?",
+        "options": {
+            "a": "Price increases for consumers and decreases for producers",
+            "b": "Price remains the same",
+            "c": "Only supply decreases",
+            "d": "Demand increases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "A subsidy on goods leads to:",
+        "options": {
+            "a": "Higher equilibrium price",
+            "b": "Lower equilibrium price",
+            "c": "No change in price",
+            "d": "Decreased supply"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a cause of market disequilibrium?",
+        "options": {
+            "a": "Price ceilings",
+            "b": "Price floors",
+            "c": "Free market price adjustments",
+            "d": "Government intervention"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is true at market equilibrium?",
+        "options": {
+            "a": "Demand is elastic",
+            "b": "Supply is inelastic",
+            "c": "Market clears",
+            "d": "Price remains fixed forever"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In a free market, what adjusts to eliminate shortages or surpluses?",
+        "options": {
+            "a": "Quantity",
+            "b": "Price",
+            "c": "Government regulations",
+            "d": "Supply curve"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If supply decreases and demand increases simultaneously, equilibrium price will:",
+        "options": {
+            "a": "Increase",
+            "b": "Decrease",
+            "c": "Remain constant",
+            "d": "Be indeterminate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The slope of the supply curve in a market equilibrium graph is:",
+        "options": {
+            "a": "Negative",
+            "b": "Positive",
+            "c": "Vertical",
+            "d": "Horizontal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to equilibrium price if both demand and supply decrease?",
+        "options": {
+            "a": "It rises",
+            "b": "It falls",
+            "c": "It remains constant",
+            "d": "It depends on the magnitude of the shifts"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "A legal maximum price set by the government is called:",
+        "options": {
+            "a": "Price floor",
+            "b": "Price ceiling",
+            "c": "Equilibrium price",
+            "d": "Market price"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A price ceiling can result in:",
+        "options": {
+            "a": "Excess supply",
+            "b": "Excess demand",
+            "c": "A surplus",
+            "d": "A market-clearing price"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is deadweight loss?",
+        "options": {
+            "a": "Loss of market equilibrium",
+            "b": "Reduction in total surplus due to market inefficiency",
+            "c": "Increase in producer surplus",
+            "d": "Increase in consumer surplus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "An increase in consumer income will shift:",
+        "options": {
+            "a": "The demand curve leftward",
+            "b": "The demand curve rightward",
+            "c": "The supply curve leftward",
+            "d": "The supply curve rightward"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If the government sets a price above the equilibrium price, it is called:",
+        "options": {
+            "a": "Price ceiling",
+            "b": "Price floor",
+            "c": "Market-clearing price",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The imposition of taxes results in:",
+        "options": {
+            "a": "Lower equilibrium prices",
+            "b": "A deadweight loss in the market",
+            "c": "An increase in producer surplus",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When supply is perfectly inelastic, an increase in demand will result in:",
+        "options": {
+            "a": "No change in price",
+            "b": "A rise in price with no change in quantity",
+            "c": "A rise in quantity with no change in price",
+            "d": "A surplus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What represents the point of market equilibrium in a graph?",
+        "options": {
+            "a": "Intersection of demand and supply curves",
+            "b": "Vertical portion of the supply curve",
+            "c": "Horizontal portion of the demand curve",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If demand decreases and supply remains constant, equilibrium quantity will:",
+        "options": {
+            "a": "Increase",
+            "b": "Decrease",
+            "c": "Remain unchanged",
+            "d": "Be indeterminate"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a shortage in the market indicate?",
+        "options": {
+            "a": "Price is above equilibrium",
+            "b": "Price is below equilibrium",
+            "c": "Demand is less than supply",
+            "d": "Market is efficient"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When demand is perfectly inelastic, a decrease in supply will:",
+        "options": {
+            "a": "Decrease price",
+            "b": "Increase price",
+            "c": "Leave price unchanged",
+            "d": "Cause a surplus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Government intervention can cause market inefficiencies because:",
+        "options": {
+            "a": "It sets prices at equilibrium levels",
+            "b": "It prevents free market adjustments",
+            "c": "It eliminates surpluses",
+            "d": "It reduces deadweight loss"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "An effective price ceiling is set:",
+        "options": {
+            "a": "Above equilibrium price",
+            "b": "At equilibrium price",
+            "c": "Below equilibrium price",
+            "d": "At a price determined by suppliers"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the result of a price floor above equilibrium price?",
+        "options": {
+            "a": "Shortage",
+            "b": "Surplus",
+            "c": "Deadweight loss",
+            "d": "Both (b) and (c)"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "If demand and supply both increase simultaneously, price will:",
+        "options": {
+            "a": "Increase",
+            "b": "Decrease",
+            "c": "Remain constant",
+            "d": "Be indeterminate"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "A market is said to clear when:",
+        "options": {
+            "a": "There is no government intervention",
+            "b": "Demand equals supply",
+            "c": "Prices are fixed",
+            "d": "Quantity supplied exceeds quantity demanded"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a characteristic of monopoly?",
+        "options": {
+            "a": "Many buyers and sellers",
+            "b": "Homogeneous products",
+            "c": "Single seller",
+            "d": "Free entry and exit"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In a monopoly, the firm is a:",
+        "options": {
+            "a": "Price taker",
+            "b": "Price maker",
+            "c": "Price regulator",
+            "d": "Perfect competitor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The demand curve faced by a monopolist is:",
+        "options": {
+            "a": "Perfectly elastic",
+            "b": "Downward-sloping",
+            "c": "Upward-sloping",
+            "d": "Vertical"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Monopoly power arises due to:",
+        "options": {
+            "a": "Perfect competition",
+            "b": "Lack of substitutes",
+            "c": "Government regulations",
+            "d": "Large number of firms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following can be a barrier to entry in a monopoly market?",
+        "options": {
+            "a": "Economies of scale",
+            "b": "Legal restrictions",
+            "c": "Control over essential resources",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which market structure features product differentiation?",
+        "options": {
+            "a": "Perfect competition",
+            "b": "Monopoly",
+            "c": "Monopolistic competition",
+            "d": "Oligopoly"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In monopolistic competition, firms sell:",
+        "options": {
+            "a": "Perfect substitutes",
+            "b": "Differentiated products",
+            "c": "Unique products",
+            "d": "Identical products"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary feature of an oligopoly?",
+        "options": {
+            "a": "Many sellers",
+            "b": "A single seller",
+            "c": "Interdependence among firms",
+            "d": "Free entry and exit"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A kinked demand curve is associated with:",
+        "options": {
+            "a": "Monopoly",
+            "b": "Oligopoly",
+            "c": "Perfect competition",
+            "d": "Monopolistic competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Collusion is more likely in which market structure?",
+        "options": {
+            "a": "Perfect competition",
+            "b": "Monopoly",
+            "c": "Oligopoly",
+            "d": "Monopolistic competition"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Price discrimination occurs when:",
+        "options": {
+            "a": "A firm charges different prices for the same product",
+            "b": "Prices are the same across regions",
+            "c": "Supply exceeds demand",
+            "d": "Firms produce homogeneous goods"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "A natural monopoly exists when:",
+        "options": {
+            "a": "A firm has a patent",
+            "b": "Economies of scale are very large",
+            "c": "Products are homogeneous",
+            "d": "Demand is perfectly elastic"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Under perfect price discrimination, consumer surplus:",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Becomes zero",
+            "d": "Remains unchanged"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The long-run equilibrium in monopolistic competition results in:",
+        "options": {
+            "a": "Normal profit",
+            "b": "Supernormal profit",
+            "c": "Subnormal profit",
+            "d": "Loss"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What determines price in an oligopoly?",
+        "options": {
+            "a": "Market forces of demand and supply",
+            "b": "Collusion between firms",
+            "c": "A dominant firm",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which of the following is NOT true in a monopoly?",
+        "options": {
+            "a": "There is a single producer",
+            "b": "Price is equal to marginal cost",
+            "c": "Barriers to entry exist",
+            "d": "Firm faces a downward-sloping demand curve"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Monopolistic competition combines elements of:",
+        "options": {
+            "a": "Monopoly and perfect competition",
+            "b": "Oligopoly and monopoly",
+            "c": "Oligopoly and perfect competition",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which feature distinguishes monopolistic competition from perfect competition?",
+        "options": {
+            "a": "Number of sellers",
+            "b": "Differentiated products",
+            "c": "Free entry and exit",
+            "d": "Perfect information"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Oligopoly may lead to:",
+        "options": {
+            "a": "Price wars",
+            "b": "Collusive pricing",
+            "c": "Non-price competition",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which market structure is characterized by mutual interdependence?",
+        "options": {
+            "a": "Perfect competition",
+            "b": "Monopoly",
+            "c": "Oligopoly",
+            "d": "Monopolistic competition"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In the long run, a monopolist can earn:",
+        "options": {
+            "a": "Normal profit",
+            "b": "Supernormal profit",
+            "c": "Losses",
+            "d": "Zero profit"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "A monopolist produces at a point where:",
+        "options": {
+            "a": "MR = MC",
+            "b": "P = MC",
+            "c": "TR = TC",
+            "d": "MR > MC"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In monopolistic competition, firms operate at:",
+        "options": {
+            "a": "Maximum efficiency",
+            "b": "Excess capacity",
+            "c": "Break-even point",
+            "d": "Minimum cost"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What causes a downward-sloping demand curve in monopoly?",
+        "options": {
+            "a": "High elasticity of demand",
+            "b": "Lack of substitutes",
+            "c": "Perfect competition",
+            "d": "Economies of scale"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of non-price competition?",
+        "options": {
+            "a": "Advertising",
+            "b": "Discounted prices",
+            "c": "Lower production costs",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Price rigidity is a feature of:",
+        "options": {
+            "a": "Monopoly",
+            "b": "Perfect competition",
+            "c": "Oligopoly",
+            "d": "Monopolistic competition"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which condition leads to perfect price discrimination?",
+        "options": {
+            "a": "Perfect knowledge of consumer willingness to pay",
+            "b": "Free entry and exit",
+            "c": "Large number of sellers",
+            "d": "Identical costs for all firms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Cartels are associated with:",
+        "options": {
+            "a": "Monopoly",
+            "b": "Oligopoly",
+            "c": "Perfect competition",
+            "d": "Monopolistic competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Collusion among firms in an oligopoly leads to:",
+        "options": {
+            "a": "Monopoly-like outcomes",
+            "b": "Competitive pricing",
+            "c": "Increased consumer surplus",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Product differentiation can be achieved through:",
+        "options": {
+            "a": "Quality improvements",
+            "b": "Branding",
+            "c": "Packaging",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which of the following leads to inefficiency in monopoly?",
+        "options": {
+            "a": "Excess capacity",
+            "b": "Deadweight loss",
+            "c": "Collusion",
+            "d": "High competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When firms compete on product quality, it is known as:",
+        "options": {
+            "a": "Price competition",
+            "b": "Non-price competition",
+            "c": "Collusion",
+            "d": "Market clearing"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Oligopoly is characterized by:",
+        "options": {
+            "a": "Few sellers",
+            "b": "No interdependence",
+            "c": "Free entry and exit",
+            "d": "Horizontal demand curve"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a feature of monopoly?",
+        "options": {
+            "a": "Price discrimination",
+            "b": "No close substitutes",
+            "c": "Free entry and exit",
+            "d": "Single seller"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In monopolistic competition, price is determined by:",
+        "options": {
+            "a": "Market demand and supply",
+            "b": "The government",
+            "c": "Collusion",
+            "d": "Individual firms"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The concept of \u2018kinked demand curve\u2019 explains:",
+        "options": {
+            "a": "Price stability in oligopoly",
+            "b": "Price determination in monopoly",
+            "c": "Price changes in perfect competition",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which feature leads to inefficiency in monopolistic competition?",
+        "options": {
+            "a": "Perfect information",
+            "b": "Excess capacity",
+            "c": "Price rigidity",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In a natural monopoly, average costs:",
+        "options": {
+            "a": "Increase with output",
+            "b": "Decrease with output",
+            "c": "Remain constant",
+            "d": "Fluctuate randomly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an outcome of collusion?",
+        "options": {
+            "a": "Price rigidity",
+            "b": "Lower consumer prices",
+            "c": "Increased competition",
+            "d": "Decreased profits"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Monopolistic competition leads to:",
+        "options": {
+            "a": "Perfect efficiency",
+            "b": "Excess capacity",
+            "c": "Constant costs",
+            "d": "No product differentiation"
+        },
+        "answer": "b"
+    }
+]

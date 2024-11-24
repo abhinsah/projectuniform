@@ -1,0 +1,2152 @@
+[
+    {
+        "question": "What is the primary focus of macroeconomics?",
+        "options": {
+            "a": "Individual markets and agents",
+            "b": "Aggregate phenomena such as inflation, employment, and national output",
+            "c": "The behavior of firms and consumers",
+            "d": "Product pricing and market competition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which economist is considered the founding father of modern macroeconomics?",
+        "options": {
+            "a": "Adam Smith",
+            "b": "David Ricardo",
+            "c": "John Maynard Keynes",
+            "d": "Milton Friedman"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What event led to the development of macroeconomics as a distinct field?",
+        "options": {
+            "a": "Industrial Revolution",
+            "b": "Great Depression",
+            "c": "World War I",
+            "d": "Bretton Woods Conference"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What book by John Maynard Keynes marked the emergence of macroeconomics?",
+        "options": {
+            "a": "The Wealth of Nations",
+            "b": "Principles of Political Economy",
+            "c": "The General Theory of Employment, Interest, and Money",
+            "d": "Das Kapital"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Macroeconomics analyzes the economy at what level?",
+        "options": {
+            "a": "Individual level",
+            "b": "Sectoral level",
+            "c": "Aggregate level",
+            "d": "Regional level"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the term \u2018macroeconomic policy\u2019 generally involve?",
+        "options": {
+            "a": "Profit maximization by firms",
+            "b": "Government decisions to influence inflation, unemployment, and growth",
+            "c": "Strategies to improve competition",
+            "d": "Consumer behavior studies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a feature of a capitalist economy?",
+        "options": {
+            "a": "Private ownership of production means",
+            "b": "Government-controlled production",
+            "c": "Profit-driven production",
+            "d": "Use of wage labor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who are considered macroeconomic decision-makers?",
+        "options": {
+            "a": "Households",
+            "b": "Entrepreneurs",
+            "c": "Governments and institutions like the Reserve Bank of India",
+            "d": "Small business owners"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What was a significant outcome of the Great Depression on economic thought?",
+        "options": {
+            "a": "Validation of classical economics",
+            "b": "Recognition of the need for government intervention in economies",
+            "c": "Increased focus on microeconomics",
+            "d": "Development of market equilibrium theory"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following sectors is NOT included in the macroeconomic model?",
+        "options": {
+            "a": "Households",
+            "b": "Firms",
+            "c": "External sector",
+            "d": "Nonprofit organizations"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What distinguishes macroeconomics from microeconomics?",
+        "options": {
+            "a": "Analysis of consumption patterns",
+            "b": "Study of aggregate economic variables",
+            "c": "Focus on individual markets",
+            "d": "Examination of competitive pricing"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is considered a macroeconomic aggregate?",
+        "options": {
+            "a": "Price of wheat in a local market",
+            "b": "National unemployment rate",
+            "c": "Profit margin of a company",
+            "d": "Demand for a single commodity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What term is used to refer to individuals or entities making economic decisions?",
+        "options": {
+            "a": "Micro units",
+            "b": "Economic agents",
+            "c": "Consumers",
+            "d": "Producers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following sectors primarily influences the capital market?",
+        "options": {
+            "a": "Government sector",
+            "b": "Household sector",
+            "c": "External sector",
+            "d": "Firm sector"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which type of economy does this textbook focus on?",
+        "options": {
+            "a": "Mixed economy",
+            "b": "Capitalist economy",
+            "c": "Socialist economy",
+            "d": "Traditional economy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does national income accounting primarily measure?",
+        "options": {
+            "a": "The total income of individuals in a country",
+            "b": "The aggregate economic activity in a country",
+            "c": "The wealth of the government",
+            "d": "The profits of private firms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an example of a final good?",
+        "options": {
+            "a": "Steel used in car manufacturing",
+            "b": "A car sold to a customer",
+            "c": "Cotton bought by a textile mill",
+            "d": "Flour used by a bakery"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is 'double counting' in national income accounting?",
+        "options": {
+            "a": "Counting the value of goods produced twice",
+            "b": "Measuring intermediate goods and final goods separately",
+            "c": "Using incorrect price indices",
+            "d": "Including exports and imports twice"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What method is used to calculate the value of goods and services in an economy?",
+        "options": {
+            "a": "Expenditure method",
+            "b": "Income method",
+            "c": "Product or Value Added method",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is Gross Domestic Product (GDP)?",
+        "options": {
+            "a": "The total value of intermediate goods",
+            "b": "The value of final goods and services produced within a country",
+            "c": "The income of all residents in a country",
+            "d": "The value of exports minus imports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the difference between nominal and real GDP?",
+        "options": {
+            "a": "Real GDP is adjusted for population, nominal is not",
+            "b": "Nominal GDP is adjusted for inflation, real is not",
+            "c": "Real GDP is adjusted for inflation, nominal is not",
+            "d": "Nominal GDP excludes taxes, real GDP includes them"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is included in GDP calculations?",
+        "options": {
+            "a": "Sale of used goods",
+            "b": "Production of goods for personal consumption",
+            "c": "Legal market transactions of final goods",
+            "d": "Illegal market activities"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are the three sectors in the circular flow of income?",
+        "options": {
+            "a": "Primary, secondary, tertiary",
+            "b": "Households, firms, government",
+            "c": "Firms, government, external sector",
+            "d": "Households, external sector, tertiary sector"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for net investment?",
+        "options": {
+            "a": "Gross Investment - Depreciation",
+            "b": "Depreciation + Gross Investment",
+            "c": "Final Goods - Intermediate Goods",
+            "d": "Gross Value Added + Taxes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does 'depreciation' refer to in national income accounting?",
+        "options": {
+            "a": "Loss in capital stock value due to wear and tear",
+            "b": "Decrease in population over time",
+            "c": "Reduction in government expenditure",
+            "d": "Decrease in nominal GDP"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of national income accounting?",
+        "options": {
+            "a": "To calculate individual savings",
+            "b": "To measure economic growth and policy outcomes",
+            "c": "To monitor government expenses",
+            "d": "To calculate international trade balance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does GDP at factor cost represent?",
+        "options": {
+            "a": "GDP excluding taxes and subsidies",
+            "b": "GDP including only indirect taxes",
+            "c": "GDP measured at market prices",
+            "d": "GDP calculated without accounting for labor costs"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these is a stock variable?",
+        "options": {
+            "a": "Income",
+            "b": "Investment",
+            "c": "Wealth",
+            "d": "Expenditure"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which method calculates GDP by summing up wages, rents, interest, and profits?",
+        "options": {
+            "a": "Product method",
+            "b": "Income method",
+            "c": "Expenditure method",
+            "d": "Value Added method"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is 'inventory' in national income accounting?",
+        "options": {
+            "a": "Raw materials purchased by firms",
+            "b": "Stock of unsold goods and materials held by firms",
+            "c": "Finished goods ready for export",
+            "d": "Tools and machinery used in production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a flow variable?",
+        "options": {
+            "a": "Capital",
+            "b": "GDP",
+            "c": "Population",
+            "d": "Machinery"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term 'factor income' include?",
+        "options": {
+            "a": "Salaries of government employees only",
+            "b": "Wages, profits, rents, and interest",
+            "c": "Taxes collected by the government",
+            "d": "Transfer payments like pensions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the expenditure method of calculating GDP based on?",
+        "options": {
+            "a": "Adding the income of all workers",
+            "b": "Calculating the total spending on final goods and services",
+            "c": "Counting only the investment in machinery",
+            "d": "Summing up production from all firms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main reason to avoid counting intermediate goods in GDP?",
+        "options": {
+            "a": "To simplify the calculation process",
+            "b": "To prevent double counting",
+            "c": "To focus only on durable goods",
+            "d": "Because they are exported"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does 'value added' mean?",
+        "options": {
+            "a": "Revenue minus profits",
+            "b": "Final product value minus intermediate goods cost",
+            "c": "Total investment in a sector",
+            "d": "Revenue plus tax contributions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is included in GDP but not in GNP?",
+        "options": {
+            "a": "Income earned by domestic residents abroad",
+            "b": "Income generated by foreign entities within the country",
+            "c": "Profits of multinational corporations abroad",
+            "d": "Government subsidies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is NOT a method for calculating national income?",
+        "options": {
+            "a": "Income method",
+            "b": "Expenditure method",
+            "c": "Product method",
+            "d": "Taxation method"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the relationship between Gross National Product (GNP) and GDP?",
+        "options": {
+            "a": "GNP = GDP - Income earned abroad",
+            "b": "GNP = GDP + Net factor income from abroad",
+            "c": "GNP = GDP - Taxes",
+            "d": "GNP = GDP - Depreciation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the meaning of \"gross\" in Gross Domestic Product?",
+        "options": {
+            "a": "It excludes depreciation",
+            "b": "It includes depreciation",
+            "c": "It excludes taxes",
+            "d": "It only includes final goods"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does 'circular flow of income' describe?",
+        "options": {
+            "a": "The movement of money in banking systems",
+            "b": "The continuous exchange of money, goods, and services between sectors",
+            "c": "Government spending and tax collection",
+            "d": "Foreign trade interactions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of net domestic product (NDP)?",
+        "options": {
+            "a": "It is equal to GDP minus depreciation",
+            "b": "It is GDP adjusted for inflation",
+            "c": "It excludes intermediate goods",
+            "d": "It includes foreign trade balance"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In a simple economy, households dispose of their income by:",
+        "options": {
+            "a": "Paying taxes",
+            "b": "Saving in banks",
+            "c": "Purchasing goods and services",
+            "d": "Investing in foreign stocks"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the identity representing production and income equality?",
+        "options": {
+            "a": "Total production \u2261 Total expenditure \u2261 Total income",
+            "b": "Total savings \u2261 Total consumption",
+            "c": "Total exports \u2261 Total imports",
+            "d": "Total taxes \u2261 Total investments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the goods used up in producing other goods?",
+        "options": {
+            "a": "Final goods",
+            "b": "Consumer goods",
+            "c": "Intermediate goods",
+            "d": "Capital goods"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT an example of investment expenditure?",
+        "options": {
+            "a": "Construction of a factory",
+            "b": "Purchase of a machine",
+            "c": "Stock of raw materials in a factory",
+            "d": "Monthly salary paid to a worker"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "How are durable consumer goods treated in GDP calculations?",
+        "options": {
+            "a": "As intermediate goods",
+            "b": "As final goods",
+            "c": "As capital goods",
+            "d": "As transfer payments"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a planned investment?",
+        "options": {
+            "a": "Accidental accumulation of inventories",
+            "b": "Construction of a factory for future use",
+            "c": "Unexpected purchase of raw materials",
+            "d": "Increase in personal savings"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is depreciation subtracted from GDP to calculate NDP?",
+        "options": {
+            "a": "To adjust for intermediate goods",
+            "b": "To account for the wear and tear of capital",
+            "c": "To remove the impact of indirect taxes",
+            "d": "To exclude foreign income"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of GDP includes price level changes over time?",
+        "options": {
+            "a": "Real GDP",
+            "b": "Nominal GDP",
+            "c": "Per Capita GDP",
+            "d": "GDP Deflator"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The addition of unsold stock to total production is considered:",
+        "options": {
+            "a": "Consumer expenditure",
+            "b": "Intermediate goods",
+            "c": "Inventory investment",
+            "d": "Final consumption"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the term for an annual allowance for wear and tear of capital?",
+        "options": {
+            "a": "Capital gains",
+            "b": "Depreciation",
+            "c": "Net investment",
+            "d": "Asset reduction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is the most appropriate measure of economic welfare?",
+        "options": {
+            "a": "Nominal GDP",
+            "b": "GDP Deflator",
+            "c": "Real GDP",
+            "d": "National Savings"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Intermediate goods are excluded from GDP to:",
+        "options": {
+            "a": "Avoid inflation",
+            "b": "Reflect accurate final output",
+            "c": "Ensure higher net exports",
+            "d": "Measure depreciation more precisely"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which economic variable is considered a 'flow'?",
+        "options": {
+            "a": "Capital stock",
+            "b": "Annual income",
+            "c": "Wealth",
+            "d": "Machinery inventory"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of 'value added' in GDP?",
+        "options": {
+            "a": "It measures total capital stock",
+            "b": "It reflects a firm's net contribution to production",
+            "c": "It excludes profits and wages",
+            "d": "It shows changes in inventory levels"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of money?",
+        "options": {
+            "a": "A medium of exchange",
+            "b": "A measure of wealth",
+            "c": "A source of income",
+            "d": "A store of resources"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a function of money?",
+        "options": {
+            "a": "Store of value",
+            "b": "Unit of account",
+            "c": "Measure of inflation",
+            "d": "Medium of exchange"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Demand for money arises primarily due to:",
+        "options": {
+            "a": "Need for investment",
+            "b": "The use of money in transactions",
+            "c": "Inflationary pressure",
+            "d": "Government policies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the supply of money in an economy?",
+        "options": {
+            "a": "Central Bank and commercial banks",
+            "b": "Households and government expenditure",
+            "c": "Foreign exchange rates",
+            "d": "Price of gold"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Money Multiplier?",
+        "options": {
+            "a": "Ratio of the money supply to the monetary base",
+            "b": "Ratio of reserves to demand deposits",
+            "c": "Increase in money supply due to price hikes",
+            "d": "Multiplier effect of fiscal policies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is NOT a component of the money supply?",
+        "options": {
+            "a": "Demand deposits",
+            "b": "Time deposits",
+            "c": "Currency in circulation",
+            "d": "Government bonds"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which policy tool is used by central banks to control money supply?",
+        "options": {
+            "a": "Open Market Operations",
+            "b": "Taxation",
+            "c": "Minimum wage regulation",
+            "d": "Fiscal deficit management"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does CRR (Cash Reserve Ratio) refer to?",
+        "options": {
+            "a": "Percentage of deposits banks must keep as reserves with the central bank",
+            "b": "Total cash reserves held by commercial banks",
+            "c": "Loans provided to businesses",
+            "d": "The rate at which banks borrow from the central bank"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these best describes \u2018liquidity\u2019?",
+        "options": {
+            "a": "The ability of an asset to be converted into cash quickly",
+            "b": "Availability of credit in the market",
+            "c": "Interest rate levels in the economy",
+            "d": "Volume of cash transactions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary goal of monetary policy?",
+        "options": {
+            "a": "To increase the wealth of individuals",
+            "b": "To regulate the supply of money and credit",
+            "c": "To maximize foreign exchange reserves",
+            "d": "To control fiscal deficits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who is responsible for issuing currency in India?",
+        "options": {
+            "a": "Ministry of Finance",
+            "b": "Reserve Bank of India (RBI)",
+            "c": "Commercial banks",
+            "d": "Securities and Exchange Board of India (SEBI)"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the process by which banks create money through lending?",
+        "options": {
+            "a": "Fractional Reserve Banking",
+            "b": "Deficit Financing",
+            "c": "Monetization of Debt",
+            "d": "Open Market Operations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when the central bank raises the repo rate?",
+        "options": {
+            "a": "Borrowing becomes cheaper for commercial banks",
+            "b": "Borrowing becomes costlier for commercial banks",
+            "c": "Demand for money increases",
+            "d": "Money supply expands"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \"credit creation\" refer to in banking?",
+        "options": {
+            "a": "Printing of new currency",
+            "b": "Lending more than reserves held by banks",
+            "c": "Stock market investments",
+            "d": "Reduction in interest rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the money market?",
+        "options": {
+            "a": "A market for long-term loans",
+            "b": "A market for short-term financial instruments",
+            "c": "A market for foreign exchange transactions",
+            "d": "A stock exchange for equity trading"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does SLR (Statutory Liquidity Ratio) require banks to do?",
+        "options": {
+            "a": "Maintain a certain percentage of net demand and time liabilities in specified assets",
+            "b": "Issue government securities to raise money",
+            "c": "Increase the interest rate on loans",
+            "d": "Keep reserves with the central bank"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an example of fiat money?",
+        "options": {
+            "a": "Gold coins",
+            "b": "Commodity money",
+            "c": "Paper currency",
+            "d": "Barter system"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are Open Market Operations?",
+        "options": {
+            "a": "Trading of government securities by the central bank",
+            "b": "Issuance of treasury bills to banks",
+            "c": "Tax reforms aimed at raising revenue",
+            "d": "Regulating exchange rates in the forex market"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of banking involves providing services only to large businesses?",
+        "options": {
+            "a": "Universal banking",
+            "b": "Wholesale banking",
+            "c": "Retail banking",
+            "d": "Shadow banking"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens during a bank run?",
+        "options": {
+            "a": "Depositors withdraw funds simultaneously out of fear of bank failure",
+            "b": "Banks expand their credit lines",
+            "c": "Interest rates are lowered to encourage deposits",
+            "d": "Central banks issue more currency"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by the term \"reserve money\"?",
+        "options": {
+            "a": "Total currency in circulation",
+            "b": "The total reserves held by commercial banks with the central bank",
+            "c": "The base money consisting of currency in circulation and deposits with the central bank",
+            "d": "The loans given to the government by the central bank"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is \"high-powered money\"?",
+        "options": {
+            "a": "Money created by commercial banks through lending",
+            "b": "Money directly created by the central bank",
+            "c": "Foreign currency reserves",
+            "d": "Money used for speculative purposes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"monetary base\" include?",
+        "options": {
+            "a": "Demand deposits and time deposits",
+            "b": "Currency in circulation and reserves held by banks at the central bank",
+            "c": "Bonds and securities held by the government",
+            "d": "Total savings in the economy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which component of money supply is the most liquid?",
+        "options": {
+            "a": "Time deposits",
+            "b": "Savings deposits",
+            "c": "Currency in circulation",
+            "d": "Foreign currency holdings"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary purpose of a central bank's monetary policy?",
+        "options": {
+            "a": "To maximize profits for commercial banks",
+            "b": "To stabilize the economy by managing money supply and interest rates",
+            "c": "To regulate international trade",
+            "d": "To enforce fiscal policies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is \"demand for money\" in macroeconomics?",
+        "options": {
+            "a": "The desire to save rather than spend",
+            "b": "The amount of money individuals want to hold for transactions and savings",
+            "c": "The total loans demanded by businesses",
+            "d": "The desire to exchange goods without using money"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when the central bank decreases the CRR?",
+        "options": {
+            "a": "Banks can lend more, increasing the money supply",
+            "b": "Banks are forced to lend less, decreasing the money supply",
+            "c": "Inflation decreases automatically",
+            "d": "The value of the currency rises"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by \"repo rate\"?",
+        "options": {
+            "a": "The rate at which commercial banks lend to the central bank",
+            "b": "The rate at which the central bank lends to commercial banks",
+            "c": "The interest rate on fixed deposits",
+            "d": "The rate at which foreign banks invest in domestic markets"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of collateral in banking?",
+        "options": {
+            "a": "To increase profits for banks",
+            "b": "To secure loans by using assets as guarantees",
+            "c": "To reduce government regulations",
+            "d": "To encourage customer savings"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following would increase the supply of money in the economy?",
+        "options": {
+            "a": "An increase in CRR",
+            "b": "An increase in the SLR",
+            "c": "A reduction in the repo rate",
+            "d": "An increase in taxation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which type of deposit allows withdrawal on demand?",
+        "options": {
+            "a": "Fixed deposit",
+            "b": "Time deposit",
+            "c": "Demand deposit",
+            "d": "Recurring deposit"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the term \"lender of last resort\" mean in the context of central banks?",
+        "options": {
+            "a": "Lending to governments only in emergencies",
+            "b": "Offering emergency funds to commercial banks facing liquidity crises",
+            "c": "Funding foreign trade deficits",
+            "d": "Setting interest rates for private loans"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between money supply and interest rates?",
+        "options": {
+            "a": "Increase in money supply lowers interest rates",
+            "b": "Increase in money supply raises interest rates",
+            "c": "Increase in interest rates increases money supply",
+            "d": "Interest rates are unrelated to money supply"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the \"liquidity trap\"?",
+        "options": {
+            "a": "A situation where banks fail to meet reserve requirements",
+            "b": "A condition where monetary policy becomes ineffective as interest rates are close to zero",
+            "c": "A scenario where too much cash is in circulation",
+            "d": "A problem caused by inflationary pressure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the \"bank rate\"?",
+        "options": {
+            "a": "The interest rate commercial banks charge on loans",
+            "b": "The interest rate charged by the central bank for long-term loans to commercial banks",
+            "c": "The rate at which banks buy foreign exchange",
+            "d": "The interest rate paid on fixed deposits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which financial instrument is commonly used in money markets?",
+        "options": {
+            "a": "Shares",
+            "b": "Corporate bonds",
+            "c": "Treasury bills",
+            "d": "Real estate loans"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens in the case of an increase in the statutory liquidity ratio (SLR)?",
+        "options": {
+            "a": "Banks have more funds to lend",
+            "b": "Banks are required to keep more funds in liquid assets",
+            "c": "Money supply increases immediately",
+            "d": "Inflation is guaranteed to rise"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does M1 include in money supply measurements?",
+        "options": {
+            "a": "Currency in circulation and demand deposits",
+            "b": "Savings deposits and time deposits",
+            "c": "Gold reserves and foreign exchange",
+            "d": "Commercial bank loans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the difference between broad money and narrow money?",
+        "options": {
+            "a": "Broad money includes only currency; narrow money includes deposits",
+            "b": "Broad money includes time deposits; narrow money does not",
+            "c": "Broad money is M1; narrow money is M3",
+            "d": "Broad money excludes foreign exchange reserves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is NOT a role of commercial banks?",
+        "options": {
+            "a": "Creating credit",
+            "b": "Facilitating payments",
+            "c": "Issuing currency",
+            "d": "Providing loans"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is Aggregate Demand (AD)?",
+        "options": {
+            "a": "Total investment in an economy",
+            "b": "Total demand for goods and services in an economy at a given price level and time",
+            "c": "The demand for exports only",
+            "d": "Total income generated in the economy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a component of Aggregate Demand?",
+        "options": {
+            "a": "Consumption expenditure",
+            "b": "Investment expenditure",
+            "c": "Government expenditure",
+            "d": "Imports"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What does Aggregate Supply (AS) represent?",
+        "options": {
+            "a": "The total value of goods and services produced in an economy",
+            "b": "The quantity of goods imported by a country",
+            "c": "The investment capacity of firms",
+            "d": "The income of households"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the equilibrium level of income?",
+        "options": {
+            "a": "When Aggregate Demand exceeds Aggregate Supply",
+            "b": "When Aggregate Supply exceeds Aggregate Demand",
+            "c": "When Aggregate Demand equals Aggregate Supply",
+            "d": "When imports equal exports"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary determinant of consumption in an economy?",
+        "options": {
+            "a": "Tax rates",
+            "b": "Government spending",
+            "c": "Household income",
+            "d": "Interest rates"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the term \"marginal propensity to consume\" (MPC) mean?",
+        "options": {
+            "a": "The ratio of total consumption to total income",
+            "b": "The proportion of additional income spent on consumption",
+            "c": "The total spending on consumption goods",
+            "d": "The percentage of income saved"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is Marginal Propensity to Save (MPS)?",
+        "options": {
+            "a": "Additional savings from additional income",
+            "b": "Total savings divided by total income",
+            "c": "Savings adjusted for inflation",
+            "d": "Income minus consumption"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between MPC and MPS?",
+        "options": {
+            "a": "MPC + MPS = 1",
+            "b": "MPC - MPS = 1",
+            "c": "MPC \u00d7 MPS = 1",
+            "d": "MPC / MPS = 1"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Keynesian Multiplier?",
+        "options": {
+            "a": "The ratio of national income to aggregate demand",
+            "b": "The ratio of change in income to a change in investment",
+            "c": "The effect of tax policies on national income",
+            "d": "The rate at which income grows over time"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for the multiplier?",
+        "options": {
+            "a": "1 / (1 - MPC)",
+            "b": "1 - MPC",
+            "c": "1 \u00d7 MPS",
+            "d": "MPC \u00d7 MPS"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to national income if MPC increases?",
+        "options": {
+            "a": "It decreases",
+            "b": "It remains constant",
+            "c": "It increases, due to a higher multiplier effect",
+            "d": "It depends on government spending"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is meant by autonomous consumption?",
+        "options": {
+            "a": "Consumption independent of income",
+            "b": "Consumption dependent on income",
+            "c": "Consumption only by the government",
+            "d": "Consumption minus savings"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the Keynesian model, investment is considered to be:",
+        "options": {
+            "a": "Dependent on income",
+            "b": "Autonomous of income",
+            "c": "Based on household spending",
+            "d": "Unrelated to interest rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is Aggregate Expenditure (AE)?",
+        "options": {
+            "a": "The sum of all planned spending in an economy",
+            "b": "The sum of all savings in an economy",
+            "c": "Total tax revenue collected by the government",
+            "d": "Total imports minus exports"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when Aggregate Demand exceeds Aggregate Supply?",
+        "options": {
+            "a": "There is inflationary pressure in the economy",
+            "b": "There is unemployment",
+            "c": "National income decreases",
+            "d": "There is an increase in exports"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by involuntary unemployment?",
+        "options": {
+            "a": "Workers voluntarily choose not to work",
+            "b": "Workers willing to work at the prevailing wage rate cannot find jobs",
+            "c": "Workers are overqualified for their jobs",
+            "d": "Workers earn less than the minimum wage"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary objective of fiscal policy in the Keynesian framework?",
+        "options": {
+            "a": "To control inflation",
+            "b": "To achieve full employment and stabilize the economy",
+            "c": "To regulate foreign trade",
+            "d": "To control private investment"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary determinant of investment according to Keynes?",
+        "options": {
+            "a": "Savings",
+            "b": "Interest rates and business expectations",
+            "c": "Government policies",
+            "d": "National income"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a higher multiplier indicate in an economy?",
+        "options": {
+            "a": "Lower national income",
+            "b": "Greater impact of investment on income",
+            "c": "Increased inflation",
+            "d": "Reduced savings rate"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a recessionary gap?",
+        "options": {
+            "a": "The excess of Aggregate Demand over full-employment output",
+            "b": "The shortfall of Aggregate Demand below full-employment output",
+            "c": "A surplus in the trade balance",
+            "d": "A fall in the value of exports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a contractionary fiscal policy aim to achieve?",
+        "options": {
+            "a": "Increase in government expenditure",
+            "b": "Reduction in Aggregate Demand to control inflation",
+            "c": "Expansion of Aggregate Demand to combat unemployment",
+            "d": "Increase in exports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following will directly lead to an increase in Aggregate Demand?",
+        "options": {
+            "a": "Increase in taxes",
+            "b": "Increase in government expenditure",
+            "c": "Decrease in disposable income",
+            "d": "Decrease in exports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary goal of expansionary fiscal policy?",
+        "options": {
+            "a": "Increase savings in the economy",
+            "b": "Stimulate economic growth by increasing demand",
+            "c": "Control inflation by reducing spending",
+            "d": "Reduce government deficits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of government spending in the Keynesian model?",
+        "options": {
+            "a": "To ensure equilibrium at full employment",
+            "b": "To regulate foreign exchange markets",
+            "c": "To control imports",
+            "d": "To encourage savings"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the formula for saving in an economy?",
+        "options": {
+            "a": "Income - Consumption",
+            "b": "Consumption - Income",
+            "c": "Consumption \u00d7 Income",
+            "d": "Savings + Investments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when there is an increase in planned investment?",
+        "options": {
+            "a": "National income decreases",
+            "b": "Aggregate demand increases",
+            "c": "Multiplier remains constant",
+            "d": "Savings decrease"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the condition for equilibrium in a two-sector model?",
+        "options": {
+            "a": "Savings > Investments",
+            "b": "Savings = Investments",
+            "c": "Aggregate Demand < Aggregate Supply",
+            "d": "Government expenditure > Consumption"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a leakage in the context of the circular flow of income?",
+        "options": {
+            "a": "An injection into the economy",
+            "b": "Income that is not spent on domestic goods and services",
+            "c": "A deficit in the balance of payments",
+            "d": "Increase in Aggregate Demand"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"injection\" mean in the circular flow model?",
+        "options": {
+            "a": "Money flowing out of the economy",
+            "b": "Addition to the economy through investments, government spending, or exports",
+            "c": "Decrease in Aggregate Supply",
+            "d": "Savings by households"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the paradox of thrift?",
+        "options": {
+            "a": "Increased savings leads to higher investment",
+            "b": "Increased savings reduces Aggregate Demand and income",
+            "c": "Savings always lead to higher economic growth",
+            "d": "Savings have no impact on income levels"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by disposable income?",
+        "options": {
+            "a": "Income after taxes and government transfers",
+            "b": "Total national income",
+            "c": "Income before taxes",
+            "d": "Income excluding wages"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a component of Aggregate Expenditure?",
+        "options": {
+            "a": "Investment",
+            "b": "Savings",
+            "c": "Government spending",
+            "d": "Net exports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an inflationary gap?",
+        "options": {
+            "a": "When Aggregate Demand is greater than Aggregate Supply at full employment",
+            "b": "When Aggregate Demand is less than Aggregate Supply",
+            "c": "When exports exceed imports",
+            "d": "When national income falls below savings"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes cyclical unemployment?",
+        "options": {
+            "a": "Lack of skills among workers",
+            "b": "Economic downturn reducing Aggregate Demand",
+            "c": "Seasonal nature of some jobs",
+            "d": "Changes in industry technology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following would reduce involuntary unemployment?",
+        "options": {
+            "a": "Increase in Aggregate Demand",
+            "b": "Decrease in investment",
+            "c": "Increase in savings",
+            "d": "Decrease in exports"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the Keynesian model, what drives the economy toward equilibrium?",
+        "options": {
+            "a": "Market forces of demand and supply",
+            "b": "Government regulation",
+            "c": "Interaction between Aggregate Demand and Aggregate Supply",
+            "d": "International trade policies"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does \"sticky wages\" mean in macroeconomics?",
+        "options": {
+            "a": "Wages that increase quickly with inflation",
+            "b": "Wages that do not adjust quickly to changes in economic conditions",
+            "c": "Wages that rise automatically with economic growth",
+            "d": "Wages that are not subject to taxation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these policies can increase employment in an economy?",
+        "options": {
+            "a": "Increasing direct taxes",
+            "b": "Reducing government expenditure",
+            "c": "Expansionary fiscal policy",
+            "d": "Contractionary monetary policy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary concern of the Keynesian theory of employment?",
+        "options": {
+            "a": "Demand deficiency leading to unemployment",
+            "b": "Overproduction of goods",
+            "c": "High savings rates",
+            "d": "International trade imbalances"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between investment and Aggregate Demand?",
+        "options": {
+            "a": "Direct; as investment increases, Aggregate Demand increases",
+            "b": "Inverse; as investment increases, Aggregate Demand decreases",
+            "c": "No relation between the two",
+            "d": "Aggregate Demand only affects consumption"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a government budget?",
+        "options": {
+            "a": "A summary of the government's monetary policies",
+            "b": "A statement of the government\u2019s expected revenue and expenditure for a fiscal year",
+            "c": "A plan for controlling inflation",
+            "d": "A report on international trade activities"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a component of a government budget?",
+        "options": {
+            "a": "Revenue receipts",
+            "b": "Capital receipts",
+            "c": "Public sector borrowing",
+            "d": "Foreign exchange reserves"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What are revenue receipts?",
+        "options": {
+            "a": "Income from borrowings",
+            "b": "Receipts that do not create liabilities or reduce assets",
+            "c": "Funds received from selling government assets",
+            "d": "Income from government bonds"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the difference between revenue receipts and capital receipts?",
+        "options": {
+            "a": "Revenue receipts are loans, while capital receipts are taxes",
+            "b": "Revenue receipts are recurring, while capital receipts involve asset or liability changes",
+            "c": "Revenue receipts create liabilities, while capital receipts do not",
+            "d": "Capital receipts include wages and salaries, while revenue receipts do not"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is an example of a revenue receipt?",
+        "options": {
+            "a": "Borrowings from the public",
+            "b": "Taxes collected by the government",
+            "c": "Proceeds from disinvestment",
+            "d": "Loans from international organizations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by capital expenditure?",
+        "options": {
+            "a": "Expenditure that creates assets or reduces liabilities",
+            "b": "Expenditure on recurring government operations",
+            "c": "Expenditure on foreign aid",
+            "d": "Expenditure on employee salaries"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an example of revenue expenditure?",
+        "options": {
+            "a": "Building a new highway",
+            "b": "Repayment of loans",
+            "c": "Salaries of government employees",
+            "d": "Purchasing defense equipment"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a fiscal deficit?",
+        "options": {
+            "a": "The difference between total revenue receipts and total expenditure",
+            "b": "The difference between revenue receipts and revenue expenditure",
+            "c": "The shortfall in tax collection compared to government spending",
+            "d": "The total borrowings needed to meet expenditure"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which of these does NOT directly contribute to fiscal deficit?",
+        "options": {
+            "a": "Government borrowings",
+            "b": "Revenue deficit",
+            "c": "Capital expenditure",
+            "d": "Public sector profits"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the primary purpose of a government budget?",
+        "options": {
+            "a": "To calculate national income",
+            "b": "To allocate resources and achieve economic stability",
+            "c": "To increase foreign investment",
+            "d": "To monitor private sector profits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by a primary deficit?",
+        "options": {
+            "a": "The fiscal deficit minus interest payments on past borrowings",
+            "b": "Total borrowings by the government",
+            "c": "The shortfall in tax revenue",
+            "d": "The difference between revenue and capital expenditure"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are \"tax receipts\" in the context of government revenue?",
+        "options": {
+            "a": "Income from public sector enterprises",
+            "b": "Borrowings from the public",
+            "c": "Compulsory payments made by citizens and businesses to the government",
+            "d": "Donations to the government"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a balanced budget?",
+        "options": {
+            "a": "A budget where revenue equals expenditure",
+            "b": "A budget with no taxes",
+            "c": "A budget with equal fiscal and primary deficits",
+            "d": "A budget that focuses on foreign investments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"disinvestment\" mean?",
+        "options": {
+            "a": "Reduction in public sector employment",
+            "b": "Sale of government-owned assets to private entities",
+            "c": "Cutting down fiscal deficit",
+            "d": "Reducing national savings"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a surplus budget?",
+        "options": {
+            "a": "When government revenue exceeds expenditure",
+            "b": "When government expenditure exceeds revenue",
+            "c": "When tax rates are high",
+            "d": "When the fiscal deficit equals zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by deficit financing?",
+        "options": {
+            "a": "Borrowing to cover government deficits",
+            "b": "Raising taxes to finance deficits",
+            "c": "Balancing government expenditure with revenue",
+            "d": "Using foreign reserves to pay debts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an objective of a government budget?",
+        "options": {
+            "a": "Achieving equitable distribution of income",
+            "b": "Promoting monopolies in industries",
+            "c": "Increasing the primary deficit",
+            "d": "Reducing government revenue"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these is a direct tax?",
+        "options": {
+            "a": "Sales tax",
+            "b": "Corporate income tax",
+            "c": "Value-added tax",
+            "d": "Customs duty"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an indirect tax?",
+        "options": {
+            "a": "Wealth tax",
+            "b": "Income tax",
+            "c": "Goods and Services Tax (GST)",
+            "d": "Corporate tax"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does \"public debt\" refer to?",
+        "options": {
+            "a": "The total borrowings of the government from internal and external sources",
+            "b": "The amount of money owed by private businesses",
+            "c": "The loans taken by citizens from banks",
+            "d": "The fiscal surplus in the economy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Revenue Deficit?",
+        "options": {
+            "a": "Total expenditure minus total revenue",
+            "b": "Revenue expenditure minus revenue receipts",
+            "c": "The difference between fiscal deficit and primary deficit",
+            "d": "Capital receipts minus capital expenditure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the capital budget include?",
+        "options": {
+            "a": "Revenue receipts and revenue expenditure",
+            "b": "Borrowings, loans, and expenditures on asset creation",
+            "c": "Tax revenue and government salaries",
+            "d": "Profits from public sector enterprises"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is an example of capital receipt?",
+        "options": {
+            "a": "Income tax",
+            "b": "Borrowing from foreign countries",
+            "c": "Salaries paid to government employees",
+            "d": "Customs duty"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a progressive tax system mean?",
+        "options": {
+            "a": "Tax rate decreases as income increases",
+            "b": "Tax rate increases as income increases",
+            "c": "Tax rate is constant regardless of income",
+            "d": "Tax is applied only on corporate profits"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a regressive tax system?",
+        "options": {
+            "a": "Higher income earners pay a lower percentage of their income in tax",
+            "b": "All income earners pay the same percentage of income in tax",
+            "c": "Lower income earners are exempt from taxes",
+            "d": "Tax rate increases with income"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Goods and Services Tax (GST)?",
+        "options": {
+            "a": "A direct tax levied on income",
+            "b": "A unified indirect tax replacing multiple taxes",
+            "c": "A tax on exports only",
+            "d": "A corporate profit tax"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary source of revenue for the government?",
+        "options": {
+            "a": "Borrowings",
+            "b": "Taxation",
+            "c": "Sale of public assets",
+            "d": "Foreign aid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is zero-based budgeting?",
+        "options": {
+            "a": "Budgeting where all expenses must be justified for each new period",
+            "b": "Budgeting with no fiscal deficit",
+            "c": "Budgeting focused only on capital expenditure",
+            "d": "Budgeting limited to tax receipts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when the government reduces indirect taxes?",
+        "options": {
+            "a": "Prices of goods and services decrease",
+            "b": "Savings in the economy increase",
+            "c": "Fiscal deficit increases",
+            "d": "Revenue receipts increase"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these is an example of a non-tax revenue?",
+        "options": {
+            "a": "Excise duty",
+            "b": "Sale of government assets",
+            "c": "Customs duty",
+            "d": "Corporate tax"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary role of fiscal policy?",
+        "options": {
+            "a": "Managing inflation and unemployment",
+            "b": "Controlling the money supply",
+            "c": "Regulating exports and imports",
+            "d": "Monitoring international exchange rates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the impact of a fiscal deficit on the economy?",
+        "options": {
+            "a": "It always reduces economic growth",
+            "b": "It can stimulate growth if used for productive investments",
+            "c": "It leads to immediate inflation",
+            "d": "It increases the value of exports"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are transfer payments?",
+        "options": {
+            "a": "Payments made by the government for buying goods",
+            "b": "Payments made by the government without receiving any goods or services in return",
+            "c": "Payments made to repay loans",
+            "d": "Payments for foreign aid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a \"vote on account\"?",
+        "options": {
+            "a": "Approval of government spending for a few months until the full budget is passed",
+            "b": "Approval of tax collection for the fiscal year",
+            "c": "Approval of monetary policy by the Reserve Bank",
+            "d": "Approval of trade policies for the upcoming year"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which organization oversees India's fiscal policies?",
+        "options": {
+            "a": "Reserve Bank of India (RBI)",
+            "b": "Ministry of Finance",
+            "c": "Securities and Exchange Board of India (SEBI)",
+            "d": "Planning Commission"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"public expenditure\" include?",
+        "options": {
+            "a": "Only government employee salaries",
+            "b": "Spending by the government on goods, services, and development projects",
+            "c": "Investments made by private firms",
+            "d": "Expenditure by households on consumption"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by the term \"fiscal responsibility\"?",
+        "options": {
+            "a": "The government's commitment to controlling its fiscal deficit",
+            "b": "The central bank's obligation to maintain currency stability",
+            "c": "The private sector's role in economic development",
+            "d": "The government's ability to print money"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when there is an increase in capital expenditure?",
+        "options": {
+            "a": "Immediate reduction in fiscal deficit",
+            "b": "Creation of long-term assets and infrastructure",
+            "c": "Reduction in public debt",
+            "d": "Increase in indirect tax rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the impact of disinvestment on the government budget?",
+        "options": {
+            "a": "Increases fiscal deficit",
+            "b": "Reduces government liabilities",
+            "c": "Decreases revenue receipts",
+            "d": "Decreases foreign investment"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \"budgetary deficit\" refer to?",
+        "options": {
+            "a": "The total shortfall in government revenue compared to its expenditure",
+            "b": "The total public debt incurred by the government",
+            "c": "The total value of imports exceeding exports",
+            "d": "The reduction in foreign currency reserves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an open economy?",
+        "options": {
+            "a": "An economy that does not trade with other countries",
+            "b": "An economy that engages in international trade",
+            "c": "An economy with no government intervention",
+            "d": "An economy without any fiscal deficit"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the balance of payments (BOP)?",
+        "options": {
+            "a": "A record of all monetary transactions between residents of a country and the rest of the world",
+            "b": "The difference between exports and imports",
+            "c": "The total reserves of foreign currency",
+            "d": "The trade balance of goods only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the current account of the BOP include?",
+        "options": {
+            "a": "Capital flows",
+            "b": "Trade in goods and services, income, and transfers",
+            "c": "Only trade in goods",
+            "d": "Changes in foreign exchange reserves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is included in the capital account of the BOP?",
+        "options": {
+            "a": "Trade in services",
+            "b": "Financial transactions like loans and investments",
+            "c": "Workers' remittances",
+            "d": "Export of goods"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a trade deficit?",
+        "options": {
+            "a": "When exports exceed imports",
+            "b": "When imports exceed exports",
+            "c": "When capital inflows exceed outflows",
+            "d": "When domestic savings exceed investments"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the foreign exchange market?",
+        "options": {
+            "a": "A market for exchanging domestic goods with foreign goods",
+            "b": "A market where currencies are traded",
+            "c": "A market for trading government securities",
+            "d": "A market for borrowing and lending money"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the exchange rate in a flexible exchange rate system?",
+        "options": {
+            "a": "Government policies",
+            "b": "Demand and supply of foreign currency",
+            "c": "Interest rates set by the central bank",
+            "d": "The volume of trade between countries"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a fixed exchange rate system?",
+        "options": {
+            "a": "An exchange rate determined by market forces",
+            "b": "An exchange rate set and maintained by the government",
+            "c": "A system where no foreign exchange transactions occur",
+            "d": "An exchange rate adjusted daily by trade volume"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by depreciation of a currency?",
+        "options": {
+            "a": "Increase in the value of a currency compared to another",
+            "b": "Decrease in the value of a currency compared to another",
+            "c": "A rise in a country\u2019s foreign reserves",
+            "d": "Stabilization of exchange rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when a currency appreciates?",
+        "options": {
+            "a": "Imports become cheaper, and exports become expensive",
+            "b": "Exports become cheaper, and imports become expensive",
+            "c": "Both imports and exports become cheaper",
+            "d": "Both imports and exports become expensive"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is managed floating exchange rate?",
+        "options": {
+            "a": "A completely free market-based exchange rate system",
+            "b": "A fixed exchange rate maintained by the government",
+            "c": "A system where exchange rates are influenced by both market forces and government intervention",
+            "d": "A system without any exchange rate changes"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary component of foreign exchange reserves?",
+        "options": {
+            "a": "Domestic currency",
+            "b": "Gold and foreign currencies",
+            "c": "Loans from international organizations",
+            "d": "Trade surplus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by a current account surplus?",
+        "options": {
+            "a": "Exports exceed imports and net inflows of income and transfers",
+            "b": "Imports exceed exports",
+            "c": "Total foreign exchange reserves exceed liabilities",
+            "d": "Government expenditure exceeds revenue"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"capital inflow\" mean?",
+        "options": {
+            "a": "Outflow of domestic currency to foreign countries",
+            "b": "Inflow of foreign investments and loans into the domestic economy",
+            "c": "Sale of domestic goods to foreign countries",
+            "d": "The amount of foreign aid received"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is \"capital flight\"?",
+        "options": {
+            "a": "Rapid outflow of capital from a country due to economic instability",
+            "b": "Foreign investments into the country",
+            "c": "Loans taken by domestic companies",
+            "d": "Trade surplus with another country"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is devaluation of a currency?",
+        "options": {
+            "a": "A deliberate reduction in the value of a currency by the government",
+            "b": "An increase in the value of a currency",
+            "c": "A decrease in trade deficit",
+            "d": "A sudden rise in foreign direct investment"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is meant by terms of trade?",
+        "options": {
+            "a": "Ratio of import prices to export prices",
+            "b": "Ratio of export prices to import prices",
+            "c": "The difference between imports and exports",
+            "d": "The total trade volume of a country"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a \"favorable balance of trade\"?",
+        "options": {
+            "a": "When exports exceed imports",
+            "b": "When imports exceed exports",
+            "c": "When the capital account is balanced",
+            "d": "When foreign exchange reserves increase"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the International Monetary Fund (IMF)?",
+        "options": {
+            "a": "To regulate trade between nations",
+            "b": "To provide financial assistance to countries facing balance of payments problems",
+            "c": "To create trade barriers",
+            "d": "To fix exchange rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the \"balance of payments crisis\"?",
+        "options": {
+            "a": "When a country\u2019s exports exceed its imports significantly",
+            "b": "When a country cannot meet its international payment obligations",
+            "c": "When a country receives excessive foreign investments",
+            "d": "When a country\u2019s GDP grows too quickly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a trade balance?",
+        "options": {
+            "a": "The difference between exports and imports of goods only",
+            "b": "The total of exports and imports of goods and services",
+            "c": "The net inflow of foreign capital",
+            "d": "The reserves held by the central bank"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is \"invisible trade\"?",
+        "options": {
+            "a": "Trade in goods that are not physically transported",
+            "b": "Trade in services, income, and transfers",
+            "c": "Trade that is not officially recorded",
+            "d": "Illegal trade activities"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by \"foreign direct investment\" (FDI)?",
+        "options": {
+            "a": "Investments in foreign stocks",
+            "b": "Investments made by individuals abroad",
+            "c": "Investments by foreign entities in a domestic country\u2019s productive assets",
+            "d": "Loans taken from international banks"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT part of the current account?",
+        "options": {
+            "a": "Export of goods",
+            "b": "Import of services",
+            "c": "Income from foreign investments",
+            "d": "Foreign direct investments"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is \"remittance\"?",
+        "options": {
+            "a": "Money sent by citizens working abroad to their home country",
+            "b": "Loans taken from international banks",
+            "c": "Tax revenues collected by the government",
+            "d": "Profits earned by foreign companies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"external debt\" refer to?",
+        "options": {
+            "a": "Loans taken by domestic residents",
+            "b": "Borrowings by a country from foreign sources",
+            "c": "Government expenditure on imports",
+            "d": "Surplus trade balance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"exchange rate regime\" refer to?",
+        "options": {
+            "a": "Policies governing tax collection",
+            "b": "The method a country uses to manage its currency in relation to other currencies",
+            "c": "The total reserves of foreign currency",
+            "d": "The system used for import duties"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a pegged exchange rate?",
+        "options": {
+            "a": "An exchange rate set by supply and demand",
+            "b": "An exchange rate fixed to the value of another currency or basket of currencies",
+            "c": "An exchange rate that fluctuates frequently",
+            "d": "An exchange rate determined by international organizations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"current account convertibility\" mean?",
+        "options": {
+            "a": "Freedom to convert currency for international trade in goods and services",
+            "b": "Freedom to convert currency for capital investments",
+            "c": "Restriction on currency conversion for foreign trade",
+            "d": "Mandatory exchange rate approval from the central bank"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"capital account convertibility\" mean?",
+        "options": {
+            "a": "Restriction on currency exchange for financial transactions",
+            "b": "Freedom to convert currency for investment and borrowing purposes",
+            "c": "The ability to trade freely in international markets",
+            "d": "Regulation of international remittances"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"balance of trade\" measure?",
+        "options": {
+            "a": "Only the trade of services",
+            "b": "The difference between the value of exports and imports of goods",
+            "c": "All international financial transactions",
+            "d": "Foreign investments in the domestic economy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between interest rates and capital flows?",
+        "options": {
+            "a": "Higher interest rates attract foreign capital inflows",
+            "b": "Higher interest rates reduce foreign capital inflows",
+            "c": "Interest rates do not impact capital flows",
+            "d": "Capital flows are only influenced by exchange rates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when a country\u2019s currency is overvalued?",
+        "options": {
+            "a": "Exports become cheaper, and imports become expensive",
+            "b": "Exports become expensive, and imports become cheaper",
+            "c": "Both exports and imports become expensive",
+            "d": "Exports and imports remain unaffected"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is meant by the term \"globalization\"?",
+        "options": {
+            "a": "Restricting international trade",
+            "b": "Increasing integration of economies through trade, investment, and finance",
+            "c": "Prioritizing domestic production over international trade",
+            "d": "Imposing tariffs on imported goods"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is \"foreign portfolio investment\" (FPI)?",
+        "options": {
+            "a": "Direct ownership of companies in a foreign country",
+            "b": "Investment in foreign stocks, bonds, or other financial instruments",
+            "c": "Loans provided to foreign governments",
+            "d": "Investments restricted to government securities"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of the World Trade Organization (WTO)?",
+        "options": {
+            "a": "To regulate global financial transactions",
+            "b": "To promote free trade and settle trade disputes between countries",
+            "c": "To provide loans to developing countries",
+            "d": "To fix global exchange rates"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does a negative balance in the current account indicate?",
+        "options": {
+            "a": "A country is exporting more than it is importing",
+            "b": "A country is importing more than it is exporting",
+            "c": "A country has no international trade",
+            "d": "A country is experiencing rapid economic growth"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when a country imposes tariffs on imports?",
+        "options": {
+            "a": "Imports become cheaper",
+            "b": "Imports become more expensive",
+            "c": "Exports increase",
+            "d": "Exports decrease"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main objective of foreign exchange management?",
+        "options": {
+            "a": "Stabilizing the value of the domestic currency",
+            "b": "Increasing domestic borrowing",
+            "c": "Reducing exports to control trade surplus",
+            "d": "Managing fiscal deficits"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of a depreciation in currency value under a floating exchange rate system?",
+        "options": {
+            "a": "Excess demand for foreign currency",
+            "b": "Government intervention in the currency market",
+            "c": "Surplus in the trade balance",
+            "d": "Decrease in international trade"
+        },
+        "answer": "a"
+    }
+]

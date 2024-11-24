@@ -1,0 +1,2402 @@
+[
+    {
+        "question": "What material was commonly used to make Harappan seals?",
+        "options": {
+            "a": "Bronze",
+            "b": "Steatite",
+            "c": "Gold",
+            "d": "Iron"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The Harappan civilization is dated between which years?",
+        "options": {
+            "a": "1500\u20131000 BCE",
+            "b": "2600\u20131900 BCE",
+            "c": "3000\u20132000 BCE",
+            "d": "2000\u20131500 BCE"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the alternative name for the Indus Valley Civilisation?",
+        "options": {
+            "a": "Aryan Civilisation",
+            "b": "Mesopotamian Civilisation",
+            "c": "Harappan Culture",
+            "d": "Vedic Civilisation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these is a Mature Harappan site?",
+        "options": {
+            "a": "Amri",
+            "b": "Kalibangan",
+            "c": "Mohenjodaro",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What significant feature was found at Kalibangan indicating agricultural practices?",
+        "options": {
+            "a": "Irrigation canals",
+            "b": "Ploughed fields",
+            "c": "Granaries",
+            "d": "Terracotta seals"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which plant products were part of the Harappan diet?",
+        "options": {
+            "a": "Wheat, barley, and lentils",
+            "b": "Maize and potatoes",
+            "c": "Rice and bananas",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the layout of Mohenjodaro signify about Harappan urban planning?",
+        "options": {
+            "a": "Houses built randomly",
+            "b": "Grid-pattern streets with drainage systems",
+            "c": "Use of temporary shelters",
+            "d": "Fortified palaces in all areas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Harappan site is associated with evidence of reservoirs?",
+        "options": {
+            "a": "Dholavira",
+            "b": "Lothal",
+            "c": "Harappa",
+            "d": "Rakhigarhi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Harappan site served as a craft production center for beads and seals?",
+        "options": {
+            "a": "Mohenjodaro",
+            "b": "Chanhudaro",
+            "c": "Lothal",
+            "d": "Dholavira"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What were Harappan weights primarily made of?",
+        "options": {
+            "a": "Gold",
+            "b": "Copper",
+            "c": "Chert",
+            "d": "Limestone"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What kind of burial practices were followed in Harappan society?",
+        "options": {
+            "a": "Cremation only",
+            "b": "Burial with pottery and ornaments",
+            "c": "Sky burials",
+            "d": "Burial of animals only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term \u201cfaience\u201d refer to in Harappan crafts?",
+        "options": {
+            "a": "A type of stone",
+            "b": "A glazed material made from powdered quartz",
+            "c": "A type of copper tool",
+            "d": "A terracotta figurine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The Great Bath found in Mohenjodaro is associated with:",
+        "options": {
+            "a": "Administrative activities",
+            "b": "Ritual bathing",
+            "c": "Storage of water for agriculture",
+            "d": "Manufacturing crafts"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which animal is commonly found on Harappan seals?",
+        "options": {
+            "a": "Elephant",
+            "b": "Unicorn",
+            "c": "Horse",
+            "d": "Dog"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which method did Harappans use for long-distance communication of goods?",
+        "options": {
+            "a": "Written records",
+            "b": "Sealings on bags of goods",
+            "c": "Oral messages",
+            "d": "Trade coins"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the purpose of Harappan weights?",
+        "options": {
+            "a": "Measurement of food produce",
+            "b": "Regulation of trade and exchanges",
+            "c": "Religious offerings",
+            "d": "Metal recycling"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which modern country contains the Harappan site of Mohenjodaro?",
+        "options": {
+            "a": "India",
+            "b": "Pakistan",
+            "c": "Afghanistan",
+            "d": "Bangladesh"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What kind of bricks were used by the Harappans?",
+        "options": {
+            "a": "Sun-dried only",
+            "b": "Baked bricks of uniform size",
+            "c": "Irregularly shaped mud bricks",
+            "d": "Stone bricks"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What kind of scripts did Harappans use?",
+        "options": {
+            "a": "Alphabetical",
+            "b": "Pictographic and undeciphered",
+            "c": "Brahmi",
+            "d": "Hieroglyphs"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which Harappan artifact suggests trade links with Mesopotamia?",
+        "options": {
+            "a": "Lapis lazuli",
+            "b": "Cotton textiles",
+            "c": "Steatite seals",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What evidence suggests that Harappans practiced trade with Mesopotamia?",
+        "options": {
+            "a": "Discovery of Mesopotamian seals in Harappa",
+            "b": "References to Meluhha in Mesopotamian texts",
+            "c": "Harappan artifacts like beads found in Mesopotamia",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which Harappan site is known for evidence of dockyards?",
+        "options": {
+            "a": "Lothal",
+            "b": "Mohenjodaro",
+            "c": "Kalibangan",
+            "d": "Harappa"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \u201ccitadel\u201d in Harappan cities refer to?",
+        "options": {
+            "a": "Residential area for the elite",
+            "b": "A raised area for public buildings and fortifications",
+            "c": "A granary storage location",
+            "d": "A trade market"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following was NOT a feature of Harappan urban planning?",
+        "options": {
+            "a": "Granaries for surplus storage",
+            "b": "Wide streets in a grid layout",
+            "c": "Use of fire altars in every house",
+            "d": "Sophisticated drainage systems"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which Harappan site is located in Gujarat?",
+        "options": {
+            "a": "Lothal",
+            "b": "Kalibangan",
+            "c": "Chanhudaro",
+            "d": "Mohenjodaro"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of agricultural techniques did Harappans use?",
+        "options": {
+            "a": "Plough-based farming",
+            "b": "Shifting cultivation",
+            "c": "Extensive irrigation canals",
+            "d": "Rain-fed only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of granaries in Harappan cities?",
+        "options": {
+            "a": "Storage of surplus grain for trade and emergencies",
+            "b": "Housing the elite",
+            "c": "Conducting religious ceremonies",
+            "d": "Operating as military outposts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the presence of beads and ornaments in Harappan graves indicate?",
+        "options": {
+            "a": "Trade connections with foreign civilizations",
+            "b": "Socio-economic hierarchy in burials",
+            "c": "Worship of the dead",
+            "d": "Absence of a structured society"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The undeciphered Harappan script consists of how many signs approximately?",
+        "options": {
+            "a": "50\u2013100",
+            "b": "350\u2013400",
+            "c": "700\u2013800",
+            "d": "Over 1000"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these metals was NOT used by the Harappans?",
+        "options": {
+            "a": "Copper",
+            "b": "Bronze",
+            "c": "Iron",
+            "d": "Gold"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is significant about Rakhigarhi as a Harappan site?",
+        "options": {
+            "a": "It is one of the largest Harappan settlements discovered.",
+            "b": "It served as a trade hub for spices.",
+            "c": "It was exclusively a burial site.",
+            "d": "It shows evidence of horse domestication."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the evidence of dockyards at Lothal suggest?",
+        "options": {
+            "a": "Harappans engaged in maritime trade.",
+            "b": "They specialized in fishing activities.",
+            "c": "They avoided inland trade.",
+            "d": "They depended on Mesopotamian ships for trade."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were Harappan terracotta figurines typically used for?",
+        "options": {
+            "a": "Toys, religious symbols, or artistic purposes",
+            "b": "Currency for trade",
+            "c": "Ritual sacrifices",
+            "d": "Indicators of caste status"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of stone was commonly used for making beads in Harappan culture?",
+        "options": {
+            "a": "Carnelian",
+            "b": "Lapis lazuli",
+            "c": "Jasper",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What does the absence of large palaces in Harappan cities suggest?",
+        "options": {
+            "a": "A society without a centralized monarchy",
+            "b": "Poor architectural skills",
+            "c": "Emphasis on religious over royal authority",
+            "d": "Frequent invasions by external forces"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"Meluhha\" refer to in Mesopotamian texts?",
+        "options": {
+            "a": "A region believed to be associated with the Indus Valley",
+            "b": "A Mesopotamian god",
+            "c": "A trading port in Sumer",
+            "d": "A type of Harappan grain"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What kind of pottery was typical in Harappan culture?",
+        "options": {
+            "a": "Black-on-red ware",
+            "b": "Polished white ware",
+            "c": "Glazed blue ware",
+            "d": "Engraved silver ware"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What unique feature was found in Harappan drainage systems?",
+        "options": {
+            "a": "Covered drains with inspection holes",
+            "b": "Open canals lined with stones",
+            "c": "No central drainage system",
+            "d": "Natural waterways without modifications"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which modern state in India has the largest number of Harappan sites?",
+        "options": {
+            "a": "Gujarat",
+            "b": "Rajasthan",
+            "c": "Haryana",
+            "d": "Punjab"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is significant about the granaries found in Harappa and Mohenjodaro?",
+        "options": {
+            "a": "They indicate organized food storage systems.",
+            "b": "They were used for religious rituals.",
+            "c": "They were fortresses for defense.",
+            "d": "They housed the Harappan elite."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary purpose of seals in Harappan society?",
+        "options": {
+            "a": "Marking ownership and authenticating trade goods",
+            "b": "Symbolizing religious deities",
+            "c": "Serving as currency",
+            "d": "Representing royal authority"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which animal is notably absent in Harappan archaeological records?",
+        "options": {
+            "a": "Elephant",
+            "b": "Horse",
+            "c": "Bull",
+            "d": "Tiger"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was unique about the Harappan system of weights?",
+        "options": {
+            "a": "It was standardized.",
+            "b": "It was made of iron.",
+            "c": "It was inscribed with numbers.",
+            "d": "It varied by city."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What caused the decline of the Harappan Civilization?",
+        "options": {
+            "a": "Environmental changes and decline in trade",
+            "b": "Aryan invasions exclusively",
+            "c": "Overpopulation",
+            "d": "Epidemic diseases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which site provides evidence of fire altars in Harappan culture?",
+        "options": {
+            "a": "Kalibangan",
+            "b": "Mohenjodaro",
+            "c": "Harappa",
+            "d": "Chanhudaro"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What suggests that Harappans used water transportation?",
+        "options": {
+            "a": "Dockyards and riverine trade evidence",
+            "b": "Sculptures of boats",
+            "c": "Written records in Mesopotamian texts",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What kind of ornaments were commonly worn by Harappans?",
+        "options": {
+            "a": "Beads, bangles, and necklaces",
+            "b": "Heavy gold chains",
+            "c": "Silver crowns",
+            "d": "Ivory bracelets"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the uniformity in Harappan city planning?",
+        "options": {
+            "a": "It indicates a centralized authority.",
+            "b": "It reflects technological backwardness.",
+            "c": "It shows the influence of Mesopotamian architecture.",
+            "d": "It allowed for religious unity."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What raw material was imported by Harappans from Afghanistan?",
+        "options": {
+            "a": "Lapis lazuli",
+            "b": "Carnelian",
+            "c": "Copper",
+            "d": "Gold"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What evidence shows Harappans had knowledge of weights and measures?",
+        "options": {
+            "a": "Discovery of chert cubes",
+            "b": "Written manuals",
+            "c": "Standardized bricks",
+            "d": "Use of scales"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Harappan site is in Haryana?",
+        "options": {
+            "a": "Rakhigarhi",
+            "b": "Kalibangan",
+            "c": "Dholavira",
+            "d": "Lothal"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the lack of monumental architecture in Harappa suggest?",
+        "options": {
+            "a": "A lack of centralized religious authority",
+            "b": "Absence of large-scale royal constructions",
+            "c": "Both A and B",
+            "d": "Neither A nor B"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What were Harappan figurines primarily made of?",
+        "options": {
+            "a": "Terracotta",
+            "b": "Bronze",
+            "c": "Stone",
+            "d": "Ivory"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What technique was used in Harappan bead-making?",
+        "options": {
+            "a": "Drilling through hard stones",
+            "b": "Casting in molds",
+            "c": "Painting on stones",
+            "d": "Weaving threads"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is NOT a Harappan craft?",
+        "options": {
+            "a": "Stone bead-making",
+            "b": "Metalwork with iron",
+            "c": "Terracotta pottery",
+            "d": "Cotton weaving"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What indicates that Harappans engaged in maritime trade?",
+        "options": {
+            "a": "Dockyards in Lothal",
+            "b": "Discovery of Mesopotamian seals",
+            "c": "Boats depicted on seals",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What was the largest Harappan site by area?",
+        "options": {
+            "a": "Rakhigarhi",
+            "b": "Mohenjodaro",
+            "c": "Dholavira",
+            "d": "Harappa"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were Harappan homes typically constructed with?",
+        "options": {
+            "a": "Baked bricks",
+            "b": "Stone blocks",
+            "c": "Wooden planks",
+            "d": "Adobe mud"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Harappan site is associated with bead-making?",
+        "options": {
+            "a": "Chanhudaro",
+            "b": "Harappa",
+            "c": "Rakhigarhi",
+            "d": "Lothal"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the function of Harappan seals?",
+        "options": {
+            "a": "Identification and authentication of goods",
+            "b": "Ritual offerings",
+            "c": "Symbols of kingly authority",
+            "d": "Religious scripts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main source of historical information on the Mauryan Empire?",
+        "options": {
+            "a": "Arthashastra",
+            "b": "Manusmriti",
+            "c": "Rigveda",
+            "d": "Mahabharata"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mauryan ruler is known for his extensive use of inscriptions?",
+        "options": {
+            "a": "Chandragupta Maurya",
+            "b": "Ashoka",
+            "c": "Bindusara",
+            "d": "Brihadratha"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which script was used in Ashokan inscriptions?",
+        "options": {
+            "a": "Brahmi and Kharosthi",
+            "b": "Devanagari and Pali",
+            "c": "Tamil and Brahmi",
+            "d": "Persian and Sanskrit"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \u201cdhamma\u201d in Ashokan edicts refer to?",
+        "options": {
+            "a": "Religious tolerance and ethical conduct",
+            "b": "Military strategies",
+            "c": "Rules for trade",
+            "d": "Judicial laws"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the capital of the Mauryan Empire?",
+        "options": {
+            "a": "Pataliputra",
+            "b": "Taxila",
+            "c": "Ujjain",
+            "d": "Kalinga"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who authored the Arthashastra?",
+        "options": {
+            "a": "Kautilya (Chanakya)",
+            "b": "Ashvaghosha",
+            "c": "Kalidasa",
+            "d": "Vishnu Sharma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term used for guilds in ancient India?",
+        "options": {
+            "a": "Shrenis",
+            "b": "Janapadas",
+            "c": "Sanghas",
+            "d": "Varnas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of the Prashastis in ancient India?",
+        "options": {
+            "a": "They were inscriptions that praised rulers and their deeds.",
+            "b": "They were trade agreements.",
+            "c": "They were agricultural manuals.",
+            "d": "They documented religious practices."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which dynasty ruled Magadha after the Mauryans?",
+        "options": {
+            "a": "Shungas",
+            "b": "Satavahanas",
+            "c": "Guptas",
+            "d": "Cholas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main source of information about land grants in ancient India?",
+        "options": {
+            "a": "Copper plate inscriptions",
+            "b": "Coins",
+            "c": "Manusmriti",
+            "d": "Temples"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main purpose of Ashokan inscriptions?",
+        "options": {
+            "a": "To propagate dhamma and ethical governance",
+            "b": "To record trade agreements",
+            "c": "To declare wars",
+            "d": "To describe religious rituals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"janapadas\" in ancient India?",
+        "options": {
+            "a": "Early political and territorial units",
+            "b": "Temples dedicated to specific gods",
+            "c": "A type of tax system",
+            "d": "Cities of the Indus Valley Civilization"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these texts is a Buddhist chronicle of Sri Lanka?",
+        "options": {
+            "a": "Dipavamsa",
+            "b": "Arthashastra",
+            "c": "Manusmriti",
+            "d": "Mahabharata"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the most significant battle of Ashoka\u2019s reign?",
+        "options": {
+            "a": "The Kalinga War",
+            "b": "Battle of Hydaspes",
+            "c": "Battle of Kurukshetra",
+            "d": "Battle of Taxila"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which empire is known for the earliest extensive use of stone in architecture and inscriptions?",
+        "options": {
+            "a": "Mauryan Empire",
+            "b": "Gupta Empire",
+            "c": "Kushana Empire",
+            "d": "Satavahana Empire"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What material was used for coinage during the Mauryan period?",
+        "options": {
+            "a": "Punch-marked silver coins",
+            "b": "Gold coins with inscriptions",
+            "c": "Copper alloy coins",
+            "d": "Terracotta tokens"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of \"grama bhojaka\" in villages?",
+        "options": {
+            "a": "Headman responsible for revenue collection and administration",
+            "b": "A merchant managing trade routes",
+            "c": "A priest conducting religious ceremonies",
+            "d": "A warrior defending the village"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What kind of taxation system did the Mauryan Empire implement?",
+        "options": {
+            "a": "Revenue collected from agricultural surplus and trade",
+            "b": "Fixed annual tax only",
+            "c": "Custom duties on foreign goods exclusively",
+            "d": "No taxation; it relied on tributes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were the Satavahanas known for?",
+        "options": {
+            "a": "Maritime trade and land grants to Brahmanas",
+            "b": "Monumental architecture in stone",
+            "c": "Warfare with the Mughals",
+            "d": "Expansion into Southeast Asia"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mauryan ruler is believed to have expanded the empire to its greatest extent?",
+        "options": {
+            "a": "Chandragupta Maurya",
+            "b": "Ashoka",
+            "c": "Bindusara",
+            "d": "Brihadratha"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary source of revenue in ancient India?",
+        "options": {
+            "a": "Land revenue from agriculture",
+            "b": "Taxes on trade goods",
+            "c": "Mining royalties",
+            "d": "Tax on religious practices"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following cities was an important trade center during the Mauryan period?",
+        "options": {
+            "a": "Taxila",
+            "b": "Lothal",
+            "c": "Kalibangan",
+            "d": "Dholavira"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were \"grihapatis\" in ancient India?",
+        "options": {
+            "a": "Independent farmers owning land",
+            "b": "Servants working for zamindars",
+            "c": "Local warriors",
+            "d": "Tax collectors for the empire"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the language used in most Ashokan inscriptions?",
+        "options": {
+            "a": "Prakrit",
+            "b": "Sanskrit",
+            "c": "Tamil",
+            "d": "Pali"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Hathigumpha inscription?",
+        "options": {
+            "a": "It records the achievements of Kharavela, a ruler of Kalinga.",
+            "b": "It discusses Ashoka\u2019s conquests.",
+            "c": "It is an early example of the Gupta script.",
+            "d": "It marks the end of the Mauryan Empire."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"sreni\" refer to in ancient India?",
+        "options": {
+            "a": "Guilds of merchants and craftsmen",
+            "b": "Forts and administrative centers",
+            "c": "Religious monasteries",
+            "d": "Taxation systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the function of \"upanayana\" in Vedic society?",
+        "options": {
+            "a": "Initiation into the educational system",
+            "b": "Marriage rituals",
+            "c": "Religious sacrifices",
+            "d": "Tax collection ceremonies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ruler erected the Lion Capital, now the national emblem of India?",
+        "options": {
+            "a": "Ashoka",
+            "b": "Chandragupta Maurya",
+            "c": "Samudragupta",
+            "d": "Harshavardhana"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ancient Indian text refers to the ideal king as \"Chakravartin\"?",
+        "options": {
+            "a": "Arthashastra",
+            "b": "Mahabharata",
+            "c": "Manusmriti",
+            "d": "Ramayana"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main objective of the Mauryan spies as described in Arthashastra?",
+        "options": {
+            "a": "Gathering intelligence for efficient governance",
+            "b": "Religious propagation",
+            "c": "Military recruitment",
+            "d": "Trade negotiations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main focus of Ashoka\u2019s dhamma policy?",
+        "options": {
+            "a": "Promotion of ethical living and non-violence",
+            "b": "Aggressive military expansion",
+            "c": "Strengthening caste divisions",
+            "d": "Development of trade routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Indica by Megasthenes?",
+        "options": {
+            "a": "It provides a detailed account of Mauryan administration and society.",
+            "b": "It is a religious text describing Indian rituals.",
+            "c": "It is a chronicle of Gupta achievements.",
+            "d": "It focuses on early Vedic literature."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did Buddhism play during Ashoka\u2019s reign?",
+        "options": {
+            "a": "It became a state-supported religion.",
+            "b": "It replaced all other religions in the empire.",
+            "c": "It led to conflicts with Jainism.",
+            "d": "It was confined to monastic practices."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term refers to self-governing urban settlements in ancient India?",
+        "options": {
+            "a": "Nagara",
+            "b": "Janapada",
+            "c": "Sangha",
+            "d": "Grama"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of \"srenis\" or guilds in ancient India?",
+        "options": {
+            "a": "Regulating trade and protecting the interests of craftsmen and merchants",
+            "b": "Collecting taxes for the king",
+            "c": "Administering villages",
+            "d": "Conducting religious rituals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of \"bhaga\" in Mauryan taxation?",
+        "options": {
+            "a": "A fixed portion of produce collected as revenue",
+            "b": "A tax on goods sold in the market",
+            "c": "A tribute from vassal states",
+            "d": "A levy imposed on religious institutions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main feature of the Kalinga War?",
+        "options": {
+            "a": "Its brutality led Ashoka to embrace non-violence and dhamma.",
+            "b": "It marked the beginning of the decline of the Mauryan Empire.",
+            "c": "It resulted in the annexation of Sri Lanka.",
+            "d": "It was the first recorded naval battle in India."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were the primary centers of urbanization during the Mauryan period?",
+        "options": {
+            "a": "Pataliputra, Taxila, and Ujjain",
+            "b": "Harappa, Mohenjodaro, and Lothal",
+            "c": "Varanasi, Ayodhya, and Hastinapur",
+            "d": "Nalanda, Kanchi, and Amravati"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mauryan structure is considered an early example of rock-cut architecture?",
+        "options": {
+            "a": "Barabar Caves",
+            "b": "Sanchi Stupa",
+            "c": "Lion Capital",
+            "d": "Amaravati Stupa"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary reason for the decline of the Mauryan Empire?",
+        "options": {
+            "a": "Weak successors and decentralization",
+            "b": "Invasion by foreign powers",
+            "c": "Overdependence on Buddhism",
+            "d": "Collapse of the trade system"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"upanayana\" refer to in Vedic society?",
+        "options": {
+            "a": "The initiation of boys into education and learning",
+            "b": "A form of taxation",
+            "c": "A ritual sacrifice",
+            "d": "The transfer of land ownership"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did iron tools play in the expansion of agriculture in ancient India?",
+        "options": {
+            "a": "They allowed for clearing forests and cultivating more land.",
+            "b": "They were primarily used for construction.",
+            "c": "They were employed in trade and crafting.",
+            "d": "They were ceremonial tools for religious use."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"dharma-shastras\" refer to?",
+        "options": {
+            "a": "Texts on ethical and social laws in ancient India",
+            "b": "Military strategies",
+            "c": "Agricultural manuals",
+            "d": "Trade agreements"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ruler was the last of the Mauryan dynasty?",
+        "options": {
+            "a": "Brihadratha",
+            "b": "Bindusara",
+            "c": "Dasharatha",
+            "d": "Ashoka"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text contains details about the duties of a king?",
+        "options": {
+            "a": "Arthashastra",
+            "b": "Rigveda",
+            "c": "Mahabharata",
+            "d": "Jataka tales"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the relationship between the state and agriculture in Mauryan times?",
+        "options": {
+            "a": "The state actively invested in irrigation and land management.",
+            "b": "The state did not interfere in agricultural practices.",
+            "c": "Agriculture was entirely controlled by the guilds.",
+            "d": "Farmers were exempt from taxation."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Mauryan ruler was a follower of Jainism?",
+        "options": {
+            "a": "Chandragupta Maurya",
+            "b": "Ashoka",
+            "c": "Bindusara",
+            "d": "Dasharatha"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following describes the urban centers of the Mauryan period?",
+        "options": {
+            "a": "They were hubs for trade, administration, and cultural activities.",
+            "b": "They were limited to religious functions.",
+            "c": "They were only military garrisons.",
+            "d": "They were self-sustaining without trade."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What were \"nigamas\" in ancient India?",
+        "options": {
+            "a": "Market towns or trade centers",
+            "b": "Religious councils",
+            "c": "Agricultural lands",
+            "d": "Tax-free villages"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the significance of land grants in ancient India?",
+        "options": {
+            "a": "They were used to reward officials and religious institutions.",
+            "b": "They allowed peasants to own land.",
+            "c": "They facilitated the growth of guilds.",
+            "d": "They were exclusively given for trade purposes."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Buddhist structure is located at Sanchi?",
+        "options": {
+            "a": "Stupa",
+            "b": "Vihara",
+            "c": "Chaitya",
+            "d": "Monastery"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"mahajanapadas\" refer to?",
+        "options": {
+            "a": "Large territorial states in ancient India",
+            "b": "Small clans in Vedic society",
+            "c": "Religious sects of Buddhism",
+            "d": "Tax-free trade zones"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were the \u201cAjivikas\u201d?",
+        "options": {
+            "a": "A religious sect that believed in determinism",
+            "b": "A group of Mauryan administrators",
+            "c": "Artisans producing sculptures",
+            "d": "Foreign traders"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary function of the Mauryan army?",
+        "options": {
+            "a": "Protecting the empire\u2019s borders and maintaining internal order",
+            "b": "Overseeing trade routes",
+            "c": "Collecting taxes from farmers",
+            "d": "Supervising religious ceremonies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"jati\" refer to in ancient India?",
+        "options": {
+            "a": "Sub-castes within the varna system",
+            "b": "A village headman",
+            "c": "A type of tax",
+            "d": "A trade guild"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main theme of Ashoka\u2019s Pillar Edicts?",
+        "options": {
+            "a": "Moral teachings and principles of dhamma",
+            "b": "Administrative reforms",
+            "c": "Military conquests",
+            "d": "Economic policies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which trade route connected India to the Mediterranean?",
+        "options": {
+            "a": "The Silk Road",
+            "b": "The Grand Trunk Road",
+            "c": "The Spice Route",
+            "d": "The Amber Road"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Chandragupta Maurya and Seleucus Nicator treaty?",
+        "options": {
+            "a": "It established diplomatic and trade relations.",
+            "b": "It marked the end of Mauryan expansion.",
+            "c": "It converted the Mauryans to Buddhism.",
+            "d": "It led to the decline of Seleucid power in India."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did rivers play in the Mauryan Empire?",
+        "options": {
+            "a": "They were vital for trade, agriculture, and transportation.",
+            "b": "They served only as natural borders.",
+            "c": "They were worshipped but not used for practical purposes.",
+            "d": "They were restricted to irrigation purposes only."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which dynasty succeeded the Mauryas?",
+        "options": {
+            "a": "Shunga dynasty",
+            "b": "Gupta dynasty",
+            "c": "Kushana dynasty",
+            "d": "Satavahana dynasty"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"varna\" in Vedic texts refer to?",
+        "options": {
+            "a": "Social classes",
+            "b": "Tribal affiliations",
+            "c": "Religious rituals",
+            "d": "Military ranks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Vedic text outlines the duties and roles of the four varnas?",
+        "options": {
+            "a": "Manusmriti",
+            "b": "Rigveda",
+            "c": "Arthashastra",
+            "d": "Mahabharata"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the four varnas mentioned in ancient Indian texts?",
+        "options": {
+            "a": "Brahmin, Kshatriya, Vaishya, Shudra",
+            "b": "Raja, Purohita, Vaishya, Dasa",
+            "c": "Brahmin, Shramana, Shudra, Dasa",
+            "d": "Arya, Dasa, Raja, Vaishya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term refers to the detailed rules about kinship and marriage in ancient India?",
+        "options": {
+            "a": "Dharma-shastras",
+            "b": "Vedas",
+            "c": "Jataka tales",
+            "d": "Puranas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"gotra\" signify in ancient Indian kinship systems?",
+        "options": {
+            "a": "Lineage or clan system among Brahmins",
+            "b": "A type of land grant",
+            "c": "A religious sect",
+            "d": "A warrior group"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary role of the Kshatriyas in the varna system?",
+        "options": {
+            "a": "To protect and rule",
+            "b": "To perform religious sacrifices",
+            "c": "To engage in trade",
+            "d": "To serve as laborers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text states that women were prohibited from studying the Vedas?",
+        "options": {
+            "a": "Manusmriti",
+            "b": "Arthashastra",
+            "c": "Mahabharata",
+            "d": "Rigveda"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"jati\" refer to in the Indian caste system?",
+        "options": {
+            "a": "Sub-castes within varna",
+            "b": "Guilds of traders",
+            "c": "Tribes outside the varna system",
+            "d": "Villages under a single administration"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were the \"Dasas\" in early Vedic society?",
+        "options": {
+            "a": "People who did not follow Aryan culture",
+            "b": "Priests responsible for sacrifices",
+            "c": "Tribal leaders",
+            "d": "Merchants involved in trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of the Vaishyas in the varna hierarchy?",
+        "options": {
+            "a": "Engaging in trade, agriculture, and cattle-rearing",
+            "b": "Protecting the kingdom",
+            "c": "Performing religious rituals",
+            "d": "Serving as bonded laborers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of Manusmriti in understanding ancient Indian society?",
+        "options": {
+            "a": "It codified laws governing caste, marriage, and family.",
+            "b": "It provided a guide for trade routes.",
+            "c": "It was a collection of epic stories.",
+            "d": "It focused on military strategies."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of marriage involved a gift of a cow and a bull to the bride\u2019s family?",
+        "options": {
+            "a": "Arsha",
+            "b": "Asura",
+            "c": "Gandharva",
+            "d": "Prajapatya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"endogamy\" mean in the context of ancient Indian kinship?",
+        "options": {
+            "a": "Marriage within one\u2019s own caste or group",
+            "b": "Marriage outside the caste",
+            "c": "Arranged marriages",
+            "d": "Dowry-based marriages"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"exogamy\" signify in the Indian marriage system?",
+        "options": {
+            "a": "Marrying outside one\u2019s gotra or clan",
+            "b": "Marrying within the family",
+            "c": "Marrying within the caste",
+            "d": "Marriage with foreigners"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of marriage was considered most prestigious in the Vedic age?",
+        "options": {
+            "a": "Brahma marriage",
+            "b": "Gandharva marriage",
+            "c": "Asura marriage",
+            "d": "Arsha marriage"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Mahabharata primarily focus on?",
+        "options": {
+            "a": "Kinship ties and conflicts among the Kuru clan",
+            "b": "Trade routes in ancient India",
+            "c": "The rules for governance",
+            "d": "Religious rituals for the Brahmins"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the role of women in early Vedic society?",
+        "options": {
+            "a": "Participation in rituals and household management",
+            "b": "Serving as warriors",
+            "c": "Head of local administration",
+            "d": "Exclusive involvement in trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"patriliny\" refer to?",
+        "options": {
+            "a": "Inheritance through the male line",
+            "b": "Equal inheritance by sons and daughters",
+            "c": "Religious inheritance through priests",
+            "d": "Administration by local tribes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is \"matriliny\"?",
+        "options": {
+            "a": "Inheritance through the female line",
+            "b": "Exclusive trade guilds for women",
+            "c": "Property rights granted only to priests",
+            "d": "Marriage rights for the Vaishya varna"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of \"kula\" in ancient Indian society?",
+        "options": {
+            "a": "It refers to a family unit or lineage group.",
+            "b": "It signifies a type of land grant.",
+            "c": "It describes the caste of warriors.",
+            "d": "It was the administrative head of a village."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text contains stories about the origins of kingship and social order?",
+        "options": {
+            "a": "Mahabharata",
+            "b": "Arthashastra",
+            "c": "Rigveda",
+            "d": "Manusmriti"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who were considered \"untouchables\" in ancient Indian society?",
+        "options": {
+            "a": "People engaged in polluting occupations",
+            "b": "Priests of rival religions",
+            "c": "Soldiers defeated in wars",
+            "d": "Traders dealing in foreign goods"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of family system was prominent in early Indian society?",
+        "options": {
+            "a": "Joint families",
+            "b": "Nuclear families",
+            "c": "Matrilineal families",
+            "d": "Polygamous families exclusively"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"rajanya\" refer to in the Vedic texts?",
+        "options": {
+            "a": "A term for Kshatriyas",
+            "b": "A title for village headmen",
+            "c": "Priests conducting rituals",
+            "d": "Merchants involved in trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Manusmriti state about caste mobility?",
+        "options": {
+            "a": "It is fixed and hereditary.",
+            "b": "It is determined by individual merit.",
+            "c": "It can be changed through religious practices.",
+            "d": "It depends on wealth and trade activities."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the ideal form of inheritance in early Vedic society?",
+        "options": {
+            "a": "Primogeniture (eldest son inheriting property)",
+            "b": "Equal division among sons",
+            "c": "Exclusive inheritance by daughters",
+            "d": "Shared inheritance among all clan members"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which epic highlights the debate about dharma (duty) in kinship ties?",
+        "options": {
+            "a": "Mahabharata",
+            "b": "Ramayana",
+            "c": "Arthashastra",
+            "d": "Jataka Tales"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Mahabharata state about women\u2019s property rights?",
+        "options": {
+            "a": "Women had limited rights to inheritance.",
+            "b": "Women were excluded from owning property.",
+            "c": "Women inherited equally with men.",
+            "d": "Women controlled all family resources."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of \"ashramas\" in Indian texts?",
+        "options": {
+            "a": "Stages of life based on duties and responsibilities",
+            "b": "Ritual sites for sacrifice",
+            "c": "Temples for pilgrimage",
+            "d": "Administrative zones in kingdoms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Bhagavad Gita emphasize about caste duties?",
+        "options": {
+            "a": "Performing one's caste duty without attachment to the outcome",
+            "b": "Rejecting the caste system entirely",
+            "c": "Promoting social mobility between castes",
+            "d": "Enforcing strict punishment for caste violations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Rigveda describe as the origin of the varna system?",
+        "options": {
+            "a": "The Purusha Sukta hymn",
+            "b": "The story of Manu",
+            "c": "The Arthashastra",
+            "d": "The Jataka tales"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did Brahmins play in ancient Indian society?",
+        "options": {
+            "a": "Priests and scholars responsible for performing rituals and teaching",
+            "b": "Warriors protecting the kingdom",
+            "c": "Merchants managing trade",
+            "d": "Farmers cultivating the land"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which epic discusses the exile of Rama and his adherence to dharma?",
+        "options": {
+            "a": "Ramayana",
+            "b": "Mahabharata",
+            "c": "Arthashastra",
+            "d": "Manusmriti"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the \"Sutras\" in ancient Indian literature?",
+        "options": {
+            "a": "They provide concise explanations of rituals and social norms.",
+            "b": "They narrate the history of dynasties.",
+            "c": "They are treatises on medicine.",
+            "d": "They focus on mathematical principles."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"anuloma\" refer to in ancient Indian kinship?",
+        "options": {
+            "a": "Marriages between higher-caste men and lower-caste women",
+            "b": "Marriages within the same caste",
+            "c": "Marriages prohibited by varna rules",
+            "d": "Marriages among priests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"pratiloma\" signify in the caste system?",
+        "options": {
+            "a": "Marriages between lower-caste men and higher-caste women",
+            "b": "Marriages outside one's own varna",
+            "c": "Equal caste marriages",
+            "d": "Marriages within the royal family"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the \"Upanishads\" focus on in terms of social and philosophical concepts?",
+        "options": {
+            "a": "The inner self and its connection to the ultimate reality",
+            "b": "Rules for governance",
+            "c": "Social hierarchy in the caste system",
+            "d": "Agricultural practices"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text is considered a source for understanding the ideals of kingship in ancient India?",
+        "options": {
+            "a": "Mahabharata",
+            "b": "Arthashastra",
+            "c": "Manusmriti",
+            "d": "Rigveda"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which ancient Indian concept defines a person\u2019s duties based on their stage of life?",
+        "options": {
+            "a": "Ashrama system",
+            "b": "Varna system",
+            "c": "Gotra system",
+            "d": "Sangha system"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which story from the Mahabharata highlights complex kinship relations?",
+        "options": {
+            "a": "The rivalry between Pandavas and Kauravas",
+            "b": "Rama\u2019s exile from Ayodhya",
+            "c": "Buddha\u2019s enlightenment",
+            "d": "The Jataka tale of the Bodhisattva"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"grahapati\" signify in ancient India?",
+        "options": {
+            "a": "The head of a household",
+            "b": "A warrior leading an army",
+            "c": "A king ruling a janapada",
+            "d": "A priest performing sacrifices"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of marriage did the Gandharva form signify?",
+        "options": {
+            "a": "Marriage based on mutual love and consent",
+            "b": "Marriage arranged by families",
+            "c": "Marriage through force",
+            "d": "Marriage involving dowry payment"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the \"sabha\" and \"samiti\" play in early Vedic society?",
+        "options": {
+            "a": "They were councils involved in decision-making and governance.",
+            "b": "They were markets for trade.",
+            "c": "They referred to religious ceremonies.",
+            "d": "They were centers for education."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ancient Indian text critiques the caste system?",
+        "options": {
+            "a": "Jataka tales",
+            "b": "Arthashastra",
+            "c": "Manusmriti",
+            "d": "Rigveda"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"patriarchal family\" mean in the context of Indian society?",
+        "options": {
+            "a": "A family structure where the eldest male has authority",
+            "b": "Equal decision-making between men and women",
+            "c": "Women inheriting family property",
+            "d": "A family led by priests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary theme of the Bhagavad Gita?",
+        "options": {
+            "a": "The importance of performing one\u2019s duties according to their dharma",
+            "b": "Rejection of caste and class systems",
+            "c": "Economic prosperity through trade",
+            "d": "Military strategies for war"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term refers to the sacrifice rituals performed by kings in ancient India?",
+        "options": {
+            "a": "Ashvamedha",
+            "b": "Rajasuya",
+            "c": "Vajapeya",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What does \"varna-sankara\" mean in the context of the caste system?",
+        "options": {
+            "a": "The mixing of varnas through inter-caste marriages",
+            "b": "Strict adherence to caste rules",
+            "c": "The decline of a caste",
+            "d": "Promotion of caste mobility"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text refers to the duties of wives in household management?",
+        "options": {
+            "a": "Manusmriti",
+            "b": "Arthashastra",
+            "c": "Mahabharata",
+            "d": "Rigveda"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"jati panchayat\" signify in the caste system?",
+        "options": {
+            "a": "A caste-based council for resolving disputes",
+            "b": "A council overseeing trade regulations",
+            "c": "A governing body for agricultural villages",
+            "d": "A religious assembly for priests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which concept in Indian philosophy promotes the idea of detachment and selfless action?",
+        "options": {
+            "a": "Nishkama karma",
+            "b": "Moksha",
+            "c": "Dharma",
+            "d": "Samsara"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Mahabharata say about the role of kingship?",
+        "options": {
+            "a": "A king must ensure justice and welfare for all subjects.",
+            "b": "A king is above dharma.",
+            "c": "A king should expand his territory by force.",
+            "d": "A king should avoid interfering in caste affairs."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did the grihapati play in the household?",
+        "options": {
+            "a": "Managed agricultural production and rituals",
+            "b": "Supervised local governance",
+            "c": "Directed trade activities",
+            "d": "Commanded armies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"dharma\" in the Indian context signify?",
+        "options": {
+            "a": "A person\u2019s duty based on their caste and stage of life",
+            "b": "Religious sacrifices only",
+            "c": "Opposition to the varna system",
+            "d": "Exclusive rituals for kings"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What role did women in royal families often play in ancient India?",
+        "options": {
+            "a": "Negotiating alliances through marriage",
+            "b": "Serving as warriors in battles",
+            "c": "Managing trade guilds",
+            "d": "Serving as priests in rituals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of marriage was characterized by love or mutual consent?",
+        "options": {
+            "a": "Gandharva marriage",
+            "b": "Arsha marriage",
+            "c": "Brahma marriage",
+            "d": "Asura marriage"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text describes the yajnas performed by kings?",
+        "options": {
+            "a": "Vedas",
+            "b": "Mahabharata",
+            "c": "Arthashastra",
+            "d": "Manusmriti"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the primary role of women in agricultural communities?",
+        "options": {
+            "a": "Managing household tasks and helping in agricultural work",
+            "b": "Owning and cultivating land",
+            "c": "Supervising trade routes",
+            "d": "Participating in village councils"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Rigveda say about social hierarchy?",
+        "options": {
+            "a": "It is ordained by divine creation.",
+            "b": "It is based on economic activities.",
+            "c": "It is temporary and changes with time.",
+            "d": "It is completely flexible."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Arthashastra recommend for maintaining social order?",
+        "options": {
+            "a": "Strict adherence to the varna system",
+            "b": "Encouragement of inter-caste marriages",
+            "c": "Abolition of the caste system",
+            "d": "Focus on trade over agriculture"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following texts is associated with the teachings of Buddha?",
+        "options": {
+            "a": "Tripitaka",
+            "b": "Arthashastra",
+            "c": "Ramayana",
+            "d": "Mahabharata"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who is considered the founder of Buddhism?",
+        "options": {
+            "a": "Siddhartha Gautama",
+            "b": "Mahavira",
+            "c": "Ashoka",
+            "d": "Adi Shankaracharya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term describes the state of enlightenment in Buddhism?",
+        "options": {
+            "a": "Nirvana",
+            "b": "Moksha",
+            "c": "Karma",
+            "d": "Samsara"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the central doctrine of Jainism?",
+        "options": {
+            "a": "Ahimsa (non-violence)",
+            "b": "Dhamma (ethical conduct)",
+            "c": "Bhakti (devotion)",
+            "d": "Yajna (sacrifice)"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was the 24th Tirthankara of Jainism?",
+        "options": {
+            "a": "Mahavira",
+            "b": "Parshvanatha",
+            "c": "Rishabhanatha",
+            "d": "Chandragupta"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which structure is associated with the stupa at Sanchi?",
+        "options": {
+            "a": "Buddhist relics and teachings",
+            "b": "Vedic rituals",
+            "c": "Jain temples",
+            "d": "Gupta military bases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which language did the Buddha primarily use to teach?",
+        "options": {
+            "a": "Pali",
+            "b": "Sanskrit",
+            "c": "Tamil",
+            "d": "Prakrit"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"sangha\" in Buddhism refer to?",
+        "options": {
+            "a": "A community of monks and nuns",
+            "b": "A place of worship",
+            "c": "A holy book",
+            "d": "A pilgrimage site"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Eightfold Path in Buddhism aim to achieve?",
+        "options": {
+            "a": "Liberation from suffering",
+            "b": "Ritual worship",
+            "c": "Agricultural prosperity",
+            "d": "Military success"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Tripitaka?",
+        "options": {
+            "a": "A compilation of Buddhist teachings",
+            "b": "A Vedic hymn",
+            "c": "A Jain scripture",
+            "d": "A Gupta coinage system"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"karma\" mean in Indian philosophy?",
+        "options": {
+            "a": "Actions and their consequences",
+            "b": "A form of governance",
+            "c": "A religious text",
+            "d": "A type of meditation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the original language of the Jain Agamas?",
+        "options": {
+            "a": "Prakrit",
+            "b": "Pali",
+            "c": "Sanskrit",
+            "d": "Tamil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"tirthankara\" mean in Jainism?",
+        "options": {
+            "a": "A spiritual teacher who has attained liberation",
+            "b": "A warrior king",
+            "c": "A temple architect",
+            "d": "A trader of religious texts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Great Stupa at Sanchi?",
+        "options": {
+            "a": "It houses relics of the Buddha.",
+            "b": "It was a fortress during the Gupta period.",
+            "c": "It was a palace for Ashoka.",
+            "d": "It marks the site of Buddha\u2019s birth."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the focus of the Jataka tales?",
+        "options": {
+            "a": "Stories of Buddha\u2019s previous lives",
+            "b": "Instructions for yajnas",
+            "c": "Accounts of Ashoka\u2019s reign",
+            "d": "Vedic hymns"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"vihara\" refer to in Buddhist architecture?",
+        "options": {
+            "a": "A monastery for monks",
+            "b": "A temple for worship",
+            "c": "A market for trade",
+            "d": "A fortress for soldiers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who commissioned the construction of the Sanchi Stupa?",
+        "options": {
+            "a": "Ashoka",
+            "b": "Chandragupta Maurya",
+            "c": "Kanishka",
+            "d": "Harshavardhana"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary teaching of the Four Noble Truths in Buddhism?",
+        "options": {
+            "a": "Suffering and the path to its cessation",
+            "b": "Worship of deities",
+            "c": "The importance of sacrifices",
+            "d": "The need for wealth accumulation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"anicca\" mean in Buddhism?",
+        "options": {
+            "a": "Impermanence",
+            "b": "Non-violence",
+            "c": "Rebirth",
+            "d": "Enlightenment"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Ajanta caves?",
+        "options": {
+            "a": "They contain Buddhist murals and carvings.",
+            "b": "They house Jain temples.",
+            "c": "They were used for Gupta military purposes.",
+            "d": "They are linked to the Vedic age."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the Jain principle of non-possessiveness?",
+        "options": {
+            "a": "Aparigraha",
+            "b": "Ahimsa",
+            "c": "Anicca",
+            "d": "Samsara"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was the contemporary ruler during Buddha\u2019s lifetime?",
+        "options": {
+            "a": "Bimbisara",
+            "b": "Chandragupta Maurya",
+            "c": "Ashoka",
+            "d": "Kanishka"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Buddhist sect focuses on the worship of Bodhisattvas?",
+        "options": {
+            "a": "Mahayana",
+            "b": "Hinayana",
+            "c": "Vajrayana",
+            "d": "Theravada"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"Theravada\" mean in Buddhism?",
+        "options": {
+            "a": "The school of the elders",
+            "b": "The worship of relics",
+            "c": "A doctrine of expansion",
+            "d": "A path of meditation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of the Jain concept of \"samyak darshan\"?",
+        "options": {
+            "a": "Right faith",
+            "b": "Right action",
+            "c": "Right knowledge",
+            "d": "Right conduct"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Buddhist council led to the division between Theravada and Mahayana Buddhism?",
+        "options": {
+            "a": "Fourth Buddhist Council",
+            "b": "Second Buddhist Council",
+            "c": "Third Buddhist Council",
+            "d": "First Buddhist Council"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the ultimate goal of Jainism?",
+        "options": {
+            "a": "Liberation from the cycle of birth and death (moksha)",
+            "b": "Material wealth",
+            "c": "Rebirth in a higher caste",
+            "d": "Participation in sacrifices"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"triratna\" in Jainism refer to?",
+        "options": {
+            "a": "The three jewels: right faith, right knowledge, and right conduct",
+            "b": "The three gods of creation, preservation, and destruction",
+            "c": "The three stages of life",
+            "d": "The three types of sacrifices"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a chaitya in Buddhist architecture?",
+        "options": {
+            "a": "A prayer hall with a stupa",
+            "b": "A monastery for monks",
+            "c": "A trading center",
+            "d": "A military fort"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who is considered the chief disciple of Buddha?",
+        "options": {
+            "a": "Ananda",
+            "b": "Mahavira",
+            "c": "Bimbisara",
+            "d": "Chandragupta"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"samsara\" signify in Indian religions?",
+        "options": {
+            "a": "The cycle of birth, death, and rebirth",
+            "b": "Non-violence",
+            "c": "A monastic order",
+            "d": "The worship of deities"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which king played a significant role in spreading Buddhism outside India?",
+        "options": {
+            "a": "Ashoka",
+            "b": "Chandragupta Maurya",
+            "c": "Harshavardhana",
+            "d": "Kanishka"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"vajra\" in Vajrayana Buddhism?",
+        "options": {
+            "a": "Thunderbolt and diamond, symbolizing strength and clarity",
+            "b": "Enlightenment",
+            "c": "Suffering",
+            "d": "Non-violence"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the central teaching of the Buddha\u2019s \u201cMiddle Path\u201d?",
+        "options": {
+            "a": "Avoiding extremes of indulgence and asceticism",
+            "b": "Engaging in elaborate rituals",
+            "c": "Accumulating wealth for religious merit",
+            "d": "Worshipping multiple deities"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ruler organized the Fourth Buddhist Council?",
+        "options": {
+            "a": "Kanishka",
+            "b": "Ashoka",
+            "c": "Harshavardhana",
+            "d": "Chandragupta Maurya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"dhamma\" in Ashokan edicts primarily promote?",
+        "options": {
+            "a": "Ethical living and social harmony",
+            "b": "Military conquests",
+            "c": "Worship of Brahmanical gods",
+            "d": "Collection of taxes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Buddhist text contains rules for monastic life?",
+        "options": {
+            "a": "Vinaya Pitaka",
+            "b": "Sutta Pitaka",
+            "c": "Abhidhamma Pitaka",
+            "d": "Jataka Tales"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main feature of Mahayana Buddhism?",
+        "options": {
+            "a": "The worship of Bodhisattvas",
+            "b": "Strict adherence to monastic rules",
+            "c": "Emphasis on personal meditation",
+            "d": "Opposition to stupa worship"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Bodhi Tree?",
+        "options": {
+            "a": "It is the site where Buddha attained enlightenment.",
+            "b": "It marks the place of Buddha\u2019s first sermon.",
+            "c": "It represents the life cycle of rebirth.",
+            "d": "It symbolizes wealth and prosperity."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which philosophy influenced the spread of Jainism and Buddhism?",
+        "options": {
+            "a": "Opposition to Vedic sacrifices and rituals",
+            "b": "Support for the caste system",
+            "c": "Expansion of Brahmanical practices",
+            "d": "Advocacy for material prosperity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which monument commemorates the Buddha\u2019s first sermon?",
+        "options": {
+            "a": "Dhamek Stupa at Sarnath",
+            "b": "Great Stupa at Sanchi",
+            "c": "Mahabodhi Temple at Bodh Gaya",
+            "d": "Ajanta Caves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"bodhisattva\" mean in Mahayana Buddhism?",
+        "options": {
+            "a": "A being who delays their own nirvana to help others attain it",
+            "b": "A monk practicing asceticism",
+            "c": "A ruler supporting Buddhism",
+            "d": "A person who renounces all possessions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Karle Chaitya?",
+        "options": {
+            "a": "It is an early example of rock-cut Buddhist architecture.",
+            "b": "It served as a temple for Jain monks.",
+            "c": "It was built by Ashoka.",
+            "d": "It contains relics of Mahavira."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"pratitya-samutpada\" in Buddhism?",
+        "options": {
+            "a": "Dependent origination, explaining the interconnectedness of all phenomena",
+            "b": "A type of meditation technique",
+            "c": "Liberation through self-denial",
+            "d": "The principle of karma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of a relic in a stupa?",
+        "options": {
+            "a": "To serve as a focus for worship and meditation",
+            "b": "To symbolize the power of the king",
+            "c": "To mark the location of Buddha\u2019s birth",
+            "d": "To house ancient manuscripts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which religion emphasizes the Five Great Vows?",
+        "options": {
+            "a": "Jainism",
+            "b": "Buddhism",
+            "c": "Hinduism",
+            "d": "Zoroastrianism"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term in Jainism refers to the soul?",
+        "options": {
+            "a": "Jiva",
+            "b": "Ahimsa",
+            "c": "Moksha",
+            "d": "Samsara"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"chaitya-griha\" refer to?",
+        "options": {
+            "a": "A rock-cut Buddhist shrine or prayer hall",
+            "b": "A temple dedicated to Vishnu",
+            "c": "A residence for monks",
+            "d": "A sacred tree worshipped in Jainism"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Amaravati Stupa?",
+        "options": {
+            "a": "It is an important Buddhist monument with intricate carvings.",
+            "b": "It is associated with Jain relics.",
+            "c": "It marks Ashoka\u2019s military conquests.",
+            "d": "It served as a Gupta fort."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"shunyata\" mean in Mahayana Buddhism?",
+        "options": {
+            "a": "Emptiness or the absence of inherent existence",
+            "b": "Enlightenment",
+            "c": "Karma",
+            "d": "Liberation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of the Jataka tales in Buddhist teachings?",
+        "options": {
+            "a": "To illustrate moral lessons through stories of Buddha\u2019s previous lives",
+            "b": "To describe Vedic sacrifices",
+            "c": "To document Ashoka\u2019s conquests",
+            "d": "To provide rules for monastic life"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the main message of Buddha\u2019s first sermon at Sarnath?",
+        "options": {
+            "a": "The Four Noble Truths and the Middle Path",
+            "b": "The importance of rituals",
+            "c": "Rejection of Jain principles",
+            "d": "Worship of Bodhisattvas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Jain principle advocates strict non-violence in thought, word, and deed?",
+        "options": {
+            "a": "Ahimsa",
+            "b": "Aparigraha",
+            "c": "Anicca",
+            "d": "Samsara"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which council is associated with the compilation of the Tripitaka?",
+        "options": {
+            "a": "First Buddhist Council",
+            "b": "Third Buddhist Council",
+            "c": "Second Buddhist Council",
+            "d": "Fourth Buddhist Council"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary teaching of the Abhidhamma Pitaka?",
+        "options": {
+            "a": "Philosophical analysis of Buddhist doctrines",
+            "b": "Rules for monastic life",
+            "c": "Stories from Buddha\u2019s past lives",
+            "d": "Ethical guidelines for lay followers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is a key feature of Jain architecture?",
+        "options": {
+            "a": "Carved rock temples like Ellora",
+            "b": "Viharas used as monasteries",
+            "c": "Stupas containing relics",
+            "d": "Open courtyards and symmetrical designs"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"dana\" in Jainism and Buddhism?",
+        "options": {
+            "a": "Generosity or charity",
+            "b": "Enlightenment",
+            "c": "Meditation",
+            "d": "Ritual sacrifice"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the term \"mahavihara\" mean?",
+        "options": {
+            "a": "A large Buddhist monastery",
+            "b": "A temple for Hindu rituals",
+            "c": "A market for trade",
+            "d": "A council of monks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the meaning of \"bikkhu\" in Buddhism?",
+        "options": {
+            "a": "A Buddhist monk",
+            "b": "A lay follower",
+            "c": "A ruler promoting Buddhism",
+            "d": "A trader supporting Buddhist monasteries"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which text is considered the earliest biography of the Buddha?",
+        "options": {
+            "a": "Ashvaghosha\u2019s Buddhacharita",
+            "b": "Tripitaka",
+            "c": "Jataka Tales",
+            "d": "Mahavamsa"
+        },
+        "answer": "a"
+    }
+]

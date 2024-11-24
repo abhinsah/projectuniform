@@ -1,0 +1,1752 @@
+[
+    {
+        "question": "What is the latitudinal extent of India?",
+        "options": {
+            "a": "8\u00b04'N to 37\u00b06'N",
+            "b": "10\u00b0N to 40\u00b0N",
+            "c": "5\u00b0S to 15\u00b0N",
+            "d": "20\u00b0N to 50\u00b0N"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the longitudinal extent of India?",
+        "options": {
+            "a": "68\u00b07'E to 97\u00b025'E",
+            "b": "50\u00b0E to 100\u00b0E",
+            "c": "70\u00b0E to 120\u00b0E",
+            "d": "55\u00b0E to 90\u00b0E"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Through which Indian state does the Tropic of Cancer pass?",
+        "options": {
+            "a": "Gujarat",
+            "b": "Punjab",
+            "c": "Kerala",
+            "d": "Jammu and Kashmir"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How much of the total land area of the world does India cover?",
+        "options": {
+            "a": "2.4%",
+            "b": "5%",
+            "c": "1.2%",
+            "d": "10%"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is the southernmost point of India?",
+        "options": {
+            "a": "Indira Point",
+            "b": "Kanyakumari",
+            "c": "Minicoy",
+            "d": "Port Blair"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ocean surrounds India on its south?",
+        "options": {
+            "a": "Indian Ocean",
+            "b": "Pacific Ocean",
+            "c": "Atlantic Ocean",
+            "d": "Arctic Ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which country lies to the north of India?",
+        "options": {
+            "a": "China",
+            "b": "Pakistan",
+            "c": "Nepal",
+            "d": "Bhutan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which group of islands is located in the Arabian Sea?",
+        "options": {
+            "a": "Lakshadweep",
+            "b": "Andaman and Nicobar",
+            "c": "Maldives",
+            "d": "Seychelles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Indian state shares the longest boundary with Nepal?",
+        "options": {
+            "a": "Uttar Pradesh",
+            "b": "Bihar",
+            "c": "West Bengal",
+            "d": "Sikkim"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the standard meridian of India?",
+        "options": {
+            "a": "82\u00b030'E",
+            "b": "75\u00b0E",
+            "c": "80\u00b0E",
+            "d": "70\u00b0E"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How many time zones does India have?",
+        "options": {
+            "a": "One",
+            "b": "Two",
+            "c": "Three",
+            "d": "Four"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which body of water lies to the west of India?",
+        "options": {
+            "a": "Arabian Sea",
+            "b": "Bay of Bengal",
+            "c": "Indian Ocean",
+            "d": "Red Sea"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Tropic of Cancer passing through India?",
+        "options": {
+            "a": "It divides India into tropical and subtropical zones",
+            "b": "It marks the beginning of the Arctic region",
+            "c": "It creates a boundary between North and South India",
+            "d": "It determines the coastal climate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which neighboring country lies to the east of India?",
+        "options": {
+            "a": "Bangladesh",
+            "b": "Afghanistan",
+            "c": "China",
+            "d": "Pakistan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Indian Union Territory consists of 572 islands?",
+        "options": {
+            "a": "Andaman and Nicobar Islands",
+            "b": "Lakshadweep",
+            "c": "Puducherry",
+            "d": "Daman and Diu"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How many states and Union Territories does India currently have?",
+        "options": {
+            "a": "28 states and 8 Union Territories",
+            "b": "25 states and 10 Union Territories",
+            "c": "30 states and 5 Union Territories",
+            "d": "27 states and 9 Union Territories"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which state is the easternmost in India?",
+        "options": {
+            "a": "Arunachal Pradesh",
+            "b": "Assam",
+            "c": "Manipur",
+            "d": "Nagaland"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which Indian state is landlocked and does not have a coastline?",
+        "options": {
+            "a": "Madhya Pradesh",
+            "b": "Maharashtra",
+            "c": "Tamil Nadu",
+            "d": "Gujarat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the importance of India's central location in the Indian Ocean?",
+        "options": {
+            "a": "It facilitates trade routes connecting Asia, Africa, and Europe",
+            "b": "It prevents cyclones in the Bay of Bengal",
+            "c": "It creates a strong magnetic field around India",
+            "d": "It helps in domestic water transportation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the northernmost point of India?",
+        "options": {
+            "a": "Siachen Glacier",
+            "b": "Indira Col",
+            "c": "Dal Lake",
+            "d": "Leh"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which neighboring country lies to the northwest of India?",
+        "options": {
+            "a": "Pakistan",
+            "b": "Sri Lanka",
+            "c": "Myanmar",
+            "d": "Bangladesh"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river forms the boundary between India and Bangladesh in certain areas?",
+        "options": {
+            "a": "Ganga",
+            "b": "Brahmaputra",
+            "c": "Padma",
+            "d": "Meghna"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is the Indian Standard Time (IST) based on 82\u00b030'E longitude?",
+        "options": {
+            "a": "It lies close to the center of India\u2019s longitudinal extent",
+            "b": "It avoids confusion with Greenwich Mean Time",
+            "c": "It marks the easternmost boundary of India",
+            "d": "It divides India into two equal time zones"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which state is known as the \"Gateway to the Northeast\"?",
+        "options": {
+            "a": "Assam",
+            "b": "Manipur",
+            "c": "Tripura",
+            "d": "Meghalaya"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which country lies to the south of India across the Palk Strait?",
+        "options": {
+            "a": "Sri Lanka",
+            "b": "Maldives",
+            "c": "Myanmar",
+            "d": "Indonesia"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the major physiographic divisions of India?",
+        "options": {
+            "a": "The Himalayan Mountains, the Northern Plains, the Peninsular Plateau, the Indian Desert, the Coastal Plains, and the Islands",
+            "b": "The Deccan Plateau, the Thar Desert, and the Vindhya Range",
+            "c": "The Northern Plains, the Ganges Delta, and the Nilgiri Hills",
+            "d": "The Peninsular Plateau, the Western Ghats, and the Sundarbans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is the youngest mountain range in India?",
+        "options": {
+            "a": "Himalayas",
+            "b": "Aravallis",
+            "c": "Western Ghats",
+            "d": "Eastern Ghats"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the geological origin of the Peninsular Plateau?",
+        "options": {
+            "a": "It is part of the ancient Gondwana landmass",
+            "b": "It formed due to volcanic eruptions during the Mesozoic era",
+            "c": "It was uplifted by tectonic activity in the Cenozoic era",
+            "d": "It is an accumulation of alluvial deposits"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river originates from the Himalayas?",
+        "options": {
+            "a": "Ganga",
+            "b": "Godavari",
+            "c": "Mahanadi",
+            "d": "Cauvery"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Northern Plains?",
+        "options": {
+            "a": "They are highly fertile and suitable for agriculture",
+            "b": "They are rich in mineral resources",
+            "c": "They are known for dense forests",
+            "d": "They have a high concentration of wildlife sanctuaries"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the three parallel ranges of the Himalayas?",
+        "options": {
+            "a": "The Great Himalayas, the Lesser Himalayas, and the Shiwaliks",
+            "b": "The Vindhyas, the Satpuras, and the Aravallis",
+            "c": "The Eastern Ghats, the Western Ghats, and the Nilgiris",
+            "d": "The Deccan Plateau, the Coastal Plains, and the Indian Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is the highest peak in India?",
+        "options": {
+            "a": "Kanchenjunga",
+            "b": "Mount Everest",
+            "c": "Nanda Devi",
+            "d": "Dhaulagiri"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of soil is found in the Northern Plains?",
+        "options": {
+            "a": "Alluvial soil",
+            "b": "Red soil",
+            "c": "Laterite soil",
+            "d": "Black soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which plateau is known as the \"Deccan Trap\"?",
+        "options": {
+            "a": "The Peninsular Plateau",
+            "b": "The Malwa Plateau",
+            "c": "The Chota Nagpur Plateau",
+            "d": "The Bhabar region"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary characteristic of the Indian Desert?",
+        "options": {
+            "a": "Arid climate and sandy terrain",
+            "b": "High rainfall and fertile soil",
+            "c": "Dense vegetation and biodiversity",
+            "d": "Volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where are the Western Ghats located?",
+        "options": {
+            "a": "Along the western coast of India",
+            "b": "Along the eastern coast of India",
+            "c": "Between the Vindhya and Satpura ranges",
+            "d": "In the northeastern states of India"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which physiographic division is known for its black soil?",
+        "options": {
+            "a": "The Peninsular Plateau",
+            "b": "The Northern Plains",
+            "c": "The Coastal Plains",
+            "d": "The Indian Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What separates the Peninsular Plateau from the Northern Plains?",
+        "options": {
+            "a": "The Vindhya and Satpura ranges",
+            "b": "The Western Ghats",
+            "c": "The Aravalli Hills",
+            "d": "The Shiwalik range"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the average elevation of the Deccan Plateau?",
+        "options": {
+            "a": "600-900 meters above sea level",
+            "b": "200-300 meters above sea level",
+            "c": "1000-2000 meters above sea level",
+            "d": "50-100 meters above sea level"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Coastal Plains?",
+        "options": {
+            "a": "They support fishing and agriculture",
+            "b": "They are known for dense forests",
+            "c": "They have a high concentration of mineral resources",
+            "d": "They are important for transportation of oil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in the Northern Plains is prone to floods?",
+        "options": {
+            "a": "The Terai region",
+            "b": "The Bhabar region",
+            "c": "The Deccan Plateau",
+            "d": "The Indian Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the major feature of the Shiwalik range?",
+        "options": {
+            "a": "It consists of unconsolidated sediments",
+            "b": "It is the highest range in the Himalayas",
+            "c": "It is a volcanic range",
+            "d": "It has a cold desert climate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where are the Andaman and Nicobar Islands located?",
+        "options": {
+            "a": "In the Bay of Bengal",
+            "b": "In the Arabian Sea",
+            "c": "In the Indian Ocean",
+            "d": "Along the western coast of India"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river forms the largest delta in India?",
+        "options": {
+            "a": "Ganga-Brahmaputra",
+            "b": "Godavari",
+            "c": "Krishna",
+            "d": "Mahanadi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which plateau is rich in minerals like coal and iron ore?",
+        "options": {
+            "a": "Chota Nagpur Plateau",
+            "b": "Malwa Plateau",
+            "c": "Deccan Plateau",
+            "d": "Meghalaya Plateau"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the general slope of the Peninsular Plateau?",
+        "options": {
+            "a": "From west to east",
+            "b": "From east to west",
+            "c": "From north to south",
+            "d": "From south to north"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the climate of the Indian Desert?",
+        "options": {
+            "a": "Arid with extreme temperature variations",
+            "b": "Tropical and humid",
+            "c": "Alpine with heavy snowfall",
+            "d": "Semi-arid with frequent rainfall"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which island group is known for its coral reefs?",
+        "options": {
+            "a": "Lakshadweep Islands",
+            "b": "Andaman and Nicobar Islands",
+            "c": "Maldives",
+            "d": "Seychelles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which physiographic division is known as the \"breadbasket of India\"?",
+        "options": {
+            "a": "The Northern Plains",
+            "b": "The Peninsular Plateau",
+            "c": "The Coastal Plains",
+            "d": "The Indian Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Western Ghats?",
+        "options": {
+            "a": "They are a biodiversity hotspot",
+            "b": "They are the driest region in India",
+            "c": "They are a source of black soil deposits",
+            "d": "They are prone to volcanic eruptions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is drainage?",
+        "options": {
+            "a": "The system of rivers and their tributaries draining an area",
+            "b": "The process of water evaporating into the atmosphere",
+            "c": "Movement of water through underground channels",
+            "d": "Formation of lakes and reservoirs"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the two major types of drainage systems in India?",
+        "options": {
+            "a": "Himalayan Rivers and Peninsular Rivers",
+            "b": "Coastal Rivers and Desert Rivers",
+            "c": "Northern Rivers and Eastern Rivers",
+            "d": "Underground Rivers and Surface Rivers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a watershed?",
+        "options": {
+            "a": "An area drained by a single river system",
+            "b": "A small reservoir formed by a dam",
+            "c": "A boundary between two tectonic plates",
+            "d": "A dry region in a desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is a characteristic of Himalayan Rivers?",
+        "options": {
+            "a": "They are perennial in nature",
+            "b": "They flow only during the monsoon season",
+            "c": "They originate from the Peninsular Plateau",
+            "d": "They do not form deltas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river forms the largest delta in the world?",
+        "options": {
+            "a": "Ganga-Brahmaputra",
+            "b": "Godavari",
+            "c": "Mahanadi",
+            "d": "Krishna"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the source of the Indus River?",
+        "options": {
+            "a": "Mansarovar Lake in Tibet",
+            "b": "Gangotri Glacier",
+            "c": "Amarkantak Plateau",
+            "d": "Satpura Range"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is known as the \"Sorrow of Bihar\"?",
+        "options": {
+            "a": "Kosi",
+            "b": "Damodar",
+            "c": "Brahmaputra",
+            "d": "Chambal"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary feature of the Peninsular Rivers?",
+        "options": {
+            "a": "They are mostly seasonal",
+            "b": "They flow from north to south",
+            "c": "They form large deltas",
+            "d": "They originate from glaciers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is called the \"Dakshin Ganga\"?",
+        "options": {
+            "a": "Godavari",
+            "b": "Krishna",
+            "c": "Mahanadi",
+            "d": "Cauvery"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the origin of the Narmada River?",
+        "options": {
+            "a": "Amarkantak Plateau",
+            "b": "Western Ghats",
+            "c": "Satpura Range",
+            "d": "Aravalli Hills"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river flows through a rift valley?",
+        "options": {
+            "a": "Narmada",
+            "b": "Ganga",
+            "c": "Brahmaputra",
+            "d": "Yamuna"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river forms the Sundarbans delta?",
+        "options": {
+            "a": "Ganga-Brahmaputra",
+            "b": "Mahanadi",
+            "c": "Godavari",
+            "d": "Krishna"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary difference between Himalayan Rivers and Peninsular Rivers?",
+        "options": {
+            "a": "Himalayan Rivers are perennial, whereas Peninsular Rivers are seasonal",
+            "b": "Peninsular Rivers form deltas, while Himalayan Rivers do not",
+            "c": "Himalayan Rivers originate from lakes, while Peninsular Rivers originate from glaciers",
+            "d": "Himalayan Rivers flow through rift valleys, while Peninsular Rivers do not"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is known as the \"Sorrow of Bengal\"?",
+        "options": {
+            "a": "Damodar",
+            "b": "Hooghly",
+            "c": "Subarnarekha",
+            "d": "Bhagirathi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a distributary?",
+        "options": {
+            "a": "A branch of a river that flows away from the main stream",
+            "b": "A tributary that joins a river",
+            "c": "A river that merges with a lake",
+            "d": "A stream formed by glacial melting"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river system is known for its inland drainage in India?",
+        "options": {
+            "a": "Luni River",
+            "b": "Godavari River",
+            "c": "Brahmaputra River",
+            "d": "Cauvery River"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main purpose of a river basin?",
+        "options": {
+            "a": "To serve as a natural drainage system",
+            "b": "To provide habitats for fish species",
+            "c": "To support industrial development",
+            "d": "To facilitate tourism in coastal regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river flows into the Arabian Sea?",
+        "options": {
+            "a": "Narmada",
+            "b": "Mahanadi",
+            "c": "Ganga",
+            "d": "Brahmaputra"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is responsible for the creation of the Kolleru Lake?",
+        "options": {
+            "a": "Krishna",
+            "b": "Godavari",
+            "c": "Cauvery",
+            "d": "Mahanadi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river system has the largest catchment area in India?",
+        "options": {
+            "a": "Ganga River system",
+            "b": "Godavari River system",
+            "c": "Brahmaputra River system",
+            "d": "Krishna River system"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of a river delta?",
+        "options": {
+            "a": "It provides fertile soil for agriculture",
+            "b": "It stores water for hydropower generation",
+            "c": "It prevents river erosion",
+            "d": "It supports desert vegetation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is also known as the \"River of Life\" for Assam?",
+        "options": {
+            "a": "Brahmaputra",
+            "b": "Barak",
+            "c": "Subansiri",
+            "d": "Teesta"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an estuary?",
+        "options": {
+            "a": "A tidal mouth of a river where it meets the sea",
+            "b": "A confluence of two major rivers",
+            "c": "A lake formed by glacial melting",
+            "d": "A small stream flowing into a larger river"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which river is called the \"Ganga of the South\"?",
+        "options": {
+            "a": "Cauvery",
+            "b": "Krishna",
+            "c": "Godavari",
+            "d": "Mahanadi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the Yamuna River?",
+        "options": {
+            "a": "It is the largest tributary of the Ganga",
+            "b": "It forms the largest delta in India",
+            "c": "It is the only river flowing through the Thar Desert",
+            "d": "It originates from the Eastern Ghats"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of climate does India experience?",
+        "options": {
+            "a": "Monsoon type of climate",
+            "b": "Desert climate",
+            "c": "Mediterranean climate",
+            "d": "Polar climate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary factor affecting the climate of India?",
+        "options": {
+            "a": "Latitude",
+            "b": "Altitude",
+            "c": "Distance from the sea",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which latitude divides India into tropical and subtropical zones?",
+        "options": {
+            "a": "Tropic of Cancer (23\u00bd\u00b0N)",
+            "b": "Equator (0\u00b0)",
+            "c": "Arctic Circle (66\u00bd\u00b0N)",
+            "d": "82\u00bd\u00b0E longitude"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which season is associated with the onset of the southwest monsoon in India?",
+        "options": {
+            "a": "Summer (June to September)",
+            "b": "Winter (December to February)",
+            "c": "Autumn (October to November)",
+            "d": "Spring (March to May)"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of monsoon winds in India?",
+        "options": {
+            "a": "Differential heating and cooling of land and water",
+            "b": "Movement of tectonic plates",
+            "c": "Earth's axial tilt",
+            "d": "Volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the average annual rainfall in India?",
+        "options": {
+            "a": "125 cm",
+            "b": "250 cm",
+            "c": "75 cm",
+            "d": "50 cm"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India receives the highest rainfall?",
+        "options": {
+            "a": "Mawsynram in Meghalaya",
+            "b": "Thar Desert in Rajasthan",
+            "c": "Ladakh in Jammu & Kashmir",
+            "d": "The Deccan Plateau"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the driest place in India?",
+        "options": {
+            "a": "Jaisalmer in Rajasthan",
+            "b": "Leh in Ladakh",
+            "c": "Rann of Kutch in Gujarat",
+            "d": "Thiruvananthapuram in Kerala"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main characteristic of the retreating monsoon season?",
+        "options": {
+            "a": "Clear skies and rise in temperature",
+            "b": "Heavy rainfall",
+            "c": "Cold winds from the north",
+            "d": "Formation of tropical cyclones"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the pre-monsoon showers in Kerala and Karnataka called?",
+        "options": {
+            "a": "Mango showers",
+            "b": "Cherry blossoms",
+            "c": "Nor\u2019westers",
+            "d": "Retreating rains"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "During which months does India experience winter season?",
+        "options": {
+            "a": "December to February",
+            "b": "March to May",
+            "c": "June to September",
+            "d": "October to November"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India experiences a cold desert climate?",
+        "options": {
+            "a": "Ladakh",
+            "b": "Sunderbans",
+            "c": "Mawsynram",
+            "d": "Gujarat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary factor causing variations in rainfall across India?",
+        "options": {
+            "a": "The orientation of mountains",
+            "b": "Latitude",
+            "c": "Wind patterns",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which mountain range acts as a barrier to the cold winds from Central Asia?",
+        "options": {
+            "a": "Himalayas",
+            "b": "Aravallis",
+            "c": "Western Ghats",
+            "d": "Eastern Ghats"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is \"October heat\"?",
+        "options": {
+            "a": "High temperature and humidity after the monsoon season",
+            "b": "Extreme heat in summer",
+            "c": "Heat waves during pre-monsoon",
+            "d": "Warm winds in winter"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a cyclone?",
+        "options": {
+            "a": "A low-pressure system with strong winds spiraling inward",
+            "b": "A high-pressure system causing dry weather",
+            "c": "A seasonal wind pattern",
+            "d": "A current of air flowing in one direction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which state in India is most affected by tropical cyclones?",
+        "options": {
+            "a": "Odisha",
+            "b": "Punjab",
+            "c": "Rajasthan",
+            "d": "Himachal Pradesh"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India experiences the maximum temperature during summer?",
+        "options": {
+            "a": "Northwestern plains",
+            "b": "Northeastern states",
+            "c": "Western Ghats",
+            "d": "Coastal areas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the major cause of snowfall in the Himalayas during winter?",
+        "options": {
+            "a": "Western disturbances",
+            "b": "Cyclonic storms",
+            "c": "Northeastern trade winds",
+            "d": "Temperature inversion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the hot, dry winds that blow during summer in North India called?",
+        "options": {
+            "a": "Loo",
+            "b": "Kalbaisakhi",
+            "c": "Mango showers",
+            "d": "Westerlies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which winds bring rainfall to the Coromandel Coast during the retreating monsoon?",
+        "options": {
+            "a": "Northeastern monsoon winds",
+            "b": "Western disturbances",
+            "c": "Southwest monsoon winds",
+            "d": "Westerlies"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary feature of a tropical monsoon climate?",
+        "options": {
+            "a": "Distinct wet and dry seasons",
+            "b": "Consistently high temperatures",
+            "c": "Heavy snowfall",
+            "d": "Long periods of drought"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is the rainiest place in the world?",
+        "options": {
+            "a": "Mawsynram, India",
+            "b": "Cherrapunji, India",
+            "c": "Amazon Rainforest",
+            "d": "Greenland"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does the El Ni\u00f1o phenomenon affect the Indian monsoon?",
+        "options": {
+            "a": "Weakens the monsoon, causing droughts",
+            "b": "Intensifies the monsoon, causing floods",
+            "c": "Has no effect on the Indian monsoon",
+            "d": "Causes cyclones in the Arabian Sea"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the Himalayas in influencing India\u2019s climate?",
+        "options": {
+            "a": "They block cold winds from Central Asia",
+            "b": "They trap monsoon winds, causing heavy rainfall",
+            "c": "They create a natural barrier for atmospheric circulation",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is natural vegetation?",
+        "options": {
+            "a": "Plant life that grows without human interference",
+            "b": "Crops cultivated by farmers",
+            "c": "Plants grown in botanical gardens",
+            "d": "Trees planted for commercial purposes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the major types of natural vegetation in India?",
+        "options": {
+            "a": "Tropical evergreen forests, tropical deciduous forests, thorn forests, montane forests, and mangrove forests",
+            "b": "Temperate forests, savanna, and steppe",
+            "c": "Coniferous forests and tundra vegetation",
+            "d": "Deserts and polar vegetation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of vegetation is found in areas with heavy rainfall above 200 cm?",
+        "options": {
+            "a": "Tropical evergreen forests",
+            "b": "Tropical deciduous forests",
+            "c": "Thorn forests",
+            "d": "Montane forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where are tropical evergreen forests mainly found in India?",
+        "options": {
+            "a": "Western Ghats, Andaman and Nicobar Islands, and northeastern states",
+            "b": "Thar Desert and Deccan Plateau",
+            "c": "Vindhya and Satpura ranges",
+            "d": "Coastal plains of Gujarat and Rajasthan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the characteristic feature of tropical deciduous forests?",
+        "options": {
+            "a": "Trees shed their leaves during dry seasons",
+            "b": "Trees remain green throughout the year",
+            "c": "Vegetation consists of only shrubs and grasses",
+            "d": "Trees have needle-like leaves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is another name for tropical deciduous forests?",
+        "options": {
+            "a": "Monsoon forests",
+            "b": "Evergreen forests",
+            "c": "Thorn forests",
+            "d": "Alpine forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which vegetation type is common in areas with annual rainfall between 70-100 cm?",
+        "options": {
+            "a": "Thorn forests and scrubs",
+            "b": "Tropical evergreen forests",
+            "c": "Mangrove forests",
+            "d": "Alpine vegetation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary vegetation found in the Thar Desert?",
+        "options": {
+            "a": "Thorny bushes and xerophytes",
+            "b": "Deciduous trees",
+            "c": "Coniferous trees",
+            "d": "Dense mangrove swamps"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is montane vegetation?",
+        "options": {
+            "a": "Vegetation that changes with altitude in mountainous regions",
+            "b": "Vegetation found in arid regions",
+            "c": "Grasslands located in plains",
+            "d": "Wetlands with dense trees"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of vegetation is found in the Himalayan region above 3,600 meters?",
+        "options": {
+            "a": "Alpine vegetation",
+            "b": "Tropical evergreen forests",
+            "c": "Thorn forests",
+            "d": "Tropical deciduous forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region is known for mangrove forests?",
+        "options": {
+            "a": "Sundarbans in West Bengal",
+            "b": "Western Ghats in Kerala",
+            "c": "Thar Desert in Rajasthan",
+            "d": "Deccan Plateau"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of mangrove forests?",
+        "options": {
+            "a": "They protect coastal regions from storms and erosion",
+            "b": "They provide habitats for desert animals",
+            "c": "They increase rainfall in dry regions",
+            "d": "They are the main source of timber"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary tree species found in tropical evergreen forests?",
+        "options": {
+            "a": "Rosewood",
+            "b": "Teak",
+            "c": "Babool",
+            "d": "Pine"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which tree is commonly associated with tropical deciduous forests?",
+        "options": {
+            "a": "Teak",
+            "b": "Rhododendron",
+            "c": "Mangrove",
+            "d": "Acacia"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of vegetation is found in areas with less than 70 cm of rainfall?",
+        "options": {
+            "a": "Thorn forests and scrubs",
+            "b": "Montane vegetation",
+            "c": "Mangrove forests",
+            "d": "Evergreen forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main vegetation type in the Western Ghats?",
+        "options": {
+            "a": "Tropical evergreen forests",
+            "b": "Temperate grasslands",
+            "c": "Alpine vegetation",
+            "d": "Desert scrub"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the dominant vegetation in areas with 100-200 cm of annual rainfall?",
+        "options": {
+            "a": "Tropical deciduous forests",
+            "b": "Thorn forests",
+            "c": "Mangrove forests",
+            "d": "Alpine vegetation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which forest type is called the \"lungs of the Earth\"?",
+        "options": {
+            "a": "Tropical evergreen forests",
+            "b": "Mangrove forests",
+            "c": "Thorn forests",
+            "d": "Montane forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a xerophyte?",
+        "options": {
+            "a": "A plant adapted to survive in dry conditions",
+            "b": "A plant found in alpine regions",
+            "c": "A plant growing in wetland areas",
+            "d": "A tree found in tropical evergreen forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which natural vegetation is found in coastal regions affected by tides?",
+        "options": {
+            "a": "Mangrove forests",
+            "b": "Tropical deciduous forests",
+            "c": "Montane vegetation",
+            "d": "Thorn forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of natural vegetation in maintaining ecological balance?",
+        "options": {
+            "a": "It prevents soil erosion and provides oxygen",
+            "b": "It decreases groundwater levels",
+            "c": "It encourages urban development",
+            "d": "It increases desertification"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which tree is commonly found in thorn forests?",
+        "options": {
+            "a": "Babool",
+            "b": "Sal",
+            "c": "Mahogany",
+            "d": "Oak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India is known for its alpine vegetation?",
+        "options": {
+            "a": "Himachal Pradesh and Jammu & Kashmir",
+            "b": "Rajasthan and Gujarat",
+            "c": "Kerala and Karnataka",
+            "d": "Bihar and Uttar Pradesh"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are epiphytes?",
+        "options": {
+            "a": "Plants that grow on other plants for support without harming them",
+            "b": "Plants that grow in salty waters",
+            "c": "Trees with needle-like leaves",
+            "d": "Shrubs that grow in deserts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which forest type is most affected by human activities like deforestation?",
+        "options": {
+            "a": "Tropical deciduous forests",
+            "b": "Alpine vegetation",
+            "c": "Mangrove forests",
+            "d": "Thorn forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is soil?",
+        "options": {
+            "a": "The uppermost layer of the Earth\u2019s crust composed of organic and inorganic materials",
+            "b": "A type of rock formed by volcanic activity",
+            "c": "A sediment layer deposited by rivers",
+            "d": "A solid layer found beneath forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor primarily influences the formation of soil?",
+        "options": {
+            "a": "Parent rock material",
+            "b": "Climate",
+            "c": "Organic matter",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What are the major types of soils found in India?",
+        "options": {
+            "a": "Alluvial, Black, Red, Laterite, Mountain, and Desert soils",
+            "b": "Clay, Loamy, and Sandy soils",
+            "c": "Tundra, Polar, and Temperate soils",
+            "d": "Volcanic and Marine soils"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the most widespread soil type in India?",
+        "options": {
+            "a": "Alluvial soil",
+            "b": "Black soil",
+            "c": "Red soil",
+            "d": "Laterite soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where is black soil predominantly found?",
+        "options": {
+            "a": "Deccan Plateau region",
+            "b": "Indo-Gangetic Plains",
+            "c": "Coastal regions",
+            "d": "Thar Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is black soil also known as?",
+        "options": {
+            "a": "Regur soil",
+            "b": "Khadar soil",
+            "c": "Bangar soil",
+            "d": "Sandy soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary characteristic of black soil?",
+        "options": {
+            "a": "It retains moisture and is ideal for cotton cultivation",
+            "b": "It is highly acidic and infertile",
+            "c": "It is sandy and porous",
+            "d": "It lacks organic matter and nutrients"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of soil is most fertile for agriculture?",
+        "options": {
+            "a": "Alluvial soil",
+            "b": "Laterite soil",
+            "c": "Red soil",
+            "d": "Desert soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where is laterite soil commonly found?",
+        "options": {
+            "a": "Areas with high temperature and heavy rainfall",
+            "b": "Coastal regions",
+            "c": "Dry regions with low rainfall",
+            "d": "Mountain slopes above the snowline"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which soil type is best suited for the cultivation of rice and wheat?",
+        "options": {
+            "a": "Alluvial soil",
+            "b": "Black soil",
+            "c": "Red soil",
+            "d": "Desert soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the major disadvantage of red soil?",
+        "options": {
+            "a": "It is deficient in nitrogen, phosphorus, and organic matter",
+            "b": "It is too clayey and retains excessive water",
+            "c": "It is found only in deserts",
+            "d": "It is prone to salinity issues"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where are desert soils found in India?",
+        "options": {
+            "a": "Rajasthan and parts of Gujarat",
+            "b": "Kerala and Tamil Nadu",
+            "c": "Northeastern states",
+            "d": "Western Ghats"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a characteristic feature of desert soil?",
+        "options": {
+            "a": "It has low moisture content and high salinity",
+            "b": "It is highly fertile with organic matter",
+            "c": "It is clayey and retains water",
+            "d": "It supports evergreen forests"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary use of laterite soil?",
+        "options": {
+            "a": "Cultivation of tea, coffee, and cashews",
+            "b": "Cotton farming",
+            "c": "Growing rice and wheat",
+            "d": "Mining operations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India is known for red soil?",
+        "options": {
+            "a": "Southern and eastern parts of the Deccan Plateau",
+            "b": "Indo-Gangetic Plains",
+            "c": "Northern Himalayan region",
+            "d": "Coastal plains of Gujarat"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is alluvial soil composed of?",
+        "options": {
+            "a": "Sand, silt, and clay deposited by rivers",
+            "b": "Volcanic rocks",
+            "c": "Gravel and pebbles from glaciers",
+            "d": "Organic matter from deserts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which soil is most suitable for the cultivation of sugarcane?",
+        "options": {
+            "a": "Black soil",
+            "b": "Red soil",
+            "c": "Laterite soil",
+            "d": "Desert soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary characteristic of mountain soils?",
+        "options": {
+            "a": "They are rich in humus but vary in fertility depending on altitude",
+            "b": "They are highly saline and infertile",
+            "c": "They are sandy and porous",
+            "d": "They retain excessive water, making them swampy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of soil is prone to erosion due to deforestation?",
+        "options": {
+            "a": "Laterite soil",
+            "b": "Alluvial soil",
+            "c": "Desert soil",
+            "d": "Mountain soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the impact of soil erosion on agriculture?",
+        "options": {
+            "a": "Loss of fertile topsoil reduces productivity",
+            "b": "It enhances crop yields due to natural sediment deposition",
+            "c": "It increases soil fertility over time",
+            "d": "It prevents the spread of weeds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which method helps prevent soil erosion?",
+        "options": {
+            "a": "Contour plowing",
+            "b": "Monocropping",
+            "c": "Excessive irrigation",
+            "d": "Overgrazing by livestock"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the pH range of acidic soils?",
+        "options": {
+            "a": "Below 7",
+            "b": "Exactly 7",
+            "c": "Above 7",
+            "d": "Above 9"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of soil is formed by the deposition of sediments carried by rivers over time?",
+        "options": {
+            "a": "Alluvial soil",
+            "b": "Black soil",
+            "c": "Laterite soil",
+            "d": "Red soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is humus?",
+        "options": {
+            "a": "Organic material formed from the decay of plants and animals",
+            "b": "A type of soil particle",
+            "c": "A mineral found in mountain soil",
+            "d": "A type of vegetation found in deserts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which soil is commonly used for growing coffee in India?",
+        "options": {
+            "a": "Laterite soil",
+            "b": "Black soil",
+            "c": "Alluvial soil",
+            "d": "Desert soil"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a natural hazard?",
+        "options": {
+            "a": "A naturally occurring event that can cause potential harm to life or property",
+            "b": "A disaster caused by human activities",
+            "c": "An accident involving transportation systems",
+            "d": "A planned event to prevent environmental damage"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What distinguishes a natural hazard from a disaster?",
+        "options": {
+            "a": "A disaster occurs when a hazard affects vulnerable people and resources",
+            "b": "A hazard is always more severe than a disaster",
+            "c": "Hazards are caused by humans, while disasters are natural",
+            "d": "Disasters are always predictable, unlike hazards"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is a geophysical hazard?",
+        "options": {
+            "a": "Earthquake",
+            "b": "Flood",
+            "c": "Cyclone",
+            "d": "Epidemic"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes earthquakes?",
+        "options": {
+            "a": "Sudden release of energy in Earth's crust due to tectonic movements",
+            "b": "Heavy rainfall and flooding",
+            "c": "Volcanic eruptions in coastal areas",
+            "d": "Widespread deforestation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which instrument measures the magnitude of earthquakes?",
+        "options": {
+            "a": "Richter scale",
+            "b": "Barometer",
+            "c": "Hygrometer",
+            "d": "Thermometer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the origin point of an earthquake called?",
+        "options": {
+            "a": "Focus",
+            "b": "Epicenter",
+            "c": "Fault line",
+            "d": "Seismic gap"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which natural hazard is most common in the Himalayan region?",
+        "options": {
+            "a": "Landslides",
+            "b": "Tsunamis",
+            "c": "Droughts",
+            "d": "Tornadoes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are tsunamis primarily caused by?",
+        "options": {
+            "a": "Underwater earthquakes or volcanic eruptions",
+            "b": "Intense cyclonic activity in coastal regions",
+            "c": "Heavy rainfall and strong winds",
+            "d": "Iceberg calving in polar regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a cyclone?",
+        "options": {
+            "a": "A low-pressure system with spiraling winds",
+            "b": "A high-pressure system causing strong winds",
+            "c": "A volcanic eruption in coastal regions",
+            "d": "A sudden earthquake under the ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which part of India is most vulnerable to cyclones?",
+        "options": {
+            "a": "Eastern coastal states like Odisha and Andhra Pradesh",
+            "b": "Northern states like Punjab and Haryana",
+            "c": "Western states like Gujarat and Rajasthan",
+            "d": "Northeastern states like Assam and Manipur"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main cause of landslides in hilly areas?",
+        "options": {
+            "a": "Heavy rainfall, deforestation, and earthquakes",
+            "b": "Over-irrigation in agricultural fields",
+            "c": "Lack of vegetation in deserts",
+            "d": "Volcanic eruptions in plains"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a flood?",
+        "options": {
+            "a": "Overflow of water that submerges land areas not usually submerged",
+            "b": "High waves in the ocean during storms",
+            "c": "Lack of water supply during summer",
+            "d": "Strong winds along the coast"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are flash floods?",
+        "options": {
+            "a": "Sudden floods caused by intense rainfall or dam failure",
+            "b": "Floods that occur gradually over months",
+            "c": "Seasonal floods caused by monsoon rains",
+            "d": "Floods caused by melting glaciers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India is prone to droughts?",
+        "options": {
+            "a": "Rajasthan and parts of Gujarat",
+            "b": "Kerala and Tamil Nadu",
+            "c": "Northeastern states",
+            "d": "Western Ghats"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a drought?",
+        "options": {
+            "a": "A prolonged period of inadequate rainfall",
+            "b": "A sudden rise in river water levels",
+            "c": "Excessive rainfall in short durations",
+            "d": "Waterlogging in agricultural fields"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main cause of a heatwave?",
+        "options": {
+            "a": "Prolonged periods of high temperatures",
+            "b": "Intense volcanic activity",
+            "c": "Cloud cover and heavy rains",
+            "d": "Sudden drop in atmospheric pressure"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region in India is most vulnerable to earthquakes?",
+        "options": {
+            "a": "Northeastern states and Himalayan region",
+            "b": "Coastal plains of Tamil Nadu",
+            "c": "Deccan Plateau",
+            "d": "Indo-Gangetic plains"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of a volcanic eruption?",
+        "options": {
+            "a": "Movement of tectonic plates creating magma pressure",
+            "b": "Excessive rainfall in mountainous regions",
+            "c": "Rapid melting of glaciers",
+            "d": "Rising temperatures during summer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the best way to mitigate the effects of a flood?",
+        "options": {
+            "a": "Building embankments and maintaining drainage systems",
+            "b": "Reducing the water level in dams",
+            "c": "Preventing all forms of rainfall",
+            "d": "Constructing more roads in urban areas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for a storm surge?",
+        "options": {
+            "a": "A rise in sea level caused by cyclones",
+            "b": "Heavy rainfall over deserts",
+            "c": "High-altitude winds blowing across mountains",
+            "d": "Sudden drying of river beds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is deforestation\u2019s impact on natural disasters?",
+        "options": {
+            "a": "It increases the risk of floods and landslides",
+            "b": "It reduces the chances of volcanic eruptions",
+            "c": "It prevents cyclones in coastal areas",
+            "d": "It strengthens earthquake resistance"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary tool for monitoring cyclones?",
+        "options": {
+            "a": "Satellites and Doppler radar",
+            "b": "Seismographs",
+            "c": "Barometers",
+            "d": "Thermometers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of disaster is commonly associated with climate change?",
+        "options": {
+            "a": "Increased frequency of floods and droughts",
+            "b": "Decreased volcanic eruptions",
+            "c": "Reduced earthquake activity",
+            "d": "Decrease in cyclonic storms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does urbanization contribute to floods?",
+        "options": {
+            "a": "It reduces natural drainage systems and increases surface runoff",
+            "b": "It increases water absorption in urban soils",
+            "c": "It prevents rainfall in cities",
+            "d": "It reduces sea level rise"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the National Disaster Management Authority (NDMA)?",
+        "options": {
+            "a": "An agency responsible for disaster preparedness and response in India",
+            "b": "A meteorological department for weather forecasting",
+            "c": "A financial institution supporting disaster recovery",
+            "d": "A governmental body for monitoring seismic activity"
+        },
+        "answer": "a"
+    }
+]

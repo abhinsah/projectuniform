@@ -1,0 +1,1972 @@
+[
+    {
+        "question": "What is matter?",
+        "options": {
+            "a": "Anything that occupies space and has mass",
+            "b": "Anything that produces energy",
+            "c": "Anything visible to the naked eye",
+            "d": "Anything that reflects light"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ancient concept classified matter as \"Panch Tatva\"?",
+        "options": {
+            "a": "Modern science",
+            "b": "Greek philosophy",
+            "c": "Indian philosophy",
+            "d": "Roman philosophy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT considered matter?",
+        "options": {
+            "a": "Air",
+            "b": "Love",
+            "c": "Water",
+            "d": "Stone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the physical state of water at 0\u00b0C?",
+        "options": {
+            "a": "Solid",
+            "b": "Liquid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the level of water when salt dissolves in it?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains the same",
+            "d": "Evaporates"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The smallest particles of matter are:",
+        "options": {
+            "a": "Atoms",
+            "b": "Molecules",
+            "c": "Particles beyond human imagination",
+            "d": "Ions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What term describes the process of mixing particles of two different substances?",
+        "options": {
+            "a": "Fusion",
+            "b": "Sublimation",
+            "c": "Diffusion",
+            "d": "Evaporation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does the smell of hot food reach farther than cold food?",
+        "options": {
+            "a": "Due to increased molecular weight",
+            "b": "Due to higher diffusion rate at higher temperature",
+            "c": "Because hot food has more particles",
+            "d": "Hot food evaporates instantly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The strength of attraction between particles is maximum in:",
+        "options": {
+            "a": "Solids",
+            "b": "Liquids",
+            "c": "Gases",
+            "d": "Plasma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the SI unit of volume?",
+        "options": {
+            "a": "Liter",
+            "b": "Cubic meter",
+            "c": "Milliliter",
+            "d": "Cubic centimeter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these substances is most compressible?",
+        "options": {
+            "a": "Iron",
+            "b": "Water",
+            "c": "Air",
+            "d": "Chalk"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What property allows a diver to cut through water?",
+        "options": {
+            "a": "Density",
+            "b": "Compressibility",
+            "c": "Interparticle space",
+            "d": "Rigidity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which process describes a solid directly converting to gas?",
+        "options": {
+            "a": "Fusion",
+            "b": "Boiling",
+            "c": "Sublimation",
+            "d": "Deposition"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is latent heat?",
+        "options": {
+            "a": "Heat required to raise temperature by 1\u00b0C",
+            "b": "Heat absorbed or released without temperature change",
+            "c": "Heat required to freeze a liquid",
+            "d": "Heat required to expand a gas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the boiling point of water in Kelvin?",
+        "options": {
+            "a": "373 K",
+            "b": "273 K",
+            "c": "100 K",
+            "d": "0 K"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when a gas is compressed?",
+        "options": {
+            "a": "Temperature decreases",
+            "b": "Particles move closer",
+            "c": "Particles lose kinetic energy",
+            "d": "Gas changes to solid"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The phenomenon of evaporation causes:",
+        "options": {
+            "a": "Heating",
+            "b": "Cooling",
+            "c": "Expansion",
+            "d": "Compression"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the effect of increased wind speed on evaporation?",
+        "options": {
+            "a": "Decreases evaporation",
+            "b": "Has no effect",
+            "c": "Increases evaporation",
+            "d": "Slows down diffusion"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which state of matter has a definite volume but no fixed shape?",
+        "options": {
+            "a": "Solid",
+            "b": "Liquid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of energy is possessed by particles due to motion?",
+        "options": {
+            "a": "Potential energy",
+            "b": "Thermal energy",
+            "c": "Kinetic energy",
+            "d": "Chemical energy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The SI unit of pressure is:",
+        "options": {
+            "a": "Atmosphere",
+            "b": "Pascal",
+            "c": "Bar",
+            "d": "Torr"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The process of a gas turning into liquid is called:",
+        "options": {
+            "a": "Condensation",
+            "b": "Vaporization",
+            "c": "Sublimation",
+            "d": "Freezing"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor affects the rate of evaporation?",
+        "options": {
+            "a": "Surface area",
+            "b": "Wind speed",
+            "c": "Humidity",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the physical state of water at 250\u00b0C?",
+        "options": {
+            "a": "Solid",
+            "b": "Liquid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does ice float on water?",
+        "options": {
+            "a": "Ice is denser than water",
+            "b": "Ice has more intermolecular space",
+            "c": "Ice is compressible",
+            "d": "Ice has a lower freezing point"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of clothes is suitable for summer?",
+        "options": {
+            "a": "Woolen clothes",
+            "b": "Cotton clothes",
+            "c": "Synthetic clothes",
+            "d": "Nylon clothes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the effect of temperature on diffusion?",
+        "options": {
+            "a": "Slows down diffusion",
+            "b": "Speeds up diffusion",
+            "c": "Stops diffusion",
+            "d": "No effect"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is an example of a liquid changing to gas without boiling?",
+        "options": {
+            "a": "Freezing",
+            "b": "Diffusion",
+            "c": "Evaporation",
+            "d": "Condensation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A sponge is considered a solid because:",
+        "options": {
+            "a": "It retains shape under all conditions",
+            "b": "It has air pockets within it",
+            "c": "It is highly compressible",
+            "d": "It has a definite shape and volume"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is dry ice?",
+        "options": {
+            "a": "Solid oxygen",
+            "b": "Solid carbon dioxide",
+            "c": "Frozen water vapor",
+            "d": "Compressed air"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property of gases allows them to fill any container?",
+        "options": {
+            "a": "High density",
+            "b": "Low compressibility",
+            "c": "High diffusion",
+            "d": "Random movement of particles"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the term for the temperature at which a liquid turns into a gas?",
+        "options": {
+            "a": "Melting point",
+            "b": "Boiling point",
+            "c": "Freezing point",
+            "d": "Sublimation point"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the name for heat required to convert a liquid to gas at boiling point?",
+        "options": {
+            "a": "Latent heat of fusion",
+            "b": "Latent heat of vaporization",
+            "c": "Heat of condensation",
+            "d": "Heat of melting"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the density of a substance measured in?",
+        "options": {
+            "a": "kg/m\u00b3",
+            "b": "kg/m\u00b2",
+            "c": "Pa",
+            "d": "N/m\u00b3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which state of matter has the least force of attraction between particles?",
+        "options": {
+            "a": "Solid",
+            "b": "Liquid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these substances undergoes sublimation?",
+        "options": {
+            "a": "Water",
+            "b": "Camphor",
+            "c": "Milk",
+            "d": "Chalk"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which statement about liquids is true?",
+        "options": {
+            "a": "They have a fixed shape and volume",
+            "b": "They are rigid",
+            "c": "They have a fixed volume but no fixed shape",
+            "d": "They have negligible compressibility"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the Kelvin equivalent of 25\u00b0C?",
+        "options": {
+            "a": "273 K",
+            "b": "298 K",
+            "c": "303 K",
+            "d": "373 K"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which process describes the conversion of gas to solid?",
+        "options": {
+            "a": "Condensation",
+            "b": "Fusion",
+            "c": "Sublimation",
+            "d": "Deposition"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Why do naphthalene balls disappear over time?",
+        "options": {
+            "a": "Condensation",
+            "b": "Evaporation",
+            "c": "Sublimation",
+            "d": "Freezing"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why do we see water droplets on the outside of a cold glass?",
+        "options": {
+            "a": "Water leaks through the glass",
+            "b": "Air condenses into water droplets",
+            "c": "Water evaporates from the glass surface",
+            "d": "The glass releases water molecules"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the kinetic energy of particles when temperature increases?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Fluctuates randomly"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why is boiling considered a bulk phenomenon?",
+        "options": {
+            "a": "It occurs only at the surface of the liquid",
+            "b": "It involves the entire volume of the liquid",
+            "c": "It requires latent heat of fusion",
+            "d": "It happens only under high pressure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the melting point if atmospheric pressure is increased?",
+        "options": {
+            "a": "Decreases",
+            "b": "Increases",
+            "c": "Remains the same",
+            "d": "Melting stops"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why do wet clothes dry faster under a fan?",
+        "options": {
+            "a": "Higher temperature",
+            "b": "Increased wind speed accelerates evaporation",
+            "c": "Reduced surface area",
+            "d": "Decreased humidity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why does steam cause more severe burns than boiling water?",
+        "options": {
+            "a": "It has higher temperature",
+            "b": "It has higher kinetic energy",
+            "c": "It contains latent heat of vaporization",
+            "d": "It is a gas"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does water in an earthen pot become cooler in summer?",
+        "options": {
+            "a": "Evaporation absorbs heat from water",
+            "b": "Clay pot releases cold air",
+            "c": "Water diffuses into the pot",
+            "d": "Pot conducts heat away from water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the direct conversion of liquid to vapor below boiling point?",
+        "options": {
+            "a": "Diffusion",
+            "b": "Evaporation",
+            "c": "Sublimation",
+            "d": "Condensation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property of liquids is responsible for them taking the shape of a container?",
+        "options": {
+            "a": "High compressibility",
+            "b": "Low density",
+            "c": "Weak intermolecular forces",
+            "d": "Absence of definite shape"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the latent heat of fusion of ice?",
+        "options": {
+            "a": "Heat required to convert ice into water at 273 K",
+            "b": "Heat required to boil water at 100\u00b0C",
+            "c": "Heat required to sublimate ice into vapor",
+            "d": "Heat required to freeze water into ice"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does \"pure\" mean to a scientist?",
+        "options": {
+            "a": "Having no adulteration",
+            "b": "Containing only one type of particle",
+            "c": "Having a fixed volume",
+            "d": "Homogeneous in appearance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a mixture?",
+        "options": {
+            "a": "Sugar",
+            "b": "Salt",
+            "c": "Air",
+            "d": "Water"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a homogeneous mixture?",
+        "options": {
+            "a": "A mixture with a uniform composition throughout",
+            "b": "A mixture with visible different parts",
+            "c": "A chemically combined substance",
+            "d": "A single-element mixture"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a homogeneous mixture?",
+        "options": {
+            "a": "Oil and water",
+            "b": "Sugar dissolved in water",
+            "c": "Sand and salt",
+            "d": "Iron filings and sulfur"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a suspension?",
+        "options": {
+            "a": "A homogeneous mixture",
+            "b": "A mixture with visible solute particles",
+            "c": "A solution with a high concentration",
+            "d": "A chemically bonded compound"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property is true for colloids?",
+        "options": {
+            "a": "Particles settle down over time",
+            "b": "Scatter a beam of light",
+            "c": "Components are chemically combined",
+            "d": "Particles visible to the naked eye"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which effect demonstrates light scattering in a colloid?",
+        "options": {
+            "a": "Evaporation",
+            "b": "Centrifugation",
+            "c": "Tyndall effect",
+            "d": "Boiling"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the dispersed phase in milk?",
+        "options": {
+            "a": "Liquid",
+            "b": "Solid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which method can separate colloids?",
+        "options": {
+            "a": "Filtration",
+            "b": "Distillation",
+            "c": "Centrifugation",
+            "d": "Evaporation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is an alloy?",
+        "options": {
+            "a": "A pure compound",
+            "b": "A solid solution of metals",
+            "c": "A colloid",
+            "d": "A suspension"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main component of air?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon dioxide",
+            "d": "Argon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which mixture shows variable composition?",
+        "options": {
+            "a": "Pure compound",
+            "b": "Element",
+            "c": "Mixture",
+            "d": "Alloy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a solute in a solution?",
+        "options": {
+            "a": "Component dissolved in a solvent",
+            "b": "Major component of the solution",
+            "c": "Insoluble particles",
+            "d": "Medium of dispersion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a saturated solution?",
+        "options": {
+            "a": "Contains more solute than solvent",
+            "b": "Contains solute that cannot dissolve further",
+            "c": "Homogeneous and unstable mixture",
+            "d": "A mixture of two immiscible liquids"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when a saturated solution cools?",
+        "options": {
+            "a": "Dissolves more solute",
+            "b": "Forms crystals",
+            "c": "Turns into a suspension",
+            "d": "Becomes homogeneous"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a heterogeneous mixture?",
+        "options": {
+            "a": "Air",
+            "b": "Soda water",
+            "c": "Soil",
+            "d": "Filtered tea"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which mixture is unstable?",
+        "options": {
+            "a": "Colloid",
+            "b": "Suspension",
+            "c": "Solution",
+            "d": "Alloy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an example of a physical change?",
+        "options": {
+            "a": "Burning wood",
+            "b": "Rusting iron",
+            "c": "Dissolving salt in water",
+            "d": "Cooking food"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is an example of a chemical change?",
+        "options": {
+            "a": "Melting ice",
+            "b": "Freezing water",
+            "c": "Digestion of food",
+            "d": "Breaking glass"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which gas is a main component of soda water?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Carbon dioxide",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How is a mixture different from a compound?",
+        "options": {
+            "a": "Mixture has a fixed composition",
+            "b": "Mixture can be separated physically",
+            "c": "Mixture has properties of new substances",
+            "d": "Mixture is a homogeneous substance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the size of particles in a colloid?",
+        "options": {
+            "a": "Larger than 1 nm",
+            "b": "Between 1 nm and 100 nm",
+            "c": "Smaller than 1 nm",
+            "d": "Visible to naked eye"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a pure substance?",
+        "options": {
+            "a": "Air",
+            "b": "Ice",
+            "c": "Soil",
+            "d": "Milk"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of change is freezing of water?",
+        "options": {
+            "a": "Physical",
+            "b": "Chemical",
+            "c": "Irreversible",
+            "d": "Combustion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Tyndall effect prove?",
+        "options": {
+            "a": "Colloid particles are large enough to scatter light",
+            "b": "Colloids are unstable",
+            "c": "Colloids are homogeneous",
+            "d": "Colloids settle over time"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these is a method to separate immiscible liquids?",
+        "options": {
+            "a": "Distillation",
+            "b": "Centrifugation",
+            "c": "Separating funnel",
+            "d": "Filtration"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What defines a compound?",
+        "options": {
+            "a": "Fixed ratio of elements chemically bonded",
+            "b": "Physical mixture of elements",
+            "c": "Components retain individual properties",
+            "d": "Can be separated by filtration"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary property of metals?",
+        "options": {
+            "a": "Poor conductivity",
+            "b": "High malleability",
+            "c": "Low melting points",
+            "d": "Non-lustrous appearance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which element is liquid at room temperature?",
+        "options": {
+            "a": "Iron",
+            "b": "Mercury",
+            "c": "Silver",
+            "d": "Sodium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which non-metal exists as a liquid at room temperature?",
+        "options": {
+            "a": "Carbon",
+            "b": "Oxygen",
+            "c": "Bromine",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What separates solid impurities from liquids?",
+        "options": {
+            "a": "Filtration",
+            "b": "Centrifugation",
+            "c": "Decantation",
+            "d": "Distillation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a chemical reaction?",
+        "options": {
+            "a": "Mixing salt and sand",
+            "b": "Heating sugar to produce caramel",
+            "c": "Stirring sand in water",
+            "d": "Evaporation of water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the dispersing medium in fog?",
+        "options": {
+            "a": "Liquid",
+            "b": "Solid",
+            "c": "Gas",
+            "d": "Plasma"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these mixtures can be separated using a magnet?",
+        "options": {
+            "a": "Salt and sugar",
+            "b": "Iron filings and sulfur",
+            "c": "Water and oil",
+            "d": "Copper sulfate and water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a sol?",
+        "options": {
+            "a": "Milk",
+            "b": "Mud",
+            "c": "Air",
+            "d": "Soda water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens in a chemical change?",
+        "options": {
+            "a": "No new substance is formed",
+            "b": "A new substance with different properties is formed",
+            "c": "Components are mixed physically",
+            "d": "Components are separated physically"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which technique separates dissolved solids from liquids?",
+        "options": {
+            "a": "Decantation",
+            "b": "Evaporation",
+            "c": "Centrifugation",
+            "d": "Filtration"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these shows the highest solubility at 293 K?",
+        "options": {
+            "a": "Sodium chloride",
+            "b": "Potassium nitrate",
+            "c": "Potassium chloride",
+            "d": "Ammonium chloride"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a metalloid?",
+        "options": {
+            "a": "Iron",
+            "b": "Silicon",
+            "c": "Bromine",
+            "d": "Mercury"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is used to separate pigments from flower extracts?",
+        "options": {
+            "a": "Centrifugation",
+            "b": "Distillation",
+            "c": "Chromatography",
+            "d": "Filtration"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What do we call the solid left after filtration?",
+        "options": {
+            "a": "Solute",
+            "b": "Residue",
+            "c": "Filtrate",
+            "d": "Solution"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What defines an emulsion?",
+        "options": {
+            "a": "Solid in liquid",
+            "b": "Liquid in liquid",
+            "c": "Gas in liquid",
+            "d": "Gas in gas"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which metal is ductile?",
+        "options": {
+            "a": "Carbon",
+            "b": "Sodium",
+            "c": "Copper",
+            "d": "Sulfur"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What separates heavier particles in liquids?",
+        "options": {
+            "a": "Filtration",
+            "b": "Centrifugation",
+            "c": "Evaporation",
+            "d": "Chromatography"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are compounds formed by?",
+        "options": {
+            "a": "Physical mixing",
+            "b": "Chemical reactions",
+            "c": "Grinding of elements",
+            "d": "Mechanical separation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": {
+            "a": "50\u00b0C",
+            "b": "100\u00b0C",
+            "c": "150\u00b0C",
+            "d": "200\u00b0C"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these does not show Tyndall effect?",
+        "options": {
+            "a": "Starch solution",
+            "b": "Copper sulfate solution",
+            "c": "Milk",
+            "d": "Fog"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of change is rusting?",
+        "options": {
+            "a": "Physical",
+            "b": "Chemical",
+            "c": "Reversible",
+            "d": "Suspension"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gas supports combustion?",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Carbon dioxide",
+            "c": "Oxygen",
+            "d": "Argon"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of mixture is blood?",
+        "options": {
+            "a": "Solution",
+            "b": "Suspension",
+            "c": "Colloid",
+            "d": "Compound"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What did Maharishi Kanad name the smallest indivisible particles of matter?",
+        "options": {
+            "a": "Parmanu",
+            "b": "Atom",
+            "c": "Proton",
+            "d": "Electron"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who proposed the law of conservation of mass?",
+        "options": {
+            "a": "Democritus",
+            "b": "Lavoisier",
+            "c": "Dalton",
+            "d": "Proust"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which law states that mass is neither created nor destroyed in a chemical reaction?",
+        "options": {
+            "a": "Law of constant proportions",
+            "b": "Law of conservation of mass",
+            "c": "Dalton's atomic theory",
+            "d": "Avogadro's law"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In water, what is the mass ratio of hydrogen to oxygen?",
+        "options": {
+            "a": "1:8",
+            "b": "8:1",
+            "c": "2:1",
+            "d": "1:2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is Dalton's first postulate of atomic theory?",
+        "options": {
+            "a": "Atoms are indivisible particles",
+            "b": "Atoms combine in whole-number ratios",
+            "c": "All matter is composed of tiny particles called atoms",
+            "d": "Atoms of different elements have different properties"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What term refers to the building blocks of matter?",
+        "options": {
+            "a": "Molecules",
+            "b": "Compounds",
+            "c": "Atoms",
+            "d": "Elements"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the approximate size of an atom?",
+        "options": {
+            "a": "10\u207b\u00b9\u2070 meters",
+            "b": "10\u207b\u2078 meters",
+            "c": "10\u207b\u2075 meters",
+            "d": "10\u207b\u00b3 meters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What organization approves the names and symbols of elements?",
+        "options": {
+            "a": "NASA",
+            "b": "IUPAC",
+            "c": "WHO",
+            "d": "UNESCO"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a diatomic molecule?",
+        "options": {
+            "a": "Helium",
+            "b": "Oxygen",
+            "c": "Argon",
+            "d": "Neon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the chemical formula H\u2082O represent?",
+        "options": {
+            "a": "Two hydrogen atoms and one oxygen atom",
+            "b": "Two oxygen atoms and one hydrogen atom",
+            "c": "One hydrogen atom and one oxygen atom",
+            "d": "Two oxygen molecules"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the atomic mass of oxygen?",
+        "options": {
+            "a": "8 u",
+            "b": "16 u",
+            "c": "12 u",
+            "d": "32 u"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the standard reference element for atomic mass?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Carbon-12",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of ion is positively charged?",
+        "options": {
+            "a": "Anion",
+            "b": "Cation",
+            "c": "Polyatomic",
+            "d": "Neutral"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is an example of a polyatomic ion?",
+        "options": {
+            "a": "Na\u207a",
+            "b": "Cl\u207b",
+            "c": "NH\u2084\u207a",
+            "d": "O\u00b2\u207b"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How many valence electrons does nitrogen have?",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What does the formula NaCl represent?",
+        "options": {
+            "a": "Sodium carbonate",
+            "b": "Sodium chloride",
+            "c": "Sodium hydroxide",
+            "d": "Sodium sulfate"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is a molecular compound?",
+        "options": {
+            "a": "CO\u2082",
+            "b": "NaCl",
+            "c": "MgO",
+            "d": "CaCO\u2083"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the molecular mass of H\u2082O?",
+        "options": {
+            "a": "18 u",
+            "b": "16 u",
+            "c": "20 u",
+            "d": "12 u"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the valency of calcium?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula of magnesium hydroxide?",
+        "options": {
+            "a": "MgOH",
+            "b": "Mg\u2082OH",
+            "c": "Mg(OH)\u2082",
+            "d": "MgO\u2082"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the unit of atomic mass?",
+        "options": {
+            "a": "Grams",
+            "b": "Unified mass (u)",
+            "c": "Kilograms",
+            "d": "Moles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the law of constant proportions?",
+        "options": {
+            "a": "Atoms combine in fixed mass ratios",
+            "b": "Mass is conserved in a chemical reaction",
+            "c": "Atoms combine in whole numbers",
+            "d": "Mass is directly proportional to volume"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which compound consists of one sodium and one chlorine atom?",
+        "options": {
+            "a": "Na\u2082Cl",
+            "b": "NaCl\u2082",
+            "c": "NaCl",
+            "d": "ClNa"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a formula unit?",
+        "options": {
+            "a": "A symbolic representation of a compound",
+            "b": "A unit used for simple molecules",
+            "c": "Representation of ions in a compound",
+            "d": "A measure of the atomic radius"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the molecular mass of CO\u2082?",
+        "options": {
+            "a": "44 u",
+            "b": "32 u",
+            "c": "28 u",
+            "d": "18 u"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the ions present in sodium hydroxide?",
+        "options": {
+            "a": "Na\u207a and OH\u207b",
+            "b": "Na\u207a and H\u207a",
+            "c": "Na\u207b and OH\u207a",
+            "d": "Na and H"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of these is a binary compound?",
+        "options": {
+            "a": "H\u2082SO\u2084",
+            "b": "HCl",
+            "c": "Na\u2082CO\u2083",
+            "d": "K\u2082SO\u2084"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula of calcium carbonate?",
+        "options": {
+            "a": "Ca\u2082CO\u2083",
+            "b": "CaCO\u2083",
+            "c": "Ca\u2083CO\u2083",
+            "d": "CaC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a monatomic molecule?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Argon",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of bond is found in H\u2082O?",
+        "options": {
+            "a": "Ionic bond",
+            "b": "Covalent bond",
+            "c": "Metallic bond",
+            "d": "Hydrogen bond"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the molar mass of CH\u2084?",
+        "options": {
+            "a": "12 u",
+            "b": "16 u",
+            "c": "20 u",
+            "d": "18 u"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which polyatomic ion has a charge of 3-?",
+        "options": {
+            "a": "CO\u2083\u00b2\u207b",
+            "b": "PO\u2084\u00b3\u207b",
+            "c": "SO\u2084\u00b2\u207b",
+            "d": "NO\u2083\u207b"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How are atoms of a molecule held together?",
+        "options": {
+            "a": "Gravity",
+            "b": "Nuclear forces",
+            "c": "Chemical bonds",
+            "d": "Magnetic forces"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the chemical formula of sulfuric acid?",
+        "options": {
+            "a": "H\u2082SO\u2083",
+            "b": "H\u2082SO\u2084",
+            "c": "H\u2083SO\u2083",
+            "d": "H\u2084SO\u2084"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the symbol for potassium?",
+        "options": {
+            "a": "P",
+            "b": "Po",
+            "c": "K",
+            "d": "Pt"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these is an example of a triatomic molecule?",
+        "options": {
+            "a": "CO",
+            "b": "O\u2083",
+            "c": "H\u2082",
+            "d": "Ar"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the molecular mass of NH\u2083?",
+        "options": {
+            "a": "14 u",
+            "b": "17 u",
+            "c": "18 u",
+            "d": "16 u"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chemical formula of baking soda?",
+        "options": {
+            "a": "Na\u2082CO\u2083",
+            "b": "NaHCO\u2083",
+            "c": "NaCl",
+            "d": "Na\u2082SO\u2084"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula unit mass of NaCl?",
+        "options": {
+            "a": "58.5 u",
+            "b": "60 u",
+            "c": "50.5 u",
+            "d": "55 u"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the subscript in H\u2082 represent?",
+        "options": {
+            "a": "Charge on the molecule",
+            "b": "Number of hydrogen atoms",
+            "c": "Atomic mass",
+            "d": "Molar ratio"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the valency of oxygen?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a triatomic molecule?",
+        "options": {
+            "a": "H\u2082O",
+            "b": "CO\u2082",
+            "c": "O\u2083",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the charge on a chloride ion?",
+        "options": {
+            "a": "+1",
+            "b": "-1",
+            "c": "+2",
+            "d": "-2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of bond is found in NaCl?",
+        "options": {
+            "a": "Covalent bond",
+            "b": "Ionic bond",
+            "c": "Metallic bond",
+            "d": "Hydrogen bond"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula of ammonium sulfate?",
+        "options": {
+            "a": "(NH\u2084)\u2082SO\u2083",
+            "b": "(NH\u2084)\u2082SO\u2084",
+            "c": "NH\u2084SO\u2084",
+            "d": "NH\u2084SO\u2083"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a compound?",
+        "options": {
+            "a": "Air",
+            "b": "Oxygen",
+            "c": "Carbon dioxide",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": {
+            "a": "Ir",
+            "b": "Fe",
+            "c": "In",
+            "d": "I"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How many atoms are present in one molecule of methane?",
+        "options": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "7"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the prefix \"mono-\" signify in a chemical formula?",
+        "options": {
+            "a": "One",
+            "b": "Two",
+            "c": "Three",
+            "d": "None"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the valency of sodium?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who discovered electrons?",
+        "options": {
+            "a": "J.J. Thomson",
+            "b": "E. Goldstein",
+            "c": "Ernest Rutherford",
+            "d": "James Chadwick"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are canal rays?",
+        "options": {
+            "a": "Negatively charged particles",
+            "b": "Positively charged particles",
+            "c": "Neutral particles",
+            "d": "Electrons"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the mass of a proton?",
+        "options": {
+            "a": "Equal to an electron",
+            "b": "Negligible",
+            "c": "1 atomic mass unit (amu)",
+            "d": "2 atomic mass units"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "According to J.J. Thomson\u2019s model, how are electrons arranged in an atom?",
+        "options": {
+            "a": "Revolving around the nucleus",
+            "b": "Embedded in a positively charged sphere",
+            "c": "Freely moving in space",
+            "d": "In fixed energy levels"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which experiment led to the discovery of the nucleus?",
+        "options": {
+            "a": "Cathode ray experiment",
+            "b": "Alpha-particle scattering experiment",
+            "c": "Oil-drop experiment",
+            "d": "Photoelectric effect"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What observation led Rutherford to conclude that most of the atom is empty space?",
+        "options": {
+            "a": "Alpha particles were deflected at large angles",
+            "b": "Alpha particles passed straight through the gold foil",
+            "c": "Alpha particles rebounded completely",
+            "d": "Alpha particles were absorbed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the central core of an atom called?",
+        "options": {
+            "a": "Nucleus",
+            "b": "Proton",
+            "c": "Electron",
+            "d": "Shell"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What major flaw existed in Rutherford\u2019s model?",
+        "options": {
+            "a": "Electrons would lose energy and fall into the nucleus",
+            "b": "Electrons could not be located",
+            "c": "It failed to explain the existence of isotopes",
+            "d": "It did not discover neutrons"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who proposed the idea of fixed orbits for electrons?",
+        "options": {
+            "a": "Rutherford",
+            "b": "J.J. Thomson",
+            "c": "Neils Bohr",
+            "d": "James Chadwick"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the maximum number of electrons in the second energy level?",
+        "options": {
+            "a": "2",
+            "b": "8",
+            "c": "18",
+            "d": "32"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How are electrons distributed in energy levels?",
+        "options": {
+            "a": "2n\u00b2",
+            "b": "2n",
+            "c": "2\u00b2n",
+            "d": "2n\u00b3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which particle has no charge?",
+        "options": {
+            "a": "Electron",
+            "b": "Proton",
+            "c": "Neutron",
+            "d": "Alpha particle"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the mass number of an atom?",
+        "options": {
+            "a": "Number of protons and neutrons",
+            "b": "Number of protons",
+            "c": "Number of electrons",
+            "d": "Number of protons and electrons"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the atomic number of an element with 7 protons?",
+        "options": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "14"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are isotopes?",
+        "options": {
+            "a": "Atoms with the same mass number but different atomic numbers",
+            "b": "Atoms with the same atomic number but different mass numbers",
+            "c": "Atoms with different atomic numbers and mass numbers",
+            "d": "Atoms with the same number of electrons but different protons"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the atomic mass of an isotope of hydrogen with one proton and one neutron?",
+        "options": {
+            "a": "1 u",
+            "b": "2 u",
+            "c": "3 u",
+            "d": "4 u"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the charge of a chloride ion (Cl\u207b)?",
+        "options": {
+            "a": "+1",
+            "b": "-1",
+            "c": "Neutral",
+            "d": "+2"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the valency of nitrogen in ammonia (NH\u2083)?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which element has a completely filled K-shell and L-shell?",
+        "options": {
+            "a": "Sodium",
+            "b": "Neon",
+            "c": "Fluorine",
+            "d": "Magnesium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the ratio of protons to neutrons in carbon",
+        "options": {
+            "a": "6:8",
+            "b": "7:7",
+            "c": "8:6",
+            "d": "6:6"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which of these is used in the treatment of cancer?",
+        "options": {
+            "a": "Isotope of cobalt",
+            "b": "Isotope of iodine",
+            "c": "Isotope of uranium",
+            "d": "Isotope of chlorine"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the valency of oxygen in water (H\u2082O)?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "4",
+            "d": "6"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which scientist discovered neutrons?",
+        "options": {
+            "a": "J.J. Thomson",
+            "b": "E. Goldstein",
+            "c": "James Chadwick",
+            "d": "Neils Bohr"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the average atomic mass of chlorine if its isotopes are 35 𝐶 𝑙 35 Cl (with a relative abundance of 75%) and 37 𝐶 𝑙 37 Cl (with a relative abundance of 25%)?",
+        "options": {
+            "a": "36 u",
+            "b": "35.5 u",
+            "c": "35 u",
+            "d": "37 u"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How many neutrons does an atom of oxygen",
+        "options": {
+            "a": "6",
+            "b": "8",
+            "c": "16",
+            "d": "24"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the chemical symbol for an isotope of hydrogen with two neutrons?",
+        "options": {
+            "a": "H",
+            "b": "D",
+            "c": "T",
+            "d": "H\u2082"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following isotopes is used in the treatment of goitre?",
+        "options": {
+            "a": "Uranium-235",
+            "b": "Cobalt-60",
+            "c": "Iodine-131",
+            "d": "Carbon-14"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the maximum number of electrons that can be accommodated in the M-shell?",
+        "options": {
+            "a": "2",
+            "b": "8",
+            "c": "18",
+            "d": "32"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these is NOT a feature of Bohr\u2019s atomic model?",
+        "options": {
+            "a": "Electrons revolve around the nucleus in fixed orbits",
+            "b": "Electrons radiate energy while in their orbits",
+            "c": "Energy levels are discrete",
+            "d": "The atom is stable"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the electronic configuration of sodium (atomic number = 11)?",
+        "options": {
+            "a": "2,8,1",
+            "b": "2,7,2",
+            "c": "2,8,2",
+            "d": "2,6,3"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which element has 2 electrons in its outermost shell and an atomic number of 12?",
+        "options": {
+            "a": "Magnesium",
+            "b": "Calcium",
+            "c": "Carbon",
+            "d": "Sulfur"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What do isobars have in common?",
+        "options": {
+            "a": "Same atomic number",
+            "b": "Same mass number",
+            "c": "Same number of protons",
+            "d": "Same number of electrons"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The valency of an element with atomic number 16 is:",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How many electrons does a chloride ion (Cl\u207b) have if the atomic number of chlorine is 17?",
+        "options": {
+            "a": "16",
+            "b": "17",
+            "c": "18",
+            "d": "19"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following elements is chemically inert?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Helium",
+            "d": "Nitrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the electronic configuration of an atom with atomic number 18?",
+        "options": {
+            "a": "2,8,8",
+            "b": "2,6,10",
+            "c": "2,7,9",
+            "d": "2,8,2"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which scientist is credited with the discovery of the proton?",
+        "options": {
+            "a": "J.J. Thomson",
+            "b": "E. Goldstein",
+            "c": "Rutherford",
+            "d": "Bohr"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the atomic number of an element with 19 protons?",
+        "options": {
+            "a": "18",
+            "b": "19",
+            "c": "20",
+            "d": "21"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which energy level has the highest energy in an atom?",
+        "options": {
+            "a": "K-shell",
+            "b": "L-shell",
+            "c": "M-shell",
+            "d": "Outermost shell"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which subatomic particle determines the chemical properties of an atom?",
+        "options": {
+            "a": "Proton",
+            "b": "Neutron",
+            "c": "Electron",
+            "d": "Nucleus"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How many electrons are there in an atom of sulfur (atomic number 16)?",
+        "options": {
+            "a": "6",
+            "b": "8",
+            "c": "16",
+            "d": "32"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of elements have a valency of 0?",
+        "options": {
+            "a": "Metals",
+            "b": "Non-metals",
+            "c": "Noble gases",
+            "d": "Metalloids"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which element has an atomic mass of 40 u and 20 protons?",
+        "options": {
+            "a": "Potassium",
+            "b": "Calcium",
+            "c": "Argon",
+            "d": "Sodium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The nucleus of an atom consists of:",
+        "options": {
+            "a": "Only protons",
+            "b": "Only neutrons",
+            "c": "Protons and neutrons",
+            "d": "Protons, neutrons, and electrons"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which isotope is commonly used in carbon dating?",
+        "options": {
+            "a": "Carbon-12",
+            "b": "Carbon-13",
+            "c": "Carbon-14",
+            "d": "Carbon-15"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which element has the electronic configuration 2,8,7?",
+        "options": {
+            "a": "Fluorine",
+            "b": "Chlorine",
+            "c": "Bromine",
+            "d": "Iodine"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which subatomic particle has the least mass?",
+        "options": {
+            "a": "Proton",
+            "b": "Neutron",
+            "c": "Electron",
+            "d": "Alpha particle"
+        },
+        "answer": "c"
+    }
+]

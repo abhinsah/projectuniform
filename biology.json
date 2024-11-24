@@ -1,0 +1,2002 @@
+[
+    {
+        "question": "Who discovered cells for the first time?",
+        "options": {
+            "a": "Robert Brown",
+            "b": "Robert Hooke",
+            "c": "Schwann",
+            "d": "Virchow"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What did Robert Hooke observe in cork slices?",
+        "options": {
+            "a": "Organelles",
+            "b": "Cell walls",
+            "c": "Protoplasm",
+            "d": "Nuclei"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are unicellular organisms?",
+        "options": {
+            "a": "Organisms made of multiple cells",
+            "b": "Organisms made of a single cell",
+            "c": "Organisms with no cells",
+            "d": "Organisms with a nucleus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+        "options": {
+            "a": "Nucleus",
+            "b": "Lysosome",
+            "c": "Mitochondria",
+            "d": "Golgi apparatus"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the basic functional and structural unit of life?",
+        "options": {
+            "a": "Atom",
+            "b": "Cell",
+            "c": "Tissue",
+            "d": "Organelle"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which structure provides rigidity and strength to plant cells?",
+        "options": {
+            "a": "Plasma membrane",
+            "b": "Cell wall",
+            "c": "Cytoplasm",
+            "d": "Nucleus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the plasma membrane?",
+        "options": {
+            "a": "Energy production",
+            "b": "Protein synthesis",
+            "c": "Regulates entry and exit of substances",
+            "d": "Photosynthesis"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is diffusion?",
+        "options": {
+            "a": "Movement of water through a membrane",
+            "b": "Movement of substances from higher to lower concentration",
+            "c": "Movement of particles using energy",
+            "d": "Random motion of particles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is osmosis?",
+        "options": {
+            "a": "Active transport of molecules",
+            "b": "Diffusion of water through a selectively permeable membrane",
+            "c": "Absorption of nutrients",
+            "d": "Loss of water by evaporation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to a cell in a hypertonic solution?",
+        "options": {
+            "a": "Swells",
+            "b": "Shrinks",
+            "c": "Remains unchanged",
+            "d": "Absorbs solutes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which scientist discovered the nucleus?",
+        "options": {
+            "a": "Schleiden",
+            "b": "Schwann",
+            "c": "Robert Brown",
+            "d": "Virchow"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of ribosomes?",
+        "options": {
+            "a": "Energy production",
+            "b": "Protein synthesis",
+            "c": "Lipid storage",
+            "d": "Photosynthesis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organelle contains digestive enzymes?",
+        "options": {
+            "a": "Nucleus",
+            "b": "Lysosome",
+            "c": "Mitochondria",
+            "d": "Golgi apparatus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of chloroplasts in plant cells?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Respiration",
+            "c": "Protein synthesis",
+            "d": "Waste disposal"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which term describes the cell's control center?",
+        "options": {
+            "a": "Cytoplasm",
+            "b": "Plasma membrane",
+            "c": "Nucleus",
+            "d": "Endoplasmic reticulum"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is plasmolysis?",
+        "options": {
+            "a": "Division of cytoplasm",
+            "b": "Shrinkage of cytoplasm in a hypertonic solution",
+            "c": "Expansion of cell wall",
+            "d": "Diffusion of water molecules"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a prokaryotic cell?",
+        "options": {
+            "a": "Cell with a well-defined nucleus",
+            "b": "Cell lacking a nucleus",
+            "c": "Cell with chloroplasts",
+            "d": "Cell with large vacuoles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which structure is common in both plant and animal cells?",
+        "options": {
+            "a": "Cell wall",
+            "b": "Chloroplast",
+            "c": "Plasma membrane",
+            "d": "Large central vacuole"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are chromosomes made of?",
+        "options": {
+            "a": "Lipids",
+            "b": "DNA and proteins",
+            "c": "RNA and ribosomes",
+            "d": "Starch and cellulose"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are leucoplasts used for?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Protein synthesis",
+            "c": "Storage of starch, oil, and proteins",
+            "d": "Respiration"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which organelle is called the \"suicide bag\" of the cell?",
+        "options": {
+            "a": "Lysosome",
+            "b": "Mitochondria",
+            "c": "Golgi apparatus",
+            "d": "Ribosome"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main component of the cell wall?",
+        "options": {
+            "a": "Lipids",
+            "b": "Proteins",
+            "c": "Cellulose",
+            "d": "Chlorophyll"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main function of vacuoles in plant cells?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Respiration",
+            "c": "Storage and maintaining turgor pressure",
+            "d": "Protein synthesis"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which organelle synthesizes lipids?",
+        "options": {
+            "a": "Smooth endoplasmic reticulum (SER)",
+            "b": "Rough endoplasmic reticulum (RER)",
+            "c": "Golgi apparatus",
+            "d": "Ribosome"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of mitochondria in a cell?",
+        "options": {
+            "a": "Lipid synthesis",
+            "b": "Energy production",
+            "c": "Protein synthesis",
+            "d": "DNA replication"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the energy currency of the cell?",
+        "options": {
+            "a": "DNA",
+            "b": "ATP",
+            "c": "RNA",
+            "d": "Glucose"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of cells have a nucleoid?",
+        "options": {
+            "a": "Prokaryotic cells",
+            "b": "Eukaryotic cells",
+            "c": "Plant cells",
+            "d": "Animal cells"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does the Golgi apparatus do?",
+        "options": {
+            "a": "Protein synthesis",
+            "b": "Packaging and transport of cellular materials",
+            "c": "Photosynthesis",
+            "d": "Cell wall formation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the nuclear membrane?",
+        "options": {
+            "a": "Protein synthesis",
+            "b": "Regulating the exchange of materials between nucleus and cytoplasm",
+            "c": "Photosynthesis",
+            "d": "Energy production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is cytoplasm?",
+        "options": {
+            "a": "Fluid content inside the nucleus",
+            "b": "Fluid content outside the cell",
+            "c": "Fluid content within the plasma membrane excluding the nucleus",
+            "d": "Fluid content inside the vacuole"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are chromoplasts?",
+        "options": {
+            "a": "Plastids responsible for photosynthesis",
+            "b": "Plastids that store proteins",
+            "c": "Plastids that store pigments",
+            "d": "Plastids found in animal cells"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main feature of a eukaryotic cell?",
+        "options": {
+            "a": "Lack of organelles",
+            "b": "Absence of nucleus",
+            "c": "Membrane-bound organelles",
+            "d": "Presence of cell wall"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens during mitosis?",
+        "options": {
+            "a": "Formation of gametes",
+            "b": "Division of a single cell into two identical daughter cells",
+            "c": "Chromosome number is halved",
+            "d": "DNA synthesis stops"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are ribosomes made of?",
+        "options": {
+            "a": "DNA and proteins",
+            "b": "RNA and proteins",
+            "c": "Lipids and proteins",
+            "d": "Carbohydrates and RNA"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What process do plant roots use to absorb water?",
+        "options": {
+            "a": "Diffusion",
+            "b": "Osmosis",
+            "c": "Endocytosis",
+            "d": "Exocytosis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the Rough Endoplasmic Reticulum (RER)?",
+        "options": {
+            "a": "Lipid synthesis",
+            "b": "Protein synthesis",
+            "c": "Energy production",
+            "d": "Photosynthesis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organelle helps in cell division in animal cells?",
+        "options": {
+            "a": "Lysosome",
+            "b": "Centriole",
+            "c": "Ribosome",
+            "d": "Mitochondria"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of turgor pressure in plant cells?",
+        "options": {
+            "a": "Provides energy",
+            "b": "Helps in protein synthesis",
+            "c": "Maintains rigidity and shape",
+            "d": "Facilitates cell division"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which structure is absent in prokaryotic cells?",
+        "options": {
+            "a": "Ribosomes",
+            "b": "Plasma membrane",
+            "c": "Nucleus",
+            "d": "Cytoplasm"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are plasmids?",
+        "options": {
+            "a": "Main genetic material of prokaryotes",
+            "b": "Circular DNA in prokaryotes",
+            "c": "Membrane-bound organelles in eukaryotes",
+            "d": "Structural proteins in animal cells"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which process is described as the \"cell drinking\" method?",
+        "options": {
+            "a": "Phagocytosis",
+            "b": "Pinocytosis",
+            "c": "Exocytosis",
+            "d": "Endocytosis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the fluid mosaic model associated with?",
+        "options": {
+            "a": "Structure of the cell wall",
+            "b": "Structure of the plasma membrane",
+            "c": "Structure of ribosomes",
+            "d": "Structure of chloroplasts"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How do lysosomes help during starvation?",
+        "options": {
+            "a": "Release stored food",
+            "b": "Digest unnecessary organelles",
+            "c": "Produce energy",
+            "d": "Absorb water from the cytoplasm"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are genes composed of?",
+        "options": {
+            "a": "RNA",
+            "b": "DNA",
+            "c": "Proteins",
+            "d": "Lipids"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organelle stores calcium ions?",
+        "options": {
+            "a": "Smooth Endoplasmic Reticulum (SER)",
+            "b": "Rough Endoplasmic Reticulum (RER)",
+            "c": "Mitochondria",
+            "d": "Golgi apparatus"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is exocytosis?",
+        "options": {
+            "a": "Intake of substances by the cell",
+            "b": "Release of substances outside the cell",
+            "c": "Breakdown of organelles",
+            "d": "Division of the nucleus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which organelle is responsible for sorting and packaging proteins?",
+        "options": {
+            "a": "Ribosome",
+            "b": "Golgi apparatus",
+            "c": "Nucleus",
+            "d": "Lysosome"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are vacuoles?",
+        "options": {
+            "a": "Sites for respiration",
+            "b": "Storage sacs for solids, liquids, or gases",
+            "c": "Organelles responsible for photosynthesis",
+            "d": "Ribosome assembly sites"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the nucleolus?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Ribosome production",
+            "c": "Energy production",
+            "d": "Lipid storage"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to plant cells in a hypotonic solution?",
+        "options": {
+            "a": "Shrinks",
+            "b": "Swells and becomes turgid",
+            "c": "Remains the same",
+            "d": "Loses cytoplasm"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a tissue?",
+        "options": {
+            "a": "A group of different cells performing various functions",
+            "b": "A group of similar cells performing a specific function",
+            "c": "A collection of organs working together",
+            "d": "A single-celled organism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why are tissues important in multicellular organisms?",
+        "options": {
+            "a": "They enable division of labor among cells",
+            "b": "They ensure cells function independently",
+            "c": "They prevent cell specialization",
+            "d": "They stop the growth of cells"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of tissue is responsible for plant growth?",
+        "options": {
+            "a": "Epidermal tissue",
+            "b": "Permanent tissue",
+            "c": "Meristematic tissue",
+            "d": "Vascular tissue"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which type of meristematic tissue is found at the tips of roots and shoots?",
+        "options": {
+            "a": "Apical meristem",
+            "b": "Lateral meristem",
+            "c": "Intercalary meristem",
+            "d": "Permanent meristem"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the function of lateral meristem?",
+        "options": {
+            "a": "Increase the length of roots",
+            "b": "Increase the girth of stems and roots",
+            "c": "Transport water and nutrients",
+            "d": "Protect the plant from desiccation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are permanent tissues?",
+        "options": {
+            "a": "Tissues that retain the ability to divide",
+            "b": "Tissues that lose their ability to divide",
+            "c": "Tissues that perform only photosynthesis",
+            "d": "Tissues present in animals only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which tissue stores food in plants?",
+        "options": {
+            "a": "Xylem",
+            "b": "Parenchyma",
+            "c": "Collenchyma",
+            "d": "Phloem"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is aerenchyma?",
+        "options": {
+            "a": "A tissue that stores starch in plants",
+            "b": "A tissue that provides flexibility",
+            "c": "A tissue with air spaces that helps aquatic plants float",
+            "d": "A tissue responsible for plant growth"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of tissue provides flexibility to plants?",
+        "options": {
+            "a": "Parenchyma",
+            "b": "Collenchyma",
+            "c": "Sclerenchyma",
+            "d": "Epidermis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which tissue is responsible for making plants hard and stiff?",
+        "options": {
+            "a": "Parenchyma",
+            "b": "Collenchyma",
+            "c": "Sclerenchyma",
+            "d": "Phloem"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of xylem in plants?",
+        "options": {
+            "a": "Transport food",
+            "b": "Transport water and minerals",
+            "c": "Store food",
+            "d": "Provide flexibility"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of these is a component of xylem?",
+        "options": {
+            "a": "Sieve tubes",
+            "b": "Tracheids",
+            "c": "Guard cells",
+            "d": "Epidermal cells"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of phloem?",
+        "options": {
+            "a": "Transport water",
+            "b": "Transport food",
+            "c": "Provide mechanical support",
+            "d": "Protect plants from injury"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of epithelial tissue forms the skin?",
+        "options": {
+            "a": "Squamous epithelium",
+            "b": "Columnar epithelium",
+            "c": "Ciliated epithelium",
+            "d": "Glandular epithelium"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of connective tissue stores fat in animals?",
+        "options": {
+            "a": "Bone",
+            "b": "Cartilage",
+            "c": "Adipose tissue",
+            "d": "Ligament"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which connective tissue connects bones to bones?",
+        "options": {
+            "a": "Tendons",
+            "b": "Ligaments",
+            "c": "Cartilage",
+            "d": "Blood"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of cartilage?",
+        "options": {
+            "a": "Transport nutrients",
+            "b": "Provide flexibility and smoothness at joints",
+            "c": "Support bone marrow",
+            "d": "Connect muscles to bones"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which connective tissue has a fluid matrix?",
+        "options": {
+            "a": "Bone",
+            "b": "Blood",
+            "c": "Cartilage",
+            "d": "Tendon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which muscular tissue is responsible for voluntary movements?",
+        "options": {
+            "a": "Smooth muscle",
+            "b": "Cardiac muscle",
+            "c": "Striated muscle",
+            "d": "Skeletal muscle"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which muscular tissue is found in the heart?",
+        "options": {
+            "a": "Smooth muscle",
+            "b": "Cardiac muscle",
+            "c": "Striated muscle",
+            "d": "Skeletal muscle"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of nerve tissue?",
+        "options": {
+            "a": "Protect the body from injury",
+            "b": "Transport nutrients to cells",
+            "c": "Transmit signals and impulses",
+            "d": "Store energy"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which part of a neuron receives signals?",
+        "options": {
+            "a": "Axon",
+            "b": "Dendrites",
+            "c": "Nucleus",
+            "d": "Cell body"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main function of stomata in plants?",
+        "options": {
+            "a": "Protect against injury",
+            "b": "Absorb water",
+            "c": "Allow gas exchange",
+            "d": "Store food"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which tissue forms the outer covering of plants?",
+        "options": {
+            "a": "Epidermis",
+            "b": "Xylem",
+            "c": "Phloem",
+            "d": "Parenchyma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which tissue forms the husk of a coconut?",
+        "options": {
+            "a": "Collenchyma",
+            "b": "Sclerenchyma",
+            "c": "Parenchyma",
+            "d": "Xylem"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of epithelial tissue lines the respiratory tract?",
+        "options": {
+            "a": "Squamous epithelium",
+            "b": "Ciliated epithelium",
+            "c": "Cuboidal epithelium",
+            "d": "Glandular epithelium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which connective tissue anchors muscles to bones?",
+        "options": {
+            "a": "Ligament",
+            "b": "Tendon",
+            "c": "Cartilage",
+            "d": "Areolar tissue"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of areolar tissue in animals?",
+        "options": {
+            "a": "Store energy",
+            "b": "Connect skin to muscles",
+            "c": "Transport nutrients",
+            "d": "Protect organs from injury"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of vascular tissue conducts water in plants?",
+        "options": {
+            "a": "Xylem",
+            "b": "Phloem",
+            "c": "Collenchyma",
+            "d": "Sclerenchyma"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the function of phloem in plants?",
+        "options": {
+            "a": "Transport water",
+            "b": "Transport food",
+            "c": "Provide strength",
+            "d": "Protect against injury"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of xylem stores food?",
+        "options": {
+            "a": "Tracheids",
+            "b": "Vessels",
+            "c": "Xylem parenchyma",
+            "d": "Xylem fibres"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of guard cells?",
+        "options": {
+            "a": "Store food",
+            "b": "Protect tissues from injury",
+            "c": "Open and close stomata",
+            "d": "Transport water"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which epithelial tissue secretes mucus in the respiratory tract?",
+        "options": {
+            "a": "Glandular epithelium",
+            "b": "Ciliated epithelium",
+            "c": "Squamous epithelium",
+            "d": "Cuboidal epithelium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of muscle tissue is multinucleate?",
+        "options": {
+            "a": "Smooth muscle",
+            "b": "Cardiac muscle",
+            "c": "Striated muscle",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is lignin?",
+        "options": {
+            "a": "Protein found in xylem vessels",
+            "b": "Substance that strengthens plant cell walls",
+            "c": "Sugar stored in parenchyma",
+            "d": "Enzyme that breaks down starch"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of parenchyma in plants?",
+        "options": {
+            "a": "Transport water and minerals",
+            "b": "Store food and provide support",
+            "c": "Protect from pathogens",
+            "d": "Produce flowers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of sclerenchyma?",
+        "options": {
+            "a": "Store food",
+            "b": "Provide mechanical support and rigidity",
+            "c": "Conduct photosynthesis",
+            "d": "Transport nutrients"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What makes epidermis waterproof in plants?",
+        "options": {
+            "a": "Presence of guard cells",
+            "b": "Deposition of waxy cutin",
+            "c": "Layer of lignin",
+            "d": "Air spaces in the tissue"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which tissue in plants prevents water loss?",
+        "options": {
+            "a": "Xylem",
+            "b": "Phloem",
+            "c": "Epidermis",
+            "d": "Parenchyma"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of epithelial tissue is cube-shaped?",
+        "options": {
+            "a": "Squamous epithelium",
+            "b": "Cuboidal epithelium",
+            "c": "Columnar epithelium",
+            "d": "Glandular epithelium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary function of columnar epithelium?",
+        "options": {
+            "a": "Secretion and absorption",
+            "b": "Transport of oxygen",
+            "c": "Protection against pathogens",
+            "d": "Conduct nerve impulses"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What makes cartilage different from bone?",
+        "options": {
+            "a": "Cartilage is harder than bone",
+            "b": "Cartilage has more blood vessels than bone",
+            "c": "Cartilage is more flexible than bone",
+            "d": "Cartilage contains calcium salts"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which type of tissue transmits impulses in animals?",
+        "options": {
+            "a": "Connective tissue",
+            "b": "Nervous tissue",
+            "c": "Muscular tissue",
+            "d": "Epithelial tissue"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main role of skeletal muscles?",
+        "options": {
+            "a": "Involuntary movement",
+            "b": "Protection of organs",
+            "c": "Voluntary movement",
+            "d": "Production of hormones"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Where is cardiac muscle found?",
+        "options": {
+            "a": "Stomach",
+            "b": "Lungs",
+            "c": "Heart",
+            "d": "Intestines"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What makes striated muscles appear striped?",
+        "options": {
+            "a": "Arrangement of actin and myosin filaments",
+            "b": "Presence of nuclei",
+            "c": "Parallel arrangement of smooth fibers",
+            "d": "Distribution of mitochondria"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of connective tissue forms the framework of bones?",
+        "options": {
+            "a": "Cartilage",
+            "b": "Ligament",
+            "c": "Adipose tissue",
+            "d": "Bone tissue"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the function of vascular bundles in plants?",
+        "options": {
+            "a": "Store food",
+            "b": "Transport water and nutrients",
+            "c": "Provide support",
+            "d": "Produce energy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the difference between xylem and phloem?",
+        "options": {
+            "a": "Xylem transports food, phloem transports water",
+            "b": "Xylem transports water, phloem transports food",
+            "c": "Xylem provides support, phloem stores energy",
+            "d": "Xylem is found in animals, phloem is found in plants"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of stomata in plants?",
+        "options": {
+            "a": "Absorb minerals from the soil",
+            "b": "Transport water to leaves",
+            "c": "Allow exchange of gases and water vapor",
+            "d": "Produce chlorophyll"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main source of food for humans?",
+        "options": {
+            "a": "Forests and wildlife",
+            "b": "Agriculture and animal husbandry",
+            "c": "Mining and fossil fuels",
+            "d": "Aquatic ecosystems"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is food production efficiency important in India?",
+        "options": {
+            "a": "To increase exports",
+            "b": "To meet the growing population's food demands",
+            "c": "To reduce the cost of imports",
+            "d": "To support industrial growth"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What was the impact of the Green Revolution?",
+        "options": {
+            "a": "Increased food grain production",
+            "b": "Improved water resources",
+            "c": "Enhanced use of fertilizers",
+            "d": "Growth in the IT industry"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does sustainable agriculture aim to achieve?",
+        "options": {
+            "a": "Maximum productivity without degrading the environment",
+            "b": "Use of only chemical fertilizers",
+            "c": "Maximizing deforestation for farming",
+            "d": "Intensive farming practices only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the three stages involved in farming?",
+        "options": {
+            "a": "Sowing, watering, and harvesting",
+            "b": "Seed selection, crop nurturing, and crop protection",
+            "c": "Ploughing, irrigation, and harvesting",
+            "d": "Weeding, sowing, and harvesting"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is hybridization in crops?",
+        "options": {
+            "a": "Crossing genetically similar plants",
+            "b": "Crossing genetically dissimilar plants",
+            "c": "Growing two crops simultaneously",
+            "d": "Rotating crops in a sequence"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of genetically modified crops?",
+        "options": {
+            "a": "To increase soil salinity",
+            "b": "To introduce desirable traits into plants",
+            "c": "To prevent the use of fertilizers",
+            "d": "To increase water consumption"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which factor is not involved in crop variety improvement?",
+        "options": {
+            "a": "Higher yield",
+            "b": "Improved quality",
+            "c": "Reduction in soil quality",
+            "d": "Resistance to biotic and abiotic stresses"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are macro-nutrients for plants?",
+        "options": {
+            "a": "Nutrients required in large quantities",
+            "b": "Nutrients required in small quantities",
+            "c": "Nutrients provided by air",
+            "d": "Nutrients provided by fertilizers only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which nutrient is not a macronutrient?",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Potassium",
+            "c": "Zinc",
+            "d": "Calcium"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main source of nitrogen for plants?",
+        "options": {
+            "a": "Soil",
+            "b": "Air",
+            "c": "Water",
+            "d": "Sunlight"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is composting?",
+        "options": {
+            "a": "Burning of farm waste",
+            "b": "Decomposition of organic material into nutrient-rich matter",
+            "c": "Chemical processing of waste",
+            "d": "Removal of weeds by machinery"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is vermi-composting?",
+        "options": {
+            "a": "Composting using chemicals",
+            "b": "Composting using earthworms",
+            "c": "Composting using fertilizers",
+            "d": "Composting using microbes only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is green manure?",
+        "options": {
+            "a": "Decomposed crop residues",
+            "b": "Fresh plants mulched into soil to improve fertility",
+            "c": "Fertilizer made from algae",
+            "d": "Animal waste used for improving soil quality"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main disadvantage of using chemical fertilizers?",
+        "options": {
+            "a": "Low nutrient content",
+            "b": "Loss of soil fertility over time",
+            "c": "Reduced water retention",
+            "d": "Limited availability"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is mixed cropping?",
+        "options": {
+            "a": "Growing two or more crops on the same land at the same time",
+            "b": "Growing crops and rearing livestock together",
+            "c": "Growing crops in rotation over time",
+            "d": "Cultivating different crops in different fields"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is crop rotation?",
+        "options": {
+            "a": "Growing different crops in a pre-planned sequence on the same land",
+            "b": "Growing two crops simultaneously on the same land",
+            "c": "Growing the same crop repeatedly in one season",
+            "d": "Alternating irrigation methods for crops"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is intercropping?",
+        "options": {
+            "a": "Growing crops for a shorter duration",
+            "b": "Growing crops in alternate rows or patterns",
+            "c": "Mixing seeds of different crops",
+            "d": "Growing crops on fallow land"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which irrigation method is best for water conservation?",
+        "options": {
+            "a": "Flood irrigation",
+            "b": "Sprinkler irrigation",
+            "c": "Tube wells",
+            "d": "River lift irrigation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are kharif crops?",
+        "options": {
+            "a": "Crops grown in the summer season",
+            "b": "Crops grown in the winter season",
+            "c": "Crops grown in the rainy season",
+            "d": "Crops grown in dry regions"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which crop is a rabi crop?",
+        "options": {
+            "a": "Paddy",
+            "b": "Maize",
+            "c": "Wheat",
+            "d": "Cotton"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is organic farming?",
+        "options": {
+            "a": "Farming using genetically modified seeds",
+            "b": "Farming with no or minimal use of chemicals",
+            "c": "Farming with high use of fertilizers",
+            "d": "Farming using only mechanical tools"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is animal husbandry?",
+        "options": {
+            "a": "Rearing animals for food and agriculture",
+            "b": "Cultivation of animal cells",
+            "c": "Cross-breeding plants and animals",
+            "d": "Using animals for industrial work"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main purpose of cattle farming?",
+        "options": {
+            "a": "Milk production and draught labor",
+            "b": "Wool production and hunting",
+            "c": "Meat production and wool farming",
+            "d": "Transportation of goods"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which breed of cow has high milk production?",
+        "options": {
+            "a": "Jersey",
+            "b": "Gir",
+            "c": "Sahiwal",
+            "d": "Red Sindhi"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main component of cattle feed?",
+        "options": {
+            "a": "Roughage and concentrates",
+            "b": "Fertilizers and organic waste",
+            "c": "Vitamins and hormones",
+            "d": "Water and salts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is poultry farming?",
+        "options": {
+            "a": "Farming of chickens for eggs and meat",
+            "b": "Farming of aquatic animals",
+            "c": "Farming of livestock for milk",
+            "d": "Farming of exotic animals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is mariculture?",
+        "options": {
+            "a": "Farming fish in inland water bodies",
+            "b": "Farming fish in seawater",
+            "c": "Raising aquatic plants",
+            "d": "Growing rice and fish together"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of composite fish culture?",
+        "options": {
+            "a": "Culturing fish with similar food habits",
+            "b": "Culturing different species of fish in one pond",
+            "c": "Mixing fish species with poultry farming",
+            "d": "Culturing fish in seawater"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which species is commonly used in bee-keeping?",
+        "options": {
+            "a": "Apis mellifera",
+            "b": "Bos indicus",
+            "c": "Catla catla",
+            "d": "Leghorn"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary product of apiculture?",
+        "options": {
+            "a": "Wool",
+            "b": "Milk",
+            "c": "Honey",
+            "d": "Meat"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is an example of a freshwater fish?",
+        "options": {
+            "a": "Rohu",
+            "b": "Tuna",
+            "c": "Pomfret",
+            "d": "Shark"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is pisciculture?",
+        "options": {
+            "a": "Rearing poultry for eggs",
+            "b": "Rearing aquatic animals for food",
+            "c": "Cultivating freshwater fish",
+            "d": "Cultivating seawater fish"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of these is a marine fish?",
+        "options": {
+            "a": "Catla",
+            "b": "Hilsa",
+            "c": "Rohu",
+            "d": "Magur"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary focus of integrated pest management?",
+        "options": {
+            "a": "Exclusive use of chemical pesticides",
+            "b": "Balanced use of biological, cultural, and chemical methods",
+            "c": "Complete elimination of pests",
+            "d": "Use of genetically modified seeds"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of crop disease is caused by fungi?",
+        "options": {
+            "a": "Rust in wheat",
+            "b": "Yellow vein mosaic in bhindi",
+            "c": "Bacterial blight in rice",
+            "d": "Leaf curl in tomato"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which chemical is often used to control fungal diseases in crops?",
+        "options": {
+            "a": "Herbicides",
+            "b": "Insecticides",
+            "c": "Fungicides",
+            "d": "Rodenticides"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a disadvantage of excessive pesticide use?",
+        "options": {
+            "a": "Improved crop yield",
+            "b": "Development of pest resistance",
+            "c": "Increased water availability",
+            "d": "Reduction in soil nutrients"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main component of roughage in animal feed?",
+        "options": {
+            "a": "Proteins",
+            "b": "Fibers",
+            "c": "Fats",
+            "d": "Sugars"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of concentrates in animal feed?",
+        "options": {
+            "a": "Provide energy and protein",
+            "b": "Improve digestion",
+            "c": "Store water",
+            "d": "Prevent diseases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which method is used to preserve food grains?",
+        "options": {
+            "a": "Use of antibiotics",
+            "b": "Irradiation and fumigation",
+            "c": "Freezing at low temperatures",
+            "d": "Salting and drying"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is monoculture?",
+        "options": {
+            "a": "Growing a single crop over a large area",
+            "b": "Growing multiple crops simultaneously",
+            "c": "Alternating crops in a sequence",
+            "d": "Using chemical fertilizers in farming"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the advantage of crop rotation?",
+        "options": {
+            "a": "Enhances soil fertility",
+            "b": "Reduces pest infestation",
+            "c": "Improves nutrient availability",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What does \"biofortification\" aim to achieve?",
+        "options": {
+            "a": "Increasing resistance to pests",
+            "b": "Improving nutritional quality of crops",
+            "c": "Increasing crop yield",
+            "d": "Reducing water consumption"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which crop is often associated with nitrogen fixation?",
+        "options": {
+            "a": "Wheat",
+            "b": "Rice",
+            "c": "Legumes",
+            "d": "Cotton"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which irrigation method uses perforated pipes for water delivery?",
+        "options": {
+            "a": "Flood irrigation",
+            "b": "Sprinkler irrigation",
+            "c": "Drip irrigation",
+            "d": "Tube well irrigation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main goal of the Blue Revolution?",
+        "options": {
+            "a": "Enhancing milk production",
+            "b": "Enhancing fish production",
+            "c": "Enhancing crop diversity",
+            "d": "Enhancing poultry farming"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is an exotic cattle breed?",
+        "options": {
+            "a": "Red Sindhi",
+            "b": "Jersey",
+            "c": "Gir",
+            "d": "Sahiwal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main purpose of shelter management in animal husbandry?",
+        "options": {
+            "a": "Improve animal reproduction rates",
+            "b": "Prevent diseases and increase productivity",
+            "c": "Reduce feed requirements",
+            "d": "Train animals for farm labor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does White Revolution refer to?",
+        "options": {
+            "a": "Increased crop yield",
+            "b": "Increased milk production",
+            "c": "Improved poultry farming",
+            "d": "Improved water management"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why do we classify organisms?",
+        "options": {
+            "a": "To study individual organisms in detail",
+            "b": "To understand similarities and differences between organisms",
+            "c": "To conserve endangered species",
+            "d": "To simplify food production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the most basic characteristic for classifying organisms?",
+        "options": {
+            "a": "Their habitat",
+            "b": "Their mode of reproduction",
+            "c": "The kind of cells they are made of",
+            "d": "Their size and shape"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biodiversity?",
+        "options": {
+            "a": "A study of different habitats",
+            "b": "The diversity of living organisms on Earth",
+            "c": "A classification of plant species only",
+            "d": "The evolution of primitive species"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who proposed the five-kingdom classification system?",
+        "options": {
+            "a": "Charles Darwin",
+            "b": "Ernst Haeckel",
+            "c": "Robert Whittaker",
+            "d": "Carolus Linnaeus"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following organisms belong to the kingdom Monera?",
+        "options": {
+            "a": "Amoeba",
+            "b": "Bacteria",
+            "c": "Yeast",
+            "d": "Algae"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of cells are found in organisms of the kingdom Protista?",
+        "options": {
+            "a": "Prokaryotic",
+            "b": "Eukaryotic",
+            "c": "Both prokaryotic and eukaryotic",
+            "d": "Non-cellular"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a characteristic of fungi?",
+        "options": {
+            "a": "They are autotrophs",
+            "b": "They are saprophytes",
+            "c": "They are unicellular prokaryotes",
+            "d": "They lack cell walls"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which plant division is called the \"amphibians of the plant kingdom\"?",
+        "options": {
+            "a": "Thallophyta",
+            "b": "Bryophyta",
+            "c": "Pteridophyta",
+            "d": "Angiosperms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary characteristic of gymnosperms?",
+        "options": {
+            "a": "They have seeds enclosed in fruits",
+            "b": "They have naked seeds",
+            "c": "They lack vascular tissue",
+            "d": "They are unicellular"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which plant group is characterized by seeds enclosed in fruits?",
+        "options": {
+            "a": "Bryophytes",
+            "b": "Pteridophytes",
+            "c": "Gymnosperms",
+            "d": "Angiosperms"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the basic unit of classification in taxonomy?",
+        "options": {
+            "a": "Kingdom",
+            "b": "Phylum",
+            "c": "Class",
+            "d": "Species"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is binomial nomenclature?",
+        "options": {
+            "a": "Naming organisms using their physical characteristics",
+            "b": "A naming system using two Latin names",
+            "c": "Grouping organisms based on DNA sequencing",
+            "d": "Assigning multiple names to a species"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of cotyledons in seeds?",
+        "options": {
+            "a": "They store food for the developing plant",
+            "b": "They facilitate photosynthesis",
+            "c": "They absorb water for germination",
+            "d": "They protect the seed from predators"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an example of a monocot plant?",
+        "options": {
+            "a": "Mango",
+            "b": "Maize",
+            "c": "Rose",
+            "d": "Pea"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a key characteristic of animals in the phylum Porifera?",
+        "options": {
+            "a": "They have a notochord",
+            "b": "They possess a canal system with pores",
+            "c": "They are triploblastic",
+            "d": "They have a segmented body"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are cnidarians commonly known for?",
+        "options": {
+            "a": "Presence of notochord",
+            "b": "Presence of tentacles with stinging cells",
+            "c": "Bilateral symmetry",
+            "d": "Vascular tissues"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which group of animals has a flattened, dorsoventrally symmetric body?",
+        "options": {
+            "a": "Annelida",
+            "b": "Platyhelminthes",
+            "c": "Arthropoda",
+            "d": "Mollusca"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which animal group is known for having jointed appendages?",
+        "options": {
+            "a": "Echinodermata",
+            "b": "Mollusca",
+            "c": "Arthropoda",
+            "d": "Protochordata"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a key characteristic of echinoderms?",
+        "options": {
+            "a": "Bilateral symmetry throughout life",
+            "b": "Spiny skin and a water vascular system",
+            "c": "Jointed legs",
+            "d": "No body cavity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary feature of the phylum Mollusca?",
+        "options": {
+            "a": "Open circulatory system and a muscular foot",
+            "b": "Jointed appendages",
+            "c": "Triploblastic body design",
+            "d": "Notochord"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the defining characteristic of chordates?",
+        "options": {
+            "a": "Presence of jointed appendages",
+            "b": "Presence of a notochord",
+            "c": "Bilateral symmetry",
+            "d": "Absence of body cavity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which class of vertebrates has moist, scaleless skin and undergoes metamorphosis?",
+        "options": {
+            "a": "Reptiles",
+            "b": "Amphibians",
+            "c": "Mammals",
+            "d": "Aves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a warm-blooded vertebrate?",
+        "options": {
+            "a": "Fish",
+            "b": "Reptile",
+            "c": "Amphibian",
+            "d": "Bird"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What type of heart do mammals have?",
+        "options": {
+            "a": "Two-chambered",
+            "b": "Three-chambered",
+            "c": "Four-chambered",
+            "d": "Five-chambered"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which class of vertebrates is characterized by dry, scaly skin and laying eggs on land?",
+        "options": {
+            "a": "Amphibians",
+            "b": "Reptiles",
+            "c": "Mammals",
+            "d": "Birds"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which kingdom includes unicellular eukaryotic organisms?",
+        "options": {
+            "a": "Monera",
+            "b": "Protista",
+            "c": "Fungi",
+            "d": "Plantae"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main mode of nutrition in fungi?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Saprotrophic nutrition",
+            "c": "Chemosynthesis",
+            "d": "Parasitic nutrition only"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which division of plants does not have vascular tissue?",
+        "options": {
+            "a": "Bryophyta",
+            "b": "Pteridophyta",
+            "c": "Gymnosperms",
+            "d": "Angiosperms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the distinguishing feature of thallophytes?",
+        "options": {
+            "a": "They are vascular plants",
+            "b": "They lack differentiated roots, stems, and leaves",
+            "c": "They produce seeds",
+            "d": "They are terrestrial"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What do gymnosperms and angiosperms have in common?",
+        "options": {
+            "a": "Both lack vascular tissues",
+            "b": "Both produce flowers",
+            "c": "Both produce seeds",
+            "d": "Both are non-vascular plants"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which animal phylum includes earthworms and leeches?",
+        "options": {
+            "a": "Arthropoda",
+            "b": "Annelida",
+            "c": "Platyhelminthes",
+            "d": "Echinodermata"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the characteristic feature of arthropods?",
+        "options": {
+            "a": "Radial symmetry",
+            "b": "Jointed legs",
+            "c": "Pseudocoelom",
+            "d": "Absence of exoskeleton"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which vertebrate class lays eggs and feeds their young with milk?",
+        "options": {
+            "a": "Reptiles",
+            "b": "Amphibians",
+            "c": "Mammals",
+            "d": "Aves"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of fertilization do reptiles exhibit?",
+        "options": {
+            "a": "Internal",
+            "b": "External",
+            "c": "Asexual",
+            "d": "Fragmentation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which group of vertebrates is characterized by hollow bones?",
+        "options": {
+            "a": "Amphibians",
+            "b": "Reptiles",
+            "c": "Birds",
+            "d": "Mammals"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is taxonomy?",
+        "options": {
+            "a": "Study of the environment",
+            "b": "Classification of organisms",
+            "c": "Study of fossils",
+            "d": "Study of plant anatomy"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a distinguishing feature of protozoans in the kingdom Protista?",
+        "options": {
+            "a": "They are multicellular",
+            "b": "They lack a nucleus",
+            "c": "They are unicellular and heterotrophic",
+            "d": "They perform photosynthesis only"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main function of vascular tissue in plants?",
+        "options": {
+            "a": "Absorption of nutrients",
+            "b": "Transport of water and nutrients",
+            "c": "Protection from predators",
+            "d": "Photosynthesis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following plants reproduce via spores?",
+        "options": {
+            "a": "Gymnosperms",
+            "b": "Angiosperms",
+            "c": "Pteridophytes",
+            "d": "Thallophytes"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of body symmetry do annelids exhibit?",
+        "options": {
+            "a": "Asymmetry",
+            "b": "Radial symmetry",
+            "c": "Bilateral symmetry",
+            "d": "No symmetry"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which animal group includes sponges?",
+        "options": {
+            "a": "Porifera",
+            "b": "Cnidaria",
+            "c": "Echinodermata",
+            "d": "Mollusca"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which phylum includes jellyfish?",
+        "options": {
+            "a": "Arthropoda",
+            "b": "Platyhelminthes",
+            "c": "Cnidaria",
+            "d": "Annelida"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What distinguishes mammals from other vertebrates?",
+        "options": {
+            "a": "They have gills",
+            "b": "They have fur or hair and mammary glands",
+            "c": "They lay eggs",
+            "d": "They are cold-blooded"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which animal group is entirely aquatic?",
+        "options": {
+            "a": "Amphibians",
+            "b": "Reptiles",
+            "c": "Fishes",
+            "d": "Birds"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of body cavity do arthropods possess?",
+        "options": {
+            "a": "No body cavity",
+            "b": "Pseudocoelom",
+            "c": "True coelom",
+            "d": "Gastrovascular cavity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which plant group has flowers?",
+        "options": {
+            "a": "Bryophytes",
+            "b": "Pteridophytes",
+            "c": "Gymnosperms",
+            "d": "Angiosperms"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which characteristic feature is shared by amphibians and reptiles?",
+        "options": {
+            "a": "Dry skin with scales",
+            "b": "Three-chambered heart",
+            "c": "Ability to regulate body temperature",
+            "d": "Hollow bones"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is radial symmetry?",
+        "options": {
+            "a": "Symmetry around a central axis",
+            "b": "Symmetry along one plane only",
+            "c": "Symmetry in irregular shapes",
+            "d": "Symmetry found in sponges only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which group of animals are cold-blooded vertebrates?",
+        "options": {
+            "a": "Birds",
+            "b": "Mammals",
+            "c": "Amphibians",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which division includes ferns?",
+        "options": {
+            "a": "Thallophyta",
+            "b": "Bryophyta",
+            "c": "Pteridophyta",
+            "d": "Angiosperms"
+        },
+        "answer": "c"
+    }
+]

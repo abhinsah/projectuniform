@@ -1,0 +1,2003 @@
+[
+    {
+        "question": "What makes objects visible to us?",
+        "options": {
+            "a": "Transparent surfaces",
+            "b": "Reflected light entering our eyes",
+            "c": "Diffraction of light",
+            "d": "Interference of light"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which phenomenon confirms the straight-line propagation of light?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Refraction",
+            "c": "Formation of sharp shadows",
+            "d": "Dispersion of light"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the term for bending of light around a small object?",
+        "options": {
+            "a": "Reflection",
+            "b": "Refraction",
+            "c": "Diffraction",
+            "d": "Polarization"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which law states that the angle of incidence equals the angle of reflection?",
+        "options": {
+            "a": "Snell\u2019s law",
+            "b": "First law of refraction",
+            "c": "Law of reflection",
+            "d": "Brewster's law"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of image is always formed by a plane mirror?",
+        "options": {
+            "a": "Real and inverted",
+            "b": "Virtual and erect",
+            "c": "Diminished and inverted",
+            "d": "Magnified and erect"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the focal length of a plane mirror?",
+        "options": {
+            "a": "Infinite",
+            "b": "Zero",
+            "c": "Equal to twice the radius of curvature",
+            "d": "Equal to the radius of curvature"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "A concave mirror always produces what type of image for an object placed between the mirror and its focus?",
+        "options": {
+            "a": "Real and inverted",
+            "b": "Virtual and magnified",
+            "c": "Virtual and diminished",
+            "d": "Real and erect"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the principal focus of a concave mirror?",
+        "options": {
+            "a": "The point where light rays parallel to the principal axis converge",
+            "b": "The point where reflected rays diverge",
+            "c": "The center of the mirror",
+            "d": "A point on the surface of the mirror"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when the object is placed at the center of curvature of a concave mirror?",
+        "options": {
+            "a": "The image is virtual and inverted",
+            "b": "The image is at the focus and magnified",
+            "c": "The image is real, inverted, and of the same size as the object",
+            "d": "The image is diminished and upright"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of mirror is used in rear-view mirrors of vehicles?",
+        "options": {
+            "a": "Plane mirror",
+            "b": "Concave mirror",
+            "c": "Convex mirror",
+            "d": "Spherical mirror"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to the speed of light when it passes from air into water?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains the same",
+            "d": "Doubles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the change in direction of light when it passes from one medium to another?",
+        "options": {
+            "a": "Reflection",
+            "b": "Refraction",
+            "c": "Diffraction",
+            "d": "Dispersion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which law governs refraction of light?",
+        "options": {
+            "a": "Snell\u2019s Law",
+            "b": "Law of Reflection",
+            "c": "Brewster\u2019s Law",
+            "d": "Huygens\u2019 Principle"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the refractive index of a medium?",
+        "options": {
+            "a": "Ratio of the speed of light in vacuum to the speed of light in the medium",
+            "b": "Ratio of the speed of light in the medium to the speed of sound",
+            "c": "The amount of light absorbed by the medium",
+            "d": "The bending of light at the surface of the medium"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when light travels from a denser medium to a rarer medium?",
+        "options": {
+            "a": "It bends towards the normal",
+            "b": "It bends away from the normal",
+            "c": "It travels in a straight line",
+            "d": "It stops"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the angle of refraction when light passes through a medium with a higher refractive index?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It becomes 90 degrees",
+            "d": "It becomes zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between the refractive index and the speed of light in a medium?",
+        "options": {
+            "a": "Higher the refractive index, higher the speed of light",
+            "b": "Higher the refractive index, lower the speed of light",
+            "c": "The refractive index is independent of the speed of light",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the nature of the image formed by a convex lens when the object is placed beyond 2F?",
+        "options": {
+            "a": "Real, inverted, and diminished",
+            "b": "Virtual, erect, and magnified",
+            "c": "Real, inverted, and magnified",
+            "d": "Virtual and inverted"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the magnification of an image formed by a plane mirror?",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "Greater than 1",
+            "d": "Less than 1"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the sign of the focal length of a concave lens?",
+        "options": {
+            "a": "Positive",
+            "b": "Negative",
+            "c": "Zero",
+            "d": "Infinite"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which lens is used to correct myopia?",
+        "options": {
+            "a": "Convex lens",
+            "b": "Concave lens",
+            "c": "Cylindrical lens",
+            "d": "Plano-convex lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to parallel rays of light when they pass through a convex lens?",
+        "options": {
+            "a": "They diverge",
+            "b": "They converge at the focus",
+            "c": "They pass straight without bending",
+            "d": "They get absorbed"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of mirror is used in shaving mirrors?",
+        "options": {
+            "a": "Plane mirror",
+            "b": "Convex mirror",
+            "c": "Concave mirror",
+            "d": "Spherical mirror"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the focal length of a lens if its power is +2 dioptres?",
+        "options": {
+            "a": "0.5 m",
+            "b": "2 m",
+            "c": "-2 m",
+            "d": "0.2 m"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the unit of power of a lens?",
+        "options": {
+            "a": "Metre",
+            "b": "Dioptre",
+            "c": "Hertz",
+            "d": "Joule"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is total internal reflection?",
+        "options": {
+            "a": "Reflection of all light back into the same medium at the critical angle",
+            "b": "Absorption of light by the medium",
+            "c": "Refraction of light at the critical angle",
+            "d": "Light scattering due to impurities"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes a mirage in the desert?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Refraction and total internal reflection",
+            "c": "Reflection from sand particles",
+            "d": "Polarization of light"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of lens is used in magnifying glasses?",
+        "options": {
+            "a": "Concave lens",
+            "b": "Convex lens",
+            "c": "Plane lens",
+            "d": "Cylindrical lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the image of an object as it moves closer to a convex mirror?",
+        "options": {
+            "a": "The image remains the same size",
+            "b": "The image becomes larger",
+            "c": "The image becomes smaller",
+            "d": "The image disappears"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which phenomenon makes the bottom of a pool appear shallower?",
+        "options": {
+            "a": "Refraction of light",
+            "b": "Reflection of light",
+            "c": "Scattering of light",
+            "d": "Diffraction of light"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is dispersion of light?",
+        "options": {
+            "a": "Splitting of light into its constituent colors",
+            "b": "Bending of light when it passes through a medium",
+            "c": "Scattering of light in all directions",
+            "d": "Absorption of light by a medium"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of mirror can produce both real and virtual images?",
+        "options": {
+            "a": "Plane mirror",
+            "b": "Concave mirror",
+            "c": "Convex mirror",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when light strikes the boundary at an angle greater than the critical angle?",
+        "options": {
+            "a": "It refracts into the second medium",
+            "b": "It gets absorbed",
+            "c": "It undergoes total internal reflection",
+            "d": "It scatters"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which color of light bends the most during dispersion?",
+        "options": {
+            "a": "Red",
+            "b": "Green",
+            "c": "Violet",
+            "d": "Blue"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the focal length of a convex mirror if its radius of curvature is 40 cm?",
+        "options": {
+            "a": "10 cm",
+            "b": "20 cm",
+            "c": "40 cm",
+            "d": "80 cm"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between the object distance (u), image distance (v), and focal length (f) of a mirror?",
+        "options": {
+            "a": "1 \ud835\udc53 = 1 \ud835\udc62 \u2212 1 \ud835\udc63 f 1 \u200b = u 1 \u200b \u2212 v 1 \u200b",
+            "b": "1 \ud835\udc53 = 1 \ud835\udc63 \u2212 1 \ud835\udc62 f 1 \u200b = v 1 \u200b \u2212 u 1 \u200b",
+            "c": "1 \ud835\udc53 = 1 \ud835\udc62 + 1 \ud835\udc63 f 1 \u200b = u 1 \u200b + v 1 \u200b",
+            "d": "1 \ud835\udc53 = \ud835\udc62 + \ud835\udc63 f 1 \u200b =u+v"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of mirror is used in solar concentrators?",
+        "options": {
+            "a": "Plane mirror",
+            "b": "Concave mirror",
+            "c": "Convex mirror",
+            "d": "Spherical mirror"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the critical angle for total internal reflection in water?",
+        "options": {
+            "a": "30\u00b0",
+            "b": "42\u00b0",
+            "c": "90\u00b0",
+            "d": "60\u00b0"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the refractive index when the wavelength of light increases?",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains the same",
+            "d": "Becomes zero"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the mirror formula?",
+        "options": {
+            "a": "1 \ud835\udc62 + 1 \ud835\udc63 = 1 \ud835\udc53 u 1 \u200b + v 1 \u200b = f 1 \u200b",
+            "b": "1 \ud835\udc63 \u2212 1 \ud835\udc62 = 1 \ud835\udc53 v 1 \u200b \u2212 u 1 \u200b = f 1 \u200b",
+            "c": "1 \ud835\udc53 = 1 \ud835\udc62 + 1 \ud835\udc63 f 1 \u200b = u 1 \u200b + v 1 \u200b",
+            "d": "\ud835\udc62 + \ud835\udc63 = \ud835\udc53 u+v=f"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to the image size when an object moves closer to a concave lens?",
+        "options": {
+            "a": "Image size decreases",
+            "b": "Image size increases",
+            "c": "Image size remains constant",
+            "d": "Image disappears"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of image does a convex mirror form?",
+        "options": {
+            "a": "Real and inverted",
+            "b": "Virtual and erect",
+            "c": "Enlarged and real",
+            "d": "Virtual and inverted"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of mirror has a focal point behind its surface?",
+        "options": {
+            "a": "Plane mirror",
+            "b": "Concave mirror",
+            "c": "Convex mirror",
+            "d": "Cylindrical mirror"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the formula for the power of a lens?",
+        "options": {
+            "a": "\ud835\udc43 = 1 \ud835\udc53 P= f 1 \u200b , where \ud835\udc53 f is in meters",
+            "b": "\ud835\udc43 = 1 \ud835\udc53 P= f 1 \u200b , where \ud835\udc53 f is in centimeters",
+            "c": "\ud835\udc43 = \ud835\udc53 1 P= 1 f \u200b , where \ud835\udc53 f is in meters",
+            "d": "\ud835\udc43 = \ud835\udc53 \u00d7 1 P=f\u00d71, where \ud835\udc53 f is in centimeters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What kind of lens is used in a projector?",
+        "options": {
+            "a": "Concave lens",
+            "b": "Convex lens",
+            "c": "Cylindrical lens",
+            "d": "Plano-concave lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of lens always forms a virtual, erect, and diminished image?",
+        "options": {
+            "a": "Concave lens",
+            "b": "Convex lens",
+            "c": "Plane lens",
+            "d": "Cylindrical lens"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the nature of the image formed by a convex lens when the object is placed at its focal point?",
+        "options": {
+            "a": "Virtual and erect",
+            "b": "No image is formed",
+            "c": "Real, inverted, and magnified",
+            "d": "Real and diminished"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What causes refraction of light?",
+        "options": {
+            "a": "Change in the medium\u2019s density",
+            "b": "Reflection from a surface",
+            "c": "Absorption of light",
+            "d": "Scattering of light"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the radius of curvature of a spherical mirror if its focal length is 10 cm?",
+        "options": {
+            "a": "20 cm",
+            "b": "5 cm",
+            "c": "15 cm",
+            "d": "10 cm"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which color of light travels fastest in a denser medium?",
+        "options": {
+            "a": "Red",
+            "b": "Blue",
+            "c": "Green",
+            "d": "Violet"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary function of the human eye?",
+        "options": {
+            "a": "Absorbing oxygen",
+            "b": "Producing energy",
+            "c": "Detecting and forming images of objects",
+            "d": "Filtering light"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the transparent, curved structure at the front of the eye called?",
+        "options": {
+            "a": "Iris",
+            "b": "Retina",
+            "c": "Cornea",
+            "d": "Lens"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which part of the eye controls the amount of light entering?",
+        "options": {
+            "a": "Retina",
+            "b": "Cornea",
+            "c": "Iris",
+            "d": "Pupil"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the adjustable opening in the center of the eye?",
+        "options": {
+            "a": "Iris",
+            "b": "Lens",
+            "c": "Cornea",
+            "d": "Pupil"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Where is the image formed in the eye?",
+        "options": {
+            "a": "Cornea",
+            "b": "Retina",
+            "c": "Pupil",
+            "d": "Lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What type of image is formed on the retina?",
+        "options": {
+            "a": "Virtual and erect",
+            "b": "Real and inverted",
+            "c": "Virtual and inverted",
+            "d": "Real and erect"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of the optic nerve?",
+        "options": {
+            "a": "Transmit light to the retina",
+            "b": "Control the size of the pupil",
+            "c": "Send visual information to the brain",
+            "d": "Focus light onto the lens"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What causes the eye\u2019s lens to change shape?",
+        "options": {
+            "a": "Cornea",
+            "b": "Retina",
+            "c": "Ciliary muscles",
+            "d": "Optic nerve"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the minimum distance for clear vision in a healthy human eye?",
+        "options": {
+            "a": "10 cm",
+            "b": "20 cm",
+            "c": "25 cm",
+            "d": "50 cm"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the far point of a normal human eye?",
+        "options": {
+            "a": "25 cm",
+            "b": "50 cm",
+            "c": "Infinity",
+            "d": "1 meter"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the defect of vision where a person cannot see distant objects clearly?",
+        "options": {
+            "a": "Hypermetropia",
+            "b": "Myopia",
+            "c": "Presbyopia",
+            "d": "Astigmatism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which lens is used to correct myopia?",
+        "options": {
+            "a": "Convex lens",
+            "b": "Concave lens",
+            "c": "Cylindrical lens",
+            "d": "Plano-convex lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is hypermetropia?",
+        "options": {
+            "a": "The inability to see nearby objects clearly",
+            "b": "The inability to see distant objects clearly",
+            "c": "Loss of vision due to age",
+            "d": "Double vision"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which lens corrects hypermetropia?",
+        "options": {
+            "a": "Concave lens",
+            "b": "Convex lens",
+            "c": "Cylindrical lens",
+            "d": "Spherical lens"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is presbyopia?",
+        "options": {
+            "a": "Long-sightedness due to aging",
+            "b": "Short-sightedness in children",
+            "c": "Double vision",
+            "d": "Loss of color vision"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the cause of cataracts?",
+        "options": {
+            "a": "Weak ciliary muscles",
+            "b": "Clouding of the eye lens",
+            "c": "Damage to the optic nerve",
+            "d": "Excessive light exposure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the dispersion of light?",
+        "options": {
+            "a": "Bending of light when it enters a different medium",
+            "b": "Splitting of white light into its constituent colors",
+            "c": "Scattering of light in all directions",
+            "d": "Absorption of light by a surface"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which phenomenon causes the sky to appear blue?",
+        "options": {
+            "a": "Reflection",
+            "b": "Refraction",
+            "c": "Scattering of light",
+            "d": "Dispersion of light"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the reason for the reddish appearance of the sun during sunrise and sunset?",
+        "options": {
+            "a": "Dispersion of light",
+            "b": "Scattering of shorter wavelengths of light",
+            "c": "Scattering of longer wavelengths of light",
+            "d": "Total internal reflection"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the phenomenon that creates a rainbow?",
+        "options": {
+            "a": "Reflection of light",
+            "b": "Refraction and dispersion of light in water droplets",
+            "c": "Scattering of light",
+            "d": "Diffraction of light"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the sequence of colors in a rainbow?",
+        "options": {
+            "a": "VIBGYOR",
+            "b": "ROYGBIV",
+            "c": "BYGROIV",
+            "d": "GYORVIB"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the angle of deviation for violet light compared to red light during dispersion?",
+        "options": {
+            "a": "Greater",
+            "b": "Lesser",
+            "c": "Equal",
+            "d": "Zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which atmospheric layer contains the ozone layer?",
+        "options": {
+            "a": "Troposphere",
+            "b": "Stratosphere",
+            "c": "Mesosphere",
+            "d": "Thermosphere"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the wavelength range of visible light?",
+        "options": {
+            "a": "400\u2013700 nm",
+            "b": "700\u20131000 nm",
+            "c": "300\u2013500 nm",
+            "d": "200\u2013400 nm"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes the twinkling of stars?",
+        "options": {
+            "a": "Reflection of light from clouds",
+            "b": "Dispersion of light by the atmosphere",
+            "c": "Refraction of starlight due to atmospheric layers",
+            "d": "Scattering of light"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why does the Sun appear flattened at sunrise and sunset?",
+        "options": {
+            "a": "Scattering of light",
+            "b": "Atmospheric refraction",
+            "c": "Dispersion of light",
+            "d": "Total internal reflection"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for a lens\u2019s ability to converge or diverge light?",
+        "options": {
+            "a": "Power",
+            "b": "Focal length",
+            "c": "Aperture",
+            "d": "Dispersion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which phenomenon explains the splitting of white light by a prism?",
+        "options": {
+            "a": "Dispersion",
+            "b": "Scattering",
+            "c": "Refraction",
+            "d": "Diffraction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the apparent position of a star due to atmospheric refraction?",
+        "options": {
+            "a": "It appears higher than its actual position",
+            "b": "It appears lower than its actual position",
+            "c": "It remains unchanged",
+            "d": "It disappears"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which property of light is responsible for the formation of shadows?",
+        "options": {
+            "a": "Reflection",
+            "b": "Rectilinear propagation",
+            "c": "Dispersion",
+            "d": "Scattering"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": {
+            "a": "2.998 \u00d7 1 0 8 m/s 2.998\u00d710 8 m/s",
+            "b": "1.5 \u00d7 1 0 8 m/s 1.5\u00d710 8 m/s",
+            "c": "3.5 \u00d7 1 0 6 m/s 3.5\u00d710 6 m/s",
+            "d": "4.0 \u00d7 1 0 9 m/s 4.0\u00d710 9 m/s"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the critical angle for light traveling from glass to air?",
+        "options": {
+            "a": "30\u00b0",
+            "b": "42\u00b0",
+            "c": "45\u00b0",
+            "d": "90\u00b0"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which optical phenomenon occurs in fiber optics?",
+        "options": {
+            "a": "Dispersion",
+            "b": "Total internal reflection",
+            "c": "Diffraction",
+            "d": "Scattering"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why does the Sun appear white at noon?",
+        "options": {
+            "a": "Scattering is maximum",
+            "b": "Scattering is minimum",
+            "c": "All colors are scattered equally",
+            "d": "Only red light reaches the Earth"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to light when it passes through a prism?",
+        "options": {
+            "a": "It bends and splits into colors",
+            "b": "It is absorbed completely",
+            "c": "It becomes polarized",
+            "d": "It reflects without change"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the power of a lens with a focal length of 50 cm?",
+        "options": {
+            "a": "+2 diopters",
+            "b": "+5 diopters",
+            "c": "-2 diopters",
+            "d": "-5 diopters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which phenomenon causes the banding of light in thin films?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Interference",
+            "c": "Dispersion",
+            "d": "Scattering"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the brightness of an object as perceived by the human eye?",
+        "options": {
+            "a": "Intensity",
+            "b": "Luminance",
+            "c": "Luminosity",
+            "d": "Refraction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is astigmatism?",
+        "options": {
+            "a": "Loss of the ability to see in dim light",
+            "b": "Blurred vision due to an irregularly shaped cornea",
+            "c": "Double vision due to lens defects",
+            "d": "Loss of color perception"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of luminous intensity?",
+        "options": {
+            "a": "Candela",
+            "b": "Lumen",
+            "c": "Lux",
+            "d": "Diopter"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes halos around lights in misty weather?",
+        "options": {
+            "a": "Scattering",
+            "b": "Refraction and total internal reflection",
+            "c": "Diffraction",
+            "d": "Dispersion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the effect of atmospheric refraction on the duration of daylight?",
+        "options": {
+            "a": "Reduces it",
+            "b": "Increases it",
+            "c": "Has no effect",
+            "d": "Makes it irregular"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when white light passes through a raindrop?",
+        "options": {
+            "a": "Total internal reflection and dispersion",
+            "b": "Only reflection",
+            "c": "Scattering without color change",
+            "d": "Diffraction only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the farthest distance at which a person with normal vision can see clearly?",
+        "options": {
+            "a": "25 cm",
+            "b": "100 m",
+            "c": "Infinity",
+            "d": "50 cm"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to light intensity as it passes through a denser medium?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains unchanged",
+            "d": "It gets polarized"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main role of the retina in the eye?",
+        "options": {
+            "a": "Absorb scattered light",
+            "b": "Focus light onto the cornea",
+            "c": "Detect light and convert it to electrical signals",
+            "d": "Control the size of the pupil"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What type of lens is used in a simple microscope?",
+        "options": {
+            "a": "Concave",
+            "b": "Convex",
+            "c": "Cylindrical",
+            "d": "Plane"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which part of the eye adjusts to focus on near or far objects?",
+        "options": {
+            "a": "Retina",
+            "b": "Iris",
+            "c": "Lens",
+            "d": "Cornea"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which color of light has the longest wavelength?",
+        "options": {
+            "a": "Violet",
+            "b": "Red",
+            "c": "Blue",
+            "d": "Green"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the cause of the blue color of the ocean?",
+        "options": {
+            "a": "Absorption of all colors except blue",
+            "b": "Scattering of blue light by water molecules",
+            "c": "Refraction of light by water",
+            "d": "Total internal reflection in water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of electric charge?",
+        "options": {
+            "a": "Volt",
+            "b": "Coulomb",
+            "c": "Ampere",
+            "d": "Ohm"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the charge of one electron?",
+        "options": {
+            "a": "1.6 \u00d7 1 0 \u2212 19 C 1.6\u00d710 \u221219 C",
+            "b": "1.6 \u00d7 1 0 19 C 1.6\u00d710 19 C",
+            "c": "9.1 \u00d7 1 0 \u2212 31 C 9.1\u00d710 \u221231 C",
+            "d": "0 C 0C"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is electric current?",
+        "options": {
+            "a": "Flow of light",
+            "b": "Flow of electrons in a conductor",
+            "c": "Resistance in a circuit",
+            "d": "Flow of protons in a conductor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of electric current?",
+        "options": {
+            "a": "Ohm",
+            "b": "Coulomb",
+            "c": "Ampere",
+            "d": "Volt"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What device is used to measure electric current?",
+        "options": {
+            "a": "Voltmeter",
+            "b": "Ammeter",
+            "c": "Ohmmeter",
+            "d": "Galvanometer"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does Ohm\u2019s Law state?",
+        "options": {
+            "a": "\ud835\udc3c = \ud835\udc49 \ud835\udc45 I= R V \u200b",
+            "b": "\ud835\udc45 = \ud835\udc49 \ud835\udc3c R= I V \u200b",
+            "c": "\ud835\udc49 = \ud835\udc3c \u22c5 \ud835\udc45 2 V=I\u22c5R 2",
+            "d": "\ud835\udc49 = \ud835\udc3c \u22c5 \ud835\udc45 V=I\u22c5R"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the resistance of a conductor if a 10 V battery causes 2 A of current?",
+        "options": {
+            "a": "20 ohms",
+            "b": "5 ohms",
+            "c": "10 ohms",
+            "d": "2 ohms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of resistance?",
+        "options": {
+            "a": "Volt",
+            "b": "Ohm",
+            "c": "Ampere",
+            "d": "Coulomb"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the resistance of a wire if its length is doubled?",
+        "options": {
+            "a": "It doubles",
+            "b": "It halves",
+            "c": "It remains unchanged",
+            "d": "It quadruples"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is resistivity?",
+        "options": {
+            "a": "Resistance per unit length",
+            "b": "A property of a material to oppose current",
+            "c": "Reciprocal of conductivity",
+            "d": "Resistance of a wire"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the unit of resistivity?",
+        "options": {
+            "a": "Ohm meter",
+            "b": "Volt meter",
+            "c": "Ampere meter",
+            "d": "Coulomb meter"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between resistance \ud835\udc45 R and cross-sectional area \ud835\udc34 A of a wire?",
+        "options": {
+            "a": "\ud835\udc45 \u221d \ud835\udc34 2 R\u221dA 2",
+            "b": "\ud835\udc45 \u221d 1 \ud835\udc34 R\u221d A 1 \u200b",
+            "c": "\ud835\udc45 \u221d \ud835\udc34 R\u221dA",
+            "d": "\ud835\udc45 \u221d \ud835\udc34 3 R\u221dA 3"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the total resistance in a series circuit?",
+        "options": {
+            "a": "Product of individual resistances",
+            "b": "Reciprocal of the sum of reciprocals of resistances",
+            "c": "Sum of individual resistances",
+            "d": "Resistance of the largest resistor"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the total resistance in a parallel circuit?",
+        "options": {
+            "a": "Sum of all resistances",
+            "b": "Product of individual resistances",
+            "c": "Reciprocal of the sum of reciprocals of resistances",
+            "d": "Double the largest resistance"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens to the total resistance in a parallel circuit when more resistors are added?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains unchanged",
+            "d": "It doubles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the unit of electric power?",
+        "options": {
+            "a": "Watt",
+            "b": "Ampere",
+            "c": "Volt",
+            "d": "Joule"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the formula for electric power?",
+        "options": {
+            "a": "\ud835\udc43 = \ud835\udc49 \u22c5 \ud835\udc3c P=V\u22c5I",
+            "b": "\ud835\udc43 = \ud835\udc3c 2 \u22c5 \ud835\udc45 P=I 2 \u22c5R",
+            "c": "\ud835\udc43 = \ud835\udc49 2 \ud835\udc45 P= R V 2 \u200b",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the energy consumed by a 100 W bulb in 1 hour?",
+        "options": {
+            "a": "100 J",
+            "b": "100 kWh",
+            "c": "0.1 kWh",
+            "d": "1 kWh"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does the resistance of a conductor vary with temperature?",
+        "options": {
+            "a": "Increases with temperature",
+            "b": "Decreases with temperature",
+            "c": "Remains constant",
+            "d": "Depends on the current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the voltage across a 5-ohm resistor with a 3 A current?",
+        "options": {
+            "a": "15 V",
+            "b": "1.67 V",
+            "c": "5 V",
+            "d": "3 V"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the current if the resistance is halved and the voltage remains constant?",
+        "options": {
+            "a": "It doubles",
+            "b": "It halves",
+            "c": "It remains the same",
+            "d": "It becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What device is used to measure potential difference?",
+        "options": {
+            "a": "Ammeter",
+            "b": "Voltmeter",
+            "c": "Galvanometer",
+            "d": "Ohmmeter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between potential difference and electric current according to Ohm's Law?",
+        "options": {
+            "a": "They are directly proportional",
+            "b": "They are inversely proportional",
+            "c": "They are unrelated",
+            "d": "Their product is constant"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which material is a good conductor of electricity?",
+        "options": {
+            "a": "Rubber",
+            "b": "Copper",
+            "c": "Glass",
+            "d": "Wood"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of a fuse in an electric circuit?",
+        "options": {
+            "a": "To measure resistance",
+            "b": "To protect the circuit by breaking the connection in case of overcurrent",
+            "c": "To store electric charge",
+            "d": "To step up voltage"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to a bulb in a series circuit if one bulb is removed?",
+        "options": {
+            "a": "All bulbs go off",
+            "b": "Remaining bulbs get brighter",
+            "c": "Remaining bulbs stay unchanged",
+            "d": "The circuit gets faster"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main drawback of a parallel circuit?",
+        "options": {
+            "a": "It consumes more energy",
+            "b": "The current divides across branches",
+            "c": "Total resistance is difficult to calculate",
+            "d": "It requires more wires"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the commercial unit of electric energy?",
+        "options": {
+            "a": "Joule",
+            "b": "Watt",
+            "c": "Kilowatt-hour",
+            "d": "Ampere-hour"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the resistance of a wire if its resistivity is 1.68 \u00d7 1 0 \u2212 8 \u03a9 \u22c5 m 1.68\u00d710 \u22128 \u03a9\u22c5m, length is 1 m, and cross-sectional area is 1 0 \u2212 6 m 2 10 \u22126 m 2 ?",
+        "options": {
+            "a": "1.68 \u03a9 1.68\u03a9",
+            "b": "16.8 \u03a9 16.8\u03a9",
+            "c": "0.0168 \u03a9 0.0168\u03a9",
+            "d": "0.168 \u03a9 0.168\u03a9"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does a kilowatt-hour (kWh) measure?",
+        "options": {
+            "a": "Power",
+            "b": "Electric charge",
+            "c": "Electric energy",
+            "d": "Resistance"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the effect of connecting resistors in series?",
+        "options": {
+            "a": "The total resistance increases",
+            "b": "The total resistance decreases",
+            "c": "The current through each resistor varies",
+            "d": "The voltage across each resistor is the same"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How are resistors connected in household circuits?",
+        "options": {
+            "a": "In series",
+            "b": "In parallel",
+            "c": "Randomly",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the power dissipated in a resistor when the current is doubled?",
+        "options": {
+            "a": "It doubles",
+            "b": "It becomes four times",
+            "c": "It remains the same",
+            "d": "It halves"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the voltage of a standard electric power supply in most households?",
+        "options": {
+            "a": "110 V",
+            "b": "220 V",
+            "c": "330 V",
+            "d": "440 V"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between current and resistance for a constant voltage?",
+        "options": {
+            "a": "They are directly proportional",
+            "b": "They are inversely proportional",
+            "c": "They are unrelated",
+            "d": "Current is independent of resistance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a short circuit?",
+        "options": {
+            "a": "A circuit with no resistors",
+            "b": "A circuit with an abnormally low resistance, causing excessive current",
+            "c": "A circuit with multiple resistors connected",
+            "d": "A circuit that is incomplete"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the potential difference if 50 J of energy is used to move 5 C of charge?",
+        "options": {
+            "a": "10 V",
+            "b": "5 V",
+            "c": "25 V",
+            "d": "50 V"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the drift velocity of electrons in a conductor?",
+        "options": {
+            "a": "The speed of electrons in random motion",
+            "b": "The net velocity of electrons in the direction of the electric field",
+            "c": "The speed of light in a conductor",
+            "d": "The rate of electron production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which device converts electrical energy into mechanical energy?",
+        "options": {
+            "a": "Generator",
+            "b": "Motor",
+            "c": "Transformer",
+            "d": "Voltmeter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the resistance of a metallic wire when its temperature decreases?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains constant",
+            "d": "It becomes infinite"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the slope of a voltage-current graph represent?",
+        "options": {
+            "a": "Resistance",
+            "b": "Current",
+            "c": "Voltage",
+            "d": "Power"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "If a wire is stretched to double its length, what happens to its resistance?",
+        "options": {
+            "a": "It becomes half",
+            "b": "It becomes double",
+            "c": "It becomes four times",
+            "d": "It remains the same"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is superconductivity?",
+        "options": {
+            "a": "Resistance becoming infinite",
+            "b": "Zero resistance at very low temperatures",
+            "c": "Resistance increasing with temperature",
+            "d": "The ability to store charge"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the equivalent resistance of two 10-ohm resistors connected in parallel?",
+        "options": {
+            "a": "20 ohms",
+            "b": "10 ohms",
+            "c": "5 ohms",
+            "d": "2 ohms"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which device is used to convert AC to DC?",
+        "options": {
+            "a": "Transformer",
+            "b": "Rectifier",
+            "c": "Motor",
+            "d": "Ammeter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which material is commonly used as a heating element in electrical appliances?",
+        "options": {
+            "a": "Copper",
+            "b": "Nichrome",
+            "c": "Aluminum",
+            "d": "Silver"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main function of a capacitor?",
+        "options": {
+            "a": "Measure current",
+            "b": "Store electrical energy",
+            "c": "Increase resistance",
+            "d": "Step up voltage"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the power consumed when resistance is tripled while maintaining the same current?",
+        "options": {
+            "a": "It triples",
+            "b": "It becomes nine times",
+            "c": "It halves",
+            "d": "It remains the same"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the formula for the heat produced in a resistor?",
+        "options": {
+            "a": "\ud835\udc3b = \ud835\udc3c 2 \ud835\udc45 \ud835\udc61 H=I 2 Rt",
+            "b": "\ud835\udc3b = \ud835\udc3c \ud835\udc45 2 \ud835\udc61 H=IR 2 t",
+            "c": "\ud835\udc3b = \ud835\udc49 2 \ud835\udc45 \ud835\udc61 H= R V 2 \u200b t",
+            "d": "\ud835\udc3b = \ud835\udc49 \ud835\udc3c \ud835\udc61 H=VIt"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a magnetic field?",
+        "options": {
+            "a": "The force exerted by electric charges",
+            "b": "The region around a magnet where its influence can be felt",
+            "c": "The flow of current in a wire",
+            "d": "A field that only exists in moving charges"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the SI unit of magnetic field strength?",
+        "options": {
+            "a": "Tesla",
+            "b": "Newton",
+            "c": "Ampere",
+            "d": "Volt"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens when the magnetic field lines are closer together?",
+        "options": {
+            "a": "The field is weaker",
+            "b": "The field is stronger",
+            "c": "The field disappears",
+            "d": "The field becomes uniform"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the direction of magnetic field lines around a bar magnet?",
+        "options": {
+            "a": "From north pole to south pole outside the magnet",
+            "b": "From south pole to north pole outside the magnet",
+            "c": "From south pole to north pole inside the magnet",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the shape of magnetic field lines around a straight current-carrying conductor?",
+        "options": {
+            "a": "Elliptical",
+            "b": "Circular",
+            "c": "Rectangular",
+            "d": "Parabolic"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What rule is used to determine the direction of the magnetic field around a current-carrying conductor?",
+        "options": {
+            "a": "Right-hand thumb rule",
+            "b": "Left-hand rule",
+            "c": "Fleming\u2019s left-hand rule",
+            "d": "Ampere\u2019s rule"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the magnetic field inside a current-carrying solenoid?",
+        "options": {
+            "a": "Non-uniform",
+            "b": "Circular",
+            "c": "Uniform and parallel",
+            "d": "Weak and diverging"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What happens when a current-carrying conductor is placed in a magnetic field?",
+        "options": {
+            "a": "It experiences a force",
+            "b": "Its resistance increases",
+            "c": "Its magnetic field disappears",
+            "d": "Its current stops"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is Fleming\u2019s left-hand rule used for?",
+        "options": {
+            "a": "Determining the direction of magnetic field around a conductor",
+            "b": "Determining the direction of force on a current-carrying conductor in a magnetic field",
+            "c": "Determining the direction of current in an electric circuit",
+            "d": "Determining the direction of induced current"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an electromagnet?",
+        "options": {
+            "a": "A temporary magnet created by a current-carrying coil",
+            "b": "A permanent magnet",
+            "c": "A magnetic field due to friction",
+            "d": "A device to store energy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What material is typically used to make the core of an electromagnet?",
+        "options": {
+            "a": "Aluminum",
+            "b": "Copper",
+            "c": "Soft iron",
+            "d": "Plastic"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main advantage of an electromagnet over a permanent magnet?",
+        "options": {
+            "a": "It is stronger",
+            "b": "Its magnetic field can be turned on or off",
+            "c": "It is more durable",
+            "d": "It works without electric current"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is electromagnetic induction?",
+        "options": {
+            "a": "Production of a magnetic field by a moving conductor",
+            "b": "Induction of current in a conductor by a changing magnetic field",
+            "c": "Movement of charges in a magnetic field",
+            "d": "Attraction of two magnetic poles"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who discovered electromagnetic induction?",
+        "options": {
+            "a": "Michael Faraday",
+            "b": "Thomas Edison",
+            "c": "James Clerk Maxwell",
+            "d": "Andr\u00e9-Marie Amp\u00e8re"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the function of a galvanometer?",
+        "options": {
+            "a": "Measure magnetic field strength",
+            "b": "Detect and measure small electric currents",
+            "c": "Create magnetic fields",
+            "d": "Store electric charge"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is Lenz\u2019s law?",
+        "options": {
+            "a": "The induced current opposes the change in magnetic flux",
+            "b": "The induced current is proportional to the magnetic field",
+            "c": "The direction of current is determined by the resistance",
+            "d": "Magnetic poles always attract"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the working principle of an electric motor?",
+        "options": {
+            "a": "Electromagnetic induction",
+            "b": "Conversion of electrical energy into mechanical energy",
+            "c": "Conversion of mechanical energy into electrical energy",
+            "d": "Reflection of electric current"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main component of an electric motor?",
+        "options": {
+            "a": "Galvanometer",
+            "b": "Armature",
+            "c": "Voltmeter",
+            "d": "Ammeter"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of a split-ring commutator in an electric motor?",
+        "options": {
+            "a": "Reverse the direction of current in the coil",
+            "b": "Increase the magnetic field",
+            "c": "Reduce resistance in the circuit",
+            "d": "Store electrical energy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the working principle of a generator?",
+        "options": {
+            "a": "Electromagnetic induction",
+            "b": "Conversion of mechanical energy into electrical energy",
+            "c": "Both a and b",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the purpose of brushes in an electric generator?",
+        "options": {
+            "a": "Create magnetic fields",
+            "b": "Conduct current between stationary and moving parts",
+            "c": "Generate electricity",
+            "d": "Absorb heat"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the function of a transformer?",
+        "options": {
+            "a": "Store electric charge",
+            "b": "Change the voltage of alternating current",
+            "c": "Convert DC to AC",
+            "d": "Measure resistance"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the core of a transformer made of?",
+        "options": {
+            "a": "Plastic",
+            "b": "Soft iron",
+            "c": "Copper",
+            "d": "Aluminum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the principle of operation of a transformer?",
+        "options": {
+            "a": "Electromagnetic induction",
+            "b": "Ohm\u2019s law",
+            "c": "Conservation of energy",
+            "d": "Fleming\u2019s left-hand rule"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the magnetic flux through a surface?",
+        "options": {
+            "a": "Number of magnetic field lines passing through the surface",
+            "b": "Total electric charge on the surface",
+            "c": "Direction of magnetic field at the surface",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the magnetic effect of electric current?",
+        "options": {
+            "a": "Heating produced by a current",
+            "b": "Production of a magnetic field around a current-carrying conductor",
+            "c": "Production of resistance in a circuit",
+            "d": "Absorption of light by a conductor"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What determines the direction of induced current?",
+        "options": {
+            "a": "Faraday\u2019s law",
+            "b": "Lenz\u2019s law",
+            "c": "Ohm\u2019s law",
+            "d": "Fleming\u2019s right-hand rule"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is a solenoid?",
+        "options": {
+            "a": "A coil of wire used to generate a magnetic field",
+            "b": "A device to store current",
+            "c": "A switch in a circuit",
+            "d": "A type of transformer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the magnetic field strength inside a solenoid when the number of turns is increased?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains constant",
+            "d": "It disappears"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main advantage of an alternating current (AC) over direct current (DC)?",
+        "options": {
+            "a": "AC is easier to generate",
+            "b": "AC is easier to transmit over long distances",
+            "c": "AC is cheaper to produce",
+            "d": "AC is always safer"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the frequency of alternating current (AC) in India?",
+        "options": {
+            "a": "50 Hz",
+            "b": "60 Hz",
+            "c": "100 Hz",
+            "d": "25 Hz"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of a fuse in an electric circuit?",
+        "options": {
+            "a": "Increase the voltage",
+            "b": "Prevent overheating by breaking the circuit in case of excessive current",
+            "c": "Store electrical charge",
+            "d": "Reverse the direction of current"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the direction of magnetic field lines around a straight conductor determined by?",
+        "options": {
+            "a": "Fleming\u2019s left-hand rule",
+            "b": "Right-hand thumb rule",
+            "c": "Ohm\u2019s law",
+            "d": "Lenz\u2019s law"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the phenomenon by which a conductor moving in a magnetic field induces current?",
+        "options": {
+            "a": "Electromagnetic induction",
+            "b": "Magnetic resonance",
+            "c": "Resistance heating",
+            "d": "Reflection of charges"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the magnitude of induced current if the speed of motion in a magnetic field increases?",
+        "options": {
+            "a": "It increases",
+            "b": "It decreases",
+            "c": "It remains constant",
+            "d": "It becomes zero"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the relationship between current and magnetic field in a solenoid?",
+        "options": {
+            "a": "They are inversely proportional",
+            "b": "They are directly proportional",
+            "c": "They are unrelated",
+            "d": "Magnetic field remains constant regardless of current"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of an Earth wire in domestic circuits?",
+        "options": {
+            "a": "Reduce electricity bills",
+            "b": "Prevent overloading",
+            "c": "Protect users from electric shocks",
+            "d": "Increase resistance in the circuit"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which device converts mechanical energy into electrical energy?",
+        "options": {
+            "a": "Electric motor",
+            "b": "Transformer",
+            "c": "Generator",
+            "d": "Ammeter"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the magnetic field strength inside a solenoid with 100 turns, a current of 2 A, and a length of 1 m ( \ud835\udf07 0 = 4 \ud835\udf0b \u00d7 1 0 \u2212 7 \u03bc 0 \u200b =4\u03c0\u00d710 \u22127 )?",
+        "options": {
+            "a": "8 \ud835\udf0b \u00d7 1 0 \u2212 5 T 8\u03c0\u00d710 \u22125 T",
+            "b": "8 \ud835\udf0b \u00d7 1 0 \u2212 4 T 8\u03c0\u00d710 \u22124 T",
+            "c": "4 \ud835\udf0b \u00d7 1 0 \u2212 6 T 4\u03c0\u00d710 \u22126 T",
+            "d": "2 \ud835\udf0b \u00d7 1 0 \u2212 5 T 2\u03c0\u00d710 \u22125 T"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is mutual induction?",
+        "options": {
+            "a": "Induction of current in a coil due to a change in its own magnetic field",
+            "b": "Induction of current in one coil due to the change in magnetic field of another coil",
+            "c": "Magnetic resonance between two coils",
+            "d": "Reflection of magnetic fields between two coils"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to the magnetic field of a current-carrying conductor if the current is reversed?",
+        "options": {
+            "a": "The field disappears",
+            "b": "The direction of the magnetic field reverses",
+            "c": "The magnetic field strength decreases",
+            "d": "Nothing changes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the principle behind working of a DC motor?",
+        "options": {
+            "a": "Magnetic resonance",
+            "b": "Electromagnetic induction",
+            "c": "Torque on a current-carrying loop in a magnetic field",
+            "d": "Conversion of electrical energy to light"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the function of a diode in an electric circuit?",
+        "options": {
+            "a": "Store energy",
+            "b": "Act as a switch",
+            "c": "Allow current to flow in one direction only",
+            "d": "Measure resistance"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is eddy current?",
+        "options": {
+            "a": "Current induced in a coil by its own magnetic field",
+            "b": "Circulating currents induced in a conductor due to a changing magnetic field",
+            "c": "Current flowing only in one direction",
+            "d": "Current used in transformers"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens when the magnetic flux through a coil changes?",
+        "options": {
+            "a": "A current is induced",
+            "b": "The resistance changes",
+            "c": "The conductor heats up",
+            "d": "The voltage decreases"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the power loss in transmission lines due to?",
+        "options": {
+            "a": "Magnetic induction",
+            "b": "Resistance of the wires",
+            "c": "Capacitance of the circuit",
+            "d": "High voltage supply"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why are high voltages used for transmission of electricity?",
+        "options": {
+            "a": "To reduce power loss",
+            "b": "To increase current",
+            "c": "To decrease resistance",
+            "d": "To prevent short circuits"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following devices operates based on electromagnetic induction?",
+        "options": {
+            "a": "Transformer",
+            "b": "Generator",
+            "c": "Induction stove",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is self-induction?",
+        "options": {
+            "a": "Current induced in one coil due to a change in its own magnetic field",
+            "b": "Current induced in a coil due to a nearby magnet",
+            "c": "Current induced in a conductor due to another coil",
+            "d": "Magnetic field produced in a solenoid"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the force experienced by a current-carrying conductor when the angle between current and magnetic field is 90\u00b0?",
+        "options": {
+            "a": "The force is maximum",
+            "b": "The force is minimum",
+            "c": "The force is zero",
+            "d": "The force reverses direction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "An object of mass 5 kg is moving with a velocity of 10 m/s. What is its kinetic energy?",
+        "options": {
+            "a": "25 J",
+            "b": "50 J",
+            "c": "300 J",
+            "d": "100 J"
+        },
+        "answer": "d"
+    }
+
+]

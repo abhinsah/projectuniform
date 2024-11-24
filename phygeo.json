@@ -1,0 +1,3452 @@
+[
+    {
+        "question": "Which branch of geography studies the natural environment?",
+        "options": {
+            "a": "Human geography",
+            "b": "Physical geography",
+            "c": "Political geography",
+            "d": "Environmental geography"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the key concern of regional geography?",
+        "options": {
+            "a": "Study of historical events in a region",
+            "b": "Study of unique characteristics of a region",
+            "c": "Study of economic activities",
+            "d": "Study of population dynamics"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is one major focus of human geography?",
+        "options": {
+            "a": "Mapping physical terrains",
+            "b": "Studying spatial aspects of human culture",
+            "c": "Observing plate tectonics",
+            "d": "Monitoring ocean currents"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which aspect of geography helps in the development of urban planning?",
+        "options": {
+            "a": "Environmental geography",
+            "b": "Regional geography",
+            "c": "GIS and spatial analysis",
+            "d": "Geomorphology"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Geography integrates knowledge from which disciplines?",
+        "options": {
+            "a": "Physics and Chemistry",
+            "b": "Sociology, Biology, and Geology",
+            "c": "Medicine and Law",
+            "d": "Only Mathematics"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How does geography help in disaster management?",
+        "options": {
+            "a": "Predicts population growth",
+            "b": "Helps in spatial planning and resource management",
+            "c": "Identifies diseases in remote areas",
+            "d": "Monitors global trade routes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary distinction between systematic and regional geography?",
+        "options": {
+            "a": "Systematic geography examines patterns, while regional geography studies places",
+            "b": "Regional geography focuses on the past exclusively",
+            "c": "Systematic geography ignores human-environment interaction",
+            "d": "Regional geography applies only to small areas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which branch of geography deals with climate and weather?",
+        "options": {
+            "a": "Biogeography",
+            "b": "Climatology",
+            "c": "Pedology",
+            "d": "Economic geography"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What role does geography play in international trade?",
+        "options": {
+            "a": "Monitors global temperature",
+            "b": "Analyzes spatial networks and transportation systems",
+            "c": "Studies historical events",
+            "d": "Determines oceanic salinity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What do thematic maps focus on?",
+        "options": {
+            "a": "Roads and infrastructure",
+            "b": "Specific topics like population, rainfall, or vegetation",
+            "c": "Political boundaries",
+            "d": "Relief features"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a \"cultural landscape\"?",
+        "options": {
+            "a": "A natural environment untouched by humans",
+            "b": "A terrain shaped by cultural practices and activities",
+            "c": "A map showing physical boundaries",
+            "d": "A protected wildlife sanctuary"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the relationship between geography and ecology?",
+        "options": {
+            "a": "Both study atmospheric phenomena exclusively",
+            "b": "Both examine interactions between organisms and their environment",
+            "c": "Geography focuses on humans, while ecology focuses only on animals",
+            "d": "Geography ignores ecological systems"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the three main divisions of geography?",
+        "options": {
+            "a": "Human, physical, and regional geography",
+            "b": "Climatology, geomorphology, and cartography",
+            "c": "Historical, mathematical, and political geography",
+            "d": "Biogeography, pedology, and environmental geography"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who is known as the \"Father of Modern Geography\"?",
+        "options": {
+            "a": "Alexander von Humboldt",
+            "b": "Ptolemy",
+            "c": "Carl Sagan",
+            "d": "Ferdinand Magellan"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What technology is often used in modern geography?",
+        "options": {
+            "a": "GIS and remote sensing",
+            "b": "X-ray machines",
+            "c": "Radio telescopes",
+            "d": "Ultrasonography"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does geography contribute to sustainable development?",
+        "options": {
+            "a": "Studies economic models",
+            "b": "Assesses environmental impact and resource allocation",
+            "c": "Focuses on atmospheric pressure exclusively",
+            "d": "Monitors genetic engineering projects"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What distinguishes GIS from traditional mapping?",
+        "options": {
+            "a": "GIS provides dynamic, layered spatial data",
+            "b": "GIS only covers urban areas",
+            "c": "GIS excludes environmental factors",
+            "d": "GIS is paper-based"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What does spatial distribution in geography refer to?",
+        "options": {
+            "a": "Equal spread of resources worldwide",
+            "b": "The arrangement of phenomena across the Earth's surface",
+            "c": "Division of continents into political regions",
+            "d": "Study of weather patterns alone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which branch of geography examines soil types and properties?",
+        "options": {
+            "a": "Geomorphology",
+            "b": "Pedology",
+            "c": "Hydrology",
+            "d": "Biogeography"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of studying geography?",
+        "options": {
+            "a": "To develop a broad understanding of the interconnections between humans and their environment",
+            "b": "To memorize global statistics",
+            "c": "To focus on isolated cultural traditions",
+            "d": "To monitor ocean depths exclusively"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the most widely accepted theory for the origin of the universe?",
+        "options": {
+            "a": "Steady State Theory",
+            "b": "Big Bang Theory",
+            "c": "String Theory",
+            "d": "Oscillating Universe Theory"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Approximately how many years ago did the Big Bang occur?",
+        "options": {
+            "a": "4.6 billion years",
+            "b": "10 billion years",
+            "c": "13.7 billion years",
+            "d": "20 billion years"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What was the initial state of the universe before the Big Bang?",
+        "options": {
+            "a": "Infinite size and heat",
+            "b": "A singularity with infinite density and temperature",
+            "c": "A massive star cluster",
+            "d": "A nebula of gases"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which elements were first formed after the Big Bang?",
+        "options": {
+            "a": "Helium and Hydrogen",
+            "b": "Oxygen and Nitrogen",
+            "c": "Carbon and Silicon",
+            "d": "Iron and Nickel"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What led to the formation of galaxies?",
+        "options": {
+            "a": "Random collisions of stars",
+            "b": "Gravitational collapse of matter into clumps",
+            "c": "Explosion of massive stars",
+            "d": "Cooling of the universe"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the most accepted theory for the origin of the solar system?",
+        "options": {
+            "a": "Nebular Hypothesis",
+            "b": "Tidal Hypothesis",
+            "c": "Planetesimal Hypothesis",
+            "d": "Modern Laplacian Hypothesis"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who proposed the Nebular Hypothesis?",
+        "options": {
+            "a": "Immanuel Kant and Pierre-Simon Laplace",
+            "b": "Albert Einstein and Stephen Hawking",
+            "c": "Carl Sagan and Edwin Hubble",
+            "d": "Isaac Newton and Galileo Galilei"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the solar nebula primarily composed of?",
+        "options": {
+            "a": "Hydrogen and Helium",
+            "b": "Iron and Nickel",
+            "c": "Oxygen and Silicon",
+            "d": "Carbon dioxide and Methane"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What caused the spinning of the solar nebula?",
+        "options": {
+            "a": "External gravitational forces",
+            "b": "Explosion of nearby stars",
+            "c": "Gravitational collapse and conservation of angular momentum",
+            "d": "The impact of asteroids"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How did planets form according to the Nebular Hypothesis?",
+        "options": {
+            "a": "Accretion of dust and gas into planetesimals",
+            "b": "Direct cooling of the nebula into spheres",
+            "c": "Fragmentation of the Sun",
+            "d": "Collision of stars"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of planets are Mercury, Venus, Earth, and Mars?",
+        "options": {
+            "a": "Gas giants",
+            "b": "Terrestrial planets",
+            "c": "Dwarf planets",
+            "d": "Ice planets"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the gas giants in the solar system?",
+        "options": {
+            "a": "Mercury, Venus, Earth, and Mars",
+            "b": "Jupiter, Saturn, Uranus, and Neptune",
+            "c": "Pluto and Ceres",
+            "d": "None of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How old is the Earth approximately?",
+        "options": {
+            "a": "4.6 billion years",
+            "b": "10 billion years",
+            "c": "6,000 years",
+            "d": "1 billion years"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What caused the early differentiation of the Earth\u2019s layers?",
+        "options": {
+            "a": "Impact of meteors",
+            "b": "Heat from radioactive decay and gravitational forces",
+            "c": "The presence of oceans",
+            "d": "Photosynthesis in primitive organisms"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following was NOT present in the Earth's early atmosphere?",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Oxygen",
+            "c": "Methane",
+            "d": "Ammonia"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the process that resulted in the formation of the Earth's crust?",
+        "options": {
+            "a": "Melting of heavy metals",
+            "b": "Cooling and solidification of molten rock",
+            "c": "Erosion of meteorites",
+            "d": "Evaporation of water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which gas made up the majority of Earth\u2019s early atmosphere?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon dioxide",
+            "d": "Hydrogen"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the term for the formation of the Moon?",
+        "options": {
+            "a": "Nebular aggregation",
+            "b": "Giant Impact Hypothesis",
+            "c": "Co-accretion theory",
+            "d": "Collision Hypothesis"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which celestial body collided with Earth to form the Moon?",
+        "options": {
+            "a": "The Sun",
+            "b": "A Mars-sized planet called Theia",
+            "c": "An asteroid belt fragment",
+            "d": "A neighboring planet"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When did life first appear on Earth?",
+        "options": {
+            "a": "4 billion years ago",
+            "b": "2 billion years ago",
+            "c": "1 billion years ago",
+            "d": "600 million years ago"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What was the earliest form of life on Earth?",
+        "options": {
+            "a": "Multicellular organisms",
+            "b": "Single-celled prokaryotic organisms",
+            "c": "Vertebrates",
+            "d": "Plants"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the current composition of Earth\u2019s atmosphere?",
+        "options": {
+            "a": "78% Nitrogen, 21% Oxygen",
+            "b": "50% Oxygen, 50% Carbon dioxide",
+            "c": "60% Nitrogen, 30% Oxygen",
+            "d": "90% Methane, 10% Hydrogen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process by which the early atmosphere developed oxygen?",
+        "options": {
+            "a": "Volcanic eruptions",
+            "b": "Photosynthesis by cyanobacteria",
+            "c": "Combustion of early materials",
+            "d": "Evaporation of water"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the most accurate way to date the age of the Earth?",
+        "options": {
+            "a": "Fossil analysis",
+            "b": "Radiometric dating of meteorites",
+            "c": "Ice core sampling",
+            "d": "Observation of plate movements"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What distinguishes the inner planets from the outer planets?",
+        "options": {
+            "a": "Inner planets are rocky and smaller; outer planets are gaseous and larger",
+            "b": "Inner planets have more moons",
+            "c": "Inner planets are colder",
+            "d": "Inner planets rotate faster"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How do we gather information about the Earth's interior?",
+        "options": {
+            "a": "Space exploration",
+            "b": "Seismic waves and indirect observations",
+            "c": "Direct drilling to the core",
+            "d": "Satellite imaging"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the two main types of seismic waves?",
+        "options": {
+            "a": "Primary and Secondary waves",
+            "b": "Transverse and Longitudinal waves",
+            "c": "Surface and Deep waves",
+            "d": "Earthquake and Tsunami waves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which seismic wave travels the fastest?",
+        "options": {
+            "a": "P-waves (Primary waves)",
+            "b": "S-waves (Secondary waves)",
+            "c": "Surface waves",
+            "d": "Love waves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why do S-waves not travel through the Earth's outer core?",
+        "options": {
+            "a": "They are absorbed by the crust",
+            "b": "They cannot pass through liquid",
+            "c": "They are refracted back to the surface",
+            "d": "They are too slow to penetrate"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the main layers of the Earth?",
+        "options": {
+            "a": "Crust, Mantle, and Core",
+            "b": "Lithosphere, Asthenosphere, and Mesosphere",
+            "c": "Outer layer, Middle layer, and Inner core",
+            "d": "Oceanic layer, Continental layer, and Inner mantle"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the approximate thickness of the Earth's crust?",
+        "options": {
+            "a": "5-70 km",
+            "b": "100-200 km",
+            "c": "500-1000 km",
+            "d": "2000-3000 km"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which part of the crust is thicker?",
+        "options": {
+            "a": "Oceanic crust",
+            "b": "Continental crust",
+            "c": "Lithospheric crust",
+            "d": "Mantle crust"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the average composition of the Earth's crust?",
+        "options": {
+            "a": "Granite and basalt",
+            "b": "Nickel and iron",
+            "c": "Water and salt",
+            "d": "Silicon and nitrogen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Mohorovicic Discontinuity (Moho)?",
+        "options": {
+            "a": "The boundary between the crust and the mantle",
+            "b": "The layer between the inner and outer core",
+            "c": "The transition zone within the mantle",
+            "d": "The line where seismic waves stop"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Earth's mantle composed of?",
+        "options": {
+            "a": "Semi-solid silicate rocks rich in iron and magnesium",
+            "b": "Solid granite and quartz",
+            "c": "Liquid iron and nickel",
+            "d": "Volcanic gases and dust"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the name of the Earth's outer core?",
+        "options": {
+            "a": "Lithosphere",
+            "b": "Asthenosphere",
+            "c": "Liquid metallic core",
+            "d": "Rigid core"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the Earth's inner core primarily made of?",
+        "options": {
+            "a": "Solid iron and nickel",
+            "b": "Molten silicon and oxygen",
+            "c": "Gas and dust particles",
+            "d": "Rocks rich in magnesium"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes the Earth\u2019s magnetic field?",
+        "options": {
+            "a": "Radioactive elements in the crust",
+            "b": "Movement of molten iron in the outer core",
+            "c": "Seismic activity in the mantle",
+            "d": "Solidification of the inner core"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the temperature range in the Earth\u2019s inner core?",
+        "options": {
+            "a": "500-1000 \u00b0C",
+            "b": "3000-4000 \u00b0C",
+            "c": "5000-6000 \u00b0C",
+            "d": "Above 10,000 \u00b0C"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are shadow zones in seismology?",
+        "options": {
+            "a": "Areas where seismic waves are not detected",
+            "b": "Dark regions in volcanic craters",
+            "c": "Areas with no earthquake activity",
+            "d": "Zones where S-waves amplify"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which seismic wave is the most destructive?",
+        "options": {
+            "a": "P-waves",
+            "b": "S-waves",
+            "c": "Surface waves",
+            "d": "Love waves"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the Gutenberg Discontinuity?",
+        "options": {
+            "a": "The boundary between the mantle and the outer core",
+            "b": "The transition zone within the mantle",
+            "c": "The point where seismic waves reflect back",
+            "d": "The line between the crust and the upper mantle"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which part of the Earth is known as the lithosphere?",
+        "options": {
+            "a": "Crust and uppermost solid mantle",
+            "b": "Entire mantle",
+            "c": "Mantle and outer core",
+            "d": "Inner core and outer core"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the asthenosphere?",
+        "options": {
+            "a": "The rigid outer layer of the Earth",
+            "b": "The molten layer beneath the lithosphere",
+            "c": "The solid inner core",
+            "d": "The gaseous layer above the crust"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the thickness of the Earth's mantle?",
+        "options": {
+            "a": "500-1000 km",
+            "b": "2900 km",
+            "c": "10,000 km",
+            "d": "500 km"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the average density of the Earth's core?",
+        "options": {
+            "a": "5 g/cm\u00b3",
+            "b": "11 g/cm\u00b3",
+            "c": "20 g/cm\u00b3",
+            "d": "3 g/cm\u00b3"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is the inner core solid despite high temperatures?",
+        "options": {
+            "a": "It is made of hard rock",
+            "b": "Extreme pressure prevents melting",
+            "c": "It contains only heavy metals",
+            "d": "Its temperature is lower than the mantle"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are xenoliths?",
+        "options": {
+            "a": "Pieces of mantle rock brought to the surface by volcanic eruptions",
+            "b": "Rare minerals found in the core",
+            "c": "Seismic waves that penetrate the mantle",
+            "d": "Fossilized remains of oceanic crust"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to seismic waves as they pass through denser material?",
+        "options": {
+            "a": "They slow down",
+            "b": "They speed up",
+            "c": "They stop completely",
+            "d": "They refract and reverse direction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of studying seismic waves?",
+        "options": {
+            "a": "They help understand weather patterns",
+            "b": "They reveal the composition and structure of Earth\u2019s interior",
+            "c": "They predict volcano formation",
+            "d": "They measure ocean currents"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the supercontinent proposed by Alfred Wegener?",
+        "options": {
+            "a": "Gondwana",
+            "b": "Laurasia",
+            "c": "Pangaea",
+            "d": "Atlantis"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which theory explains the movement of continents?",
+        "options": {
+            "a": "Plate Tectonics Theory",
+            "b": "Seafloor Spreading Theory",
+            "c": "Continental Drift Theory",
+            "d": "Isostatic Adjustment Theory"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the name of the single large ocean surrounding Pangaea?",
+        "options": {
+            "a": "Tethys Sea",
+            "b": "Pacific Ocean",
+            "c": "Panthalassa",
+            "d": "Atlantic Ocean"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which two landmasses resulted from the breakup of Pangaea?",
+        "options": {
+            "a": "North America and Europe",
+            "b": "Laurasia and Gondwana",
+            "c": "Africa and Eurasia",
+            "d": "Antarctica and South America"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which geological evidence supports the Continental Drift Theory?",
+        "options": {
+            "a": "Fossils of Mesosaurus found in South America and Africa",
+            "b": "Similar magnetic fields on different continents",
+            "c": "Ancient ocean currents",
+            "d": "Coral reefs on all continents"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Plate Tectonics Theory?",
+        "options": {
+            "a": "The idea that continents drifted to their current positions",
+            "b": "The concept that Earth's lithosphere is divided into rigid plates that move",
+            "c": "The process of ocean formation through water erosion",
+            "d": "The explanation for variations in ocean currents"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What causes tectonic plates to move?",
+        "options": {
+            "a": "Gravitational pull of the Moon",
+            "b": "Convection currents in the mantle",
+            "c": "Erosion of ocean floors",
+            "d": "Magnetic field shifts"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which type of plate boundary involves two plates moving away from each other?",
+        "options": {
+            "a": "Divergent boundary",
+            "b": "Convergent boundary",
+            "c": "Transform boundary",
+            "d": "Collisional boundary"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What feature is commonly formed at divergent boundaries?",
+        "options": {
+            "a": "Mid-ocean ridges",
+            "b": "Deep-sea trenches",
+            "c": "Fold mountains",
+            "d": "Volcanic islands"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens at a convergent boundary?",
+        "options": {
+            "a": "Plates move apart, creating new crust",
+            "b": "Plates slide past each other without creating or destroying crust",
+            "c": "Plates collide, leading to subduction or mountain formation",
+            "d": "Plates remain stationary"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which ocean is currently expanding due to seafloor spreading?",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "Pacific Ocean",
+            "c": "Indian Ocean",
+            "d": "Arctic Ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process by which new oceanic crust is formed?",
+        "options": {
+            "a": "Subduction",
+            "b": "Seafloor spreading",
+            "c": "Faulting",
+            "d": "Erosion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a transform boundary?",
+        "options": {
+            "a": "When plates slide past each other",
+            "b": "When plates move apart",
+            "c": "When plates collide",
+            "d": "When plates overlap"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which famous geological feature is located on a transform boundary?",
+        "options": {
+            "a": "Mid-Atlantic Ridge",
+            "b": "San Andreas Fault",
+            "c": "Himalayas",
+            "d": "Mariana Trench"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What happens to old oceanic crust at subduction zones?",
+        "options": {
+            "a": "It rises to form volcanic islands",
+            "b": "It is destroyed as it sinks into the mantle",
+            "c": "It merges with the continental crust",
+            "d": "It forms new mountains"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which mountain range was formed due to the collision of the Indian plate with the Eurasian plate?",
+        "options": {
+            "a": "Andes",
+            "b": "Rockies",
+            "c": "Himalayas",
+            "d": "Alps"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the Ring of Fire?",
+        "options": {
+            "a": "A circle of volcanic activity surrounding the Pacific Ocean",
+            "b": "A region in Africa with active volcanoes",
+            "c": "A belt of earthquakes in Europe",
+            "d": "A zone of high temperature on the ocean floor"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is isostasy?",
+        "options": {
+            "a": "The balance between the Earth's crust and mantle",
+            "b": "The movement of tectonic plates",
+            "c": "The sinking of continents due to erosion",
+            "d": "The creation of oceans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is paleomagnetism?",
+        "options": {
+            "a": "The study of ancient magnetic fields preserved in rocks",
+            "b": "The measurement of Earth's current magnetic field",
+            "c": "The process of magnetizing rocks",
+            "d": "The role of magnets in tectonic movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How do magnetic stripes on the ocean floor support seafloor spreading?",
+        "options": {
+            "a": "They show symmetrical patterns of magnetism on either side of mid-ocean ridges",
+            "b": "They indicate areas of erosion",
+            "c": "They represent fossilized magnetic poles",
+            "d": "They disrupt tectonic plate movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ocean is shrinking due to subduction?",
+        "options": {
+            "a": "Pacific Ocean",
+            "b": "Atlantic Ocean",
+            "c": "Indian Ocean",
+            "d": "Arctic Ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are hot spots?",
+        "options": {
+            "a": "Zones of volcanic activity not associated with plate boundaries",
+            "b": "Regions of intense seismic activity along plate boundaries",
+            "c": "Subduction zones in oceanic crust",
+            "d": "Areas where the Earth's crust is cooler"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which island chain is an example of hot spot activity?",
+        "options": {
+            "a": "Hawaiian Islands",
+            "b": "Aleutian Islands",
+            "c": "Caribbean Islands",
+            "d": "Philippines"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does continental drift affect climate?",
+        "options": {
+            "a": "It influences the position of continents near the poles or equator",
+            "b": "It reduces rainfall patterns globally",
+            "c": "It stops ocean currents from flowing",
+            "d": "It has no effect on climate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the study of the distribution of oceans and continents?",
+        "options": {
+            "a": "Paleogeography",
+            "b": "Geomorphology",
+            "c": "Plate Tectonics",
+            "d": "Oceanography"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are minerals?",
+        "options": {
+            "a": "Naturally occurring organic compounds",
+            "b": "Naturally occurring inorganic substances with a definite chemical composition",
+            "c": "Man-made substances formed under high pressure",
+            "d": "Liquids that form in the Earth's crust"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the hardest known mineral?",
+        "options": {
+            "a": "Quartz",
+            "b": "Corundum",
+            "c": "Topaz",
+            "d": "Diamond"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which property of a mineral describes its resistance to being scratched?",
+        "options": {
+            "a": "Hardness",
+            "b": "Cleavage",
+            "c": "Luster",
+            "d": "Streak"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What scale is used to measure the hardness of minerals?",
+        "options": {
+            "a": "Richter scale",
+            "b": "Mohs scale",
+            "c": "Kelvin scale",
+            "d": "Hardness index"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which property of minerals refers to the way they reflect light?",
+        "options": {
+            "a": "Cleavage",
+            "b": "Luster",
+            "c": "Hardness",
+            "d": "Specific gravity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the three major types of rocks?",
+        "options": {
+            "a": "Sedimentary, Metamorphic, Igneous",
+            "b": "Volcanic, Plutonic, Sedimentary",
+            "c": "Organic, Mineral, Fossil",
+            "d": "Intrusive, Extrusive, Clastic"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How are igneous rocks formed?",
+        "options": {
+            "a": "From cooling and solidification of magma or lava",
+            "b": "From deposition and compaction of sediments",
+            "c": "From transformation of existing rocks under pressure and heat",
+            "d": "From crystallization of salts in water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the difference between intrusive and extrusive igneous rocks?",
+        "options": {
+            "a": "Intrusive rocks form inside the Earth, extrusive rocks form on the surface",
+            "b": "Extrusive rocks have large crystals, intrusive rocks have small crystals",
+            "c": "Extrusive rocks form in water, intrusive rocks form underground",
+            "d": "There is no difference"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of an intrusive igneous rock?",
+        "options": {
+            "a": "Basalt",
+            "b": "Granite",
+            "c": "Obsidian",
+            "d": "Pumice"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is an example of an extrusive igneous rock?",
+        "options": {
+            "a": "Marble",
+            "b": "Sandstone",
+            "c": "Basalt",
+            "d": "Gneiss"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are sedimentary rocks primarily formed from?",
+        "options": {
+            "a": "Cooling magma",
+            "b": "Compression of sediments",
+            "c": "Volcanic eruptions",
+            "d": "Transformation of existing rocks"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are clastic sedimentary rocks made of?",
+        "options": {
+            "a": "Organic materials like fossils",
+            "b": "Broken fragments of other rocks",
+            "c": "Crystals of salts",
+            "d": "Minerals formed from magma"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is an example of a clastic sedimentary rock?",
+        "options": {
+            "a": "Limestone",
+            "b": "Sandstone",
+            "c": "Basalt",
+            "d": "Marble"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are organic sedimentary rocks?",
+        "options": {
+            "a": "Rocks formed from cooling lava",
+            "b": "Rocks made of decomposed plants and animals",
+            "c": "Rocks formed from melted minerals",
+            "d": "Rocks created by volcanic eruptions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which rock is an example of an organic sedimentary rock?",
+        "options": {
+            "a": "Granite",
+            "b": "Coal",
+            "c": "Obsidian",
+            "d": "Sandstone"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are metamorphic rocks formed from?",
+        "options": {
+            "a": "Compacted sediments",
+            "b": "Cooling magma or lava",
+            "c": "Transformation of pre-existing rocks under heat and pressure",
+            "d": "Fossils of ancient organisms"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is an example of a metamorphic rock?",
+        "options": {
+            "a": "Slate",
+            "b": "Limestone",
+            "c": "Granite",
+            "d": "Shale"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the parent rock of marble?",
+        "options": {
+            "a": "Limestone",
+            "b": "Sandstone",
+            "c": "Granite",
+            "d": "Shale"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which process describes the breaking down of rocks into smaller particles?",
+        "options": {
+            "a": "Weathering",
+            "b": "Melting",
+            "c": "Crystallization",
+            "d": "Erosion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the rock cycle?",
+        "options": {
+            "a": "The continuous process of rock formation, transformation, and destruction",
+            "b": "The melting of rocks under pressure",
+            "c": "The extraction of minerals from rocks",
+            "d": "The cooling of magma to form rocks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the major component of limestone?",
+        "options": {
+            "a": "Calcium carbonate",
+            "b": "Silicon dioxide",
+            "c": "Iron oxide",
+            "d": "Magnesium sulfate"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the texture of a rock that cooled slowly beneath the Earth's surface?",
+        "options": {
+            "a": "Fine-grained",
+            "b": "Glassy",
+            "c": "Coarse-grained",
+            "d": "Porous"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which rock is commonly used for construction due to its hardness and durability?",
+        "options": {
+            "a": "Granite",
+            "b": "Coal",
+            "c": "Shale",
+            "d": "Obsidian"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is stratification in sedimentary rocks?",
+        "options": {
+            "a": "Formation of layers or beds",
+            "b": "Crystallization of minerals",
+            "c": "Melting of rocks",
+            "d": "Formation of faults"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main economic significance of rocks and minerals?",
+        "options": {
+            "a": "Aesthetic value in art",
+            "b": "Source of natural resources like metals, fuels, and building materials",
+            "c": "Ability to predict earthquakes",
+            "d": "Source of freshwater"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does \"geomorphic processes\" refer to?",
+        "options": {
+            "a": "Processes that form and shape the Earth's surface",
+            "b": "Movement of tectonic plates",
+            "c": "Chemical changes in minerals",
+            "d": "Formation of oceans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is an endogenic process?",
+        "options": {
+            "a": "Weathering",
+            "b": "Volcanism",
+            "c": "Erosion",
+            "d": "Deposition"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What drives exogenic processes?",
+        "options": {
+            "a": "Heat from the Earth's interior",
+            "b": "External forces like wind, water, and gravity",
+            "c": "Tectonic activity",
+            "d": "Earth's magnetic field"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is an example of a geomorphic agent?",
+        "options": {
+            "a": "Rivers",
+            "b": "Plate boundaries",
+            "c": "Earth's core",
+            "d": "Seismic waves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is weathering?",
+        "options": {
+            "a": "Breaking down of rocks in situ by physical, chemical, or biological means",
+            "b": "Movement of rocks by wind",
+            "c": "Melting of rocks in the mantle",
+            "d": "Formation of new rocks from sediments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of weathering involves the mechanical breakdown of rocks?",
+        "options": {
+            "a": "Chemical weathering",
+            "b": "Physical weathering",
+            "c": "Biological weathering",
+            "d": "Sedimentary weathering"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an example of chemical weathering?",
+        "options": {
+            "a": "Frost wedging",
+            "b": "Oxidation of minerals",
+            "c": "Cracking due to temperature changes",
+            "d": "Pressure release"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of vegetation in biological weathering?",
+        "options": {
+            "a": "Exerts pressure on rocks through root growth",
+            "b": "Changes the chemical composition of rocks",
+            "c": "Shields rocks from sunlight",
+            "d": "Reduces the effect of tectonic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is erosion?",
+        "options": {
+            "a": "Removal and transportation of weathered materials by natural agents",
+            "b": "Breaking down of rocks at their place of origin",
+            "c": "Formation of mountains",
+            "d": "Deposition of sediments"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which agent of erosion is the most effective in shaping landscapes?",
+        "options": {
+            "a": "Wind",
+            "b": "Glaciers",
+            "c": "Running water",
+            "d": "Volcanic activity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What are fluvial processes associated with?",
+        "options": {
+            "a": "Wind action",
+            "b": "River action",
+            "c": "Glacier movement",
+            "d": "Earthquakes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a delta?",
+        "options": {
+            "a": "A landform created by deposition of sediments at the mouth of a river",
+            "b": "A steep-sided valley",
+            "c": "A weathered rock surface",
+            "d": "A type of volcanic crater"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which landform is created by glacier erosion?",
+        "options": {
+            "a": "V-shaped valley",
+            "b": "U-shaped valley",
+            "c": "Delta",
+            "d": "Sand dunes"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the main agent of wind erosion?",
+        "options": {
+            "a": "Gravity",
+            "b": "High-speed wind carrying sand particles",
+            "c": "Water currents",
+            "d": "Glacial movement"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is abrasion?",
+        "options": {
+            "a": "Wearing down of rocks by friction caused by wind, water, or ice",
+            "b": "Chemical decomposition of rocks",
+            "c": "Growth of roots into cracks in rocks",
+            "d": "Melting of ice on mountains"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for material deposited by a glacier?",
+        "options": {
+            "a": "Delta",
+            "b": "Moraine",
+            "c": "Sand dune",
+            "d": "Alluvial fan"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is an alluvial fan?",
+        "options": {
+            "a": "A depositional feature formed by rivers at the base of mountains",
+            "b": "A type of volcanic vent",
+            "c": "A hill made of glacial deposits",
+            "d": "A narrow valley eroded by water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which process involves the sinking of the Earth's surface?",
+        "options": {
+            "a": "Erosion",
+            "b": "Weathering",
+            "c": "Subsidence",
+            "d": "Deposition"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is mass wasting?",
+        "options": {
+            "a": "Downhill movement of weathered materials under the influence of gravity",
+            "b": "Erosion of rocks by glaciers",
+            "c": "Chemical alteration of rocks",
+            "d": "Formation of sand dunes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor influences the rate of weathering?",
+        "options": {
+            "a": "Climate",
+            "b": "Rock composition",
+            "c": "Topography",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is karst topography?",
+        "options": {
+            "a": "Landscape formed by the dissolution of soluble rocks like limestone",
+            "b": "Region shaped by volcanic activity",
+            "c": "Erosion of rocks by glaciers",
+            "d": "Land covered by sand dunes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What feature is commonly found in karst topography?",
+        "options": {
+            "a": "Sand dunes",
+            "b": "Sinkholes",
+            "c": "Volcanic craters",
+            "d": "Alluvial fans"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for sediments deposited by wind?",
+        "options": {
+            "a": "Moraine",
+            "b": "Loess",
+            "c": "Delta",
+            "d": "Alluvium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which factor increases the intensity of erosion by rivers?",
+        "options": {
+            "a": "High gradient and velocity of water",
+            "b": "Presence of vegetation",
+            "c": "Small amounts of sediment load",
+            "d": "Gentle slope"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does human activity influence geomorphic processes?",
+        "options": {
+            "a": "Accelerates erosion and weathering through deforestation and construction",
+            "b": "Decreases the impact of wind erosion",
+            "c": "Prevents the formation of deltas",
+            "d": "Stabilizes the Earth's surface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary force responsible for the formation of landforms?",
+        "options": {
+            "a": "Tectonic activity",
+            "b": "Erosion and deposition",
+            "c": "Weathering",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which type of landform is created by tectonic activity?",
+        "options": {
+            "a": "Fold mountains",
+            "b": "Sand dunes",
+            "c": "Deltas",
+            "d": "Moraines"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a fluvial landform?",
+        "options": {
+            "a": "A landform shaped by river action",
+            "b": "A landform formed by wind",
+            "c": "A landform caused by glacial activity",
+            "d": "A volcanic landform"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of valley is created by river erosion?",
+        "options": {
+            "a": "U-shaped valley",
+            "b": "V-shaped valley",
+            "c": "Flat valley",
+            "d": "Hanging valley"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which feature is formed at the mouth of a river due to deposition?",
+        "options": {
+            "a": "Delta",
+            "b": "Alluvial fan",
+            "c": "Glacier",
+            "d": "Canyon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a meander?",
+        "options": {
+            "a": "A bend or curve in a river",
+            "b": "A steep cliff formed by glacial erosion",
+            "c": "A sand dune created by wind",
+            "d": "A volcanic vent"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an oxbow lake?",
+        "options": {
+            "a": "A lake formed by glacial erosion",
+            "b": "A U-shaped lake formed from a cutoff meander",
+            "c": "A lake created by volcanic activity",
+            "d": "A lake formed by tectonic uplift"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a peneplain?",
+        "options": {
+            "a": "An almost flat, low-lying landform created by prolonged erosion",
+            "b": "A plateau formed by tectonic activity",
+            "c": "A sand-covered plain",
+            "d": "A volcanic plain"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which landforms are created by glacial activity?",
+        "options": {
+            "a": "Moraines and cirques",
+            "b": "Sand dunes and deltas",
+            "c": "Canyons and plateaus",
+            "d": "Fold mountains"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a hanging valley?",
+        "options": {
+            "a": "A tributary valley higher than the main valley due to glacial erosion",
+            "b": "A valley formed by tectonic uplift",
+            "c": "A deep canyon created by river erosion",
+            "d": "A valley formed by volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a cirque?",
+        "options": {
+            "a": "A bowl-shaped depression formed by glacial erosion",
+            "b": "A ridge formed by wind erosion",
+            "c": "A volcanic vent",
+            "d": "A delta formed by a river"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the name for sediment deposited directly by a glacier?",
+        "options": {
+            "a": "Alluvium",
+            "b": "Loess",
+            "c": "Moraine",
+            "d": "Delta"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a fjord?",
+        "options": {
+            "a": "A narrow, steep-sided inlet formed by glacial erosion",
+            "b": "A valley formed by tectonic uplift",
+            "c": "A sand dune shaped by wind",
+            "d": "A volcanic crater"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a coastal landform created by wave action?",
+        "options": {
+            "a": "Beach",
+            "b": "Glacier",
+            "c": "Hanging valley",
+            "d": "Cirque"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a spit?",
+        "options": {
+            "a": "A narrow ridge of sand projecting into the sea formed by longshore drift",
+            "b": "A deep trench formed by tectonic movement",
+            "c": "A landform formed by glacial deposition",
+            "d": "A steep cliff created by volcanic eruptions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process by which waves transport sediments along the coast?",
+        "options": {
+            "a": "Longshore drift",
+            "b": "Hydraulic action",
+            "c": "Weathering",
+            "d": "Saltation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of landform is formed by wind in deserts?",
+        "options": {
+            "a": "Sand dunes",
+            "b": "Moraines",
+            "c": "Deltas",
+            "d": "Canyons"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a barchan?",
+        "options": {
+            "a": "A crescent-shaped sand dune formed by wind action",
+            "b": "A volcanic vent in a desert",
+            "c": "A type of river valley",
+            "d": "A landform created by tectonic uplift"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an erg?",
+        "options": {
+            "a": "A broad, flat desert covered with sand",
+            "b": "A volcanic plain",
+            "c": "A U-shaped valley formed by glaciers",
+            "d": "A depositional feature of rivers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for wind-deposited sediments?",
+        "options": {
+            "a": "Loess",
+            "b": "Alluvium",
+            "c": "Moraine",
+            "d": "Cirque"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of landform is a mesa?",
+        "options": {
+            "a": "An isolated flat-topped hill with steep sides",
+            "b": "A deep valley formed by glaciers",
+            "c": "A ridge formed by wind erosion",
+            "d": "A delta formed by rivers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a butte?",
+        "options": {
+            "a": "A smaller, flat-topped hill formed from the erosion of a mesa",
+            "b": "A ridge formed by wind",
+            "c": "A canyon formed by tectonic uplift",
+            "d": "A lake formed by glacial activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a plateau?",
+        "options": {
+            "a": "A large, flat, elevated landform",
+            "b": "A steep-sided valley",
+            "c": "A ridge created by wind erosion",
+            "d": "A trench formed by subduction"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is isostatic adjustment?",
+        "options": {
+            "a": "Balancing of Earth's crust due to deposition or erosion",
+            "b": "Formation of sand dunes by wind",
+            "c": "Movement of tectonic plates due to mantle convection",
+            "d": "Weathering of rocks"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an example of a volcanic landform?",
+        "options": {
+            "a": "Shield volcano",
+            "b": "Cirque",
+            "c": "Delta",
+            "d": "Canyon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is climate?",
+        "options": {
+            "a": "Day-to-day atmospheric conditions in a place",
+            "b": "Long-term average atmospheric conditions in a region",
+            "c": "Sudden weather changes over short periods",
+            "d": "Effects of tectonic activity on weather patterns"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What factors influence climate?",
+        "options": {
+            "a": "Latitude, altitude, and ocean currents",
+            "b": "Earth's magnetic field",
+            "c": "Seismic activity",
+            "d": "Shape of mountain ranges only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor primarily determines the temperature of a region?",
+        "options": {
+            "a": "Latitude",
+            "b": "Cloud cover",
+            "c": "Precipitation levels",
+            "d": "Earth's axial tilt"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does altitude affect temperature?",
+        "options": {
+            "a": "Temperature increases with altitude",
+            "b": "Temperature decreases with altitude",
+            "c": "Altitude has no effect on temperature",
+            "d": "Altitude affects only precipitation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the Coriolis effect?",
+        "options": {
+            "a": "Deflection of wind and ocean currents due to Earth's rotation",
+            "b": "Increase in temperature at the equator",
+            "c": "Effect of latitude on pressure",
+            "d": "Reflection of solar radiation by clouds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes the seasons?",
+        "options": {
+            "a": "Earth's axial tilt and revolution around the Sun",
+            "b": "The shape of Earth's orbit",
+            "c": "The gravitational pull of the Moon",
+            "d": "Variations in Earth's core temperature"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the three main climate zones on Earth?",
+        "options": {
+            "a": "Polar, Temperate, and Tropical",
+            "b": "Dry, Humid, and Semi-arid",
+            "c": "Mountain, Desert, and Coastal",
+            "d": "Rainforest, Savanna, and Steppe"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which atmospheric layer contains most of Earth's weather phenomena?",
+        "options": {
+            "a": "Troposphere",
+            "b": "Stratosphere",
+            "c": "Mesosphere",
+            "d": "Thermosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Intertropical Convergence Zone (ITCZ)?",
+        "options": {
+            "a": "A low-pressure zone near the equator where trade winds converge",
+            "b": "A high-pressure belt at 30\u00b0 latitude",
+            "c": "A windless area near the poles",
+            "d": "A region of sinking air at 60\u00b0 latitude"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes monsoon winds?",
+        "options": {
+            "a": "Differential heating of land and water",
+            "b": "Earth's axial tilt",
+            "c": "Ocean currents",
+            "d": "Movement of tectonic plates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary factor causing ocean currents?",
+        "options": {
+            "a": "Earth's rotation and wind patterns",
+            "b": "Gravitational pull of the Moon",
+            "c": "Seismic activity on the ocean floor",
+            "d": "Volcanic eruptions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are jet streams?",
+        "options": {
+            "a": "Fast-moving air currents in the upper troposphere",
+            "b": "High-speed ocean currents",
+            "c": "Strong winds caused by hurricanes",
+            "d": "Seasonal monsoon winds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ocean current is warm?",
+        "options": {
+            "a": "Gulf Stream",
+            "b": "Labrador Current",
+            "c": "Benguela Current",
+            "d": "Canary Current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is El Ni\u00f1o?",
+        "options": {
+            "a": "A warming of ocean waters in the central and eastern Pacific",
+            "b": "A cooling of ocean waters in the Atlantic",
+            "c": "A seasonal wind reversal in India",
+            "d": "A dry weather phenomenon in the Arctic"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the opposite of El Ni\u00f1o?",
+        "options": {
+            "a": "La Ni\u00f1a",
+            "b": "Gulf Stream",
+            "c": "ITCZ",
+            "d": "Coriolis effect"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a desert climate characterized by?",
+        "options": {
+            "a": "Low precipitation and high evaporation",
+            "b": "High humidity and constant rainfall",
+            "c": "Moderate temperatures and annual snowfall",
+            "d": "Seasonal monsoons and heavy rain"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of climate do tropical rainforests have?",
+        "options": {
+            "a": "Hot and wet throughout the year",
+            "b": "Hot and dry",
+            "c": "Cold and dry",
+            "d": "Warm with moderate rainfall"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a Mediterranean climate?",
+        "options": {
+            "a": "Dry summers and mild, wet winters",
+            "b": "Hot and humid throughout the year",
+            "c": "Cold and snowy year-round",
+            "d": "Hot and dry with low precipitation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main characteristic of a polar climate?",
+        "options": {
+            "a": "Extremely low temperatures throughout the year",
+            "b": "Heavy rainfall during summer",
+            "c": "High temperatures and high evaporation",
+            "d": "Warm summers and cool winters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of greenhouse gases in climate?",
+        "options": {
+            "a": "Trap heat in the Earth's atmosphere",
+            "b": "Reflect solar radiation back into space",
+            "c": "Absorb ultraviolet radiation",
+            "d": "Reduce the Earth's temperature"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas contributes the most to the greenhouse effect?",
+        "options": {
+            "a": "Carbon dioxide",
+            "b": "Nitrogen",
+            "c": "Oxygen",
+            "d": "Methane"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does deforestation affect climate?",
+        "options": {
+            "a": "Increases greenhouse gas emissions and reduces carbon absorption",
+            "b": "Decreases global temperatures",
+            "c": "Creates more rainfall in dry areas",
+            "d": "Strengthens the Coriolis effect"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is global warming?",
+        "options": {
+            "a": "The gradual increase in Earth's average surface temperature",
+            "b": "Sudden increases in ocean currents",
+            "c": "Seasonal changes in temperature",
+            "d": "The warming of polar regions only"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of acid rain?",
+        "options": {
+            "a": "Emissions of sulfur dioxide and nitrogen oxides",
+            "b": "Overuse of fertilizers",
+            "c": "Burning of natural gas",
+            "d": "Increased levels of oxygen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which international agreement aims to combat climate change?",
+        "options": {
+            "a": "Paris Agreement",
+            "b": "Kyoto Protocol",
+            "c": "Montreal Protocol",
+            "d": "Both a and b"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is solar radiation?",
+        "options": {
+            "a": "Radiation emitted by the Sun",
+            "b": "Reflection of sunlight by clouds",
+            "c": "Heat generated by Earth's interior",
+            "d": "Emission of radiation by the Moon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main form of energy received from the Sun?",
+        "options": {
+            "a": "Ultraviolet radiation",
+            "b": "Infrared radiation",
+            "c": "Visible light",
+            "d": "Electromagnetic radiation"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What percentage of incoming solar radiation is reflected back into space?",
+        "options": {
+            "a": "20%",
+            "b": "30%",
+            "c": "50%",
+            "d": "70%"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is Earth's albedo?",
+        "options": {
+            "a": "The fraction of solar radiation reflected by Earth\u2019s surface and atmosphere",
+            "b": "The total solar radiation absorbed by Earth",
+            "c": "The heat emitted by Earth's interior",
+            "d": "The total energy balance of Earth's surface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to the solar radiation that is not reflected back into space?",
+        "options": {
+            "a": "It is absorbed by the Earth\u2019s surface and atmosphere",
+            "b": "It is converted into chemical energy",
+            "c": "It remains in the atmosphere",
+            "d": "It escapes into space"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the greenhouse effect?",
+        "options": {
+            "a": "Trapping of heat by greenhouse gases in the atmosphere",
+            "b": "Reflection of solar radiation back into space",
+            "c": "Conversion of heat energy into chemical energy",
+            "d": "Absorption of heat by ocean water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas contributes most to the greenhouse effect?",
+        "options": {
+            "a": "Carbon dioxide",
+            "b": "Nitrogen",
+            "c": "Methane",
+            "d": "Oxygen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the heat budget?",
+        "options": {
+            "a": "The balance between incoming solar radiation and outgoing terrestrial radiation",
+            "b": "The amount of energy emitted by the Sun",
+            "c": "The temperature difference between the equator and the poles",
+            "d": "The total heat absorbed by the oceans"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What percentage of solar energy is absorbed by the Earth's surface?",
+        "options": {
+            "a": "47%",
+            "b": "50%",
+            "c": "70%",
+            "d": "30%"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor affects the distribution of solar radiation on Earth?",
+        "options": {
+            "a": "Latitude",
+            "b": "Altitude",
+            "c": "Seasons",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Why does the equator receive more solar energy than the poles?",
+        "options": {
+            "a": "It is closer to the Sun",
+            "b": "Sunlight strikes it more directly",
+            "c": "The atmosphere is thinner at the equator",
+            "d": "It has less cloud cover"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the transfer of heat through direct contact?",
+        "options": {
+            "a": "Conduction",
+            "b": "Convection",
+            "c": "Radiation",
+            "d": "Absorption"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is convection?",
+        "options": {
+            "a": "Heat transfer by the movement of fluids or gases",
+            "b": "Heat transfer through direct contact",
+            "c": "Heat transfer through electromagnetic waves",
+            "d": "Heat transfer through solid objects"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How is heat transferred from the Sun to Earth?",
+        "options": {
+            "a": "Conduction",
+            "b": "Convection",
+            "c": "Radiation",
+            "d": "Absorption"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the average temperature drop with altitude in the troposphere?",
+        "options": {
+            "a": "6.5\u00b0C per 1000 meters",
+            "b": "10\u00b0C per 1000 meters",
+            "c": "5\u00b0C per 1000 meters",
+            "d": "1\u00b0C per 100 meters"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the daily range of temperature?",
+        "options": {
+            "a": "Difference between the highest and lowest temperatures in a day",
+            "b": "Average temperature during the day",
+            "c": "Highest temperature recorded in a week",
+            "d": "Variation in temperature between seasons"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the annual range of temperature?",
+        "options": {
+            "a": "Difference between the highest and lowest monthly temperatures in a year",
+            "b": "Average temperature over a year",
+            "c": "Highest temperature recorded in a season",
+            "d": "Seasonal variation in solar radiation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which surface absorbs more solar energy?",
+        "options": {
+            "a": "Snow-covered surfaces",
+            "b": "Dark-colored surfaces",
+            "c": "Water bodies",
+            "d": "Light-colored surfaces"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why do oceans heat and cool more slowly than land?",
+        "options": {
+            "a": "Water has a higher specific heat capacity",
+            "b": "Oceans reflect more solar radiation",
+            "c": "Water is a poor conductor of heat",
+            "d": "The Sun's rays penetrate deeper into the land"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which factor can cause a temperature inversion?",
+        "options": {
+            "a": "Rapid cooling of the Earth's surface at night",
+            "b": "Increased solar radiation during the day",
+            "c": "Ocean currents",
+            "d": "High-altitude winds"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a temperature inversion?",
+        "options": {
+            "a": "A condition where temperature increases with altitude instead of decreasing",
+            "b": "A condition where the Earth's surface becomes extremely hot",
+            "c": "A sudden drop in atmospheric pressure",
+            "d": "A reversal of ocean currents"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does cloud cover affect daytime temperatures?",
+        "options": {
+            "a": "It lowers daytime temperatures by blocking sunlight",
+            "b": "It increases daytime temperatures by trapping heat",
+            "c": "It has no effect on temperatures",
+            "d": "It reflects terrestrial radiation back to the surface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region experiences the smallest annual range of temperature?",
+        "options": {
+            "a": "Equatorial regions",
+            "b": "Polar regions",
+            "c": "Temperate regions",
+            "d": "Desert regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How do ocean currents affect coastal temperatures?",
+        "options": {
+            "a": "Warm currents increase temperatures, and cold currents decrease temperatures",
+            "b": "Cold currents increase temperatures, and warm currents decrease temperatures",
+            "c": "Ocean currents have no effect on coastal temperatures",
+            "d": "Ocean currents make coastal temperatures extreme"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is terrestrial radiation?",
+        "options": {
+            "a": "Heat emitted by the Earth\u2019s surface after absorbing solar energy",
+            "b": "Reflection of solar energy by Earth's surface",
+            "c": "Radiation from Earth's core",
+            "d": "Radiation from the Sun"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is atmospheric circulation?",
+        "options": {
+            "a": "Large-scale movement of air to distribute heat on Earth",
+            "b": "Movement of tectonic plates",
+            "c": "Movement of ocean currents",
+            "d": "Circulation of groundwater"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of atmospheric circulation?",
+        "options": {
+            "a": "Earth's rotation",
+            "b": "Uneven heating of Earth's surface by the Sun",
+            "c": "Gravitational pull of the Moon",
+            "d": "Tectonic activity"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the three major cells of atmospheric circulation?",
+        "options": {
+            "a": "Hadley, Ferrel, and Polar cells",
+            "b": "Troposphere, Stratosphere, and Mesosphere",
+            "c": "Trade, Westerlies, and Polar winds",
+            "d": "Equatorial, Temperate, and Polar regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary wind direction in the Hadley Cell?",
+        "options": {
+            "a": "Westerly",
+            "b": "Easterly (Trade Winds)",
+            "c": "Northerly",
+            "d": "Southerly"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which zone experiences calm winds and low pressure near the equator?",
+        "options": {
+            "a": "Doldrums or Intertropical Convergence Zone (ITCZ)",
+            "b": "Polar High",
+            "c": "Subtropical High",
+            "d": "Westerly Wind Belt"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the primary winds in the Ferrel Cell?",
+        "options": {
+            "a": "Polar easterlies",
+            "b": "Westerlies",
+            "c": "Trade winds",
+            "d": "Northerlies"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the Coriolis effect?",
+        "options": {
+            "a": "The deflection of winds due to Earth's rotation",
+            "b": "Heat transfer by convection currents",
+            "c": "The rise of warm air near the equator",
+            "d": "Movement of tectonic plates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which direction does the Coriolis effect deflect winds in the Northern Hemisphere?",
+        "options": {
+            "a": "Left",
+            "b": "Right",
+            "c": "Upward",
+            "d": "Downward"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are jet streams?",
+        "options": {
+            "a": "High-altitude, fast-moving air currents in the upper troposphere",
+            "b": "Winds caused by ocean currents",
+            "c": "Low-pressure winds near the poles",
+            "d": "Trade winds in the subtropical regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Where are polar easterlies found?",
+        "options": {
+            "a": "Near the poles",
+            "b": "In the subtropical regions",
+            "c": "Near the equator",
+            "d": "Over ocean currents"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a cyclone?",
+        "options": {
+            "a": "A low-pressure system with inward spiraling winds",
+            "b": "A high-pressure system with outward spiraling winds",
+            "c": "A jet stream in the troposphere",
+            "d": "A convection current over the ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an anticyclone?",
+        "options": {
+            "a": "A high-pressure system with outward spiraling winds",
+            "b": "A low-pressure system with inward spiraling winds",
+            "c": "A convection current over the land",
+            "d": "A region of high humidity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tropical cyclone called in the Atlantic and Eastern Pacific?",
+        "options": {
+            "a": "Hurricane",
+            "b": "Typhoon",
+            "c": "Cyclone",
+            "d": "Tornado"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tropical cyclone called in the Western Pacific?",
+        "options": {
+            "a": "Typhoon",
+            "b": "Hurricane",
+            "c": "Cyclone",
+            "d": "Tornado"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What conditions are necessary for the formation of a tropical cyclone?",
+        "options": {
+            "a": "Warm ocean waters and low-pressure systems",
+            "b": "Cold air masses and high pressure",
+            "c": "Jet stream interference",
+            "d": "High-altitude snowfall"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tornado?",
+        "options": {
+            "a": "A small, intense cyclonic storm with a rotating column of air",
+            "b": "A high-altitude wind current",
+            "c": "A stationary high-pressure system",
+            "d": "A system of calm winds near the poles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a temperate cyclone?",
+        "options": {
+            "a": "A low-pressure system in the mid-latitudes caused by the meeting of warm and cold air masses",
+            "b": "A high-pressure system near the subtropical regions",
+            "c": "A system of calm winds in the polar regions",
+            "d": "A region with intense rainfall near the equator"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a front in meteorology?",
+        "options": {
+            "a": "The boundary between two different air masses",
+            "b": "The edge of a cyclone",
+            "c": "The top layer of the atmosphere",
+            "d": "A high-pressure belt near the equator"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which type of front is formed when a cold air mass overtakes a warm air mass?",
+        "options": {
+            "a": "Cold front",
+            "b": "Warm front",
+            "c": "Stationary front",
+            "d": "Occluded front"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary feature of a warm front?",
+        "options": {
+            "a": "Gradual rise of warm air over cold air",
+            "b": "Sudden sinking of warm air",
+            "c": "High-speed winds and thunderstorms",
+            "d": "Formation of cyclones"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes sea breezes?",
+        "options": {
+            "a": "Differential heating of land and sea during the day",
+            "b": "High-pressure systems over the ocean",
+            "c": "The rise of cold air over land",
+            "d": "The Earth's axial tilt"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes land breezes?",
+        "options": {
+            "a": "Differential cooling of land and sea at night",
+            "b": "High-pressure systems over land during the day",
+            "c": "Interaction of trade winds with ocean currents",
+            "d": "Warming of land surfaces at night"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the ITCZ (Intertropical Convergence Zone)?",
+        "options": {
+            "a": "A zone near the equator where trade winds converge, causing low pressure and heavy rainfall",
+            "b": "A high-pressure belt in the subtropical regions",
+            "c": "A region of strong westerly winds",
+            "d": "A convergence zone near the poles"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the impact of the Coriolis effect on cyclones in the Northern Hemisphere?",
+        "options": {
+            "a": "Cyclones rotate counterclockwise",
+            "b": "Cyclones rotate clockwise",
+            "c": "Cyclones remain stationary",
+            "d": "Cyclones dissipate faster"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which technology is commonly used to track weather systems?",
+        "options": {
+            "a": "Satellites and Doppler radar",
+            "b": "Seismographs",
+            "c": "Submarines",
+            "d": "Sonar imaging"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the water cycle?",
+        "options": {
+            "a": "The continuous movement of water on, above, and below the surface of the Earth",
+            "b": "The process of water absorption by plants",
+            "c": "The process of water erosion in rivers",
+            "d": "The transfer of water into glaciers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is humidity?",
+        "options": {
+            "a": "The amount of water vapor present in the air",
+            "b": "The amount of liquid water in the atmosphere",
+            "c": "The precipitation received by a region",
+            "d": "The temperature of the atmosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is absolute humidity?",
+        "options": {
+            "a": "The actual amount of water vapor in a given volume of air",
+            "b": "The ratio of water vapor to total air pressure",
+            "c": "The percentage of water vapor in the atmosphere",
+            "d": "The maximum amount of water vapor air can hold"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is relative humidity?",
+        "options": {
+            "a": "The ratio of actual water vapor to the maximum water vapor air can hold at a specific temperature",
+            "b": "The total amount of water vapor in the atmosphere",
+            "c": "The humidity of the ocean regions",
+            "d": "The temperature difference between air masses"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "At what point does condensation occur?",
+        "options": {
+            "a": "When air reaches saturation and cools below the dew point",
+            "b": "When air temperature rises above the boiling point of water",
+            "c": "When wind speeds exceed 50 km/h",
+            "d": "When humidity drops below 10%"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is dew point?",
+        "options": {
+            "a": "The temperature at which air becomes saturated and water vapor condenses",
+            "b": "The temperature of the Earth\u2019s crust",
+            "c": "The pressure level at which rain begins",
+            "d": "The amount of water vapor in the air"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is precipitation?",
+        "options": {
+            "a": "Any form of water that falls from clouds to the Earth's surface",
+            "b": "The process of evaporation from oceans",
+            "c": "The upward movement of air masses",
+            "d": "The accumulation of groundwater"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the most common form of precipitation?",
+        "options": {
+            "a": "Rain",
+            "b": "Snow",
+            "c": "Sleet",
+            "d": "Hail"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is fog?",
+        "options": {
+            "a": "A collection of water droplets near the Earth's surface due to condensation",
+            "b": "A cloud at high altitudes",
+            "c": "Heavy rainfall over a region",
+            "d": "Ice crystals in the atmosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the process of water changing from a liquid to a gas?",
+        "options": {
+            "a": "Evaporation",
+            "b": "Condensation",
+            "c": "Sublimation",
+            "d": "Precipitation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is sublimation?",
+        "options": {
+            "a": "The direct change of water from solid to gas without becoming liquid",
+            "b": "The change of water from liquid to gas",
+            "c": "The change of water from gas to liquid",
+            "d": "The process of water freezing"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of cloud is associated with thunderstorms?",
+        "options": {
+            "a": "Cumulonimbus",
+            "b": "Cirrus",
+            "c": "Stratus",
+            "d": "Altostratus"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is orographic rainfall?",
+        "options": {
+            "a": "Rainfall caused by air being forced to rise over mountains",
+            "b": "Rainfall caused by convection currents",
+            "c": "Rainfall caused by the meeting of cold and warm air masses",
+            "d": "Rainfall occurring over ocean regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is convectional rainfall?",
+        "options": {
+            "a": "Rainfall caused by the rapid heating of the Earth's surface",
+            "b": "Rainfall caused by cyclones",
+            "c": "Rainfall caused by air rising over mountains",
+            "d": "Rainfall caused by cold air fronts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is cyclonic rainfall?",
+        "options": {
+            "a": "Rainfall caused by the meeting of warm and cold air masses in low-pressure zones",
+            "b": "Rainfall caused by rising air over mountains",
+            "c": "Rainfall caused by evaporation from oceans",
+            "d": "Rainfall caused by snow melting"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are cirrus clouds made of?",
+        "options": {
+            "a": "Ice crystals",
+            "b": "Water droplets",
+            "c": "Dust particles",
+            "d": "Salt crystals"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary process responsible for cloud formation?",
+        "options": {
+            "a": "Condensation of water vapor",
+            "b": "Evaporation from the land surface",
+            "c": "Melting of ice in the atmosphere",
+            "d": "Precipitation from higher altitudes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are stratus clouds?",
+        "options": {
+            "a": "Low, flat, and layered clouds",
+            "b": "Puffy clouds with flat bases",
+            "c": "High-altitude thin clouds",
+            "d": "Clouds associated with severe storms"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for rain that freezes into ice pellets before hitting the ground?",
+        "options": {
+            "a": "Sleet",
+            "b": "Hail",
+            "c": "Snow",
+            "d": "Frost"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main source of atmospheric moisture?",
+        "options": {
+            "a": "Evaporation from oceans",
+            "b": "Rivers and lakes",
+            "c": "Melting ice caps",
+            "d": "Groundwater discharge"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a hygrometer used for?",
+        "options": {
+            "a": "Measuring humidity",
+            "b": "Measuring temperature",
+            "c": "Measuring wind speed",
+            "d": "Measuring precipitation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is latent heat?",
+        "options": {
+            "a": "Heat absorbed or released during a phase change of water without a temperature change",
+            "b": "Heat generated by friction in the atmosphere",
+            "c": "Heat measured by a thermometer",
+            "d": "Heat emitted by the Earth\u2019s surface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a rain shadow?",
+        "options": {
+            "a": "A dry area on the leeward side of a mountain due to reduced rainfall",
+            "b": "A region of high precipitation on the windward side of mountains",
+            "c": "A shadow formed during thunderstorms",
+            "d": "A temporary lack of rain in deserts"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which region typically experiences the highest humidity?",
+        "options": {
+            "a": "Tropical rainforests",
+            "b": "Deserts",
+            "c": "Polar regions",
+            "d": "Mountain plateaus"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is frost?",
+        "options": {
+            "a": "Ice crystals that form on surfaces when the temperature drops below freezing point",
+            "b": "Ice pellets that fall during hailstorms",
+            "c": "Frozen rain droplets",
+            "d": "Snow formed at high altitudes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the K\u00f6ppen classification system?",
+        "options": {
+            "a": "A system used to classify climates based on temperature and precipitation",
+            "b": "A method to measure atmospheric pressure",
+            "c": "A system to classify ocean currents",
+            "d": "A technique for studying weather patterns"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the five main climate groups in the K\u00f6ppen system?",
+        "options": {
+            "a": "Tropical, Dry, Temperate, Continental, and Polar",
+            "b": "Desert, Rainforest, Tundra, Highland, and Steppe",
+            "c": "Humid, Semi-arid, Coastal, Dry, and Tropical",
+            "d": "Equatorial, Subpolar, Temperate, Highland, and Tundra"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which letter is used to denote tropical climates in the K\u00f6ppen system?",
+        "options": {
+            "a": "A",
+            "b": "B",
+            "c": "C",
+            "d": "D"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a characteristic feature of dry (B) climates in the K\u00f6ppen classification?",
+        "options": {
+            "a": "Low precipitation and high evaporation",
+            "b": "High humidity and dense vegetation",
+            "c": "Moderate rainfall throughout the year",
+            "d": "Seasonal snowfall"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are polar (E) climates characterized by?",
+        "options": {
+            "a": "Extremely low temperatures and permanent ice or tundra vegetation",
+            "b": "Hot and humid conditions year-round",
+            "c": "Moderate temperatures with seasonal rainfall",
+            "d": "High evaporation rates and sandy soils"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a major cause of climate change?",
+        "options": {
+            "a": "Increase in greenhouse gas emissions",
+            "b": "Earth's axial tilt",
+            "c": "Ocean currents",
+            "d": "Plate tectonics"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary source of carbon dioxide emissions contributing to climate change?",
+        "options": {
+            "a": "Burning fossil fuels",
+            "b": "Oceanic evaporation",
+            "c": "Volcanic eruptions",
+            "d": "Photosynthesis in plants"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is global warming?",
+        "options": {
+            "a": "A gradual increase in Earth's average surface temperature",
+            "b": "A sudden drop in atmospheric pressure",
+            "c": "The cooling of polar regions",
+            "d": "Increased rainfall during monsoon seasons"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main consequence of rising global temperatures?",
+        "options": {
+            "a": "Melting of polar ice caps and glaciers",
+            "b": "Increase in atmospheric pressure",
+            "c": "Slower ocean currents",
+            "d": "Decreased volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the greenhouse effect?",
+        "options": {
+            "a": "Trapping of heat in the Earth's atmosphere by greenhouse gases",
+            "b": "Reflection of solar radiation by ice caps",
+            "c": "Cooling of the Earth's surface during the night",
+            "d": "Absorption of ultraviolet radiation by the atmosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which gas is the most significant contributor to global warming?",
+        "options": {
+            "a": "Carbon dioxide (CO\u2082)",
+            "b": "Nitrogen (N\u2082)",
+            "c": "Oxygen (O\u2082)",
+            "d": "Helium (He)"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of methane (CH\u2084) in climate change?",
+        "options": {
+            "a": "It is a potent greenhouse gas with a higher warming potential than CO\u2082",
+            "b": "It reflects sunlight, reducing global temperatures",
+            "c": "It is only significant in polar regions",
+            "d": "It cools the Earth's atmosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the effect of deforestation on the climate?",
+        "options": {
+            "a": "Reduces carbon absorption and increases greenhouse gases in the atmosphere",
+            "b": "Balances atmospheric oxygen levels",
+            "c": "Prevents global warming",
+            "d": "Stops ocean currents from changing"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is ocean acidification?",
+        "options": {
+            "a": "Decrease in the pH of ocean water due to increased carbon dioxide absorption",
+            "b": "Increase in salinity of the ocean",
+            "c": "Warming of the ocean surface",
+            "d": "Increase in evaporation rates"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which international agreement aims to limit global temperature rise?",
+        "options": {
+            "a": "Paris Agreement",
+            "b": "Montreal Protocol",
+            "c": "Antarctic Treaty",
+            "d": "Kyoto Protocol"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a consequence of rising sea levels?",
+        "options": {
+            "a": "Submergence of coastal areas",
+            "b": "Decreased rainfall in tropical regions",
+            "c": "Lower temperatures in polar regions",
+            "d": "Increased volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the major sources of methane emissions?",
+        "options": {
+            "a": "Livestock farming and wetlands",
+            "b": "Combustion engines",
+            "c": "Volcanic eruptions",
+            "d": "Photosynthesis"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a climate refugee?",
+        "options": {
+            "a": "A person displaced due to climate-related disasters such as rising sea levels or droughts",
+            "b": "A person who studies climate change",
+            "c": "A person moving to polar regions for cooler climates",
+            "d": "A person living near the equator"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is desertification?",
+        "options": {
+            "a": "Degradation of land in arid and semi-arid regions due to climate and human activity",
+            "b": "Expansion of deserts due to tectonic movement",
+            "c": "Formation of sand dunes along coastlines",
+            "d": "Erosion caused by heavy rainfall"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How does climate change affect biodiversity?",
+        "options": {
+            "a": "Causes species extinction and disrupts ecosystems",
+            "b": "Increases the population of all species equally",
+            "c": "Improves adaptation to polar climates",
+            "d": "Prevents migration of species"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is carbon sequestration?",
+        "options": {
+            "a": "Capturing and storing carbon dioxide to reduce its presence in the atmosphere",
+            "b": "Increasing carbon emissions to speed up plant growth",
+            "c": "Transporting carbon dioxide to the ocean floor",
+            "d": "Releasing methane into the atmosphere"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which technology is being developed to combat climate change?",
+        "options": {
+            "a": "Renewable energy sources like solar and wind power",
+            "b": "Fossil fuel extraction techniques",
+            "c": "Improved pesticide usage",
+            "d": "Ocean floor mining"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main objective of the Kyoto Protocol?",
+        "options": {
+            "a": "To reduce greenhouse gas emissions globally",
+            "b": "To control ocean acidification",
+            "c": "To protect polar bear habitats",
+            "d": "To study the ozone layer"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for long-term changes in average weather patterns?",
+        "options": {
+            "a": "Climate change",
+            "b": "Global warming",
+            "c": "Desertification",
+            "d": "Acid rain"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which renewable energy source is most widely used to reduce carbon emissions?",
+        "options": {
+            "a": "Solar power",
+            "b": "Geothermal energy",
+            "c": "Nuclear power",
+            "d": "Biomass energy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What percentage of Earth's surface is covered by water?",
+        "options": {
+            "a": "71%",
+            "b": "50%",
+            "c": "85%",
+            "d": "90%"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the average salinity of ocean water?",
+        "options": {
+            "a": "35 parts per thousand (\u2030)",
+            "b": "50 parts per thousand (\u2030)",
+            "c": "10 parts per thousand (\u2030)",
+            "d": "70 parts per thousand (\u2030)"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary source of salinity in ocean water?",
+        "options": {
+            "a": "Weathering of rocks and volcanic activity",
+            "b": "Melting of glaciers",
+            "c": "Absorption of atmospheric gases",
+            "d": "Underwater earthquakes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ocean is the largest on Earth?",
+        "options": {
+            "a": "Pacific Ocean",
+            "b": "Atlantic Ocean",
+            "c": "Indian Ocean",
+            "d": "Arctic Ocean"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes ocean currents?",
+        "options": {
+            "a": "Wind patterns, Earth's rotation, and differences in water density",
+            "b": "Tides and tectonic activity",
+            "c": "Earthquakes and volcanic eruptions",
+            "d": "Gravity and solar radiation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are warm ocean currents?",
+        "options": {
+            "a": "Ocean currents that originate near the equator and move towards the poles",
+            "b": "Ocean currents that originate near the poles and move towards the equator",
+            "c": "Currents that flow only during summer",
+            "d": "Currents that increase salinity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a warm ocean current?",
+        "options": {
+            "a": "Gulf Stream",
+            "b": "Labrador Current",
+            "c": "California Current",
+            "d": "Canary Current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are cold ocean currents?",
+        "options": {
+            "a": "Ocean currents that originate near the poles and move towards the equator",
+            "b": "Currents that flow only during winter",
+            "c": "Currents caused by volcanic eruptions",
+            "d": "Currents that decrease salinity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is an example of a cold ocean current?",
+        "options": {
+            "a": "Labrador Current",
+            "b": "Gulf Stream",
+            "c": "Kuroshio Current",
+            "d": "North Equatorial Current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is upwelling?",
+        "options": {
+            "a": "The upward movement of cold, nutrient-rich water to the surface",
+            "b": "The downward movement of warm water",
+            "c": "A current that circulates around islands",
+            "d": "The mixing of warm and cold water in deep seas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of tides?",
+        "options": {
+            "a": "Gravitational pull of the Moon and Sun on Earth's water",
+            "b": "Rotation of Earth on its axis",
+            "c": "Ocean currents",
+            "d": "Wind patterns"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are spring tides?",
+        "options": {
+            "a": "Higher than normal tides during full and new moons",
+            "b": "Tides caused by strong winds in spring",
+            "c": "Lower than normal tides during summer",
+            "d": "Tides that occur during equinoxes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are neap tides?",
+        "options": {
+            "a": "Lower than normal tides during the first and third quarters of the Moon",
+            "b": "Tides caused by strong winds",
+            "c": "Tides that occur only in the Arctic region",
+            "d": "Tides caused by underwater earthquakes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the thermohaline circulation?",
+        "options": {
+            "a": "Global circulation of ocean water driven by temperature and salinity differences",
+            "b": "Movement of water due to volcanic activity",
+            "c": "Interaction of ocean currents with atmospheric pressure",
+            "d": "Seasonal changes in tide levels"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the thermohaline circulation?",
+        "options": {
+            "a": "It regulates global climate by redistributing heat",
+            "b": "It increases salinity levels in coastal regions",
+            "c": "It causes the formation of coral reefs",
+            "d": "It prevents the mixing of ocean layers"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an ocean gyre?",
+        "options": {
+            "a": "A large system of circular ocean currents caused by wind patterns",
+            "b": "A deep trench in the ocean floor",
+            "c": "A volcanic vent in the ocean",
+            "d": "A tidal wave caused by earthquakes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the Sargasso Sea known for?",
+        "options": {
+            "a": "Calm waters with floating seaweed",
+            "b": "High tides during winter",
+            "c": "Active underwater volcanoes",
+            "d": "Intense upwelling"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of phytoplankton in ocean ecosystems?",
+        "options": {
+            "a": "They produce oxygen and form the base of the marine food web",
+            "b": "They decompose organic material",
+            "c": "They act as predators of small fish",
+            "d": "They circulate ocean currents"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tsunami?",
+        "options": {
+            "a": "A series of large waves caused by underwater earthquakes or volcanic eruptions",
+            "b": "A storm surge caused by cyclones",
+            "c": "High tides during full moons",
+            "d": "A warm ocean current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which ocean feature is a mid-ocean ridge?",
+        "options": {
+            "a": "An underwater mountain range formed by tectonic activity",
+            "b": "A trench formed by subduction zones",
+            "c": "A shallow area of coral reefs",
+            "d": "A current that moves nutrients to the surface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the deepest point in the ocean?",
+        "options": {
+            "a": "Mariana Trench",
+            "b": "Mid-Atlantic Ridge",
+            "c": "Gulf of Mexico",
+            "d": "Java Trench"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is coral bleaching?",
+        "options": {
+            "a": "The loss of color in coral due to stress caused by warmer waters or pollution",
+            "b": "The growth of algae on coral reefs",
+            "c": "The increase in coral species in warm regions",
+            "d": "The death of coral due to salinity changes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of ocean acidification?",
+        "options": {
+            "a": "Absorption of excess carbon dioxide from the atmosphere",
+            "b": "Increase in ocean temperature",
+            "c": "Melting glaciers",
+            "d": "Reduction in salinity levels"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an atoll?",
+        "options": {
+            "a": "A ring-shaped coral reef surrounding a lagoon",
+            "b": "A deep trench in the ocean",
+            "c": "A volcanic island chain",
+            "d": "A region of intense tidal activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of the oceans in regulating Earth's climate?",
+        "options": {
+            "a": "Oceans absorb and redistribute heat, influencing weather patterns",
+            "b": "Oceans act as barriers against hurricanes",
+            "c": "Oceans prevent the formation of deserts",
+            "d": "Oceans reduce atmospheric pressure globally"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the main types of movements in the ocean?",
+        "options": {
+            "a": "Waves, tides, and currents",
+            "b": "Volcanoes, earthquakes, and erosion",
+            "c": "Cyclones, storms, and precipitation",
+            "d": "Tectonic shifts, upwelling, and erosion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What causes ocean waves?",
+        "options": {
+            "a": "Wind blowing across the water surface",
+            "b": "Tectonic activity",
+            "c": "Earth's rotation",
+            "d": "Variations in salinity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the crest of a wave?",
+        "options": {
+            "a": "The highest point of a wave",
+            "b": "The lowest point of a wave",
+            "c": "The midpoint between two waves",
+            "d": "The length of the wave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the term for the distance between two successive wave crests?",
+        "options": {
+            "a": "Wavelength",
+            "b": "Wave height",
+            "c": "Wave frequency",
+            "d": "Wave speed"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is wave height?",
+        "options": {
+            "a": "The vertical distance between the crest and the trough of a wave",
+            "b": "The distance between two wave crests",
+            "c": "The speed at which a wave travels",
+            "d": "The horizontal length of a wave"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are tides?",
+        "options": {
+            "a": "Periodic rise and fall of sea levels caused by the gravitational pull of the Moon and Sun",
+            "b": "Strong ocean currents near the coast",
+            "c": "Sudden high waves caused by storms",
+            "d": "Seasonal changes in sea level"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are spring tides?",
+        "options": {
+            "a": "Higher than normal tides during full and new moons",
+            "b": "Lower than normal tides during first and third quarters of the Moon",
+            "c": "Tides caused by volcanic activity",
+            "d": "Tides that occur only in spring"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are neap tides?",
+        "options": {
+            "a": "Lower than normal tides during the first and third quarters of the Moon",
+            "b": "Higher than normal tides during new moons",
+            "c": "Tides caused by underwater earthquakes",
+            "d": "Seasonal tides caused by global warming"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which force is primarily responsible for tides?",
+        "options": {
+            "a": "Gravitational pull of the Moon",
+            "b": "Wind blowing over the ocean",
+            "c": "Earth's rotation",
+            "d": "Atmospheric pressure changes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tidal bore?",
+        "options": {
+            "a": "A strong, sudden surge of water moving upstream in a river due to tides",
+            "b": "A period of low tide",
+            "c": "A region of calm water during tides",
+            "d": "A trench created by tidal erosion"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are ocean currents?",
+        "options": {
+            "a": "Continuous, directed movement of seawater caused by wind, temperature, and salinity",
+            "b": "Temporary changes in sea level",
+            "c": "Rapid mixing of warm and cold water",
+            "d": "Periodic movement of ocean waves"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are surface currents?",
+        "options": {
+            "a": "Currents driven by wind at or near the surface of the ocean",
+            "b": "Currents driven by tectonic activity",
+            "c": "Currents below the thermocline",
+            "d": "Tides caused by changes in salinity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an example of a warm surface current?",
+        "options": {
+            "a": "Gulf Stream",
+            "b": "Labrador Current",
+            "c": "Canary Current",
+            "d": "California Current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is an example of a cold surface current?",
+        "options": {
+            "a": "Labrador Current",
+            "b": "Kuroshio Current",
+            "c": "Brazil Current",
+            "d": "North Equatorial Current"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is thermohaline circulation?",
+        "options": {
+            "a": "Global movement of ocean water driven by temperature and salinity differences",
+            "b": "Ocean circulation caused by volcanic activity",
+            "c": "Wave patterns created by seasonal tides",
+            "d": "A current caused by Earth's magnetic field"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is upwelling?",
+        "options": {
+            "a": "The upward movement of nutrient-rich, cold water from the ocean depths",
+            "b": "The sinking of warm surface water",
+            "c": "A seasonal increase in ocean temperature",
+            "d": "A current caused by underwater volcanoes"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Why is upwelling important?",
+        "options": {
+            "a": "It brings nutrients to the surface, supporting marine ecosystems",
+            "b": "It creates high waves near the coast",
+            "c": "It reduces salinity in the oceans",
+            "d": "It stops warm currents from reaching polar regions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a gyre?",
+        "options": {
+            "a": "A large system of circular ocean currents caused by wind and the Coriolis effect",
+            "b": "A trench in the deep ocean",
+            "c": "A tidal wave caused by earthquakes",
+            "d": "A region of intense volcanic activity underwater"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is El Ni\u00f1o?",
+        "options": {
+            "a": "A warming of ocean waters in the eastern and central Pacific, disrupting global weather patterns",
+            "b": "A cooling of ocean waters in the Atlantic",
+            "c": "A seasonal current in the Indian Ocean",
+            "d": "A cold current near Antarctica"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the opposite of El Ni\u00f1o?",
+        "options": {
+            "a": "La Ni\u00f1a",
+            "b": "Gulf Stream",
+            "c": "Tidal surge",
+            "d": "Thermohaline circulation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a rip current?",
+        "options": {
+            "a": "A narrow, fast-moving current that flows away from the shore",
+            "b": "A slow current caused by changes in tides",
+            "c": "A current moving parallel to the shore",
+            "d": "A current caused by volcanic activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is a tsunami?",
+        "options": {
+            "a": "A series of large waves caused by underwater earthquakes or volcanic eruptions",
+            "b": "A seasonal current in the ocean",
+            "c": "A high tide during full moons",
+            "d": "A current driven by wind patterns"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of the Coriolis effect in ocean currents?",
+        "options": {
+            "a": "It causes ocean currents to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere",
+            "b": "It stops ocean currents from moving near the equator",
+            "c": "It increases the temperature of surface currents",
+            "d": "It prevents mixing of warm and cold water"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary cause of deep ocean currents?",
+        "options": {
+            "a": "Differences in water temperature and salinity",
+            "b": "Wind patterns",
+            "c": "Tectonic plate movement",
+            "d": "Gravitational pull of the Moon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the significance of ocean currents in regulating Earth's climate?",
+        "options": {
+            "a": "They redistribute heat, influencing global weather and temperature patterns",
+            "b": "They increase the salinity of polar regions",
+            "c": "They prevent the movement of tectonic plates",
+            "d": "They stop volcanic activity underwater"
+        },
+        "answer": "a"
+    }
+]
