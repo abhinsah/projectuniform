@@ -19,7 +19,7 @@ const subjects = [
     { name: "Modern History", file: "mod.json", img: "modern.webp" },
     { name: "Macro Eco", file: "macro.json", img: "macro.webp" },
     { name: "Micro Eco", file: "micro.json", img: "micro.webp" },
-    { name: "Environment Studies", file: "history.json", img: "env.webp" },
+    { name: "Environment Studies", file: "env.json", img: "env.webp" },
     { name: "Current Affairs", file: "history.json", img: "ca.webp" },
 ];
 
