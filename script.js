@@ -12,7 +12,7 @@ const subjects = [
     { name: "9th Physics", file: "phy.json", img: "physics.webp" },
     { name: "10th Biology", file: "bio10.json", img: "bio10.webp" },
     { name: "10th Physics", file: "phy10.json", img: "physics10.webp" },
-    { name: "English", file: "history.json", img: "eng.webp" },
+    { name: "Indian Constitution", file: "ic.json", img: "ic.webp" },
     { name: "Indian Geography", file: "indgeo.json", img: "indgeo.webp" },
     { name: "Ancient History", file: "anc.json", img: "ancient.webp" },
     { name: "Medieval History", file: "med.json", img: "medieval.webp" },
